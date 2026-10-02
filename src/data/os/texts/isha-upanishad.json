@@ -1,0 +1,112 @@
+{
+  "id": "isha-upanishad",
+  "title": {
+    "en": "Isha Upanishad",
+    "sa": "ईशोपनिषद्",
+    "iast": "Īśa Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta"
+  ],
+  "attribution": "Shukla Yajurveda (final chapter of the Vajasaneyi Samhita); author unknown",
+  "author": null,
+  "period": "Scholars usually place it in the later centuries BCE, after the oldest prose Upanishads; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "God in all things",
+    "Action",
+    "Renunciation",
+    "Knowledge and ignorance",
+    "Unity"
+  ],
+  "summary": "A very short verse Upanishad that opens by seeing the whole world as pervaded by the Lord, and tries to reconcile renunciation with a life of action.",
+  "whyRead": "At under twenty verses it is the shortest principal Upanishad and a good first one to read. Its compressed verses on action, renunciation and the paired terms 'knowledge' and 'ignorance' have generated very different interpretations, which makes it an excellent introduction to how commentators work.",
+  "questions": [
+    "Can one live actively in the world and still be free?",
+    "What does it mean to see all beings in the Self?",
+    "How do knowledge and ritual action relate?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The world is pervaded by the Lord",
+      "text": "The opening verse presents everything that moves in the world as dwelling in, or covered by, the Lord (isha). It links this vision to enjoying through renunciation and not coveting."
+    },
+    {
+      "title": "Action that does not cling",
+      "text": "The second verse speaks of living a full life while performing actions, in a way that action does not bind. Commentators debate whether this is addressed to everyone or only to those not yet ready for renunciation."
+    },
+    {
+      "title": "Seeing the Self in all beings",
+      "text": "Verses 6–7 describe one who sees all beings in the Self and the Self in all beings, and so is free of aversion and grief."
+    },
+    {
+      "title": "Knowledge and ignorance together",
+      "text": "Verses 9–11 (and a parallel set on the manifest and unmanifest) warn against pursuing either vidya or avidya alone. Shankara reads 'avidya' here as ritual action; other readers see a call to integrate practical and spiritual life."
+    }
+  ],
+  "structure": [
+    {
+      "label": "18 verses",
+      "note": "Kanva recension; the Madhyandina recension has 17 with some differences"
+    },
+    {
+      "label": "Closing prayer",
+      "note": "Final verses are a prayer at the time of death"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "1",
+      "about": "The world is pervaded by the Lord; enjoy through renunciation, do not covet"
+    },
+    {
+      "ref": "2",
+      "about": "Living one's full span while doing actions that do not bind"
+    },
+    {
+      "ref": "6–7",
+      "about": "Seeing all beings in the Self and the Self in all beings",
+      "gita": [
+        "6.29"
+      ]
+    },
+    {
+      "ref": "9–11",
+      "about": "The pairing of vidya and avidya"
+    }
+  ],
+  "concepts": [
+    "ishvara",
+    "atma",
+    "brahman",
+    "karma",
+    "tyaga",
+    "non-duality",
+    "jnana",
+    "avidya"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavad-gita",
+      "note": "The Gita's teaching of action without attachment and of seeing the Self in all beings (6.29) echoes Isha's themes"
+    },
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "Belongs to the same Shukla Yajurveda tradition"
+    },
+    {
+      "id": "kena-upanishad",
+      "note": "Another short, beginner-friendly principal Upanishad"
+    }
+  ],
+  "thinkers": [
+    "shankara",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

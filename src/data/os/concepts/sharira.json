@@ -1,0 +1,100 @@
+{
+  "id": "sharira",
+  "name": {
+    "en": "Sharira",
+    "sa": "शरीर",
+    "iast": "śarīra"
+  },
+  "short": "The body; in Vedanta, understood as gross, subtle and causal layers distinct from the Self.",
+  "beginner": "Sharira means body. Many Indian traditions say you have a body but are not the body: it changes from childhood to old age while the one who knows it remains.",
+  "what": "Vedantic texts analyse embodiment into three bodies: the gross (sthula), made of elements; the subtle (sukshma), including mind, intellect, senses and vital forces; and the causal (karana), the seed-state of ignorance. The Gita calls the body the 'field' (kshetra) and the one who knows it the 'knower of the field' (kshetrajna). Sankhya places the body wholly within nature (prakriti). Tantric and Hatha traditions, while agreeing it is not the final Self, treat the body as a vehicle and even a map of the cosmos.",
+  "scholar": "The three-body and five-sheath (pancha-kosha, from the Taittiriya Upanishad) schemes are systematised in texts like Tattva Bodha and Vivekachudamani. Jain thought counts several bodies including a karmic body (karmana sharira). Buddhist analysis includes the body as the aggregate of form (rupa). Sadhak Sanjivani repeatedly stresses that the body is 'this', an object, and so cannot be 'I'.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Gross, subtle and causal bodies are all objects known by the witness-Self; identifying with them is the basic error."
+    },
+    {
+      "tradition": "sankhya",
+      "view": "The body, senses and mind are products of prakriti; purusha only appears bound through association with them."
+    },
+    {
+      "tradition": "jainism",
+      "view": "The soul is embodied through several bodies, including a subtle karmic body made of karmic matter that accompanies it between lives."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "The body is one of the five aggregates, impermanent and not-self, but there is no separate eternal self standing behind it."
+    },
+    {
+      "tradition": "tantra",
+      "view": "The body is a microcosm and a site of practice; channels, centres and breath are used as means of realisation."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "tattva-bodha",
+    "vivekachudamani",
+    "taittiriya-upanishad",
+    "hatha-yoga-pradipika"
+  ],
+  "traditions": [
+    "advaita",
+    "sankhya",
+    "jainism",
+    "buddhism",
+    "tantra"
+  ],
+  "relatedConcepts": [
+    "atma",
+    "prakriti",
+    "sakshi",
+    "viveka",
+    "ahankara"
+  ],
+  "questions": [
+    "self",
+    "death"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.13",
+      "note": "The body passes through childhood, youth and age; the embodied one remains."
+    },
+    {
+      "kind": "gita",
+      "id": "2.22",
+      "note": "Bodies are changed like worn-out clothes."
+    },
+    {
+      "kind": "gita",
+      "id": "13.1",
+      "note": "The body as the field, and its knower."
+    },
+    {
+      "kind": "text",
+      "id": "tattva-bodha",
+      "note": "A short primer on the three bodies."
+    },
+    {
+      "kind": "text",
+      "id": "taittiriya-upanishad",
+      "note": "The origin of the five-sheath model."
+    },
+    {
+      "kind": "concept",
+      "id": "anatta",
+      "note": "Contrast: the Buddhist view with no self behind the body."
+    }
+  ],
+  "gitaVerses": [
+    "2.13",
+    "2.16",
+    "2.20",
+    "2.22",
+    "3.13",
+    "13.1",
+    "14.5"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "yoga-yajnavalkya",
+  "title": {
+    "en": "Yoga Yajnavalkya",
+    "sa": "योगयाज्ञवल्क्य",
+    "iast": "Yogayājñavalkya"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "yoga",
+    "vedanta",
+    "vedic"
+  ],
+  "attribution": "Framed as a teaching of the sage Yajnavalkya to Gargi; actual author unknown, and several different works share the title",
+  "author": null,
+  "period": "Dating is debated; proposals range widely, with some scholars placing the main text in the early second millennium CE",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Eight limbs",
+    "Breath",
+    "Vedic life",
+    "Meditation"
+  ],
+  "summary": "A dialogue-based yoga text that sets an eightfold yoga, with detailed breathwork, inside a Vedic and Vedantic frame.",
+  "whyRead": "It shows yoga being taught as part of orthodox Vedic life rather than in a renunciant or tantric setting, and it is notable for having a woman, Gargi, as the questioner.",
+  "story": "The text is framed as Yajnavalkya instructing Gargi, a learned woman, in the eight limbs of yoga.",
+  "questions": [
+    "How was yoga integrated into Vedic householder life?",
+    "What role does breath play in meditation?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "An eightfold yoga",
+      "text": "Like the Yoga Sutras it teaches eight limbs, but it develops them in its own way, with long lists of ethical restraints and observances and many postures and breath practices."
+    },
+    {
+      "title": "Breath and the vital winds",
+      "text": "It gives a detailed account of the vital airs (prana and others) and channels, and of pranayama as purification."
+    },
+    {
+      "title": "A Vedantic goal",
+      "text": "The aim is described in terms of knowing the self and its unity with Brahman, joining yoga to Vedanta."
+    }
+  ],
+  "structure": [
+    {
+      "label": "About twelve chapters in the common edition",
+      "note": "Chapter divisions vary between editions"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "yoga",
+    "pranayama",
+    "dhyana",
+    "samadhi",
+    "atma",
+    "brahman"
+  ],
+  "relatedTexts": [
+    {
+      "id": "yoga-sutras",
+      "note": "Shares the eightfold scheme"
+    },
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "Where the sage Yajnavalkya and Gargi appear in debate"
+    }
+  ],
+  "thinkers": [],
+  "advanced": false,
+  "ingested": false
+}

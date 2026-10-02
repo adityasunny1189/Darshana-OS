@@ -1,0 +1,99 @@
+{
+  "id": "nirvana",
+  "name": {
+    "en": "Nirvana",
+    "sa": "निर्वाण",
+    "iast": "nirvāṇa / nibbāna (Pali)"
+  },
+  "short": "The 'blowing out' of craving, hatred and delusion — the Buddhist goal; also used in the Gita as brahma-nirvana.",
+  "beginner": "Nirvana literally means 'blowing out', like a flame. In Buddhism it is the end of craving and suffering. The Gita also uses the word for the peace of union with Brahman.",
+  "what": "Nirvana is the Buddhist name for the cessation of suffering and of the fires of greed, hatred and delusion. Early texts describe nirvana during life (with the aggregates remaining) and final nirvana at death, and are reticent about describing it positively. Jain tradition uses nirvana for the liberation of a soul at the end of its last life. The Gita speaks of brahma-nirvana, peace or extinction in Brahman, for one established in the Self.",
+  "scholar": "Theravada treats nibbana as the unconditioned element (asankhata dhatu). Mahayana schools reinterpret it: Nagarjuna states that there is not the slightest difference between samsara and nirvana when both are seen as empty; Yogacara speaks of non-abiding nirvana. The Gita's brahma-nirvana (2.72, 5.24–26) predates or parallels Buddhist usage; scholars debate the relation. Jain nirvana is the kevalin's final release to the summit of the universe.",
+  "perspectives": [
+    {
+      "tradition": "theravada",
+      "view": "Nibbana is the unconditioned: the complete ending of craving and rebirth, realised by the arahant."
+    },
+    {
+      "tradition": "madhyamaka",
+      "view": "Nagarjuna holds that nirvana is not a separate place or thing; understood through emptiness, samsara and nirvana are not two."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Nirvana is the soul's final release from all karmic matter, after which it rests in omniscience and bliss at the top of the universe."
+    },
+    {
+      "tradition": "advaita",
+      "view": "In the Gita's brahma-nirvana, Advaita sees the extinction of the individual's separation and abidance as Brahman, which is the fullness of being and bliss, not nothingness."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Devotional readers of Gita 6.15 connect nirvana with the peace that abides in God."
+    }
+  ],
+  "texts": [
+    "dhammapada",
+    "mulamadhyamakakarika",
+    "tattvartha-sutra",
+    "bhagavad-gita"
+  ],
+  "traditions": [
+    "buddhism",
+    "theravada",
+    "madhyamaka",
+    "jainism",
+    "advaita",
+    "bhakti"
+  ],
+  "relatedConcepts": [
+    "moksha",
+    "dukkha",
+    "shunyata",
+    "anatta",
+    "samsara"
+  ],
+  "questions": [
+    "freedom",
+    "death",
+    "suffering"
+  ],
+  "follow": [
+    {
+      "kind": "concept",
+      "id": "dukkha",
+      "note": "Nirvana is defined as the cessation of dukkha."
+    },
+    {
+      "kind": "thinker",
+      "id": "buddha",
+      "note": "The Buddha's awakening and teaching of the path to cessation."
+    },
+    {
+      "kind": "thinker",
+      "id": "nagarjuna",
+      "note": "Madhyamaka's non-difference of samsara and nirvana."
+    },
+    {
+      "kind": "gita",
+      "id": "2.72",
+      "note": "The Gita's brahma-nirvana: the state that remains even at death."
+    },
+    {
+      "kind": "gita",
+      "id": "5.24",
+      "note": "One whose joy and light are within attains brahma-nirvana."
+    },
+    {
+      "kind": "concept",
+      "id": "moksha",
+      "note": "Compare with the Hindu concepts of liberation."
+    }
+  ],
+  "gitaVerses": [
+    "2.72",
+    "5.24",
+    "5.25",
+    "5.26",
+    "6.15"
+  ]
+}

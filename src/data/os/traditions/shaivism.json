@@ -1,0 +1,71 @@
+{
+  "id": "shaivism",
+  "name": {
+    "en": "Shaivism",
+    "sa": "शैव",
+    "iast": "Śaiva"
+  },
+  "family": "shaiva",
+  "parent": null,
+  "tagline": "The family of traditions centred on Shiva as the supreme reality.",
+  "period": "Worship of a Rudra-Shiva figure is attested in Vedic and epic literature; the Shvetashvatara Upanishad is an early theistic text. Organised Shaiva traditions and their scriptures (Agamas) developed from roughly the 5th century CE onward.",
+  "overview": "Shaivism is a broad family of traditions for which Shiva is the supreme reality, variously understood as the transcendent Lord, as pure consciousness, or as both. It includes ascetic orders such as the Pashupatas, the scriptural and ritual traditions based on the Shaiva Agamas and Tantras, devotional movements such as the Tamil Nayanars and the Kannada Virashaivas (Lingayats), and philosophical schools. Its two most developed philosophical systems take opposite positions: Shaiva Siddhanta is dualist, holding that Shiva, souls and bonds are eternally distinct, while Kashmir Shaivism is non-dualist, holding that all reality is Shiva's own consciousness. Shared themes include Shiva's five acts (creation, maintenance, dissolution, concealment and grace), Shakti as Shiva's power, initiation (diksha) and the soul's liberation through grace.",
+  "beginner": "Shaivism is the worship and philosophy of Shiva. Some Shaiva schools see Shiva as a Lord separate from souls; others see everything as Shiva's own consciousness. Most agree that Shiva's grace frees the soul.",
+  "coreQuestions": [
+    "Who or what is Shiva?",
+    "Are souls distinct from Shiva or identical with him?",
+    "What is the role of grace and initiation?",
+    "How do ritual, devotion and knowledge relate?"
+  ],
+  "coreConcepts": [
+    "shiva",
+    "shakti",
+    "anugraha",
+    "pati-pashu-pasha",
+    "tattva",
+    "bhakti",
+    "moksha"
+  ],
+  "texts": [
+    "shvetashvatara-upanishad",
+    "agamas",
+    "shiva-sutras",
+    "shiva-jnana-bodham"
+  ],
+  "thinkers": [
+    "vasugupta",
+    "abhinavagupta",
+    "meykandar"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "kashmir-shaivism",
+      "note": "The non-dual Shaiva philosophy of Pratyabhijna and Trika"
+    },
+    {
+      "id": "shaiva-siddhanta",
+      "note": "The dualist Shaiva philosophy based on the Agamas"
+    },
+    {
+      "id": "tantra",
+      "note": "Much of Shaiva scripture and practice is Tantric"
+    },
+    {
+      "id": "shaktism",
+      "note": "Shared emphasis on Shakti; the boundary between Shaiva and Shakta streams is often porous"
+    },
+    {
+      "id": "bhakti",
+      "note": "Tamil Nayanar and Kannada Virashaiva poetry are major bhakti literatures"
+    }
+  ],
+  "disagreements": [
+    {
+      "with": "advaita",
+      "topic": "the nature of the absolute",
+      "note": "Non-dual Shaivas hold that ultimate consciousness is dynamic and self-aware, not a static witness, and that the world is its real expression rather than maya in Advaita's sense."
+    }
+  ],
+  "scholar": "Scholars commonly distinguish the \"outer path\" (atimarga: Pashupata, Lakula) from the \"path of mantras\" (mantramarga), which includes Siddhanta and the non-dual Kaula-influenced traditions. Virashaivism has its own qualified non-dual philosophy (Shakti-vishishtadvaita).",
+  "difficulty": "intermediate"
+}

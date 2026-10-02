@@ -1,0 +1,158 @@
+{
+  "id": "bondage",
+  "topic": "Why are we bound — what causes suffering?",
+  "concept": "avidya",
+  "intro": "Most Indian traditions agree that ordinary life is marked by bondage or suffering, but they locate its root differently.",
+  "rows": [
+    {
+      "tradition": "advaita",
+      "claim": "Ignorance (avidya) superimposes the non-self onto the Self.",
+      "detail": "Mistaking body and mind for the Self gives rise to desire, action and rebirth. The error is like mistaking a rope for a snake: nothing needs to be destroyed, only seen correctly.",
+      "sources": [
+        {
+          "text": "upadesha-sahasri"
+        }
+      ],
+      "concepts": [
+        "avidya",
+        "maya",
+        "atma"
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "claim": "Beginningless karma contracts the self's knowledge.",
+      "detail": "Bondage is real, not illusory: karma binds the self to bodies and obscures its natural knowledge and bliss, and its dependence on God.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "jiva"
+      ]
+    },
+    {
+      "tradition": "sankhya",
+      "claim": "Failure to discriminate purusha from prakriti.",
+      "detail": "Consciousness appears to own the activity of the intellect. The threefold suffering continues until this non-discrimination (aviveka) ends.",
+      "sources": [
+        {
+          "text": "sankhya-karika"
+        }
+      ],
+      "concepts": [
+        "purusha",
+        "prakriti",
+        "viveka",
+        "dukkha"
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "claim": "Five afflictions (kleshas), rooted in ignorance.",
+      "detail": "Ignorance, I-am-ness, attraction, aversion and clinging to life drive action and its fruits, keeping the seer identified with the mind.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ],
+      "concepts": [
+        "avidya",
+        "asakti",
+        "chitta"
+      ]
+    },
+    {
+      "tradition": "nyaya",
+      "claim": "False knowledge produces faults, activity, birth and pain.",
+      "detail": "The Nyaya Sutras set out a chain from false knowledge through desire and aversion to action, birth and suffering; removing false knowledge reverses it.",
+      "sources": [
+        {
+          "text": "nyaya-sutras"
+        }
+      ],
+      "concepts": [
+        "avidya",
+        "dukkha"
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "claim": "Craving and ignorance, as mapped in dependent origination.",
+      "detail": "Dukkha arises from craving (trishna) rooted in ignorance, particularly the misconception of a permanent self. Schools analyse this chain in different detail.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ],
+      "concepts": [
+        "dukkha",
+        "avidya",
+        "pratityasamutpada",
+        "kama"
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "claim": "Karmic matter adheres to the soul through passions and activity.",
+      "detail": "Anger, pride, deceit and greed, together with wrong belief and lack of restraint, cause karmic particles to flow in and bind to the soul.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "jiva",
+        "krodha"
+      ]
+    },
+    {
+      "tradition": "shaiva-siddhanta",
+      "claim": "Three bonds: root impurity (anava), karma and maya.",
+      "detail": "Anava mala is a real, beginningless impurity veiling the soul's powers; only Shiva's grace, through initiation, finally removes it.",
+      "sources": [
+        {
+          "text": "shiva-jnana-bodham"
+        }
+      ],
+      "concepts": [
+        "pati-pashu-pasha",
+        "karma",
+        "maya"
+      ]
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "claim": "Shiva freely contracts himself through three impurities.",
+      "detail": "Bondage is consciousness forgetting its own freedom, experienced as finitude, differentiation and limited agency.",
+      "sources": [
+        {
+          "text": "pratyabhijna-hridayam"
+        }
+      ],
+      "concepts": [
+        "shiva",
+        "pratyabhijna"
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "claim": "Haumai — ego or self-centredness — turns a person away from God.",
+      "detail": "Absorbed in self, a person forgets the Name and resists hukam, remaining in the cycle of birth and death.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ],
+      "concepts": [
+        "naam",
+        "hukam",
+        "ahankara"
+      ]
+    }
+  ],
+  "note": "The real disagreement is whether bondage is a cognitive error to be corrected, a real condition (karmic or material) to be removed, or a self-concealment of the divine — and so whether knowledge, effort or grace is decisive."
+}

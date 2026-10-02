@@ -1,0 +1,86 @@
+{
+  "id": "tirukkural",
+  "title": {
+    "en": "Tirukkural",
+    "sa": "तिरुक्कुरल्",
+    "iast": "Tirukkuṟaḷ"
+  },
+  "category": "ethical-classic",
+  "sourceType": "primary-text",
+  "traditions": [
+    "tamil-ethics"
+  ],
+  "attribution": "Tiruvalluvar, about whom little is known with certainty",
+  "author": "tiruvalluvar",
+  "period": "Scholars place it variously between roughly the 1st century BCE and the 6th century CE; many favour the middle of the first millennium CE",
+  "language": "Tamil",
+  "difficulty": "beginner",
+  "themes": [
+    "Virtue",
+    "Wealth and governance",
+    "Love",
+    "Ethics",
+    "Friendship"
+  ],
+  "summary": "A Tamil classic of 1330 two-line couplets on virtue, wealth and love, among the most admired works of ethical literature in India.",
+  "whyRead": "It offers practical, humane ethics for everyday and public life, without sectarian commitment, which is why many religious traditions have claimed it. Its couplets are short and memorable.",
+  "questions": [
+    "How should one live well in the world?",
+    "What makes a good ruler, friend or spouse?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Virtue (Aram)",
+      "text": "The first book treats household and ascetic virtue: kindness, truthfulness, gratitude, patience, non-violence and the avoidance of meat and envy."
+    },
+    {
+      "title": "Wealth and governance (Porul)",
+      "text": "The second and longest book covers kingship, ministers, statecraft, friendship and the proper acquisition and use of wealth."
+    },
+    {
+      "title": "Love (Inbam)",
+      "text": "The third book treats love in the manner of classical Tamil poetry, through the phases of love in secret and married love."
+    },
+    {
+      "title": "Broadly non-sectarian",
+      "text": "The text praises the divine in its opening chapter but avoids naming a particular deity or school; Jain, Shaiva and other traditions have each claimed it."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Three books",
+      "note": "Aram (virtue, 38 chapters), Porul (wealth, 70 chapters), Inbam (love, 25 chapters)"
+    },
+    {
+      "label": "133 chapters of 10 couplets each",
+      "note": "1330 couplets (kurals) in total"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Tirukkural 1",
+      "about": "The opening couplet in praise of the divine"
+    }
+  ],
+  "concepts": [
+    "dharma",
+    "ahimsa",
+    "kama",
+    "seva"
+  ],
+  "relatedTexts": [
+    {
+      "id": "dhammapada",
+      "note": "Another classic of short ethical verses"
+    },
+    {
+      "id": "mahabharata",
+      "note": "Its Shanti Parva also treats statecraft and virtue at length"
+    }
+  ],
+  "thinkers": [
+    "tiruvalluvar"
+  ],
+  "advanced": false,
+  "ingested": false
+}

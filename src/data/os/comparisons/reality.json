@@ -1,0 +1,141 @@
+{
+  "id": "reality",
+  "topic": "What is ultimately real?",
+  "concept": "brahman",
+  "intro": "Traditions disagree about what exists at the most fundamental level and about the status of the everyday world. The rows summarise each position in its own terms.",
+  "rows": [
+    {
+      "tradition": "advaita",
+      "claim": "Only Brahman is ultimately real; the world is appearance (maya).",
+      "detail": "The world is real for practical purposes but, from the ultimate standpoint, is an appearance of Brahman, neither real nor unreal. Brahman is pure existence-consciousness-bliss.",
+      "sources": [
+        {
+          "text": "mandukya-karika"
+        },
+        {
+          "text": "shankara-brahma-sutra-bhashya"
+        }
+      ],
+      "concepts": [
+        "brahman",
+        "maya",
+        "non-duality"
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "claim": "Brahman is real, qualified by real selves and a real world.",
+      "detail": "Selves and matter are real and inseparable from Brahman, as a body is from its soul. The world is a real transformation of Brahman's body.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        },
+        {
+          "text": "vedartha-sangraha"
+        }
+      ],
+      "concepts": [
+        "brahman",
+        "jiva",
+        "prakriti"
+      ]
+    },
+    {
+      "tradition": "dvaita",
+      "claim": "God, souls and matter are all real and really distinct.",
+      "detail": "God alone is independent; souls and matter are real but dependent. Five kinds of difference are real and eternal.",
+      "sources": [
+        {
+          "text": "anuvyakhyana"
+        }
+      ],
+      "concepts": [
+        "ishvara",
+        "jiva"
+      ]
+    },
+    {
+      "tradition": "sankhya",
+      "claim": "Two eternal principles: conscious purushas and unconscious prakriti.",
+      "detail": "The world is the real evolution of prakriti into twenty-three principles through the interplay of the three gunas. Purusha does not change.",
+      "sources": [
+        {
+          "text": "sankhya-karika"
+        }
+      ],
+      "concepts": [
+        "purusha",
+        "prakriti",
+        "guna",
+        "tattva"
+      ]
+    },
+    {
+      "tradition": "vaisheshika",
+      "claim": "A plurality of real categories: substances, qualities, actions, universals and more.",
+      "detail": "Physical things are built from eternal atoms; selves, minds, space and time are also substances. Wholes, universals and relations are real.",
+      "sources": [
+        {
+          "text": "vaisheshika-sutras"
+        }
+      ],
+      "concepts": [
+        "tattva"
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "claim": "No permanent substances; schools differ on what is ultimately real.",
+      "detail": "Abhidharma schools treat momentary elements (dharmas) as ultimate; Madhyamaka holds all things empty of intrinsic nature; Yogacara holds experience is structured by consciousness.",
+      "sources": [
+        {
+          "text": "mulamadhyamakakarika"
+        }
+      ],
+      "concepts": [
+        "anitya",
+        "shunyata",
+        "pratityasamutpada"
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "claim": "Six real substances; reality is many-sided, permanent and changing.",
+      "detail": "Souls, matter, space, time and the media of motion and rest are real. Anekantavada holds that any single standpoint captures only part of reality.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ],
+      "concepts": [
+        "anekantavada",
+        "jiva"
+      ]
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "claim": "Only Shiva-consciousness is real, and the world is its real expression.",
+      "detail": "The world is not illusory but consciousness freely manifesting itself through thirty-six tattvas.",
+      "sources": [
+        {
+          "text": "pratyabhijna-hridayam"
+        }
+      ],
+      "concepts": [
+        "shiva",
+        "shakti",
+        "tattva"
+      ]
+    },
+    {
+      "tradition": "charvaka",
+      "claim": "Only the perceptible material world is real.",
+      "detail": "As reported, only the four elements and their combinations exist; there is no unseen reality beyond them.",
+      "sources": [],
+      "concepts": [
+        "pramana"
+      ]
+    }
+  ],
+  "note": "The central issues are whether reality is ultimately one or many, whether the everyday world is fully real, and whether consciousness or matter is fundamental."
+}

@@ -1,0 +1,106 @@
+{
+  "id": "dukkha",
+  "name": {
+    "en": "Dukkha — suffering, unsatisfactoriness",
+    "sa": "दुःख",
+    "iast": "duḥkha / dukkha (Pali)"
+  },
+  "short": "Suffering, stress or unsatisfactoriness — the starting point of the Buddha's teaching and a shared concern of Indian thought.",
+  "beginner": "Dukkha is usually translated 'suffering', but it also means that nothing in life fully satisfies. Many Indian traditions begin with this problem and ask how to get free of it.",
+  "what": "Dukkha (Pali; Sanskrit duhkha) is the first of the Buddha's four noble truths: life as ordinarily lived is marked by pain, change and a deeper unsatisfactoriness that comes from clinging to what is impermanent. Hindu darshanas also treat freedom from duhkha as the goal: Sankhya opens by naming threefold suffering, Nyaya defines liberation as the end of pain, and the Gita calls the world of rebirth transient and full of sorrow. The traditions differ on the cause of suffering and on what remains when it ends.",
+  "scholar": "Buddhist analysis distinguishes the suffering of pain, the suffering of change, and the suffering inherent in conditioned existence. Sankhya Karika 1 names threefold suffering (internal, external, and from supernatural causes). Nyaya Sutra 1.1.2 traces a chain from false knowledge to pain. Gita 6.23 defines yoga as disconnection from contact with suffering.",
+  "perspectives": [
+    {
+      "tradition": "buddhism",
+      "view": "Dukkha is the first noble truth; its origin is craving (tanha), its cessation is nirvana, and the eightfold path leads there. It is a mark of all conditioned things."
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Sankhya begins with the threefold suffering and holds that discriminating knowledge of purusha from prakriti ends it permanently."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "Nyaya holds that false knowledge gives rise to faults, activity, birth and pain; removing false knowledge through valid knowledge ends pain, which is liberation."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita attributes suffering to identifying the Self with body and mind; the Self, being bliss, never truly suffers."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jain thought traces suffering to karmic matter bound to the soul through passions; stopping and shedding karma frees the soul's innate bliss."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Devotional traditions often see suffering as a consequence of forgetting God, and sometimes as an occasion that turns the heart toward God."
+    }
+  ],
+  "texts": [
+    "dhammapada",
+    "sankhya-karika",
+    "nyaya-sutras",
+    "bhagavad-gita",
+    "yoga-sutras"
+  ],
+  "traditions": [
+    "buddhism",
+    "theravada",
+    "sankhya",
+    "nyaya",
+    "advaita",
+    "jainism",
+    "bhakti"
+  ],
+  "relatedConcepts": [
+    "anitya",
+    "anatta",
+    "kama",
+    "avidya",
+    "nirvana",
+    "samsara"
+  ],
+  "questions": [
+    "suffering",
+    "freedom",
+    "failure"
+  ],
+  "follow": [
+    {
+      "kind": "thinker",
+      "id": "buddha",
+      "note": "The Buddha's four noble truths start from dukkha."
+    },
+    {
+      "kind": "concept",
+      "id": "pratityasamutpada",
+      "note": "Dependent origination explains how suffering arises through conditions."
+    },
+    {
+      "kind": "text",
+      "id": "sankhya-karika",
+      "note": "Sankhya opens by naming threefold suffering and seeking its end."
+    },
+    {
+      "kind": "gita",
+      "id": "2.14",
+      "note": "The Gita's advice to endure the passing contacts of pleasure and pain."
+    },
+    {
+      "kind": "gita",
+      "id": "5.22",
+      "note": "Pleasures born of contact have a beginning and end and are sources of pain."
+    },
+    {
+      "kind": "gita",
+      "id": "6.23",
+      "note": "Yoga defined as disconnection from union with suffering."
+    }
+  ],
+  "gitaVerses": [
+    "2.14",
+    "5.22",
+    "6.23",
+    "8.15",
+    "13.8"
+  ]
+}

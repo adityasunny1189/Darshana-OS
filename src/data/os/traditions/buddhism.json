@@ -1,0 +1,91 @@
+{
+  "id": "buddhism",
+  "name": {
+    "en": "Buddhist philosophy",
+    "sa": "बौद्ध दर्शन",
+    "iast": "Bauddha darśana"
+  },
+  "family": "shramana",
+  "parent": null,
+  "tagline": "A plural family of schools rooted in the Buddha's teaching on suffering, its causes and its end.",
+  "period": "The Buddha's dates are debated; many scholars place his death around 400 BCE (older estimates c. 480 BCE, traditional Theravada reckoning c. 544 BCE). The philosophical schools developed over the following fifteen centuries in India and beyond.",
+  "overview": "Buddhist philosophy begins from the teaching attributed to Siddhartha Gautama, the Buddha: the Four Noble Truths of suffering (dukkha), its origin in craving, its cessation (nirvana), and the path leading there. Shared foundations include impermanence (anitya), no-self (anatta) — the denial of an unchanging, independent self — and dependent origination (pratityasamutpada), the teaching that all phenomena arise in dependence on conditions. Buddhism is not one philosophy but many: Abhidharma schools such as Theravada and Sarvastivada analyse experience into momentary elements (dharmas); Madhyamaka argues that all such elements are empty (shunya) of intrinsic nature; Yogacara analyses experience in terms of consciousness; and the epistemological tradition of Dignaga and Dharmakirti develops a theory of perception and inference. Schools also differ on the status of the Buddha, the bodhisattva ideal and which scriptures are authoritative. Buddhism rejects the authority of the Veda and is classed as a heterodox (nastika) darshana in Brahmanical doxographies.",
+  "beginner": "Buddhism starts from a simple observation: life involves suffering, and suffering has causes we can understand and remove. It teaches that there is no fixed, permanent self, and that freedom comes from seeing how everything arises from causes.",
+  "coreQuestions": [
+    "Why do we suffer, and can suffering end?",
+    "Is there a permanent self?",
+    "How do things arise and cease?",
+    "What is nirvana?",
+    "What is the path to awakening?"
+  ],
+  "coreConcepts": [
+    "dukkha",
+    "anatta",
+    "anitya",
+    "pratityasamutpada",
+    "nirvana",
+    "shunyata",
+    "karma",
+    "samsara",
+    "dhyana",
+    "avidya"
+  ],
+  "texts": [
+    "dhammapada",
+    "mulamadhyamakakarika"
+  ],
+  "thinkers": [
+    "buddha",
+    "nagarjuna"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "theravada",
+      "note": "The school of the Pali Canon, dominant in Sri Lanka and Southeast Asia"
+    },
+    {
+      "id": "madhyamaka",
+      "note": "The \"middle way\" school of emptiness founded by Nagarjuna"
+    },
+    {
+      "id": "yogacara",
+      "note": "The school that analyses experience in terms of consciousness"
+    },
+    {
+      "id": "jainism",
+      "note": "A fellow shramana tradition that shares rejection of Vedic authority but affirms an eternal soul"
+    },
+    {
+      "id": "nyaya",
+      "note": "Buddhist and Nyaya logicians debated for centuries"
+    }
+  ],
+  "darshana": {
+    "problem": "Suffering (dukkha): how it arises from craving and ignorance, and how it can be brought to an end.",
+    "real": "Schools differ: Abhidharma schools hold that momentary elements (dharmas) are ultimately real; Madhyamaka that nothing has intrinsic nature (shunyata); Yogacara that experience is structured by consciousness; the Dignaga–Dharmakirti tradition that only momentary particulars are ultimately real.",
+    "pramanas": "Most schools accept two: perception (pratyaksha) and inference (anumana). The Dignaga–Dharmakirti tradition makes this explicit; earlier sources also treat the Buddha's word as authoritative, and Madhyamaka questions whether any pramana is intrinsically established.",
+    "self": "There is no permanent, independent self (anatta). A person is a changing stream of five aggregates (skandhas) — form, feeling, perception, formations and consciousness — arising in dependence on conditions. Some schools, such as the Pudgalavada, held a more qualified view.",
+    "bondage": "Ignorance (avidya) and craving (trishna), which drive intentional action (karma) and rebirth, as analysed in the twelve links of dependent origination.",
+    "liberation": "Nirvana: the cessation of craving and suffering and release from rebirth. Mahayana schools add the ideal of full Buddhahood for the benefit of all beings; they interpret nirvana's nature differently.",
+    "path": "The Noble Eightfold Path, grouped as ethics (shila), meditation (samadhi) and wisdom (prajna); in Mahayana, the bodhisattva path of the perfections (paramitas)."
+  },
+  "disagreements": [
+    {
+      "with": "advaita",
+      "topic": "the Self",
+      "note": "Buddhism denies a permanent Self; Advaita holds the Self is the one reality. Some Vedantins accused Buddhists of nihilism, and some Buddhists regarded Vedanta's Self as a subtle form of clinging."
+    },
+    {
+      "with": "nyaya",
+      "topic": "enduring substances and the self",
+      "note": "Buddhist logicians argue that only momentary events exist; Nyaya defends enduring substances and selves."
+    },
+    {
+      "with": "jainism",
+      "topic": "the soul",
+      "note": "Jainism affirms a real, eternal soul (jiva); Buddhism denies one."
+    }
+  ],
+  "scholar": "Indian doxographies often list four Buddhist schools: Vaibhashika (Sarvastivada), Sautrantika, Yogacara and Madhyamaka. Theravada is the surviving Sthavira lineage. Key debates include the two truths, the momentariness of dharmas, whether the mind is self-aware (svasamvedana), and the nature of Buddha-nature (tathagatagarbha).",
+  "difficulty": "intermediate"
+}

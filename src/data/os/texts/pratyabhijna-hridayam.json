@@ -1,0 +1,85 @@
+{
+  "id": "pratyabhijna-hridayam",
+  "title": {
+    "en": "Pratyabhijna Hridayam",
+    "sa": "प्रत्यभिज्ञाहृदयम्",
+    "iast": "Pratyabhijñāhṛdayam"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "kashmir-shaivism",
+    "shaivism",
+    "tantra"
+  ],
+  "attribution": "Kshemaraja, disciple of Abhinavagupta",
+  "author": "kshemaraja",
+  "period": "11th century CE",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Recognition",
+    "Consciousness",
+    "Freedom",
+    "Creation"
+  ],
+  "summary": "Twenty sutras with the author's own commentary, presenting the Pratyabhijna (\"recognition\") philosophy for those new to it.",
+  "whyRead": "It is the classic introduction to the recognition school. In twenty sutras it explains how the world is the free self-expression of consciousness and how the individual recognises itself as Shiva.",
+  "questions": [
+    "If everything is consciousness, why do I feel limited?",
+    "What does it mean to recognise oneself?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Consciousness as free cause of the world",
+      "text": "The first sutra presents consciousness (chiti), acting in freedom (svatantrya), as the cause of the whole world. The world is its self-manifestation, not an illusion to be rejected."
+    },
+    {
+      "title": "Contraction and the individual",
+      "text": "The individual is consciousness in a contracted form. The same consciousness appears as limited subject and object through its own power."
+    },
+    {
+      "title": "The five acts",
+      "text": "Shiva performs five acts: emission, maintenance, withdrawal, concealment and grace. The text suggests that the individual performs these too, in every act of experience."
+    },
+    {
+      "title": "Recognition as liberation",
+      "text": "Liberation is recognising (pratyabhijna) that one is already Shiva, a shift in self-understanding rather than the acquisition of something new."
+    }
+  ],
+  "structure": [
+    {
+      "label": "20 sutras with auto-commentary"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Pratyabhijna Hridayam, sutra 1",
+      "about": "Free consciousness as the cause of the world"
+    }
+  ],
+  "concepts": [
+    "pratyabhijna",
+    "shiva",
+    "shakti",
+    "anugraha",
+    "non-duality",
+    "moksha"
+  ],
+  "relatedTexts": [
+    {
+      "id": "shiva-sutras",
+      "note": "Kshemaraja also wrote a major commentary on the Shiva Sutras"
+    },
+    {
+      "id": "mandukya-karika",
+      "note": "A contrasting non-dualism in which the world is not treated as real self-expression"
+    }
+  ],
+  "thinkers": [
+    "kshemaraja",
+    "abhinavagupta"
+  ],
+  "advanced": true,
+  "ingested": false
+}

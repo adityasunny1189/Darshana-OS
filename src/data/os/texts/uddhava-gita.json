@@ -1,0 +1,85 @@
+{
+  "id": "uddhava-gita",
+  "title": {
+    "en": "Uddhava Gita",
+    "sa": "उद्धवगीता",
+    "iast": "Uddhavagītā"
+  },
+  "category": "purana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "bhakti",
+    "itihasa-purana",
+    "vedanta"
+  ],
+  "attribution": "Part of the Bhagavata Purana (Canto 11), traditionally attributed to Vyasa",
+  "author": "vyasa",
+  "period": "As for the Bhagavata Purana: commonly placed between roughly the 6th and 10th centuries CE",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Renunciation",
+    "Devotion",
+    "Knowledge",
+    "Detachment"
+  ],
+  "summary": "Krishna's final teaching to his friend Uddhava before leaving the world, found in the eleventh canto of the Bhagavata Purana.",
+  "whyRead": "It is sometimes called Krishna's last Gita. It covers much of the ground of the Bhagavad Gita but in a setting of renunciation rather than war, and gives more space to the renunciant life and to devotion.",
+  "story": "As Krishna prepares to leave the world and his clan faces its end, Uddhava asks to go with him. Krishna instead instructs him on detachment, knowledge and devotion, then sends him to live as a renunciant.",
+  "questions": [
+    "How should one live when everything familiar is ending?",
+    "Can renunciation and devotion be combined?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The avadhuta and his twenty-four teachers",
+      "text": "Krishna tells of a wandering renunciant (avadhuta) who learned from twenty-four teachers in nature, such as the earth, the ocean and a honeybee. Each teaches an aspect of detachment or patience."
+    },
+    {
+      "title": "Devotion above other means",
+      "text": "While describing knowledge, yoga and ritual, Krishna presents devotion to himself as the most direct and inclusive path."
+    },
+    {
+      "title": "The gunas and freedom from them",
+      "text": "Much of the teaching analyses experience through the three gunas and describes the person who has gone beyond them."
+    },
+    {
+      "title": "Seeing God in all",
+      "text": "Uddhava is taught to see the divine in all beings and to treat them with equal regard."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Bhagavata Purana, Canto 11",
+      "note": "Commonly taken as roughly chapters 7–29; the exact boundaries are counted differently"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "bhakti",
+    "vairagya",
+    "sannyasa",
+    "guna",
+    "jnana",
+    "samatva"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavata-purana",
+      "note": "The larger text in which it appears"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "A parallel teaching by Krishna; compare Gita chapter 14 on the gunas"
+    },
+    {
+      "id": "avadhuta-gita",
+      "note": "A different text on the avadhuta ideal"
+    }
+  ],
+  "thinkers": [
+    "vyasa"
+  ],
+  "advanced": false,
+  "ingested": false
+}

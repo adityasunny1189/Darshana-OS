@@ -1,0 +1,3811 @@
+{
+ "chapters": [
+  {
+   "chapter": 1,
+   "nameSa": "अर्जुनविषादयोग",
+   "nameIast": "Arjuna Viṣāda Yoga",
+   "nameEn": "The Yoga of Arjuna's Despondency",
+   "subtitle": {
+    "en": "Arjuna's Dilemma",
+    "hi": "अर्जुनका विषाद"
+   },
+   "tagline": {
+    "en": "On the brink of war, Arjuna sees his own family on both sides — and collapses in grief.",
+    "hi": "युद्धके मुहानेपर अर्जुन दोनों ओर अपने ही स्वजन देखते हैं और शोकसे व्याकुल होकर बैठ जाते हैं।"
+   },
+   "overview": {
+    "en": "After thirteen years of exile, Duryodhana refuses the Pandavas even a needle-point of land, and war becomes certain. Vyasa gives Sanjaya divine sight, and blind Dhritarashtra asks him what happened at Kurukshetra. Sanjaya describes Duryodhana approaching Drona, the armies, and the blowing of conches on both sides. Arjuna then asks Krishna to place his chariot between the armies; Krishna sets it before Bhishma and Drona and says 'behold these Kurus'. Seeing kinsmen everywhere, attachment wakes in Arjuna — his body gives way, he argues that war will destroy the family and bring sin, and finally lays down his bow and sits in the chariot.",
+    "hi": "बारह वर्ष वनवास और एक वर्ष अज्ञातवासके बाद दुर्योधन पाण्डवोंको सूईकी नोक-जितनी जमीन भी देना स्वीकार नहीं करता और युद्ध निश्चित हो जाता है। व्यासजी संजयको दिव्य दृष्टि देते हैं और अन्धे धृतराष्ट्र संजयसे कुरुक्षेत्रका समाचार पूछते हैं। संजय दुर्योधनके द्रोणाचार्यके पास जाने, सेनाओंके वर्णन और दोनों ओरके शंखवादनका वर्णन करते हैं। फिर अर्जुन भगवान्से रथ दोनों सेनाओंके बीच खड़ा करनेको कहते हैं; भगवान् भीष्म-द्रोणके सामने रथ खड़ा करके ‘कुरुओंको देख’ कहते हैं। सब ओर स्वजनोंको देखकर अर्जुनमें कौटुम्बिक मोह जाग्रत् होता है—शरीर शिथिल हो जाता है, वे कुलनाश और पापकी दलीलें देते हैं और अन्तमें धनुष-बाण रखकर रथमें बैठ जाते हैं।"
+   },
+   "whyHere": {
+    "en": "The Gita begins not with teaching but with a crisis. Swamiji notes that despondency becomes 'yoga' only when one is turned toward God: Duryodhana and others also grieved, but being turned away from God, their grief was not yoga. Arjuna's grief, facing Krishna, became the doorway to the Gita. Krishna himself deliberately awakened Arjuna's hidden attachment ('behold these Kurus') so that Arjuna would become a seeker — just as the commotion of churning curd brings out butter.",
+    "hi": "गीता उपदेशसे नहीं, संकटसे आरम्भ होती है। स्वामीजी बताते हैं कि विषाद भी भगवान्की सम्मुखता होनेपर ही ‘योग’ बनता है; दुर्योधनादिको भी विषाद हुआ, पर भगवान्से विमुख होनेके कारण वह योग नहीं हुआ। भगवान्के सम्मुख अर्जुनका विषाद गीताका द्वार बन गया। भगवान्ने स्वयं ‘कुरून् पश्य’ कहकर अर्जुनके छिपे मोहको जाग्रत् किया, ताकि अर्जुन जिज्ञासु बनें—जैसे दही बिलोनेकी हलचलसे मक्खन निकलता है।"
+   },
+   "theme": {
+    "en": "Despondency that turns toward God",
+    "hi": "भगवान्के सम्मुख हुआ विषाद"
+   },
+   "keyConcepts": [
+    "dharma",
+    "asakti",
+    "vairagya"
+   ],
+   "questions": [
+    {
+     "en": "What did my sons and the sons of Pandu do at Kurukshetra? (Dhritarashtra, 1.1)",
+     "hi": "कुरुक्षेत्रमें मेरे और पाण्डुके पुत्रोंने क्या किया? (धृतराष्ट्र, १। १)"
+    },
+    {
+     "en": "How can we be happy by killing our own kinsmen? (Arjuna, 1.37)",
+     "hi": "अपने कुटुम्बियोंको मारकर हम कैसे सुखी होंगे? (अर्जुन, १। ३७)"
+    },
+    {
+     "en": "Why does grief feel so convincing — and is every sorrow a step toward God?",
+     "hi": "शोक इतना युक्तियुक्त क्यों लगता है—और क्या हर विषाद भगवान्की ओर ले जा सकता है?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 1,
+     "title": {
+      "en": "The blind king's question",
+      "hi": "धृतराष्ट्रका प्रश्न"
+     },
+     "summary": {
+      "en": "Dhritarashtra asks Sanjaya what his sons and Pandu's sons did; his words 'mine' and 'Pandu's' reveal his partiality.",
+      "hi": "धृतराष्ट्र संजयसे पूछते हैं कि मेरे और पाण्डुके पुत्रोंने क्या किया; ‘मामका:’ और ‘पाण्डवा:’ शब्दोंमें उनका पक्षपात प्रकट होता है।"
+     }
+    },
+    {
+     "from": 2,
+     "to": 11,
+     "title": {
+      "en": "Duryodhana before Drona",
+      "hi": "द्रोणाचार्यके पास दुर्योधन"
+     },
+     "summary": {
+      "en": "Duryodhana approaches Drona, names the great warriors of both armies to stir him up, and asks all to guard Bhishma.",
+      "hi": "दुर्योधन द्रोणाचार्यके पास जाकर उन्हें उत्तेजित करनेके लिये दोनों सेनाओंके महारथियोंके नाम लेता है और सबसे भीष्मकी रक्षा करनेको कहता है।"
+     }
+    },
+    {
+     "from": 12,
+     "to": 19,
+     "title": {
+      "en": "The conches sound",
+      "hi": "शंखनाद"
+     },
+     "summary": {
+      "en": "Bhishma blows his conch to cheer Duryodhana; the Kaurava instruments blare. Then Krishna, Arjuna and the Pandavas blow their conches, and the sound shakes the hearts of Dhritarashtra's sons.",
+      "hi": "दुर्योधनको प्रसन्न करनेके लिये भीष्म शंख बजाते हैं और कौरव-सेनाके बाजे बजते हैं। फिर श्रीकृष्ण, अर्जुन और पाण्डव शंख बजाते हैं, जिससे धृतराष्ट्र-पुत्रोंके हृदय दहल जाते हैं।"
+     }
+    },
+    {
+     "from": 20,
+     "to": 27,
+     "title": {
+      "en": "Between the two armies",
+      "hi": "दोनों सेनाओंके बीच"
+     },
+     "summary": {
+      "en": "Arjuna asks Krishna to place his chariot between the armies; Krishna sets it before Bhishma and Drona and says 'behold the Kurus'. Arjuna sees relatives everywhere and is filled with pity.",
+      "hi": "अर्जुन रथ दोनों सेनाओंके बीच खड़ा करनेको कहते हैं; भगवान् भीष्म-द्रोणके सामने रथ खड़ा करके ‘कुरुओंको देख’ कहते हैं। अर्जुन सब ओर स्वजनोंको देखकर करुणासे भर जाते हैं।"
+     }
+    },
+    {
+     "from": 28,
+     "to": 35,
+     "title": {
+      "en": "Grief takes hold",
+      "hi": "शोकका आवेश"
+     },
+     "summary": {
+      "en": "Arjuna's body trembles and the Gandiva slips; he sees ill omens and no good in killing kin, and wants neither kingdom nor pleasure won that way.",
+      "hi": "अर्जुनका शरीर काँपता है और गाण्डीव गिरने लगता है; वे अशुभ शकुन और स्वजनोंको मारनेमें कोई श्रेय नहीं देखते, और ऐसी विजय, राज्य, सुख नहीं चाहते।"
+     }
+    },
+    {
+     "from": 36,
+     "to": 46,
+     "title": {
+      "en": "Arguments against the war",
+      "hi": "युद्धके विरुद्ध दलीलें"
+     },
+     "summary": {
+      "en": "Arjuna argues that killing kin brings sin, that greed blinds the other side, and that destroying a family sets off a chain of ruin; better to be killed unarmed.",
+      "hi": "अर्जुन कहते हैं कि स्वजनोंको मारनेसे पाप लगेगा, दूसरे पक्षको लोभने अन्धा कर दिया है, कुलनाशसे अनर्थ-परम्परा चलेगी; शस्त्ररहित होकर मारा जाना ही हितकर है।"
+     }
+    },
+    {
+     "from": 47,
+     "to": 47,
+     "title": {
+      "en": "The bow laid down",
+      "hi": "धनुषका त्याग"
+     },
+     "summary": {
+      "en": "Overwhelmed with grief, Arjuna casts aside his bow and arrows and sits down in the chariot.",
+      "hi": "शोकसे व्याकुल अर्जुन बाणसहित धनुषका त्याग करके रथके मध्यभागमें बैठ जाते हैं।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "1.1",
+    "1.25",
+    "1.28",
+    "1.47"
+   ],
+   "motif": "conch"
+  },
+  {
+   "chapter": 2,
+   "nameSa": "साङ्ख्ययोग",
+   "nameIast": "Sāṅkhya Yoga",
+   "nameEn": "The Yoga of Knowledge",
+   "subtitle": {
+    "en": "The Teaching Begins",
+    "hi": "उपदेशका आरम्भ"
+   },
+   "tagline": {
+    "en": "Arjuna takes refuge, and Krishna begins: you are not the body — act with evenness, and become steady in wisdom.",
+    "hi": "अर्जुन शरण लेते हैं और भगवान् आरम्भ करते हैं: तुम शरीर नहीं हो—समतामें स्थित होकर कर्म करो और स्थितप्रज्ञ बनो।"
+   },
+   "overview": {
+    "en": "Krishna rebukes Arjuna's faintheartedness; Arjuna, unable to decide his duty, becomes Krishna's disciple and asks for what is surely good, yet still says 'I will not fight'. Krishna's teaching begins with the distinction between the body and the embodied: the one who dies is not you, so there is no ground for grief (11–30). He then removes Arjuna's fear of sin by pointing to his own duty as a warrior (31–38). Next He introduces samata through karma-yoga: your right is to action, never to its fruit; evenness is yoga (39–53). Arjuna asks about the person of steady wisdom, and Krishna describes how such a one speaks, sits and moves (54–72).",
+    "hi": "भगवान् अर्जुनकी कायरताको फटकारते हैं; अपने कर्तव्यका निर्णय न कर पानेवाले अर्जुन भगवान्के शिष्य होकर निश्चित कल्याणकी बात पूछते हैं, फिर भी ‘मैं युद्ध नहीं करूँगा’ कह देते हैं। भगवान्का उपदेश शरीर और शरीरीके भेदसे आरम्भ होता है: जो मरता है वह तुम नहीं हो, अत: शोक करना अनुचित है (११-३०)। फिर क्षात्रधर्मकी दृष्टिसे अर्जुनका पापका भय दूर करते हैं (३१-३८)। इसके बाद कर्मयोगके द्वारा समताका वर्णन करते हैं: कर्ममें ही अधिकार है, फलमें कभी नहीं; समत्व ही योग है (३९-५३)। अर्जुन स्थितप्रज्ञके विषयमें पूछते हैं और भगवान् बताते हैं कि वह कैसे बोलता, बैठता और चलता है (५४-७२)।"
+   },
+   "whyHere": {
+    "en": "Swamiji points out that the Gita's teaching starts with the difference between body and embodied, because a seeker who wants his good must first know 'who am I'. Discernment (viveka) is needed on every path — karma, knowledge or devotion — and Sankhya is where discernment is foremost, which is why Krishna begins His teaching with it and the chapter is named Sankhya-yoga. Arjuna's grief comes from lack of discernment; so that is where the cure begins.",
+    "hi": "स्वामीजी बताते हैं कि गीताका उपदेश शरीर-शरीरीके भेदसे आरम्भ होता है, क्योंकि अपना कल्याण चाहनेवाले साधकके लिये सबसे पहले यह जानना आवश्यक है कि ‘मैं कौन हूँ’। कर्मयोग, ज्ञानयोग, भक्तियोग—सभी साधनोंमें विवेककी बड़ी आवश्यकता है; सांख्ययोगमें विवेककी मुख्यता है और सांख्ययोगसे ही भगवान्ने उपदेश आरम्भ किया, इसलिये अध्यायका नाम ‘सांख्ययोग’ है। अर्जुनका शोक अविवेकसे है, इसलिये औषध भी वहींसे आरम्भ होती है।"
+   },
+   "theme": {
+    "en": "Discernment of the self, and evenness in action",
+    "hi": "शरीर-शरीरीका विवेक और कर्ममें समता"
+   },
+   "keyConcepts": [
+    "atma",
+    "sharira",
+    "viveka",
+    "samatva",
+    "nishkama-karma",
+    "sthitaprajna"
+   ],
+   "questions": [
+    {
+     "en": "How can I fight Bhishma and Drona, who are worthy of worship? (2.4)",
+     "hi": "मैं पूजनीय भीष्म और द्रोणके साथ कैसे युद्ध करूँ? (२। ४)"
+    },
+    {
+     "en": "Tell me for certain what is good for me — I am your disciple. (2.7)",
+     "hi": "जो निश्चित कल्याण करनेवाली हो, वह बात मुझसे कहिये—मैं आपका शिष्य हूँ। (२। ७)"
+    },
+    {
+     "en": "What are the marks of one whose wisdom is steady? How does he speak, sit and walk? (2.54)",
+     "hi": "स्थिर बुद्धिवाले मनुष्यके क्या लक्षण हैं? वह कैसे बोलता, बैठता और चलता है? (२। ५४)"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 10,
+     "title": {
+      "en": "Refuge in the teacher",
+      "hi": "शिष्यभाव और शरणागति"
+     },
+     "summary": {
+      "en": "Krishna rebukes Arjuna's faintheartedness; Arjuna, confused about dharma, becomes His disciple and asks for what is surely good — yet declares 'I will not fight'.",
+      "hi": "भगवान् कायरताको फटकारते हैं; धर्मके विषयमें मोहित अर्जुन शिष्य बनकर निश्चित कल्याणकी बात पूछते हैं—फिर भी ‘मैं युद्ध नहीं करूँगा’ कह देते हैं।"
+     }
+    },
+    {
+     "from": 11,
+     "to": 30,
+     "title": {
+      "en": "Body and the embodied",
+      "hi": "शरीर और शरीरी"
+     },
+     "summary": {
+      "en": "To remove grief, Krishna distinguishes the ever-changing body from the unchanging embodied self, which is never born and never dies.",
+      "hi": "शोक दूर करनेके लिये भगवान् परिवर्तनशील शरीर और कभी न जन्मने-मरनेवाले निर्विकार शरीरीका भेद बताते हैं।"
+     }
+    },
+    {
+     "from": 31,
+     "to": 38,
+     "title": {
+      "en": "Your own duty",
+      "hi": "क्षात्रधर्म"
+     },
+     "summary": {
+      "en": "To remove the fear of sin, Krishna shows that a righteous war is Arjuna's duty; fought with evenness in victory and defeat, it brings no sin.",
+      "hi": "पापका भय दूर करनेके लिये भगवान् बताते हैं कि धर्ममय युद्ध अर्जुनका कर्तव्य है; जय-पराजयको समान समझकर युद्ध करनेसे पाप नहीं लगता।"
+     }
+    },
+    {
+     "from": 39,
+     "to": 46,
+     "title": {
+      "en": "The single-minded intellect",
+      "hi": "समबुद्धि और निश्चयात्मिका बुद्धि"
+     },
+     "summary": {
+      "en": "Krishna turns to karma-yoga: evenness of mind, one firm resolve, and freedom from the desire-driven rituals that scatter the intellect.",
+      "hi": "भगवान् कर्मयोगकी बात आरम्भ करते हैं—समबुद्धि, एक निश्चयवाली बुद्धि और बुद्धिको बिखेरनेवाले सकाम भावसे रहित होना।"
+     }
+    },
+    {
+     "from": 47,
+     "to": 53,
+     "title": {
+      "en": "Right to action, not to fruit",
+      "hi": "कर्ममें अधिकार, फलमें नहीं"
+     },
+     "summary": {
+      "en": "Your right is to action alone, never to its fruit; act established in yoga, for evenness itself is yoga, and it frees one from bondage.",
+      "hi": "तेरा अधिकार कर्ममें ही है, फलमें कभी नहीं; योगमें स्थित होकर कर्म कर, क्योंकि समत्व ही योग है और वही बन्धनसे मुक्त करता है।"
+     }
+    },
+    {
+     "from": 54,
+     "to": 72,
+     "title": {
+      "en": "The one of steady wisdom",
+      "hi": "स्थितप्रज्ञ"
+     },
+     "summary": {
+      "en": "Answering Arjuna's four questions, Krishna describes the sthitaprajna — free of desires, unshaken, senses mastered — and the chain by which dwelling on objects leads to ruin.",
+      "hi": "अर्जुनके चार प्रश्नोंके उत्तरमें भगवान् स्थितप्रज्ञका वर्णन करते हैं—कामनारहित, अविचल, जितेन्द्रिय—और बताते हैं कि विषयोंका चिन्तन कैसे पतनतक ले जाता है।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "2.7",
+    "2.13",
+    "2.47",
+    "2.48",
+    "2.55",
+    "2.62"
+   ],
+   "motif": "chariot"
+  },
+  {
+   "chapter": 3,
+   "nameSa": "कर्मयोग",
+   "nameIast": "Karma Yoga",
+   "nameEn": "The Yoga of Action",
+   "subtitle": {
+    "en": "Why Act at All?",
+    "hi": "कर्म क्यों करें?"
+   },
+   "tagline": {
+    "en": "No one can live without acting — so act for others, free of attachment, and know desire as the real enemy.",
+    "hi": "कर्म किये बिना कोई नहीं रह सकता—इसलिये आसक्तिरहित होकर दूसरोंके लिये कर्म करो, और कामनाको ही वैरी जानो।"
+   },
+   "overview": {
+    "en": "Arjuna, still set on not fighting, finds Krishna's words mixed: if understanding is higher, why push me into terrible action? Krishna answers that there are two paths, but no one can remain without action even for a moment, and renouncing action outwardly does not bring perfection. Action done as yajna — duty for the good of others — does not bind, and it keeps the wheel of creation turning. The realised, like Janaka, and Krishna Himself keep working to set an example. Actions are done by the gunas of prakriti; only the ego says 'I do'. Krishna then gives His own view: offer all actions to Me and fight, free of desire and 'mine'; better one's own duty, even imperfect. When Arjuna asks what drives a person to sin against his will, Krishna names desire, born of rajas, and tells him to slay it.",
+    "hi": "युद्ध न करनेके आग्रहवाले अर्जुनको भगवान्के वचन मिले हुए-से लगते हैं: अगर बुद्धि श्रेष्ठ है तो मुझे घोर कर्ममें क्यों लगाते हैं? भगवान् बताते हैं कि निष्ठाएँ दो हैं, पर कोई भी क्षणमात्र कर्म किये बिना नहीं रह सकता और कर्मोंके स्वरूपसे त्यागसे सिद्धि नहीं मिलती। यज्ञार्थ कर्म—दूसरोंके हितके लिये कर्तव्य—बाँधता नहीं और सृष्टिचक्रको चलाता है। जनक-जैसे महापुरुष और स्वयं भगवान् लोकसंग्रहके लिये कर्म करते हैं। कर्म प्रकृतिके गुणोंसे होते हैं, अहंकार ही ‘मैं कर्ता हूँ’ मानता है। फिर भगवान् अपना मत बताते हैं: सब कर्म मुझे अर्पण करके निष्काम, निर्मम होकर युद्ध कर; गुणरहित भी अपना धर्म श्रेष्ठ है। अर्जुनके पूछनेपर कि मनुष्य न चाहते हुए भी पाप क्यों करता है, भगवान् रजोगुणसे उत्पन्न कामको कारण बताकर उसे मारनेकी आज्ञा देते हैं।"
+   },
+   "whyHere": {
+    "en": "In chapter 2 Krishna praised evenness of intellect and also told Arjuna to act. Swamiji explains that because Arjuna held on to his own insistence on not fighting, he could not grasp Krishna's intent and the words seemed contradictory — a listener who holds his own view cannot fully take in the speaker's meaning. So Arjuna asks for clarity, and chapter 3 gives the fullest account of karma-yoga in the whole Gita, which is why it bears that name.",
+    "hi": "दूसरे अध्यायमें भगवान्ने समबुद्धिकी प्रशंसा की और कर्म करनेको भी कहा। स्वामीजी बताते हैं कि युद्ध न करनेका आग्रह रखनेसे अर्जुन भगवान्के वचनोंका आशय नहीं समझ सके और वचन मिले हुए-से लगे—अपना आग्रह रखनेसे श्रोता वक्ताकी बातोंका आशय ठीक नहीं समझ सकता। इसलिये अर्जुन खुलासा पूछते हैं, और तीसरा अध्याय कर्मयोगका सबसे विशद वर्णन देता है, इसीसे इसका नाम ‘कर्मयोग’ है।"
+   },
+   "theme": {
+    "en": "Action for others, free of attachment",
+    "hi": "आसक्तिरहित होकर दूसरोंके लिये कर्म"
+   },
+   "keyConcepts": [
+    "karma",
+    "yajna",
+    "asakti",
+    "svadharma",
+    "kama",
+    "ahankara"
+   ],
+   "questions": [
+    {
+     "en": "If understanding is higher than action, why do You push me into this terrible action? Tell me the one thing that is good for me. (3.1–2)",
+     "hi": "यदि आप कर्मसे बुद्धिको श्रेष्ठ मानते हैं, तो मुझे घोर कर्ममें क्यों लगाते हैं? वह एक बात कहिये जिससे मेरा कल्याण हो। (३। १-२)"
+    },
+    {
+     "en": "What drives a person to sin, even against his will, as if forced? (3.36)",
+     "hi": "मनुष्य न चाहता हुआ भी, मानो जबर्दस्ती लगाया हुआ, किससे प्रेरित होकर पाप करता है? (३। ३६)"
+    },
+    {
+     "en": "If someone has nothing left to gain, why should he still work?",
+     "hi": "जिसे कुछ पाना शेष नहीं, वह भी कर्म क्यों करे?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 2,
+     "title": {
+      "en": "Arjuna's question",
+      "hi": "अर्जुनका प्रश्न"
+     },
+     "summary": {
+      "en": "If knowledge is better, why this terrible action? Your words seem mixed — tell me one sure thing.",
+      "hi": "अगर ज्ञान श्रेष्ठ है तो घोर कर्म क्यों? आपके वचन मिले हुए-से लगते हैं—एक निश्चित बात कहिये।"
+     }
+    },
+    {
+     "from": 3,
+     "to": 8,
+     "title": {
+      "en": "No one can stay without action",
+      "hi": "कर्म किये बिना कोई नहीं रहता"
+     },
+     "summary": {
+      "en": "There are two paths, but mere renunciation does not bring perfection; nature makes everyone act, so do your prescribed duty — action is better than inaction.",
+      "hi": "निष्ठाएँ दो हैं, पर केवल त्यागसे सिद्धि नहीं मिलती; प्रकृति सबसे कर्म कराती है, इसलिये नियत कर्तव्य कर—कर्म न करनेसे कर्म करना श्रेष्ठ है।"
+     }
+    },
+    {
+     "from": 9,
+     "to": 16,
+     "title": {
+      "en": "Yajna and the wheel of creation",
+      "hi": "यज्ञ और सृष्टिचक्र"
+     },
+     "summary": {
+      "en": "Action for yajna does not bind. Brahma created beings with duty; beings, rain, food and duty sustain one another, and one who does not keep the wheel turning lives in vain.",
+      "hi": "यज्ञार्थ कर्म बाँधता नहीं। ब्रह्माजीने कर्तव्यसहित प्रजाकी रचना की; अन्न, वर्षा, यज्ञ और कर्मका चक्र परस्पर पोषण करता है; जो इसके अनुसार नहीं चलता, वह व्यर्थ जीता है।"
+     }
+    },
+    {
+     "from": 17,
+     "to": 24,
+     "title": {
+      "en": "Working for the world",
+      "hi": "लोकसंग्रह"
+     },
+     "summary": {
+      "en": "The realised has no duty left, yet Arjuna should act unattached, as Janaka did; people follow the great, and Krishna Himself works tirelessly so the world is not misled.",
+      "hi": "सिद्ध पुरुषका कोई कर्तव्य शेष नहीं, फिर भी अर्जुन जनककी तरह आसक्तिरहित कर्म करे; लोग श्रेष्ठ पुरुषका अनुसरण करते हैं, इसलिये भगवान् स्वयं भी सावधानीसे कर्म करते हैं।"
+     }
+    },
+    {
+     "from": 25,
+     "to": 29,
+     "title": {
+      "en": "Gunas act, the ego claims",
+      "hi": "गुण करते हैं, अहंकार मानता है"
+     },
+     "summary": {
+      "en": "The wise act as the ignorant do, but without attachment; all actions are done by the gunas of prakriti, and only one deluded by ego thinks 'I am the doer'.",
+      "hi": "ज्ञानी भी अज्ञानियोंकी तरह कर्म करे, पर आसक्तिरहित होकर; सब कर्म प्रकृतिके गुणोंसे होते हैं, अहंकारसे मोहित ही ‘मैं कर्ता हूँ’ मानता है।"
+     }
+    },
+    {
+     "from": 30,
+     "to": 35,
+     "title": {
+      "en": "Krishna's own view — and svadharma",
+      "hi": "भगवान्का मत और स्वधर्म"
+     },
+     "summary": {
+      "en": "Offer all actions to Me and fight, free of desire and 'mine'. Nature compels action, so don't come under attachment and aversion; better one's own duty, even imperfect.",
+      "hi": "सब कर्म मुझे अर्पण करके निष्काम, निर्मम होकर युद्ध कर। प्रकृतिके अनुसार कर्म होते हैं, अत: राग-द्वेषके वश मत हो; गुणरहित भी अपना धर्म श्रेष्ठ है।"
+     }
+    },
+    {
+     "from": 36,
+     "to": 43,
+     "title": {
+      "en": "Desire, the enemy",
+      "hi": "कामरूप वैरी"
+     },
+     "summary": {
+      "en": "Asked what drives one to sin, Krishna names desire, which turns into anger. It covers discernment and dwells in the senses, mind and intellect; knowing it as lodged even beyond the intellect, master yourself by yourself and slay this enemy.",
+      "hi": "पापका कारण पूछनेपर भगवान् कामको बताते हैं, जो क्रोधमें परिणत होता है। यह विवेकको ढकता है और इन्द्रिय-मन-बुद्धिमें रहता है; इसे बुद्धिसे भी पर जानकर अपने द्वारा अपनेको वशमें करके इस शत्रुको मार डाल।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "3.9",
+    "3.19",
+    "3.27",
+    "3.35",
+    "3.37"
+   ],
+   "motif": "wheel"
+  },
+  {
+   "chapter": 4,
+   "nameSa": "ज्ञानकर्मसन्न्यासयोग",
+   "nameIast": "Jñāna Karma Sannyāsa Yoga",
+   "nameEn": "The Yoga of Knowledge and the Renunciation of Action",
+   "subtitle": {
+    "en": "The Secret of Action",
+    "hi": "कर्मका तत्त्व"
+   },
+   "tagline": {
+    "en": "An ancient yoga, the mystery of the Lord's coming, and the art of seeing inaction in action.",
+    "hi": "सनातन कर्मयोग, भगवान्के अवतारका रहस्य और कर्ममें अकर्म देखनेकी कला।"
+   },
+   "overview": {
+    "en": "Krishna resumes the karma-yoga of chapter 2, revealing that He taught it long ago to the Sun, from whom it passed down through the royal sages until it was lost. When Arjuna asks how this can be, Krishna reveals the secret of His birth: unborn, He manifests whenever dharma declines, and whoever truly knows His divine birth and action attains Him. He then explains the truth of action — what is action, inaction and forbidden action — and describes the sage who sees inaction in action. Many kinds of spiritual practice are presented as forms of yajna, with the yajna of knowledge as highest. Finally Krishna praises knowledge, describes learning it from a realised teacher, and reveals that the karma-yogi finds it by himself — so Arjuna should cut his doubt and rise.",
+    "hi": "भगवान् दूसरे अध्यायके कर्मयोगको पुन: आरम्भ करते हुए बताते हैं कि यह योग उन्होंने सृष्टिके आदिमें सूर्यको कहा था, जो राजर्षियोंकी परम्परासे चलकर लुप्तप्राय हो गया। अर्जुनके पूछनेपर भगवान् अपने अवतारका रहस्य बताते हैं: अजन्मा होते हुए भी वे धर्मकी हानि होनेपर प्रकट होते हैं, और जो उनके जन्म-कर्मकी दिव्यताको तत्त्वसे जानता है, वह उन्हें प्राप्त होता है। फिर कर्म, अकर्म और विकर्मका तत्त्व बताकर कर्ममें अकर्म देखनेवाले महापुरुषका वर्णन करते हैं। अनेक साधनोंको यज्ञरूपसे बताकर ज्ञानयज्ञको श्रेष्ठ कहते हैं। अन्तमें ज्ञानकी महिमा, तत्त्वदर्शी गुरुसे ज्ञान प्राप्त करनेकी प्रणाली बताकर यह प्रकट करते हैं कि कर्मयोगीको वही ज्ञान अपने-आप प्राप्त होता है—अत: संशय काटकर उठ खड़ा हो।"
+   },
+   "whyHere": {
+    "en": "Swamiji explains that after answering Arjuna's question at the end of chapter 3, Krishna pauses, then takes up again — with the word 'imam', 'this' — the karma-yoga begun in 2.47–48. So chapter 4 is regarded as an appendix to chapter 3. Karma-yoga has two sides: doing one's duty, and understanding action rightly. Chapter 3 stressed doing, because Arjuna wanted to give up action; chapter 4 stresses understanding — 'I will tell you that action, knowing which you will be freed from evil' (4.16).",
+    "hi": "स्वामीजी बताते हैं कि तीसरे अध्यायके अन्तमें अर्जुनके प्रश्नका उत्तर देकर भगवान् कुछ रुकते हैं, फिर ‘इमम्’ पदसे दूसरे अध्यायके सैंतालीसवें-अड़तालीसवें श्लोकवाले कर्मयोगको पुन: आरम्भ करते हैं; इसलिये चौथा अध्याय तीसरेका परिशिष्ट माना जाता है। कर्मयोगमें दो बातें मुख्य हैं—कर्तव्य-कर्मोंका आचरण और कर्मोंके विषयमें विशेष जानकारी। अर्जुन कर्मोंका त्याग करना चाहते थे, इसलिये तीसरेमें आचरणपर जोर है; चौथेमें जानकारीपर—‘तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात्’ (४। १६)।"
+   },
+   "theme": {
+    "en": "Understanding action — and the knowledge it leads to",
+    "hi": "कर्मका तत्त्व और उससे होनेवाला ज्ञान"
+   },
+   "keyConcepts": [
+    "ishvara",
+    "karma",
+    "yajna",
+    "jnana",
+    "shraddha",
+    "nishkama-karma"
+   ],
+   "questions": [
+    {
+     "en": "Your birth is recent and the Sun's is ancient — how am I to understand that You taught this at the beginning? (4.4)",
+     "hi": "आपका जन्म तो अभीका है और सूर्यका बहुत पुराना; आपने सृष्टिके आरम्भमें यह योग कहा था—यह कैसे समझूँ? (४। ४)"
+    },
+    {
+     "en": "What is action and what is inaction — where even the wise are confused? (4.16)",
+     "hi": "कर्म क्या है और अकर्म क्या है—जिसमें विद्वान् भी मोहित हो जाते हैं? (४। १६)"
+    },
+    {
+     "en": "Must I leave my duty and go to a teacher to gain knowledge?",
+     "hi": "क्या ज्ञान पानेके लिये मुझे कर्तव्य छोड़कर गुरुके पास जाना होगा?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 3,
+     "title": {
+      "en": "An ancient yoga",
+      "hi": "कर्मयोगकी परम्परा"
+     },
+     "summary": {
+      "en": "Krishna taught this imperishable yoga to the Sun; it passed through the royal sages and was lost; now He gives it to Arjuna, His devotee and friend.",
+      "hi": "भगवान्ने यह अविनाशी योग सूर्यको कहा था; राजर्षियोंकी परम्परासे चलकर यह लुप्तप्राय हो गया; अब भक्त और सखा अर्जुनको वही कहते हैं।"
+     }
+    },
+    {
+     "from": 4,
+     "to": 10,
+     "title": {
+      "en": "The mystery of the avatara",
+      "hi": "अवतारका रहस्य"
+     },
+     "summary": {
+      "en": "Unborn and imperishable, the Lord manifests whenever dharma declines, to protect the good and establish dharma; knowing His divine birth and action, many have reached Him.",
+      "hi": "अजन्मा और अविनाशी होते हुए भी भगवान् धर्मकी हानि होनेपर साधुओंकी रक्षा और धर्मकी स्थापनाके लिये प्रकट होते हैं; उनके दिव्य जन्म-कर्मको जाननेवाले बहुत-से उन्हें प्राप्त हुए हैं।"
+     }
+    },
+    {
+     "from": 11,
+     "to": 15,
+     "title": {
+      "en": "Divine action",
+      "hi": "कर्मोंकी दिव्यता"
+     },
+     "summary": {
+      "en": "As people take refuge, so the Lord receives them. He created the four orders yet is not the doer, and actions do not stain Him; the seekers of old acted knowing this.",
+      "hi": "जो जैसे शरण लेते हैं, भगवान् वैसे ही आश्रय देते हैं। चारों वर्णोंकी रचना करके भी वे अकर्ता हैं और कर्म उन्हें लिप्त नहीं करते; पूर्वके मुमुक्षुओंने ऐसा जानकर कर्म किये।"
+     }
+    },
+    {
+     "from": 16,
+     "to": 23,
+     "title": {
+      "en": "Action and inaction",
+      "hi": "कर्म और अकर्म"
+     },
+     "summary": {
+      "en": "The truth of action is subtle; the wise see inaction in action. The sage whose acts are free of desire, content and unattached, is not bound even while acting.",
+      "hi": "कर्मकी गति गहन है; बुद्धिमान् कर्ममें अकर्म देखता है। जिसके कर्म कामनारहित हैं, जो तृप्त और अनासक्त है, वह कर्म करते हुए भी नहीं बँधता।"
+     }
+    },
+    {
+     "from": 24,
+     "to": 32,
+     "title": {
+      "en": "Many forms of yajna",
+      "hi": "विविध यज्ञ"
+     },
+     "summary": {
+      "en": "Offering to Brahman, sense-restraint, charity, austerity, study, breath-control — many practices are forms of yajna; all arise from action, and those who partake of yajna reach the eternal.",
+      "hi": "ब्रह्मार्पण, इन्द्रियसंयम, द्रव्य, तप, स्वाध्याय, प्राणायाम—अनेक साधन यज्ञरूप हैं; सब कर्मजन्य हैं, और यज्ञशेषका अनुभव करनेवाले सनातन ब्रह्मको प्राप्त होते हैं।"
+     }
+    },
+    {
+     "from": 33,
+     "to": 42,
+     "title": {
+      "en": "The fire of knowledge",
+      "hi": "ज्ञानरूपी अग्नि"
+     },
+     "summary": {
+      "en": "The yajna of knowledge is highest; it may be learned from a realised teacher, it burns all actions and carries one across all sin — and the perfected karma-yogi finds it within himself. Cut doubt with knowledge and rise.",
+      "hi": "ज्ञानयज्ञ श्रेष्ठ है; तत्त्वदर्शी गुरुसे इसे समझा जा सकता है, यह सब कर्मोंको भस्म करता और पाप-समुद्रसे पार करता है—और योगसंसिद्ध कर्मयोगी इसे अपने-आपमें पा लेता है। ज्ञानरूपी तलवारसे संशय काटकर खड़ा हो जा।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "4.7",
+    "4.11",
+    "4.18",
+    "4.34",
+    "4.38"
+   ],
+   "motif": "sun"
+  },
+  {
+   "chapter": 5,
+   "nameSa": "कर्मसन्न्यासयोग",
+   "nameIast": "Karma Sannyāsa Yoga",
+   "nameEn": "The Yoga of Renunciation of Action",
+   "subtitle": {
+    "en": "Which Path Is Better?",
+    "hi": "कौन-सा मार्ग श्रेष्ठ?"
+   },
+   "tagline": {
+    "en": "Renunciation and karma-yoga both lead to the good — but karma-yoga is better, and devotion crowns them.",
+    "hi": "संन्यास और कर्मयोग दोनों कल्याणकारक हैं—पर कर्मयोग श्रेष्ठ है, और भक्ति सबका मुकुट है।"
+   },
+   "overview": {
+    "en": "Having heard both the path of knowledge and karma-yoga praised, Arjuna asks which one is decisively better. Krishna answers that both lead to the highest good, but karma-yoga is superior — and without it, Sankhya is hard to attain. He then shows how each kind of seeker stays untouched by action: the karma-yogi who works to purify the heart, the Sankhya-yogi who knows 'I do nothing', and the devotee who offers all to God like a lotus leaf in water. The wise see the same in all, are unmoved by pleasant and unpleasant, and find no joy in contact-born pleasures, which are wombs of sorrow. After a brief account of meditation, the chapter closes with devotion: knowing the Lord as the friend of all beings, one attains peace.",
+    "hi": "ज्ञानयोग और कर्मयोग—दोनोंकी प्रशंसा सुनकर अर्जुन पूछते हैं कि दोनोंमें निश्चितरूपसे श्रेष्ठ कौन-सा है? भगवान् कहते हैं कि दोनों ही कल्याण करनेवाले हैं, पर कर्मयोग श्रेष्ठ है—और कर्मयोगके बिना सांख्ययोग सिद्ध होना कठिन है। फिर बताते हैं कि कर्मयोगी अन्त:करणकी शुद्धिके लिये कर्म करके, सांख्ययोगी ‘मैं कुछ नहीं करता’ जानकर, और भक्तियोगी सब कर्म भगवान्को अर्पण करके—जलमें कमलपत्रकी तरह—कर्मोंसे निर्लिप्त रहते हैं। ज्ञानी सबमें समदर्शी होते हैं, प्रिय-अप्रियमें विचलित नहीं होते और दु:खयोनि संयोगजन्य भोगोंमें रमण नहीं करते। संक्षेपमें ध्यानयोग बताकर अध्याय भक्तिसे समाप्त होता है: भगवान्को सब प्राणियोंका सुहृद् जानकर शान्ति मिलती है।"
+   },
+   "whyHere": {
+    "en": "At the end of chapter 4, Krishna praised the traditional path of gaining knowledge by renouncing action and living with a teacher, and told Arjuna 'know it' (4.34); then He praised karma-yoga (4.38, 4.41) and told him 'take up yoga and rise' (4.42). Swamiji explains that Arjuna already wanted to avoid action, seeing war as sin, so hearing both praised and both commanded, he could not decide which was better for him — and so he asks.",
+    "hi": "चौथे अध्यायमें भगवान्ने कर्मोंका त्याग करके गुरुके पास ज्ञान प्राप्त करनेकी प्रचलित प्रणालीकी प्रशंसा की और ‘विद्धि’ कहकर आज्ञा दी (४। ३४); फिर कर्मयोगकी प्रशंसा की (४। ३८, ४१) और ‘योगमातिष्ठोत्तिष्ठ’ कहा (४। ४२)। स्वामीजी बताते हैं कि अर्जुन युद्धको पाप मानकर पहलेसे ही कर्म छोड़ना चाहते थे; दोनोंकी प्रशंसा और दोनोंकी आज्ञा सुनकर वे निर्णय नहीं कर सके कि मेरे लिये कौन-सा श्रेष्ठ है—इसलिये प्रश्न करते हैं।"
+   },
+   "theme": {
+    "en": "Renunciation within action",
+    "hi": "कर्म करते हुए संन्यास"
+   },
+   "keyConcepts": [
+    "sannyasa",
+    "karma",
+    "samatva",
+    "bhakti",
+    "vairagya",
+    "jnana"
+   ],
+   "questions": [
+    {
+     "en": "You praise both renouncing action and karma-yoga — tell me decisively which one is better. (5.1)",
+     "hi": "आप कर्मसंन्यास और कर्मयोग—दोनोंकी प्रशंसा करते हैं; इनमें जो एक निश्चित कल्याणकारक हो, वह कहिये। (५। १)"
+    },
+    {
+     "en": "How can one act fully in the world and still not be stained by it?",
+     "hi": "संसारमें पूरा कर्म करते हुए भी उससे लिप्त कैसे न हों?"
+    },
+    {
+     "en": "If pleasures feel good, why do the wise not delight in them?",
+     "hi": "भोग अच्छे लगते हैं, तो विवेकी उनमें रमण क्यों नहीं करते?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 6,
+     "title": {
+      "en": "Both lead to the good",
+      "hi": "दोनों कल्याणकारक"
+     },
+     "summary": {
+      "en": "Both renunciation and karma-yoga lead to the highest good, but karma-yoga is better; the one free of like and dislike is a true renunciate, and Sankhya is hard without karma-yoga.",
+      "hi": "संन्यास और कर्मयोग दोनों कल्याणकारक हैं, पर कर्मयोग श्रेष्ठ है; राग-द्वेषरहित ही नित्यसंन्यासी है, और कर्मयोगके बिना सांख्ययोग कठिन है।"
+     }
+    },
+    {
+     "from": 7,
+     "to": 12,
+     "title": {
+      "en": "Untouched by action",
+      "hi": "कर्मोंसे निर्लिप्तता"
+     },
+     "summary": {
+      "en": "The karma-yogi, the Sankhya-yogi who knows 'I do nothing', and the devotee who offers all to God like a lotus leaf — each stays untouched; renouncing fruit brings lasting peace.",
+      "hi": "कर्मयोगी, ‘मैं कुछ नहीं करता’ जाननेवाला सांख्ययोगी और कमलपत्रकी तरह सब भगवान्को अर्पण करनेवाला भक्त—सभी निर्लिप्त रहते हैं; कर्मफलके त्यागसे नैष्ठिकी शान्ति मिलती है।"
+     }
+    },
+    {
+     "from": 13,
+     "to": 17,
+     "title": {
+      "en": "The self does not act",
+      "hi": "स्वरूप अकर्ता है"
+     },
+     "summary": {
+      "en": "The embodied, renouncing all actions with the mind, dwells in the city of nine gates neither acting nor causing action; ignorance veils knowledge, and knowledge, like the sun, reveals the Supreme.",
+      "hi": "देही मनसे सब कर्मोंका त्याग करके नौ द्वारोंवाले पुरमें न करता हुआ, न करवाता हुआ रहता है; अज्ञानसे ज्ञान ढका है, और ज्ञान सूर्यकी तरह परमात्माको प्रकाशित करता है।"
+     }
+    },
+    {
+     "from": 18,
+     "to": 23,
+     "title": {
+      "en": "Equal vision, lasting joy",
+      "hi": "समदृष्टि और अक्षय सुख"
+     },
+     "summary": {
+      "en": "The wise see the same in all; established in samata, they conquer the world here itself, and, unattached to outer contacts, find the joy within — for contact-born pleasures are sources of sorrow.",
+      "hi": "ज्ञानी सबमें समदर्शी होते हैं; समतामें स्थित होकर यहीं संसारको जीत लेते हैं और बाह्यस्पर्शमें अनासक्त होकर भीतरका सुख पाते हैं—क्योंकि संयोगजन्य भोग दु:खयोनि हैं।"
+     }
+    },
+    {
+     "from": 24,
+     "to": 26,
+     "title": {
+      "en": "Peace in Brahman",
+      "hi": "निर्वाण ब्रह्म"
+     },
+     "summary": {
+      "en": "One whose joy and light are within, who delights in the good of all beings and is free of desire and anger, attains the peace of Brahman on all sides.",
+      "hi": "जिसका सुख और ज्ञान भीतर है, जो सब प्राणियोंके हितमें रत है और काम-क्रोधसे रहित है, वह सब ओरसे निर्वाण ब्रह्मको प्राप्त होता है।"
+     }
+    },
+    {
+     "from": 27,
+     "to": 29,
+     "title": {
+      "en": "Meditation and the Friend of all",
+      "hi": "ध्यान और सबके सुहृद्"
+     },
+     "summary": {
+      "en": "A brief account of meditation; then devotion: knowing the Lord as the enjoyer of all offerings, Lord of all worlds and friend of all beings, one attains peace.",
+      "hi": "संक्षेपमें ध्यानयोग; फिर भक्ति: भगवान्को सब यज्ञोंका भोक्ता, सब लोकोंका महेश्वर और सब प्राणियोंका सुहृद् जानकर शान्ति प्राप्त होती है।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "5.2",
+    "5.10",
+    "5.18",
+    "5.22",
+    "5.29"
+   ],
+   "motif": "lotus"
+  },
+  {
+   "chapter": 6,
+   "nameSa": "आत्मसंयमयोग",
+   "nameIast": "Ātma Saṃyama Yoga",
+   "nameEn": "The Yoga of Self-Mastery",
+   "subtitle": {
+    "en": "Taming the Mind",
+    "hi": "मनका संयम"
+   },
+   "tagline": {
+    "en": "Lift yourself by yourself: the practice of meditation, the restless mind, and the assurance that no sincere effort is lost.",
+    "hi": "अपना उद्धार आप करो: ध्यानयोगका अभ्यास, चंचल मन, और यह आश्वासन कि कोई सच्चा प्रयास व्यर्थ नहीं जाता।"
+   },
+   "overview": {
+    "en": "Krishna again praises karma-yoga: the one who does his duty without depending on its fruit is both renunciate and yogi. Each person must lift himself by himself, for one is one's own friend and one's own enemy. Since the same samata can be reached through meditation, Krishna then teaches dhyana-yoga — the seat, posture, measured living, the mind steady like a flame in a windless place, and the joy beyond the senses in which even great sorrow cannot shake one. Arjuna objects that the mind is as hard to hold as the wind; Krishna agrees, and gives practice and dispassion. Arjuna asks what becomes of a seeker who falls short; Krishna assures him that one who does good never comes to grief. The chapter ends with Krishna's own view: of all yogis, the devotee absorbed in Him is the highest.",
+    "hi": "भगवान् फिर कर्मयोगकी महिमा कहते हैं: कर्मफलका आश्रय न लेकर कर्तव्य करनेवाला ही संन्यासी और योगी है। मनुष्यको अपना उद्धार आप करना है, क्योंकि आप ही अपना मित्र और आप ही अपना शत्रु है। जो समता कर्मयोगसे मिलती है, वही ध्यानयोगसे भी मिलती है—इसलिये भगवान् ध्यानयोग बताते हैं: आसन, बैठनेकी विधि, यथायोग्य आहार-विहार, वायुरहित स्थानमें दीपककी लौकी तरह स्थिर चित्त, और वह अतीन्द्रिय सुख जिसमें बड़ा दु:ख भी विचलित नहीं करता। अर्जुन कहते हैं कि मनको रोकना वायुको रोकनेकी तरह कठिन है; भगवान् सहमत होकर अभ्यास और वैराग्य बताते हैं। अर्जुन योगभ्रष्टकी गति पूछते हैं; भगवान् आश्वासन देते हैं कि कल्याणकारी काम करनेवालेकी दुर्गति नहीं होती। अन्तमें भगवान् अपनी मान्यता बताते हैं: सब योगियोंमें मुझमें तल्लीन श्रद्धावान् भक्त सर्वश्रेष्ठ है।"
+   },
+   "whyHere": {
+    "en": "In chapter 5 Krishna said both paths lead to the good but karma-yoga is better, then briefly described meditation (5.27–28), which helps both, and closed with devotion. Swamiji notes that chapter 6 opens to establish the superiority of karma-yoga once more, and then, because the same samata is reached through meditation, expands dhyana-yoga in full. The chapter is named 'Atma-samyama' because by restraining the mind the meditator experiences yoga — samata.",
+    "hi": "पाँचवें अध्यायमें भगवान्ने दोनोंको कल्याणकारक और कर्मयोगको श्रेष्ठ बताया, फिर दोनोंके लिये उपयोगी ध्यानयोगका संक्षेपसे वर्णन किया (५। २७-२८) और भक्तिसे उपसंहार किया। स्वामीजी बताते हैं कि छठा अध्याय पुन: कर्मयोगकी श्रेष्ठता बतानेके लिये आरम्भ होता है, और फिर, क्योंकि वही समता ध्यानयोगसे भी मिलती है, ध्यानयोगका विस्तार करता है। मनका संयमन करनेसे ध्यानयोगीको योग (समता) का अनुभव होता है, इसलिये इसका नाम ‘आत्मसंयमयोग’ है।"
+   },
+   "theme": {
+    "en": "Mastering the mind through meditation",
+    "hi": "ध्यानयोगद्वारा मनका संयम"
+   },
+   "keyConcepts": [
+    "dhyana",
+    "yoga",
+    "samatva",
+    "vairagya",
+    "bhakti",
+    "shraddha"
+   ],
+   "questions": [
+    {
+     "en": "The mind is restless, turbulent, stubborn and strong — I think it is as hard to hold as the wind. (6.33–34)",
+     "hi": "मन बड़ा चंचल, प्रमथनशील, जिद्दी और बलवान् है—इसे रोकना वायुको रोकनेकी तरह कठिन है। (६। ३३-३४)"
+    },
+    {
+     "en": "What happens to a seeker who has faith but whose effort is slack and whose mind strays at the end — is he lost like a scattered cloud? (6.37–38)",
+     "hi": "जिसकी श्रद्धा है पर प्रयत्न शिथिल है और अन्तमें मन योगसे विचलित हो जाय, उसकी क्या गति होती है—क्या वह छिन्न-भिन्न बादलकी तरह नष्ट हो जाता है? (६। ३७-३८)"
+    },
+    {
+     "en": "Who is the highest yogi?",
+     "hi": "सर्वश्रेष्ठ योगी कौन है?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 4,
+     "title": {
+      "en": "The true renunciate",
+      "hi": "सच्चा संन्यासी और योगी"
+     },
+     "summary": {
+      "en": "One who does his duty without depending on its fruit is both renunciate and yogi; action is the means for climbing to yoga, and giving up all desires marks one who has arrived.",
+      "hi": "कर्मफलका आश्रय न लेकर कर्तव्य करनेवाला ही संन्यासी और योगी है; योगारूढ़ होनेके लिये कर्म साधन है, और सब संकल्पोंका त्याग योगारूढ़का लक्षण है।"
+     }
+    },
+    {
+     "from": 5,
+     "to": 9,
+     "title": {
+      "en": "Your own friend",
+      "hi": "आप ही अपना मित्र"
+     },
+     "summary": {
+      "en": "Lift yourself by yourself; one who has conquered himself is his own friend, and stays even in heat and cold, honour and dishonour, toward friend and foe.",
+      "hi": "अपना उद्धार आप करे; जिसने अपनेको जीत लिया, वह आप ही अपना मित्र है और शीत-उष्ण, मान-अपमान, मित्र-शत्रुमें सम रहता है।"
+     }
+    },
+    {
+     "from": 10,
+     "to": 17,
+     "title": {
+      "en": "How to meditate",
+      "hi": "ध्यानकी विधि"
+     },
+     "summary": {
+      "en": "Sit alone on a steady seat, body erect, mind fixed on Me; yoga is not for one who eats or sleeps too much or too little, but for one measured in all things.",
+      "hi": "एकान्तमें स्थिर आसनपर सीधे बैठकर मन भगवान्में लगाये; अधिक या बिलकुल न खाने-सोनेवालेका नहीं, यथायोग्य आहार-विहारवालेका योग सिद्ध होता है।"
+     }
+    },
+    {
+     "from": 18,
+     "to": 23,
+     "title": {
+      "en": "The steady flame",
+      "hi": "स्थिर दीपशिखा"
+     },
+     "summary": {
+      "en": "The controlled mind is like a lamp's flame in a windless place; in that state one finds a joy beyond the senses, beside which no gain seems greater and no sorrow can shake one — this is yoga.",
+      "hi": "वशमें किया चित्त वायुरहित स्थानमें दीपककी लौकी तरह स्थिर होता है; उस अवस्थामें अतीन्द्रिय सुख मिलता है, जिससे बड़ा कोई लाभ नहीं दीखता और बड़ा दु:ख भी विचलित नहीं करता—यही योग है।"
+     }
+    },
+    {
+     "from": 24,
+     "to": 32,
+     "title": {
+      "en": "Seeing Me in all",
+      "hi": "सबमें मुझे देखना"
+     },
+     "summary": {
+      "en": "Gradually withdrawing the mind and bringing it back wherever it wanders, the yogi sees the Self in all and all in the Self; the devotee sees Me everywhere and is never lost to Me.",
+      "hi": "धीरे-धीरे उपराम होकर और भटकते मनको बार-बार लौटाकर योगी सबमें अपना स्वरूप देखता है; भक्त सबमें मुझे देखता है और वह मुझसे कभी अदृश्य नहीं होता।"
+     }
+    },
+    {
+     "from": 33,
+     "to": 36,
+     "title": {
+      "en": "The restless mind",
+      "hi": "चंचल मन"
+     },
+     "summary": {
+      "en": "Arjuna says the mind is as hard to hold as the wind; Krishna agrees, and says it is held by practice and dispassion.",
+      "hi": "अर्जुन कहते हैं कि मनको रोकना वायुकी तरह कठिन है; भगवान् सहमत होकर कहते हैं कि अभ्यास और वैराग्यसे इसका निग्रह होता है।"
+     }
+    },
+    {
+     "from": 37,
+     "to": 45,
+     "title": {
+      "en": "The one who falls short",
+      "hi": "योगभ्रष्टकी गति"
+     },
+     "summary": {
+      "en": "No one who does good comes to grief; the seeker who strays is born again in a pure, prosperous home or in a family of yogis, and his past practice carries him forward.",
+      "hi": "कल्याणकारी काम करनेवालेकी दुर्गति नहीं होती; योगभ्रष्ट शुद्ध श्रीमानोंके घरमें या योगियोंके कुलमें जन्म लेता है और पूर्वाभ्यास उसे आगे बढ़ाता है।"
+     }
+    },
+    {
+     "from": 46,
+     "to": 47,
+     "title": {
+      "en": "The highest yogi",
+      "hi": "सर्वश्रेष्ठ योगी"
+     },
+     "summary": {
+      "en": "The yogi is greater than ascetics, the learned and ritualists who act with desire; and of all yogis, the one who worships Me with faith, his mind absorbed in Me, is the highest.",
+      "hi": "योगी सकामभाववाले तपस्वियों, ज्ञानियों और कर्मियोंसे श्रेष्ठ है; और सब योगियोंमें मुझमें तल्लीन मनसे श्रद्धापूर्वक भजन करनेवाला भक्त सर्वश्रेष्ठ है।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "6.5",
+    "6.17",
+    "6.35",
+    "6.40",
+    "6.47"
+   ],
+   "motif": "flame"
+  }
+ ],
+ "verses": [
+  {
+   "id": "1.1",
+   "headline": {
+    "en": "\"What did my sons and Pandu's sons do?\"",
+    "hi": "मेरे और पाण्डुके पुत्रोंने क्या किया?"
+   },
+   "essence": {
+    "en": "Blind Dhritarashtra asks Sanjaya what happened on the field of Kurukshetra — and his very words reveal the split between 'mine' and 'theirs'.",
+    "hi": "धृतराष्ट्र संजयसे कुरुक्षेत्रका समाचार पूछते हैं और उनके शब्दोंमें ही ‘मेरे’ और ‘पराये’का भेद प्रकट हो जाता है।"
+   },
+   "idea": {
+    "en": "The Gita opens with a question from Dhritarashtra. Kurukshetra is called a 'field of dharma' because the gods performed sacrifice there and King Kuru did austerity there; even a war is fought on holy ground, keeping dharma in front. Swamiji points to the words Dhritarashtra chooses: he calls Duryodhana and the others 'mine' (mamakah) and the Pandavas simply 'Pandu's sons', though the Pandavas treated him like a father. What is inside a person comes out in his speech — this partiality, this sense of 'these are mine, those are others', is what brought grief to his whole family.",
+    "hi": "गीताका आरम्भ धृतराष्ट्रके प्रश्नसे होता है। देवताओंके यज्ञ और राजा कुरुकी तपस्याकी भूमि होनेसे कुरुक्षेत्रको धर्मक्षेत्र कहा गया है; युद्ध-जैसा कार्य भी धर्मको सामने रखकर तीर्थभूमिमें किया जाता है। स्वामीजी बताते हैं कि धृतराष्ट्र अपने पुत्रोंके लिये ‘मामका:’ और पाण्डवोंके लिये ‘पाण्डवा:’ कहते हैं, जबकि पाण्डव उन्हें पिताके समान मानते थे। जो भाव भीतर होते हैं, वे ही वाणीसे बाहर निकलते हैं। इसी द्वैधीभावके कारण धृतराष्ट्रको अपने कुलके संहारका दु:ख भोगना पड़ा।"
+   },
+   "points": [
+    {
+     "en": "Whatever work you do, keep dharma in front of you and do it for the good of all, not only for your own comfort.",
+     "hi": "कोई भी काम करना हो तो धर्मको सामने रखकर और सबके हितकी दृष्टिसे करना चाहिये, केवल अपने सुख-आरामकी दृष्टिसे नहीं।"
+    },
+    {
+     "en": "The feeling 'these are mine, those are others' — in a home, a village, a country or a sect — breeds quarrel, not love.",
+     "hi": "घर, गाँव, देश, सम्प्रदाय—कहीं भी ‘ये अपने हैं, ये दूसरे हैं’—ऐसा द्वैधीभाव कलह पैदा करता है, प्रेम नहीं।"
+    },
+    {
+     "en": "Duryodhana wanted war for the kingdom; the Pandavas came to fight only out of dharma — obedience to their mother Kunti.",
+     "hi": "दुर्योधन आदि राज्यको लेकर युयुत्सु थे, पर पाण्डव माता कुन्तीकी आज्ञा-पालनरूप धर्मको लेकर युद्धके लिये आये थे।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Churning curd",
+      "hi": "दही बिलोना"
+     },
+     "text": {
+      "en": "When curd is churned there is commotion, and butter comes out. In the same way, the commotion born of 'mine' versus 'Pandu's' led to the war, and the commotion in Arjuna's mind drew out the butter of the Gita.",
+      "hi": "दही बिलोनेपर हलचल होती है और मक्खन निकलता है। वैसे ही ‘मामका:’ और ‘पाण्डवा:’के भेदसे हुई हलचलसे अर्जुनमें कल्याणकी अभिलाषा जगी और गीतारूपी मक्खन निकला।"
+     },
+     "quote": {
+      "hi": "जैसे दही बिलोते हैं तो उसमें हलचल पैदा होती है, जिससे मक्खन निकलता है, ऐसे ही ‘मामका:’ और ‘पाण्डवा:’ के भेदसे पैदा हुई हलचलसे अर्जुनके मनमें कल्याणकी अभिलाषा जाग्रत् हुई, जिससे भगवद्गीतारूपी मक्खन निकला!"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "family",
+     "text": {
+      "en": "A parent who quietly treats one child as 'really mine' and a step-child as 'the other one' plants the same division Dhritarashtra did — it shows in small words long before it shows in big fights.",
+      "hi": "जो माता-पिता मन-ही-मन एक बच्चेको ‘अपना’ और दूसरेको ‘पराया’ मानते हैं, उनका यह भेद बड़े झगड़ोंसे बहुत पहले छोटे-छोटे शब्दोंमें ही दीखने लगता है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "The whole war — and so the whole Gita — begins from one inner division: 'mine' and 'not mine'. Watching that division in ourselves is where learning starts.",
+    "hi": "सारा युद्ध—और इसीलिये सारी गीता—एक भीतरी भेद ‘मेरे’ और ‘पराये’से आरम्भ होती है। अपने भीतर इस भेदको देखना ही सीखनेका आरम्भ है।"
+   },
+   "terms": [
+    {
+     "sa": "धर्मक्षेत्रे",
+     "meaning": {
+      "en": "in the field of dharma",
+      "hi": "धर्मभूमिमें"
+     }
+    },
+    {
+     "sa": "युयुत्सव:",
+     "meaning": {
+      "en": "eager to fight",
+      "hi": "युद्धकी इच्छावाले"
+     }
+    },
+    {
+     "sa": "मामका:",
+     "meaning": {
+      "en": "mine (my sons)",
+      "hi": "मेरे (पुत्र)"
+     }
+    },
+    {
+     "sa": "किम् अकुर्वत",
+     "meaning": {
+      "en": "what did they do?",
+      "hi": "क्या किया?"
+     }
+    }
+   ],
+   "concepts": [
+    "dharma",
+    "asakti"
+   ],
+   "related": [
+    "16.24",
+    "1.2",
+    "1.14"
+   ]
+  },
+  {
+   "id": "1.25",
+   "headline": {
+    "en": "\"Partha, behold these Kurus assembled here\"",
+    "hi": "हे पार्थ! इन इकट्ठे हुए कुरुवंशियोंको देख"
+   },
+   "essence": {
+    "en": "Krishna places the chariot before Bhishma and Drona and says 'see these Kurus' — deliberately awakening the family attachment hidden in Arjuna.",
+    "hi": "भगवान् भीष्म-द्रोणके सामने रथ खड़ा करके ‘कुरुओंको देख’ कहते हैं, जिससे अर्जुनके भीतर छिपा कौटुम्बिक मोह जाग्रत् हो जाय।"
+   },
+   "idea": {
+    "en": "Hrishikesha — the master of everyone's senses — becomes the one who obeys his devotee Arjuna and parks the chariot between the armies. He places it cleverly, right in front of Bhishma (a family tie) and Drona (a tie of learning). Arjuna had only asked to look; Krishna did not need to say 'Look'. Yet he says 'behold these Kurus' — not 'these sons of Dhritarashtra' — because 'Kurus' includes both sides. The intent, Swamiji says, is that Arjuna should feel 'we are all one family', so that his hidden attachment wakes up, he becomes a seeker, and the Gita can be given through him for the good of all.",
+    "hi": "सबकी इन्द्रियोंके स्वामी हृषीकेश भगवान् अपने सखा भक्त अर्जुनकी आज्ञाका पालन करते हुए दोनों सेनाओंके बीच रथ खड़ा करते हैं—वह भी चतुराईसे भीष्म (कौटुम्बिक सम्बन्ध) और द्रोण (विद्याका सम्बन्ध) के सामने। अर्जुनने तो स्वयं देखनेकी बात कही थी, भगवान्को ‘पश्य’ कहनेकी जरूरत नहीं थी। फिर भी भगवान् ‘धार्तराष्ट्रान्’ न कहकर ‘कुरून्’ कहते हैं, जिसमें दोनों पक्ष आ जाते हैं। इसका तात्पर्य है कि अर्जुनमें ‘हम सब एक ही हैं’—यह भाव जगकर छिपा हुआ मोह जाग्रत् हो जाय, अर्जुन जिज्ञासु बने और उन्हें निमित्त बनाकर गीताका उपदेश दिया जा सके।"
+   },
+   "points": [
+    {
+     "en": "The Lord listens to — and even obeys — the devotee who is not a slave to sleep, laziness or sense-pleasure.",
+     "hi": "जो निद्रा-आलस्य और विषय-भोगोंका दास नहीं, केवल भगवान्का दास है, उस भक्तकी बात भगवान् सुनते ही नहीं, मानते भी हैं।"
+    },
+    {
+     "en": "Had Krishna said 'see the sons of Dhritarashtra', Arjuna would have felt only the urge to fight, and the Gita would never have been spoken.",
+     "hi": "‘धार्तराष्ट्रोंको देख’ कहनेसे अर्जुनमें युद्धका जोश आता और गीताके प्राकट्यका अवसर ही नहीं आता।"
+    },
+    {
+     "en": "Family affection is centred on bodies and objects and makes one fall from duty; love for God is centred on feeling and never makes one fall from duty.",
+     "hi": "कौटुम्बिक स्नेहमें क्रिया-पदार्थकी मुख्यता है और मनुष्य कर्तव्यच्युत हो जाता है; भगवत्प्रेममें भावकी मुख्यता है और भक्त कभी कर्तव्यच्युत नहीं होता।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Family attachment",
+      "hi": "कौटुम्बिक स्नेह"
+     },
+     "items": [
+      {
+       "en": "Centred on actions and bodies",
+       "hi": "क्रिया और पदार्थकी मुख्यता"
+      },
+      {
+       "en": "Rooted in delusion (moha)",
+       "hi": "मूढ़ता-(मोह-)की मुख्यता"
+      },
+      {
+       "en": "Darkness",
+       "hi": "अँधेरा"
+      },
+      {
+       "en": "Makes one fall from duty",
+       "hi": "कर्तव्यच्युत कर देता है"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Love for God",
+      "hi": "भगवत्प्रेम"
+     },
+     "items": [
+      {
+       "en": "Centred on inner feeling",
+       "hi": "भावकी मुख्यता"
+      },
+      {
+       "en": "Rooted in true belonging",
+       "hi": "आत्मीयताकी मुख्यता"
+      },
+      {
+       "en": "Light",
+       "hi": "प्रकाश"
+      },
+      {
+       "en": "Never makes one fall from duty",
+       "hi": "भक्त कभी कर्तव्यच्युत नहीं होता"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "Ripening the boil",
+      "hi": "फोड़ेको पकाना"
+     },
+     "text": {
+      "en": "A physician first lets a boil ripen, then lances and cleans it. So the Lord first brings the devotee's hidden attachment to the surface — 'see these Kurus' — and then removes it through his teaching.",
+      "hi": "वैद्य फोड़ेको पहले पकाते हैं, फिर चीरा देकर साफ करते हैं। ऐसे ही भगवान् ‘कुरून् पश्य’ कहकर भक्तके छिपे मोहको पहले जाग्रत् करते हैं, फिर उपदेशसे मिटाते हैं।"
+     },
+     "quote": {
+      "hi": "जैसे कोई फोड़ा हो जाता है तो वैद्यलोग पहले उसको पकानेकी चेष्टा करते हैं और जब वह पक जाता है, तब उसको चीरा देकर साफ कर देते हैं; ऐसे ही भगवान् भक्तके भीतर छिपे हुए मोहको पहले जाग्रत् करके फिर उसको मिटाते हैं।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "therapy",
+     "text": {
+      "en": "A good counsellor sometimes asks the one question that brings a buried feeling up — not to hurt, but because what stays hidden cannot be healed.",
+      "hi": "अच्छा परामर्शदाता कभी-कभी ऐसा प्रश्न पूछता है जिससे दबी भावना ऊपर आ जाय—दु:ख देनेके लिये नहीं, बल्कि इसलिये कि छिपी बात ठीक नहीं हो सकती।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Arjuna's crisis is not an accident; it is the Lord's kindness bringing hidden attachment into the open so that it can be removed.",
+    "hi": "अर्जुनका संकट आकस्मिक नहीं है; यह भगवान्की कृपा है, जो छिपे मोहको सामने लाती है ताकि उसे मिटाया जा सके।"
+   },
+   "terms": [
+    {
+     "sa": "गुडाकेश",
+     "meaning": {
+      "en": "master of sleep (Arjuna)",
+      "hi": "निद्राविजयी (अर्जुन)"
+     }
+    },
+    {
+     "sa": "हृषीकेश:",
+     "meaning": {
+      "en": "lord of the senses (Krishna)",
+      "hi": "इन्द्रियोंके स्वामी (श्रीकृष्ण)"
+     }
+    },
+    {
+     "sa": "रथोत्तमम्",
+     "meaning": {
+      "en": "the finest chariot",
+      "hi": "श्रेष्ठ रथको"
+     }
+    },
+    {
+     "sa": "समवेतान् कुरून् पश्य",
+     "meaning": {
+      "en": "behold the assembled Kurus",
+      "hi": "इकट्ठे हुए कुरुवंशियोंको देख"
+     }
+    }
+   ],
+   "concepts": [
+    "asakti",
+    "bhakti"
+   ],
+   "related": [
+    "1.21",
+    "1.22",
+    "1.23",
+    "18.78"
+   ]
+  },
+  {
+   "id": "1.28",
+   "headline": {
+    "en": "Seeing his own people, Arjuna's body gives way",
+    "hi": "स्वजनोंको देखकर अर्जुनके अंग शिथिल हो गये"
+   },
+   "essence": {
+    "en": "Faced with kinsmen on both sides, Arjuna's grief shows in his body: limbs fail, mouth dries, the Gandiva slips, his mind reels.",
+    "hi": "दोनों ओर स्वजनोंको देखकर अर्जुनका शोक शरीरपर दीखने लगता है—अंग शिथिल, मुख सूखना, गाण्डीवका गिरना, मनका भ्रमित होना।"
+   },
+   "idea": {
+    "en": "Arjuna says 'svajanam' — my own people — and includes both armies in it. Dhritarashtra saw 'mine' and 'Pandu's'; Arjuna sees no such split, and grieves that whoever dies, on either side, is family. Yet the same Arjuna who a moment ago lifted his bow in valour on seeing Dhritarashtra's sons is now overcome by faintheartedness on seeing his kin. The worry about the war's outcome spreads through his whole body: his limbs go slack, his mouth dries, he trembles, his hair stands on end, the Gandiva — whose twang frightened enemies — slips from his hand, his skin burns, and he cannot even stand.",
+    "hi": "अर्जुन ‘स्वजनम्’ कहते हैं, जिसमें दोनों पक्षके लोग आ जाते हैं। धृतराष्ट्रकी दृष्टिमें ‘मेरे’ और ‘पाण्डुके’—यह भेद था, पर अर्जुनकी दृष्टिमें यह भेद नहीं है; किसी भी तरफका कोई मरे, है तो अपना कुटुम्बी। वही अर्जुन जो धृतराष्ट्र-पुत्रोंको देखकर वीरतामें धनुष उठाकर खड़े हुए थे, अब स्वजनोंको देखकर कायरतासे आविष्ट हो रहे हैं। युद्धके भावी परिणामकी चिन्ताका असर सारे शरीरपर पड़ रहा है—अंग शिथिल, मुख सूखना, कँपकँपी, रोमांच, गाण्डीवका हाथसे गिरना, त्वचामें जलन, और रथपर खड़े रहनेमें भी असमर्थता।"
+   },
+   "points": [
+    {
+     "en": "Arjuna's grief is wider than Dhritarashtra's: he fears for both sides, not only for his own sons.",
+     "hi": "अर्जुनका शोक धृतराष्ट्रसे व्यापक है—उन्हें दोनों ओरके कुटुम्बियोंके मरनेकी आशंका है।"
+    },
+    {
+     "en": "The same person can 'see' in two ways — with valour one moment and with faintheartedness the next — depending on what the mind is attached to.",
+     "hi": "एक ही व्यक्तिका देखना दो तरहका हो सकता है—कभी वीरतासे, कभी कायरतासे; यह मनकी आसक्तिपर निर्भर है।"
+    },
+    {
+     "en": "Inner worry and grief do not stay inside; they show up in the body.",
+     "hi": "भीतरकी चिन्ता और दु:खका असर शरीरपर भी पड़ता है।"
+    }
+   ],
+   "examples": [],
+   "modern": [
+    {
+     "context": "anxiety",
+     "text": {
+      "en": "Before a hard conversation with a parent, your mouth goes dry and your hands shake — the body often reports the mind's conflict before words do.",
+      "hi": "माता-पितासे कठिन बात करनेसे पहले मुँह सूखना और हाथ काँपना—मनका द्वन्द्व अक्सर शब्दोंसे पहले शरीरमें दीखता है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "This is the point where Arjuna's inner conflict becomes visible; the rest of the Gita is the cure for exactly this state.",
+    "hi": "यहीं अर्जुनका भीतरी द्वन्द्व प्रकट होता है; आगेकी सारी गीता इसी अवस्थाकी औषध है।"
+   },
+   "terms": [
+    {
+     "sa": "स्वजनम्",
+     "meaning": {
+      "en": "one's own people, kinsmen",
+      "hi": "कुटुम्ब-समुदायको"
+     }
+    },
+    {
+     "sa": "सीदन्ति मम गात्राणि",
+     "meaning": {
+      "en": "my limbs give way",
+      "hi": "मेरे अंग शिथिल हो रहे हैं"
+     }
+    },
+    {
+     "sa": "गाण्डीवं स्रंसते",
+     "meaning": {
+      "en": "the Gandiva bow slips",
+      "hi": "गाण्डीव धनुष गिर रहा है"
+     }
+    },
+    {
+     "sa": "भ्रमतीव च मे मन:",
+     "meaning": {
+      "en": "my mind is reeling",
+      "hi": "मेरा मन भ्रमित-सा हो रहा है"
+     }
+    }
+   ],
+   "concepts": [
+    "asakti"
+   ],
+   "related": [
+    "1.1",
+    "1.2",
+    "1.20",
+    "18.78"
+   ]
+  },
+  {
+   "id": "1.47",
+   "headline": {
+    "en": "Arjuna casts aside his bow and sits down",
+    "hi": "अर्जुन धनुष-बाण छोड़कर रथमें बैठ गये"
+   },
+   "essence": {
+    "en": "Overwhelmed by grief, Arjuna lays down bow and arrows and sinks into the chariot — such is the power of attachment (moha).",
+    "hi": "शोकसे व्याकुल अर्जुन बाणसहित धनुष रखकर रथके मध्यभागमें बैठ जाते हैं—यह मोहकी ही महिमा है।"
+   },
+   "idea": {
+    "en": "Having argued with reasons and scripture that war is the root of every evil, that the family will be destroyed and hell will follow, Arjuna makes a firm decision not to fight. On the very battlefield he had entered with enthusiasm, he puts down the Gandiva with his left hand and the arrow with his right, and sits down in grief right where he had stood to view the armies. Swamiji traces this to one cause: once the chariot was placed before Bhishma and Drona, attachment woke up and filled his heart, so that he even saw his own death as a good thing.",
+    "hi": "युद्ध सम्पूर्ण अनर्थोंका मूल है, कुटुम्बका नाश होगा, नरक मिलेगा—ऐसी बातें युक्ति और प्रमाणसे कहकर शोकाकुल अर्जुनने युद्ध न करनेका पक्का निर्णय कर लिया। जिस रणभूमिमें वे उत्साहसे आये थे, वहीं उन्होंने बायें हाथसे गाण्डीव और दायें हाथसे बाण नीचे रख दिया और जहाँ सेनाएँ देखनेके लिये खड़े थे, वहीं शोकमुद्रामें बैठ गये। स्वामीजी इसका कारण बताते हैं—भीष्म-द्रोणके सामने रथ खड़ा होनेसे मोह जाग्रत् हुआ और अन्त:करणमें मोह छा जानेसे अर्जुन अपने मरनेमें भी हित देखने लगे।"
+   },
+   "points": [
+    {
+     "en": "Arjuna's arguments sound reasonable, but they arise from attachment, not from clear discernment.",
+     "hi": "अर्जुनकी दलीलें युक्तियुक्त दीखती हैं, पर वे विवेकसे नहीं, मोहसे पैदा हुई हैं।"
+    },
+    {
+     "en": "The one who came ready to fight now sits in despair — this reversal is the work of moha.",
+     "hi": "जो धनुष उठाकर युद्धके लिये तैयार थे, वही शोकसे व्याकुल होकर बैठ गये—यह मोहकी ही महिमा है।"
+    }
+   ],
+   "examples": [],
+   "modern": [
+    {
+     "context": "decisions",
+     "text": {
+      "en": "When fear of hurting people we love takes over, we can build a very convincing case for quitting something we know is our responsibility.",
+      "hi": "जब अपनोंको दु:ख पहुँचनेका डर हावी हो जाता है, तब हम अपनी जिम्मेवारी छोड़नेके लिये भी बहुत ठोस-सी दलीलें बना लेते हैं।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "The chapter ends with Arjuna collapsed; his despair sets the stage for Krishna's teaching, which begins only when Arjuna turns to him.",
+    "hi": "अध्याय अर्जुनके विषादमें समाप्त होता है; यही विषाद भगवान्के उपदेशकी भूमिका बनता है।"
+   },
+   "terms": [
+    {
+     "sa": "शोकसंविग्नमानस:",
+     "meaning": {
+      "en": "with a mind overwhelmed by grief",
+      "hi": "शोकाकुल मनवाले"
+     }
+    },
+    {
+     "sa": "सशरं चापम्",
+     "meaning": {
+      "en": "bow along with arrows",
+      "hi": "बाणसहित धनुष"
+     }
+    },
+    {
+     "sa": "रथोपस्थे",
+     "meaning": {
+      "en": "in the middle of the chariot",
+      "hi": "रथके मध्यभागमें"
+     }
+    },
+    {
+     "sa": "सङ्ख्ये",
+     "meaning": {
+      "en": "on the battlefield",
+      "hi": "युद्धभूमिमें"
+     }
+    }
+   ],
+   "concepts": [
+    "asakti"
+   ],
+   "related": [
+    "1.25",
+    "1.46"
+   ]
+  },
+  {
+   "id": "3.9",
+   "headline": {
+    "en": "Action done for others does not bind",
+    "hi": "यज्ञार्थ कर्म बाँधते नहीं"
+   },
+   "essence": {
+    "en": "Actions done for oneself bind; actions done as yajna — duty for the good of others — free. So act, without attachment, for that.",
+    "hi": "अपने लिये किये कर्म बाँधते हैं; यज्ञ अर्थात् दूसरोंके हितके लिये किये कर्तव्य-कर्म मुक्त करते हैं। अत: आसक्तिरहित होकर उसीके लिये कर्म कर।"
+   },
+   "idea": {
+    "en": "In the Gita, 'yajna' means every duty: not only sacrifice, charity and austerity, but also business, a job, study and teaching done as duty, and anything done for the happiness and good of others. Everything done for one's own comfort, honour or praise is 'other-action' (anyatra-karma), and that is what binds. Swamiji is emphatic: a person is not bound by actions but by the attachment and selfishness he keeps in them. So Krishna does not tell Arjuna to give up action — he tells him to act, free of attachment, for yajna.",
+    "hi": "गीताके अनुसार कर्तव्यमात्रका नाम ‘यज्ञ’ है—यज्ञ, दान, तप ही नहीं, कर्तव्य मानकर किये जानेवाले व्यापार, नौकरी, अध्ययन, अध्यापन आदि तथा दूसरोंके सुख और हितके लिये किये जानेवाले सभी कर्म यज्ञार्थ हैं। अपने सुख, मान, बड़ाई, आराम आदिके लिये किये कर्म ‘अन्यत्र-कर्म’ हैं और वे ही बाँधते हैं। स्वामीजी कहते हैं—मनुष्य कर्मोंसे नहीं बँधता, कर्मोंमें रखी आसक्ति और स्वार्थभावसे बँधता है। इसलिये भगवान् कर्मोंके त्यागको नहीं, आसक्तिरहित होकर यज्ञके लिये कर्म करनेको कहते हैं।"
+   },
+   "points": [
+    {
+     "en": "What is forbidden is not action but the desire for gain in it.",
+     "hi": "कर्मका निषेध नहीं है, प्रत्युत सकामभावका निषेध है।"
+    },
+    {
+     "en": "Bondage comes from the inner attitude, not from the activity itself.",
+     "hi": "बन्धन भावसे होता है, क्रियासे नहीं।"
+    },
+    {
+     "en": "Even one's own body, senses, mind and intellect are 'others' — received from the world, to be used in the world's service.",
+     "hi": "अपने कहलानेवाले शरीर, इन्द्रियाँ, मन, बुद्धि भी स्वयंसे ‘दूसरे’ ही हैं—संसारसे मिले हैं, संसारकी सेवाके लिये हैं।"
+    },
+    {
+     "en": "'Action' is for the world; the 'union' (yoga) with God that follows the breaking of ties with the world is for oneself — this is karma-yoga.",
+     "hi": "‘कर्म’ संसारके लिये है और संसारसे सम्बन्ध-विच्छेद होनेपर परमात्माके साथ ‘योग’ अपने लिये है—इसीका नाम कर्मयोग है।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Binds (anyatra-karma)",
+      "hi": "बाँधनेवाले (अन्यत्र-कर्म)"
+     },
+     "items": [
+      {
+       "en": "Done for one's own comfort, honour, praise",
+       "hi": "अपने सुख, मान, बड़ाई, आरामके लिये"
+      },
+      {
+       "en": "Done with desire for its fruit",
+       "hi": "सकामभावसे"
+      },
+      {
+       "en": "Polite words spoken to create a good impression of oneself",
+       "hi": "अपना अच्छा असर पड़े—इस भावसे कहे आदरसूचक शब्द"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Frees (yajnartha-karma)",
+      "hi": "मुक्त करनेवाले (यज्ञार्थ कर्म)"
+     },
+     "items": [
+      {
+       "en": "Done as duty, for the good of others",
+       "hi": "कर्तव्य मानकर, दूसरोंके हितके लिये"
+      },
+      {
+       "en": "Done without attachment",
+       "hi": "आसक्तिरहित होकर"
+      },
+      {
+       "en": "Even japa and meditation done for the good of the world",
+       "hi": "जप, ध्यान आदि भी लोकहितके लिये"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "The shopkeeper's mind",
+      "hi": "व्यापारीकी वृत्ति"
+     },
+     "text": {
+      "en": "A trader's main aim is money, so the moment he closes his shop his mind turns to money. In the same way, a karma-yogi's aim is God, so when his work ends his mind naturally turns to God.",
+      "hi": "व्यापारीका उद्देश्य धन है, इसलिये दुकान बंद करते ही उसकी वृत्ति धनकी ओर जाती है। ऐसे ही कर्मयोगीका उद्देश्य परमात्मा है, इसलिये कर्म समाप्त होते ही उसकी वृत्ति परमात्माकी ओर जाती है।"
+     },
+     "quote": {
+      "hi": "जैसे व्यापारीका प्रधान उद्देश्य धन कमाना रहता है; अत: वास्तवमें उसकी स्थिति धनमें ही रहती है और दुकान बंद करते ही उसकी वृत्ति धनकी तरफ चली जाती है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Asking a question to be admired",
+      "hi": "अच्छा जानकार दीखनेके लिये प्रश्न"
+     },
+     "text": {
+      "en": "Someone asks a question in a satsang so that the speaker and listeners will think him knowledgeable. The act looks good, but because it is done for his own image, it is 'other-action', not yajna.",
+      "hi": "कोई सत्संगमें इसलिये प्रश्न करता है कि लोग मुझे अच्छा जानकार समझें। क्रिया अच्छी दीखती है, पर अपनी छवि बनानेके भावसे होनेके कारण यह ‘अन्यत्र-कर्म’ है, यज्ञार्थ कर्म नहीं।"
+     },
+     "quote": {
+      "hi": "सत्संग, सभा आदिमें कोई व्यक्ति मनमें इस भावको रखते हुए प्रश्न करता है कि वक्ता और श्रोतागण मुझे अच्छा जानकार समझेंगे तथा उनपर मेरा अच्छा असर पड़ेगा तो यह ‘अन्यत्र-कर्म’ ही है, यज्ञार्थ कर्म नहीं।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "social media",
+     "text": {
+      "en": "The same helpful post can be yajna or 'other-action' — it depends on whether you wrote it to help the reader or to collect likes for yourself.",
+      "hi": "एक ही उपयोगी पोस्ट यज्ञ भी हो सकती है और ‘अन्यत्र-कर्म’ भी—यह इसपर निर्भर है कि वह पढ़नेवालेके हितके लिये लिखी गयी या अपने लिये लाइक बटोरनेके लिये।"
+     }
+    },
+    {
+     "context": "career",
+     "text": {
+      "en": "Doing your job as duty — for the people it serves — rather than only for your next appraisal, is what Swamiji means by treating a job as yajna.",
+      "hi": "नौकरीको केवल अगले प्रमोशनके लिये नहीं, बल्कि जिनके लिये वह काम है उनके हितके लिये कर्तव्य मानकर करना—यही नौकरीको यज्ञ बनाना है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "This answers Arjuna's fear that action must bind: the problem was never action, only doing it for oneself.",
+    "hi": "यह अर्जुनकी इस आशंकाका उत्तर है कि कर्म बाँधेगा ही: समस्या कर्ममें नहीं, अपने लिये कर्म करनेमें है।"
+   },
+   "terms": [
+    {
+     "sa": "यज्ञार्थात्",
+     "meaning": {
+      "en": "done for yajna (duty for others)",
+      "hi": "यज्ञ (कर्तव्य-पालन) के लिये किये जानेवाले"
+     }
+    },
+    {
+     "sa": "अन्यत्र",
+     "meaning": {
+      "en": "other than that (actions done for oneself)",
+      "hi": "अन्यत्र (अपने लिये किये जानेवाले कर्मोंमें)"
+     }
+    },
+    {
+     "sa": "कर्मबन्धन:",
+     "meaning": {
+      "en": "bound by actions",
+      "hi": "कर्मोंसे बँधता है"
+     }
+    },
+    {
+     "sa": "मुक्तसङ्ग:",
+     "meaning": {
+      "en": "free from attachment",
+      "hi": "आसक्तिरहित होकर"
+     }
+    }
+   ],
+   "concepts": [
+    "yajna",
+    "karma",
+    "nishkama-karma",
+    "asakti"
+   ],
+   "related": [
+    "4.23",
+    "3.13",
+    "3.14",
+    "3.22",
+    "3.23",
+    "18.9"
+   ]
+  },
+  {
+   "id": "3.19",
+   "headline": {
+    "en": "Do your duty, always unattached",
+    "hi": "निरन्तर आसक्तिरहित होकर कर्तव्य कर"
+   },
+   "essence": {
+    "en": "Therefore, constantly free of attachment, do well the work that is your duty — by acting without attachment a person attains the Supreme.",
+    "hi": "इसलिये निरन्तर आसक्तिरहित होकर कर्तव्य-कर्मका भलीभाँति आचरण कर; आसक्तिरहित होकर कर्म करनेवाला मनुष्य परमात्माको प्राप्त हो जाता है।"
+   },
+   "idea": {
+    "en": "The realised person has nothing left to gain from acting or not acting, yet work goes on through him for the good of the world. 'Therefore', Krishna tells Arjuna, act the same way. Attachment — the pull toward things of a different nature from our real self — is what causes downfall, not action. It comes from taking 'I am the body' and 'the body is mine' as true. Actions come and go, but attachment stays in the mind continuously, which is why Krishna says 'always unattached'. When we work only for others and want nothing back, the old debt to the world is repaid, no new debt is created, and freedom comes on its own.",
+    "hi": "सिद्ध महापुरुषको कर्म करने या न करनेसे कोई प्रयोजन नहीं रहता, फिर भी उसके द्वारा लोकहितार्थ क्रियाएँ होती हैं। ‘इसलिये’ तू भी इसी तरह कर्म कर। अपने स्वरूपसे विजातीय जड पदार्थोंके प्रति आकर्षणका नाम आसक्ति है; आसक्ति ही पतन करनेवाली है, कर्म नहीं। ‘मैं शरीर हूँ’, ‘शरीर मेरा है’—ऐसा माननेसे आसक्ति होती है। कोई भी कर्म निरन्तर नहीं रहता, पर आसक्ति निरन्तर रहती है, इसलिये भगवान् ‘सततम् असक्त:’ कहते हैं। केवल दूसरोंके हितके लिये कर्म करनेसे संसारका पुराना ऋण उतर जाता है और कुछ न चाहनेसे नया ऋण नहीं बनता; तब मनुष्य स्वत: मुक्त हो जाता है।"
+   },
+   "points": [
+    {
+     "en": "Attachment, not action, is what makes a person fall.",
+     "hi": "आसक्ति ही पतन करनेवाली है, कर्म नहीं।"
+    },
+    {
+     "en": "Duty means giving up self-interest to meet others' rightful needs, as far as one is able — and everyone is free and able to do it in every situation.",
+     "hi": "कर्तव्यका अर्थ है—स्वार्थका त्याग करके दूसरोंकी न्याययुक्त माँगको अपनी सामर्थ्यके अनुसार पूरा करना; इसमें कोई पराधीन और असमर्थ नहीं है।"
+    },
+    {
+     "en": "Serving others removes present attachment; wanting nothing removes future attachment.",
+     "hi": "दूसरोंके हितार्थ कर्म करनेसे वर्तमानकी आसक्ति और कुछ न चाहनेसे भविष्यकी आसक्ति मिट जाती है।"
+    },
+    {
+     "en": "'Samachara' means doing duty with great care, enthusiasm and promptness — a little carelessness can obstruct karma-yoga.",
+     "hi": "‘समाचर’का तात्पर्य है—कर्तव्य-कर्म बहुत सावधानी, उत्साह और तत्परतासे करना; थोड़ी असावधानी भी कर्मयोगकी सिद्धिमें बाधा बन सकती है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The office furniture",
+      "hi": "कार्यालयकी सामग्री"
+     },
+     "text": {
+      "en": "At an office you get a chair, desk and paper to do the office's work — not to take home as your own. Likewise the body and all our belongings are given to us for serving the world. The work is for the office and the salary is for you; the work is for the world, and yoga with God is your 'salary'.",
+      "hi": "कार्यालयमें कुर्सी, मेज, कागज कार्यालयका काम करनेके लिये मिलते हैं, घर ले जानेके लिये नहीं। ऐसे ही शरीरादि सामग्री संसारकी सेवाके लिये मिली है। काम कार्यालयके लिये और वेतन अपने लिये—ऐसे ही कर्म संसारके लिये और योग मानो अपना वेतन है।"
+     },
+     "quote": {
+      "hi": "जैसे मनुष्य काम करनेके लिये किसी कार्यालय (आफिस)-में जाता है तो उसे कुर्सी, मेज, कागज आदि सब सामग्री कार्यालयका काम करनेके लिये ही मिलती है, अपनी मानकर घर ले जानेके लिये नहीं। ऐसे ही मनुष्यको संसारमें शरीरादि सब सामग्री संसारका काम (सेवा) करनेके लिये ही मिली है, अपनी माननेके लिये नहीं।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Volunteers at a fair",
+      "hi": "मेलेके स्वयंसेवक"
+     },
+     "text": {
+      "en": "Volunteers at a fair serve pilgrims all day and want nothing in return, so at night no one's memory troubles them. Whoever works for others and wants no honour or praise is likewise not haunted by the world.",
+      "hi": "मेलेमें स्वयंसेवक दिनभर यात्रियोंकी सेवा करते हैं और बदलेमें कुछ नहीं चाहते, इसलिये रातमें उन्हें किसीकी याद नहीं आती। ऐसे ही जो दूसरोंके लिये कर्म करता है और मान-बड़ाई नहीं चाहता, उसे संसारकी याद नहीं आती।"
+     },
+     "quote": {
+      "hi": "मेलेमें स्वयंसेवक अपना कर्तव्य समझकर दिनभर यात्रियोंकी सेवा करते हैं और बदलेमें किसीसे कुछ नहीं चाहते; अत: रात्रिमें सोते समय उन्हें किसीकी याद नहीं आती।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The actor playing Harishchandra",
+      "hi": "नाटकमें हरिश्चन्द्रका स्वाँग"
+     },
+     "text": {
+      "en": "An actor playing King Harishchandra does all of Harishchandra's actions, but never believes he is the real Harishchandra, and drops the role when the play ends. A karma-yogi's doership, too, lasts only as long as the action.",
+      "hi": "नाटकमें हरिश्चन्द्र बना व्यक्ति सब क्रियाएँ करते हुए भी अपनेको वास्तविक हरिश्चन्द्र नहीं मानता और नाटक समाप्त होते ही स्वाँग छोड़ देता है। ऐसे ही कर्मयोगीका कर्तापन केवल क्रिया करनेतक सीमित रहता है।"
+     },
+     "quote": {
+      "hi": "जैसे नाटकमें हरिश्चन्द्रका स्वाँग नाटक-(खेल-) के लिये ही होता है, और नाटक समाप्त होते ही हरिश्चन्द्ररूप स्वाँगका स्वाँगके साथ ही त्याग हो जाता है, ऐसे ही कर्मयोगीका कर्तापन भी स्वाँगके समान केवल क्रिया करनेतक ही सीमित रहता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "roles",
+     "text": {
+      "en": "A senior manager who can sweep the floor at a volunteer event without feeling 'this is beneath me' is holding the role only while doing the role — exactly Swamiji's point about the lecturer who can also clean a room.",
+      "hi": "जो बड़ा अधिकारी किसी सेवा-कार्यमें झाड़ू लगाते हुए यह नहीं सोचता कि ‘यह मेरे लायक नहीं’, वह पदको केवल काम करते समयतक ही मानता है—यही स्वामीजीके व्याख्यानदाता और कमरा-सफाईवाले उदाहरणका भाव है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It turns the ideal of the realised sage into a practice anyone can start: work for others, want nothing, and stay alert against attachment.",
+    "hi": "यह सिद्ध महापुरुषकी स्थितिको ऐसा साधन बना देता है जिसे कोई भी आरम्भ कर सकता है: दूसरोंके लिये कर्म करो, कुछ मत चाहो, और आसक्तिसे सावधान रहो।"
+   },
+   "terms": [
+    {
+     "sa": "असक्त:",
+     "meaning": {
+      "en": "without attachment",
+      "hi": "आसक्तिरहित होकर"
+     }
+    },
+    {
+     "sa": "सततम्",
+     "meaning": {
+      "en": "constantly",
+      "hi": "निरन्तर"
+     }
+    },
+    {
+     "sa": "कार्यं कर्म",
+     "meaning": {
+      "en": "action that is duty",
+      "hi": "कर्तव्य-कर्म"
+     }
+    },
+    {
+     "sa": "समाचर",
+     "meaning": {
+      "en": "perform well",
+      "hi": "भलीभाँति आचरण कर"
+     }
+    },
+    {
+     "sa": "परम् आप्नोति",
+     "meaning": {
+      "en": "attains the Supreme",
+      "hi": "परमात्माको प्राप्त हो जाता है"
+     }
+    }
+   ],
+   "concepts": [
+    "asakti",
+    "karma",
+    "nishkama-karma"
+   ],
+   "related": [
+    "3.17",
+    "3.18",
+    "13.21",
+    "18.47",
+    "18.48",
+    "13.34",
+    "5.4",
+    "5.5"
+   ]
+  },
+  {
+   "id": "3.27",
+   "headline": {
+    "en": "Nature acts — the deluded ego says \"I am the doer\"",
+    "hi": "कर्म प्रकृतिके गुणोंसे होते हैं, अहंकारी ‘मैं कर्ता हूँ’ मान लेता है"
+   },
+   "essence": {
+    "en": "All actions are done by the gunas of prakriti; one whose mind is deluded by ego assumes, 'I am the doer.'",
+    "hi": "सम्पूर्ण कर्म प्रकृतिके गुणोंद्वारा किये जाते हैं; अहंकारसे मोहित अन्त:करणवाला मनुष्य ‘मैं कर्ता हूँ’—ऐसा मान लेता है।"
+   },
+   "idea": {
+    "en": "The same universal power that makes trees grow, rivers flow and buildings change also carries out our seeing, hearing and eating. Out of ignorance a person splits these into 'things that just happen' (digestion, growth) and 'things I do' (seeing, speaking), and claims the second group as his own. The ego is only a function of the inner instrument; the real self knows it. Mistaking that function for oneself — taking 'this' for 'I' — is what makes one 'deluded by ego'. Since this is an assumption we made, we can undo it by not accepting it, through discernment.",
+    "hi": "जिस समष्टि शक्तिसे वृक्ष बढ़ते हैं, नदियाँ बहती हैं, मकानोंमें परिवर्तन होता है, उसी शक्तिसे मनुष्यकी देखना, सुनना, खाना आदि क्रियाएँ होती हैं। अज्ञानवश मनुष्य इनके दो विभाग कर लेता है—स्वत: होनेवाली (भोजन पचना आदि) और ज्ञानपूर्वक होनेवाली (देखना, बोलना आदि)—और दूसरीको अपने द्वारा की हुई मान लेता है। अहंकार अन्त:करणकी एक वृत्ति है, स्वयं उसका ज्ञाता है। उस वृत्तिको अपना स्वरूप मान लेना—‘इदम्’को ‘अहम्’ मान लेना—ही अहंकारविमूढात्मा होना है। यह मान्यता स्वयंकी की हुई है, इसलिये विवेकपूर्वक ‘न मानने’से मिट सकती है।"
+   },
+   "points": [
+    {
+     "en": "The assumed ego is not removed by effort, because effort itself contains ego; it is removed by non-acceptance.",
+     "hi": "माना हुआ अहंकार उद्योग करनेसे नहीं मिटता, क्योंकि उद्योगमें भी अहंकार रहता है; यह ‘न मानने’से मिटता है।"
+    },
+    {
+     "en": "There are two 'I's: the real 'I am' (bare existence), which can be forgotten but never destroyed; and the assumed 'I am the body', which can appear but never last.",
+     "hi": "‘अहम्’ दो प्रकारका है—वास्तविक (‘मैं हूँ’), जो विस्मृत हो सकता है पर मिट नहीं सकता; और माना हुआ (‘मैं शरीर हूँ’), जो प्रतीत हो सकता है पर टिक नहीं सकता।"
+    },
+    {
+     "en": "The moment one takes oneself to be the doer, one also becomes the enjoyer of the fruit — whoever is the doer is the one who reaps.",
+     "hi": "अपनेको कर्ता मानते ही कर्मफलका भोक्ता बनना पड़ता है; क्योंकि जो कर्ता होता है, वही भोक्ता होता है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The wave and the ocean",
+      "hi": "लहर और समुद्र"
+     },
+     "text": {
+      "en": "A wave is of the same stuff as the ocean and has no existence apart from it. The body likewise belongs to the world and has no existence apart from it. We don't call the world 'I', yet by mistake we call the body 'I'.",
+      "hi": "लहर समुद्रका ही अंश है और समुद्रके बिना उसका अपना अस्तित्व नहीं। ऐसे ही शरीर संसारका अंश है। मनुष्य संसारको ‘मैं’ नहीं मानता, पर भूलसे शरीरको ‘मैं’ मान लेता है।"
+     },
+     "quote": {
+      "hi": "जिस प्रकार समुद्रका ही अंश होनेके कारण लहर और समुद्रमें जातीय एकता है अर्थात् जिस जातिकी लहर है, उसी जातिका समुद्र है, उसी प्रकार संसारका ही अंश होनेके कारण शरीरकी संसारसे जातीय एकता है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Unlettered, then learned",
+      "hi": "अपढ़से विद्वान्"
+     },
+     "text": {
+      "en": "An uneducated man says 'I am ignorant'; after study the same man says 'I am learned'. The assumed 'I' changed, but his existence — 'I am' — did not.",
+      "hi": "अपढ़ व्यक्ति कहता है ‘मैं मूर्ख हूँ’, पढ़नेके बाद वही कहता है ‘मैं विद्वान् हूँ’। माना हुआ ‘अहम्’ बदल गया, पर अपनी सत्ता ‘मैं हूँ’ नहीं बदली।"
+     },
+     "quote": {
+      "hi": "जैसे, कोई व्यक्ति पढ़ा-लिखा नहीं है, तो वह कहता है कि ‘मैं मूर्ख हूँ, अपढ़ हूँ’ और पढ़-लिखकर वही व्यक्ति कहता है कि ‘मैं विद्वान् हूँ, पढ़ा-लिखा हूँ’। इस प्रकार ‘अहम्’ के बदलनेपर भी अपनी सत्ता (‘मैं हूँ’) नहीं बदली ।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "identity",
+     "text": {
+      "en": "'I'm a topper', 'I'm a failure', 'I'm a founder' — these labels keep changing; the one who is aware of each of them has stayed the same through all of them.",
+      "hi": "‘मैं टॉपर हूँ’, ‘मैं असफल हूँ’, ‘मैं संस्थापक हूँ’—ये पहचानें बदलती रहती हैं; इन सबको जाननेवाला ‘मैं’ सदा वही रहता है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Bondage rests on one assumption — 'I am the doer'. Seeing that actions happen in prakriti loosens the root of both pride and anxiety about results.",
+    "hi": "बन्धन एक मान्यतापर टिका है—‘मैं कर्ता हूँ’। यह देखना कि क्रियाएँ प्रकृतिमें होती हैं, अभिमान और फलकी चिन्ता—दोनोंकी जड़ ढीली कर देता है।"
+   },
+   "terms": [
+    {
+     "sa": "प्रकृते: गुणै:",
+     "meaning": {
+      "en": "by the gunas of prakriti",
+      "hi": "प्रकृतिके गुणोंद्वारा"
+     }
+    },
+    {
+     "sa": "क्रियमाणानि",
+     "meaning": {
+      "en": "are being done",
+      "hi": "किये जाते हैं"
+     }
+    },
+    {
+     "sa": "अहङ्कारविमूढात्मा",
+     "meaning": {
+      "en": "one whose mind is deluded by ego",
+      "hi": "अहंकारसे मोहित अन्त:करणवाला"
+     }
+    },
+    {
+     "sa": "कर्ता अहम् इति मन्यते",
+     "meaning": {
+      "en": "thinks 'I am the doer'",
+      "hi": "‘मैं कर्ता हूँ’ ऐसा मान लेता है"
+     }
+    }
+   ],
+   "concepts": [
+    "ahankara",
+    "prakriti",
+    "guna",
+    "viveka"
+   ],
+   "related": [
+    "5.8",
+    "13.29",
+    "13.31",
+    "3.28"
+   ]
+  },
+  {
+   "id": "3.35",
+   "headline": {
+    "en": "Better your own duty, even imperfect",
+    "hi": "गुणरहित भी अपना धर्म श्रेष्ठ है"
+   },
+   "essence": {
+    "en": "Your own dharma, even if it seems lacking, is better than another's done well; death in your own dharma brings good, another's brings fear.",
+    "hi": "गुणोंकी कमीवाला अपना धर्म अच्छी तरह आचरणमें लाये दूसरेके धर्मसे श्रेष्ठ है; अपने धर्ममें मरना भी कल्याणकारक है, दूसरेका धर्म भयावह है।"
+   },
+   "idea": {
+    "en": "Another's duty may look full of merit, be easy, pleasant and bring money, comfort and honour — yet since it is not prescribed for you, in the end it brings fear. One's own duty may look less meritorious, be hard and bring no reward — yet done without desire it leads to one's good. Arjuna thinks living on alms is better than fighting; Krishna is saying, in effect, that alms are a monk's dharma but for a householder kshatriya they are another's dharma. Sin comes not from doing one's own duty but from doing it with attachment and aversion; done free of them, it gives the experience of samata.",
+    "hi": "दूसरेका धर्म बाहरसे गुणसम्पन्न, सुगम, मन लगनेवाला और धन-मान देनेवाला हो, तो भी अपने लिये विहित न होनेसे परिणाममें भय देनेवाला है। अपना धर्म बाहरसे गुणोंकी कमीवाला, कठिन और कष्टदायी हो, तो भी निष्कामभावसे पालन करनेपर कल्याण करनेवाला है। अर्जुन भिक्षाके अन्नको श्रेष्ठ मानते हैं; भगवान् मानो कहते हैं कि भिक्षा भिक्षुकका स्वधर्म है, तू गृहस्थ क्षत्रिय है, इसलिये यह तेरे लिये परधर्म है। स्वधर्मके पालनमें राग-द्वेष रहनेसे ही पाप लगता है; राग-द्वेषरहित होकर स्वधर्मका पालन करनेसे समताका अनुभव होता है।"
+   },
+   "points": [
+    {
+     "en": "What believers call 'dharma' is the same as 'duty'; following svadharma and doing one's duty are one thing.",
+     "hi": "आस्तिकजन जिसे ‘धर्म’ कहते हैं, उसीका नाम कर्तव्य है; स्वधर्मका पालन और अपने कर्तव्यका पालन एक ही बात है।"
+    },
+    {
+     "en": "Hardship met while doing one's duty is not suffering but tapas, and it uplifts faster than chosen austerity.",
+     "hi": "स्वधर्म-पालनमें आया कष्ट कष्ट नहीं, तप है; और वह जानकर किये तपसे भी जल्दी उन्नति करता है।"
+    },
+    {
+     "en": "At the deepest level, svadharma is the self's own nature — being free of desire, 'mine' and attachment, serving, loving; wanting pleasure and possessions is paradharma, the body's dharma.",
+     "hi": "सूक्ष्म दृष्टिसे निष्काम, निर्मम, अनासक्त होना, सेवा और प्रेम करना स्वयंका धर्म (स्वधर्म) है; भोग और संग्रहकी इच्छा शरीरका धर्म (परधर्म) है।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Svadharma",
+      "hi": "स्वधर्म"
+     },
+     "items": [
+      {
+       "en": "May look less meritorious, may be hard",
+       "hi": "गुणोंकी कमीवाला और कठिन दीख सकता है"
+      },
+      {
+       "en": "Done without desire, leads to one's good",
+       "hi": "निष्कामभावसे करनेपर कल्याणकारक"
+      },
+      {
+       "en": "Being a yogi, serving, loving",
+       "hi": "योगी होना, सेवा करना, प्रेमी होना"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Paradharma",
+      "hi": "परधर्म"
+     },
+     "items": [
+      {
+       "en": "May look attractive, easy, rewarding",
+       "hi": "सुगम, आकर्षक और लाभदायक दीख सकता है"
+      },
+      {
+       "en": "In the end brings fear",
+       "hi": "परिणाममें भयावह"
+      },
+      {
+       "en": "Being an enjoyer, wanting things, attachment",
+       "hi": "भोगी होना, कुछ भी चाहना, रागी होना"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "Those who suffered for freedom",
+      "hi": "देशकी स्वतन्त्रताके लिये कष्ट सहनेवाले"
+     },
+     "text": {
+      "en": "People who suffered, went to jail again and again and even went to the gallows to free their country are still praised, while those jailed for crimes are condemned. Even worldly eyes honour one who holds to duty through hardship.",
+      "hi": "देशको स्वतन्त्र करनेके लिये जिन्होंने कष्ट सहे, जेल गये, फाँसीपर चढ़े, उनकी आज भी प्रशंसा होती है; बुरे कर्म करके जेल जानेवालोंकी निन्दा होती है। लौकिक दृष्टिसे भी कष्टमें धर्मपर डटे रहनेवालेकी महिमा होती है।"
+     },
+     "quote": {
+      "hi": "जैसे, देशको स्वतन्त्र बनानेके लिये जिन पुरुषोंने कष्ट सहे, बार-बार जेल गये और फाँसीपर लटकाये गये, उनकी आज भी बहुत प्रशंसा और महिमा होती है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "King Harishchandra",
+      "hi": "राजा हरिश्चन्द्र"
+     },
+     "text": {
+      "en": "Through hardship, insult and disgrace, Harishchandra never swerved from his dharma of truth; by its power he went to the supreme abode taking all his subjects with him.",
+      "hi": "अनेक कष्ट, निन्दा, अपमान आनेपर भी राजा हरिश्चन्द्र अपने सत्य-धर्मसे विचलित नहीं हुए; इसके प्रभावसे वे समस्त प्रजाको साथ लेकर परमधाम गये।"
+     },
+     "quote": {
+      "hi": "राजा हरिश्चन्द्र अनेक कष्ट, निन्दा, अपमान आदिके आनेपर भी अपने ‘सत्य’-धर्मसे विचलित नहीं हुए; अत: इसके प्रभावसे वे समस्त प्रजाको साथ लेकर परमधाम गये"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The patient under the knife",
+      "hi": "फोड़ेपर चीरा"
+     },
+     "text": {
+      "en": "When a doctor lances a boil, the patient stays at peace because he keeps the good outcome in view. A seeker whose goal is God likewise stays inwardly glad through defeat, loss and hardship.",
+      "hi": "डॉक्टर फोड़ेपर चीरा लगाता है तो अच्छे परिणामपर दृष्टि रहनेसे रोगी प्रसन्न रहता है। ऐसे ही परमात्मप्राप्तिका लक्ष्य रहनेसे पराजय, हानि, कष्टमें भी साधक प्रसन्न रहता है।"
+     },
+     "quote": {
+      "hi": "जैसे डॉक्टरद्वारा फोड़ेपर चीरा लगाते समय ‘इसका परिणाम अच्छा होगा’ इस तरफ दृष्टि रहनेसे रोगीका अन्त:करण प्रसन्न रहता है, ऐसे ही परमात्म-प्राप्तिका लक्ष्य रहनेसे संसारमें पराजय, हानि, कष्ट आदि प्राप्त होनेपर भी साधकके अन्त:करणमें स्वाभाविक प्रसन्नता रहती है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "comparison",
+     "text": {
+      "en": "Scrolling through a friend's glamorous job can make your own responsibilities — caring for a parent, a steady unexciting role — look 'less'. The verse asks you to judge your duty by what it is for, not by how it looks next to someone else's.",
+      "hi": "किसी मित्रकी चमकदार नौकरी देखकर अपना कर्तव्य—माता-पिताकी देखभाल या साधारण-सा काम—‘कम’ लगने लगता है। यह श्लोक कहता है कि अपने कर्तव्यको दूसरेसे तुलना करके नहीं, उसके उद्देश्यसे परखो।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Swamiji notes that Krishna mainly answers Arjuna's question in this very verse: don't trade the duty in front of you for one that only looks better.",
+    "hi": "स्वामीजीके अनुसार भगवान्ने अर्जुनके प्रश्नका उत्तर मुख्यरूपसे इसी श्लोकमें दिया है: सामने आये अपने कर्तव्यको किसी अच्छे दीखनेवाले दूसरे धर्मसे मत बदलो।"
+   },
+   "terms": [
+    {
+     "sa": "स्वधर्म:",
+     "meaning": {
+      "en": "one's own dharma (duty)",
+      "hi": "अपना धर्म"
+     }
+    },
+    {
+     "sa": "विगुण:",
+     "meaning": {
+      "en": "seemingly lacking in merit",
+      "hi": "गुणोंकी कमीवाला"
+     }
+    },
+    {
+     "sa": "स्वनुष्ठितात्",
+     "meaning": {
+      "en": "(than) well performed",
+      "hi": "अच्छी तरह आचरणमें लाये हुए"
+     }
+    },
+    {
+     "sa": "निधनं श्रेय:",
+     "meaning": {
+      "en": "death is for one's good",
+      "hi": "मरना भी कल्याणकारक है"
+     }
+    },
+    {
+     "sa": "भयावह:",
+     "meaning": {
+      "en": "bringing fear",
+      "hi": "भयको देनेवाला"
+     }
+    }
+   ],
+   "concepts": [
+    "svadharma",
+    "dharma",
+    "samatva",
+    "nishkama-karma"
+   ],
+   "related": [
+    "2.5",
+    "2.33",
+    "2.38",
+    "18.47",
+    "18.48",
+    "18.41",
+    "18.45",
+    "6.23"
+   ]
+  },
+  {
+   "id": "3.37",
+   "headline": {
+    "en": "Desire is the enemy",
+    "hi": "कामना ही वैरी है"
+   },
+   "essence": {
+    "en": "Desire, born of rajas, is what drives one to sin; blocked, it turns into anger. Insatiable and most sinful — know it as the enemy.",
+    "hi": "रजोगुणसे उत्पन्न कामना ही पापका कारण है; बाधा लगनेपर वही क्रोध बन जाती है। यह कभी तृप्त नहीं होती, महापापी है—इसे ही वैरी जान।"
+   },
+   "idea": {
+    "en": "Arjuna asked what pushes a person into sin even against his will. Krishna names one thing: kama — 'let things go the way I want'. Desire for things that come and go, for pleasure from contact, is the root of every sin; when desire is blocked it turns into anger, when fulfilled it breeds greed, and when the obstacle is stronger than us it becomes fear. Krishna uses the singular because it is one root. Swamiji points out that giving up desire is not the hard thing we imagine: fulfilling all desires has never happened for anyone, while giving them up is possible for everyone, always.",
+    "hi": "अर्जुनने पूछा कि मनुष्य न चाहता हुआ भी किससे प्रेरित होकर पाप करता है? भगवान् एक ही उत्तर देते हैं—काम। ‘मेरी मनचाही हो’—यही काम है। उत्पत्ति-विनाशशील पदार्थोंकी कामना ही समस्त पापोंका मूल है; कामनामें बाधा लगनेपर वह क्रोध बन जाती है, पूर्ति होनेपर लोभ पैदा होता है और बाधा देनेवाला बलवान् हो तो भय पैदा होता है। इसीलिये भगवान्ने एकवचनका प्रयोग किया। स्वामीजी कहते हैं कि कामनाओंकी पूर्ति आजतक किसीकी नहीं हुई, पर कामनाका त्याग सभीके लिये और सदा सम्भव है; अत: त्याग पूर्तिकी अपेक्षा सुगम ही है।"
+   },
+   "points": [
+    {
+     "en": "Sorrow is simply this: what we want doesn't happen and what we don't want does. Drop the 'want' and 'don't want', and where is sorrow?",
+     "hi": "जो चाहते हैं वह न हो और जो नहीं चाहते वह हो जाय—इसीको दु:ख कहते हैं। ‘चाहते’ और ‘नहीं चाहते’को छोड़ दें तो दु:ख है ही कहाँ!"
+    },
+    {
+     "en": "The world runs on things and actions, not on the mind's desire; whatever is to come will come whether we desire it or not.",
+     "hi": "संसारका कार्य वस्तुओं और क्रियाओंसे चलता है, मनकी कामनासे नहीं; जो होनेवाला है, वह कामना करें या न करें, होकर ही रहेगा।"
+    },
+    {
+     "en": "The wish for God, for service, for truth or for love of God is not 'kama' — it is the real need of life.",
+     "hi": "परमात्मप्राप्ति, सेवा, तत्त्वज्ञान और भगवत्प्रेमकी इच्छा ‘कामना’ नहीं है—यह जीवनकी वास्तविक आवश्यकता है।"
+    },
+    {
+     "en": "The simplest way to destroy desire is to serve others and give them happiness, without wanting anything back.",
+     "hi": "कामको नष्ट करनेका मुख्य और सरल उपाय है—दूसरोंकी सेवा करना, उन्हें सुख पहुँचाना, बदलेमें कुछ न चाहना।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "From a hundred to a thousand",
+      "hi": "सौसे हजार रुपये"
+     },
+     "text": {
+      "en": "Someone wants a hundred rupees. Before that wish arose he was desireless; if he gets the money he is back in that same state. But because of attachment to pleasure it doesn't last — a new wish for a thousand arises. Desire is never finished; only toil is left in hand.",
+      "hi": "किसीके मनमें सौ रुपये पानेकी कामना हुई। उससे पहले वह निष्काम था; रुपये मिलनेपर फिर वही स्थिति आ जाती है, पर सुखासक्तिसे वह टिकती नहीं और हजार रुपयोंकी नयी कामना हो जाती है। न कामना पूरी होती है, न तृप्ति।"
+     },
+     "quote": {
+      "hi": "जैसे, किसीके मनमें कामना उत्पन्न हुई कि मेरेको सौ रुपये मिल जायँ। इसके पहले उसके मनमें सौ रुपये पानेकी कामना नहीं थी; अत: अनुभवसे सिद्ध हुआ कि कामना उत्पन्न होनेवाली है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Not even Dasharatha",
+      "hi": "दशरथजीकी भी नहीं"
+     },
+     "text": {
+      "en": "No one in the world has ever had all desires fulfilled — not even Dasharatha, the father of the Lord himself. So fulfilling desires is impossible, while giving them up is possible; the 'hard' thing is actually the easier one.",
+      "hi": "सब कामनाओंकी पूर्ति आजतक किसीकी नहीं हुई—भगवान्के पिता दशरथजीकी भी नहीं। अत: पूर्ति असम्भव है और त्याग सम्भव; कठिन दीखनेवाला त्याग ही सुगम है।"
+     },
+     "quote": {
+      "hi": "सब कामनाओंकी पूर्ति संसारमें आजतक किसीकी नहीं हुई। हमारी तो बात ही क्या, भगवान्के बाप-(दशरथजी-) की भी कामना पूरी नहीं हुई!"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "shopping",
+     "text": {
+      "en": "The phone you wanted for months feels 'enough' for about a week — then the next model appears. That gap between getting and wanting again is what Swamiji calls mahashana, the all-devouring.",
+      "hi": "जिस फोनको महीनों चाहा, वह लगभग एक सप्ताह ही ‘काफी’ लगता है—फिर नया मॉडल आ जाता है। पाने और फिरसे चाहनेके बीचकी यही स्थिति ‘महाशन’ है।"
+     }
+    },
+    {
+     "context": "anger",
+     "text": {
+      "en": "Road rage is desire blocked: 'I want to get there fast', and the car in front becomes the enemy. Remove the demand and the anger has nothing to stand on.",
+      "hi": "सड़कपर गुस्सा बाधित कामना ही है—‘मुझे जल्दी पहुँचना है’, और आगेकी गाड़ी शत्रु बन जाती है। कामना हटा दें तो क्रोधका आधार ही नहीं रहता।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Karma-yoga's main aim is to remove desire; naming it as the single root of sin tells the seeker exactly where to fight.",
+    "hi": "कर्मयोगका प्रधान लक्ष्य कामनाको मिटाना है; उसे पापका एकमात्र मूल बताकर भगवान् साधकको ठीक-ठीक बता देते हैं कि लड़ना कहाँ है।"
+   },
+   "terms": [
+    {
+     "sa": "काम:",
+     "meaning": {
+      "en": "desire",
+      "hi": "काम अर्थात् कामना"
+     }
+    },
+    {
+     "sa": "क्रोध:",
+     "meaning": {
+      "en": "anger (what desire turns into)",
+      "hi": "क्रोध (कामना ही क्रोधमें परिणत होती है)"
+     }
+    },
+    {
+     "sa": "रजोगुणसमुद्भव:",
+     "meaning": {
+      "en": "born of rajas",
+      "hi": "रजोगुणसे उत्पन्न"
+     }
+    },
+    {
+     "sa": "महाशन:",
+     "meaning": {
+      "en": "all-devouring, never satisfied",
+      "hi": "बहुत खानेवाला (कभी तृप्त न होनेवाला)"
+     }
+    },
+    {
+     "sa": "महापाप्मा",
+     "meaning": {
+      "en": "most sinful",
+      "hi": "महापापी"
+     }
+    },
+    {
+     "sa": "वैरिणम्",
+     "meaning": {
+      "en": "enemy",
+      "hi": "वैरी"
+     }
+    }
+   ],
+   "concepts": [
+    "kama",
+    "krodha",
+    "guna",
+    "nishkama-karma"
+   ],
+   "related": [
+    "3.36",
+    "14.7",
+    "4.10",
+    "5.28",
+    "4.21",
+    "18.17",
+    "18.12"
+   ]
+  },
+  {
+   "id": "4.7",
+   "headline": {
+    "en": "Whenever dharma declines, I manifest Myself",
+    "hi": "जब-जब धर्मकी हानि होती है, तब-तब मैं प्रकट होता हूँ"
+   },
+   "essence": {
+    "en": "Whenever dharma declines and adharma rises, the Lord manifests Himself in form.",
+    "hi": "जब-जब धर्मकी हानि और अधर्मकी वृद्धि होती है, तब-तब भगवान् अपने-आपको साकाररूपसे प्रकट करते हैं।"
+   },
+   "idea": {
+    "en": "Swamiji describes the decline of dharma concretely: the godless, sinful and strong oppress those who love God, live rightly, are innocent and weak, and good conduct shrinks while bad conduct grows. The root cause is attraction to perishable things; as attachment to pleasure and hoarding grows, adharma grows in society. The Lord is the supreme well-wisher of every being, so to stop people from falling He comes Himself. At the deepest level, desire entering action is the loss of dharma, and falling from one's duty into forbidden conduct is the rise of adharma — the Lord comes to destroy kama and spread selflessness.",
+    "hi": "स्वामीजी धर्मकी हानिका स्वरूप बताते हैं—भगवत्प्रेमी, सदाचारी, निरपराध और निर्बल मनुष्योंपर पापी, दुराचारी और बलवान् मनुष्योंका अत्याचार बढ़ना तथा सद्गुण-सदाचारोंकी कमी और दुर्गुण-दुराचारोंकी वृद्धि होना। इसका मुख्य कारण है—नाशवान् पदार्थोंकी ओर आकर्षण; भोग और संग्रहमें आसक्ति बढ़नेसे समाजमें अधर्म बढ़ता है। भगवान् प्राणिमात्रके परम सुहृद् हैं, इसलिये लोगोंको पतनसे रोकनेके लिये स्वयं अवतार लेते हैं। कर्मोंमें सकामभाव उत्पन्न होना ही धर्मकी हानि है और कर्तव्यसे च्युत होकर निषिद्ध आचरण करना अधर्मका अभ्युत्थान है; अत: ‘काम’का नाश और निष्कामभावका प्रसार करनेके लिये भगवान् अवतार लेते हैं।"
+   },
+   "points": [
+    {
+     "en": "'Yada yada' — the Lord comes as often as there is need; even within one yuga He may take many forms at once, as at the churning of the ocean.",
+     "hi": "‘यदा यदा’—जब-जब आवश्यकता होती है, भगवान् आते हैं; एक युगमें भी, समुद्र-मन्थनकी तरह, अनेक रूप एक साथ धारण कर सकते हैं।"
+    },
+    {
+     "en": "Before the Lord Himself comes, saints and earnest seekers are sent or arise to re-establish dharma; where they live, adharma does not grow as much.",
+     "hi": "भगवान्के स्वयं आनेसे पहले उनकी आज्ञासे संत आते हैं या विशेष साधक प्रकट होते हैं; जहाँ वे रहते हैं, वहाँ अधर्मकी वैसी वृद्धि नहीं होती।"
+    },
+    {
+     "en": "The Lord comes Himself when people will not listen even to saints, begin to destroy them, and dharma falls far below what the age allows.",
+     "hi": "जब लोग संतोंकी भी नहीं मानते, उनका विनाश करने लगते हैं और युगकी मर्यादासे भी अधिक धर्मका ह्रास हो जाता है, तब भगवान् स्वयं आते हैं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Many forms at the churning of the ocean",
+      "hi": "समुद्र-मन्थनमें अनेक रूप"
+     },
+     "text": {
+      "en": "At the churning of the ocean the Lord churned as Ajita, held up Mount Mandara as the tortoise, pressed it down from above with a thousand arms, and then took the form of Mohini to distribute the nectar — many forms at the same time.",
+      "hi": "समुद्र-मन्थनके समय भगवान्ने अजितरूपसे मन्थन किया, कच्छपरूपसे मन्दराचलको धारण किया, सहस्रबाहुरूपसे उसे ऊपरसे दबाया और फिर मोहिनी-रूपसे अमृत बाँटा—एक साथ अनेक रूप।"
+     },
+     "quote": {
+      "hi": "उदाहरणार्थ, समुद्र-मन्थनके समय भगवान्ने अजितरूपसे समुद्र-मन्थन किया, कच्छपरूपसे मन्दराचलको धारण किया तथा सहस्रबाहुरूपसे मन्दराचलको ऊपरसे दबाकर रखा।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "It shows that the Lord's coming is an act of friendship toward all beings — and that the real 'decline of dharma' begins inside, when desire enters our actions.",
+    "hi": "यह बताता है कि भगवान्का आना प्राणिमात्रके प्रति सुहृद्भावका कार्य है—और धर्मकी वास्तविक हानि भीतरसे आरम्भ होती है, जब कर्मोंमें कामना आ जाती है।"
+   },
+   "terms": [
+    {
+     "sa": "धर्मस्य ग्लानि:",
+     "meaning": {
+      "en": "decline of dharma",
+      "hi": "धर्मकी हानि"
+     }
+    },
+    {
+     "sa": "अभ्युत्थानम् अधर्मस्य",
+     "meaning": {
+      "en": "rise of adharma",
+      "hi": "अधर्मकी वृद्धि"
+     }
+    },
+    {
+     "sa": "आत्मानं सृजामि",
+     "meaning": {
+      "en": "I manifest Myself",
+      "hi": "अपने-आपको (साकाररूपसे) प्रकट करता हूँ"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "dharma",
+    "kama"
+   ],
+   "related": [
+    "3.37",
+    "4.8",
+    "4.6"
+   ]
+  },
+  {
+   "id": "4.11",
+   "headline": {
+    "en": "As they take refuge in Me, so I receive them",
+    "hi": "जो जैसे मेरी शरण लेते हैं, मैं वैसे ही उन्हें आश्रय देता हूँ"
+   },
+   "essence": {
+    "en": "In whatever way, with whatever relationship devotees take refuge in the Lord, He receives them in that same way.",
+    "hi": "भक्त जिस भावसे, जिस सम्बन्धसे भगवान्की शरण लेता है, भगवान् भी उसे उसी भावसे, उसी सम्बन्धसे आश्रय देते हैं।"
+   },
+   "idea": {
+    "en": "If a devotee takes the Lord as guru, He becomes the best guru; as disciple, the best disciple; as parent, son, brother, friend or servant — He becomes the best of each. Arjuna related to Krishna as a friend and wanted Him as charioteer, so He became his charioteer. The difference is that the devotee need only give his full strength; the Lord then comes with His full strength. Swamiji stresses that this verse is not about philosophical categories but about 'belonging' (apnapan): 'God alone is mine and I am God's.' What blocks us is that we keep back our understanding, time, things and ability as 'ours' instead of giving them fully.",
+    "hi": "भक्त भगवान्को गुरु मानता है तो वे श्रेष्ठ गुरु बन जाते हैं, शिष्य मानता है तो श्रेष्ठ शिष्य; माता-पिता, पुत्र, भाई, सखा, नौकर—जैसा मानता है, वैसे ही श्रेष्ठ बन जाते हैं। अर्जुनका सखाभाव था और वे उन्हें सारथि बनाना चाहते थे, तो भगवान् सारथि बन गये। अन्तर यह है कि भक्तको केवल अपनी पूरी शक्ति लगानी है, फिर भगवान् अपनी पूरी शक्तिसे उसे प्राप्त हो जाते हैं। इस श्लोकमें शास्त्रीय विषय नहीं, भगवान्से अपनेपनका वर्णन है—‘केवल भगवान् ही मेरे हैं और मैं भगवान्का ही हूँ।’ बाधा यह है कि साधक समझ, सामग्री, समय और सामर्थ्यको अपनी मानकर बचा लेता है, पूरा नहीं लगाता।"
+   },
+   "points": [
+    {
+     "en": "Surrender is the highest of all the devotional feelings: give Me everything and I give you everything; give Me yourself and I give you Myself.",
+     "hi": "सब भावोंमें शरणागति श्रेष्ठ है: तुम अपना सब कुछ मुझे दोगे तो मैं अपना सब कुछ तुम्हें दूँगा; अपने-आपको दोगे तो मैं अपने-आपको दे दूँगा।"
+    },
+    {
+     "en": "Once a person offers himself, the Lord does not even remember his past faults — He looks at the firm feeling in the heart now.",
+     "hi": "समर्पणके बाद भगवान् पुरानी त्रुटियोंको यादतक नहीं करते, वर्तमानमें हृदयका दृढ़ भाव देखते हैं।"
+    },
+    {
+     "en": "Whatever relationship you love most in the world, make that relationship with God — and in the world, be for others what they take you to be, without wanting anything back.",
+     "hi": "संसारमें जिस सम्बन्धमें प्रियता हो, वही सम्बन्ध भगवान्से कर लो; और संसारमें जो जैसा सम्बन्ध माने, उसके लिये वैसे ही बन जाओ—पर बदलेमें कुछ मत चाहो।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Charioteer and disciple",
+      "hi": "सारथि और शिष्य"
+     },
+     "text": {
+      "en": "Arjuna felt friendship for Krishna and wanted Him to drive his chariot, so Krishna became his charioteer. The sage Vishvamitra took Shri Rama as his disciple, and the Lord became his disciple.",
+      "hi": "अर्जुनका सखाभाव था और वे सारथि चाहते थे, तो भगवान् सारथि बन गये। विश्वामित्रने श्रीरामको शिष्य माना, तो भगवान् उनके शिष्य बन गये।"
+     },
+     "quote": {
+      "hi": "अर्जुनका भगवान् श्रीकृष्णके प्रति सखाभाव था तथा वे उन्हें अपना सारथि बनाना चाहते थे; अत: भगवान् सखाभावसे उनके सारथि बन गये। विश्वामित्र ऋषिने भगवान् श्रीरामको अपना शिष्य मान लिया तो भगवान् उनके शिष्य बन गये।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Vidurani and the banana peels",
+      "hi": "विदुरानी और केलेके छिलके"
+     },
+     "text": {
+      "en": "When Vidurani forgot herself in love, the Lord too forgot Himself — He ate the banana peels she gave Him and enjoyed them.",
+      "hi": "विदुरानीजी प्रेममें अपने-आपको भूल गयीं तो भगवान् भी अपने-आपको भूल गये और केलेके छिलके खाने लगे तथा उसीमें आनन्द लेने लगे।"
+     },
+     "quote": {
+      "hi": "जैसे, विदुरानीजी अपने-आपको भूल गयीं तो भगवान् भी अपने-आपको भूल गये और केलेके छिलके खाने लगे तथा उसीमें आनन्द लेने लगे!"
+     },
+     "from": "appendix"
+    },
+    {
+     "title": {
+      "en": "The father and the toy",
+      "hi": "पिता और खिलौना"
+     },
+     "text": {
+      "en": "When a child wants a toy, the father spends money and brings it. In the same way, whatever we want, the merciful Lord comes before us in that form. If we did not want pleasures, why would He have to come as pleasures?",
+      "hi": "बालक खिलौना चाहता है तो पिता रुपये खर्च करके भी ला देता है। ऐसे ही हम जो चाहते हैं, दयालु भगवान् उसी रूपसे सामने आते हैं। हम भोग न चाहें तो उन्हें भोगरूपसे क्यों आना पड़े?"
+     },
+     "quote": {
+      "hi": "जैसे बालक खिलौना चाहता है तो पिता रुपये खर्च करके भी उसको खिलौना लाकर देता है, ऐसा ही हम जो चाहते हैं, परम दयालु भगवान् (स्वयं सदा सत्स्वरूप रहते हुए भी) उसी रूपसे हमारे सामने आते हैं।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "relationships",
+     "text": {
+      "en": "Being a genuinely good son to your parents, a good sibling or partner — just for their sake, not for what you get — is, in Swamiji's words, following the Lord's own way.",
+      "hi": "माता-पिताके लिये सच्चा सुपुत्र, भाई-बहन या जीवनसाथीके लिये अच्छा साथी बनना—केवल उनके लिये, अपने लाभके लिये नहीं—स्वामीजीके अनुसार यही भगवान्के मार्गका अनुसरण है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "God is not distant or conditional: the relationship we sincerely make with Him is the relationship He returns — and the only obstacle is what we hold back.",
+    "hi": "भगवान् दूर या शर्तवाले नहीं हैं: हम सच्चे हृदयसे जो सम्बन्ध जोड़ते हैं, वही वे निभाते हैं—बाधा केवल वह है जो हम बचाकर रख लेते हैं।"
+   },
+   "terms": [
+    {
+     "sa": "यथा",
+     "meaning": {
+      "en": "in whatever way (relationship, feeling)",
+      "hi": "जिस प्रकार (भाव, सम्बन्ध)"
+     }
+    },
+    {
+     "sa": "प्रपद्यन्ते",
+     "meaning": {
+      "en": "take refuge",
+      "hi": "शरण लेते हैं"
+     }
+    },
+    {
+     "sa": "भजामि",
+     "meaning": {
+      "en": "I receive, give shelter",
+      "hi": "आश्रय देता हूँ"
+     }
+    },
+    {
+     "sa": "मम वर्त्म अनुवर्तन्ते",
+     "meaning": {
+      "en": "follow My path",
+      "hi": "मेरे मार्गका अनुसरण करते हैं"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "ishvara"
+   ],
+   "related": [
+    "3.21",
+    "3.23",
+    "4.9",
+    "5.29",
+    "15.7"
+   ]
+  },
+  {
+   "id": "4.18",
+   "headline": {
+    "en": "Seeing inaction in action",
+    "hi": "कर्ममें अकर्म, अकर्ममें कर्म"
+   },
+   "essence": {
+    "en": "Seeing inaction in action and action in inaction — untouched whether acting or not — one is wise, a yogi, with nothing left to do.",
+    "hi": "जो कर्ममें अकर्म और अकर्ममें कर्म देखता है—करते हुए या न करते हुए निर्लिप्त रहता है—वह बुद्धिमान्, योगी और कृतकृत्य है।"
+   },
+   "idea": {
+    "en": "To see 'inaction in action' means to remain unattached whether one is acting or not — doing nothing and refraining from nothing for oneself. What binds is the feeling 'I do this, let me get that fruit'. Every action begins and ends, so its fruit also begins and ends, while the self remains always; it gets bound only by wanting the fruit. To see 'action in inaction' means that while remaining unattached, one acts — or refrains — only for the good of the world. Swamiji notes that even sitting in solitude, contemplation and samadhi are actions of the subtle and causal bodies; so both doing and not-doing belong to prakriti, and what matters is being untouched in both.",
+    "hi": "कर्ममें अकर्म देखनेका तात्पर्य है—कर्म करते हुए अथवा न करते हुए उससे निर्लिप्त रहना, अपने लिये कोई प्रवृत्ति या निवृत्ति न करना। ‘अमुक कर्म मैं करता हूँ, इसका फल मुझे मिले’—इस भावसे ही मनुष्य बँधता है। प्रत्येक कर्मका आरम्भ और अन्त होता है, इसलिये फल भी आदि-अन्तवाला है, पर जीव स्वयं नित्य है; फलकी इच्छासे ही वह बँधता है। अकर्ममें कर्म देखनेका तात्पर्य है—निर्लिप्त रहते हुए केवल संसारके हितके लिये कर्म करना अथवा न करना। स्वामीजी बताते हैं कि एकान्तमें बैठना, चिन्तन, ध्यान और समाधि भी सूक्ष्म और कारण-शरीरकी क्रियाएँ हैं; प्रवृत्ति और निवृत्ति—दोनों प्रकृतिके राज्यमें हैं, और दोनोंमें निर्लिप्त रहना ही योग है।"
+   },
+   "points": [
+    {
+     "en": "Not wanting the fruit stops new attachment; working for others dissolves old attachment — then all action becomes 'inaction'.",
+     "hi": "फलकी इच्छा न रखनेसे नया राग पैदा नहीं होता और दूसरोंके हितके लिये कर्म करनेसे पुराना राग नष्ट होता है; तब सब कर्म अकर्म हो जाते हैं।"
+    },
+    {
+     "en": "Giving up action out of fear of hardship is rajasic, out of laziness is tamasic — and giving it up to enjoy the bliss of samadhi still keeps one tied to prakriti.",
+     "hi": "क्लेशके भयसे कर्म छोड़ना राजस और आलस्य-प्रमादसे छोड़ना तामस त्याग है; समाधिका सुख भोगनेके लिये कर्म छोड़ना भी प्रकृतिसे सम्बन्ध बनाये रखता है।"
+    },
+    {
+     "en": "Being untouched is for oneself (svadharma); acting or not acting is for the world (paradharma).",
+     "hi": "निर्लिप्तता अपने लिये (स्वधर्म) और कर्म करना अथवा न करना संसारके लिये (परधर्म) है।"
+    },
+    {
+     "en": "Non-attachment is not a one-time step at the start of work; it must be kept up at every moment.",
+     "hi": "निर्लिप्तता कर्मके आरम्भमें एक बारकी बात नहीं है; इसे हरदम बनाये रखना है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Closing a shop",
+      "hi": "दूकान उठाना"
+     },
+     "text": {
+      "en": "A shopkeeper who wants to close his shop pays whoever he owes, and collects or forgives what others owe him. If he insists on collecting everything first, the shop never closes. Likewise, stop taking and serve those who have a claim on you, and the chain of give-and-take across births ends.",
+      "hi": "दूकान उठाना चाहनेवाला दूकानदार जिसे देना है उसे दे देता है और जिससे लेना है वह ले लेता है या छोड़ देता है। सब कुछ वसूल करनेकी जिद करेगा तो दूकान उठेगी नहीं। ऐसे ही लेना बंद करके सेवा करनेसे जन्मोंका लेन-देन समाप्त हो जाता है।"
+     },
+     "quote": {
+      "hi": "जैसे, कोई दूकानदार अपनी दूकान उठाना चाहता है, तो वह दो काम करेगा—पहला, जिसको देना है, उसको दे देगा और दूसरा, जिससे लेना है, वह ले लेगा अथवा छोड़ देगा। ऐसा करनेसे उसकी दूकान उठ जायगी।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The room full of soot",
+      "hi": "काजलकी कोठरी"
+     },
+     "text": {
+      "en": "To enter a room full of soot and stay completely clean is not the work of ordinary intelligence. So too, doing all one's duties while staying wholly untouched by them is rare — which is why Krishna calls such a person 'wise among men'.",
+      "hi": "काजलकी कोठरीमें जाकर भी काजलसे अछूता रहना साधारण बुद्धिमान्का काम नहीं। ऐसे ही सब कर्तव्य करते हुए कर्मोंसे निर्लिप्त रहना दुर्लभ है, इसलिये भगवान् उसे ‘मनुष्योंमें बुद्धिमान्’ कहते हैं।"
+     },
+     "quote": {
+      "hi": "जैसे काजलकी कोठरीमें प्रवेश करके भी काजलसे सर्वथा निर्लिप्त रहना साधारण बुद्धिमान्का काम नहीं है, ऐसे ही सम्पूर्ण कर्तव्य-कर्मोंको करते हुए भी कर्मोंसे सर्वथा निर्लिप्त रहना साधारण बुद्धिमान्के वशका काम नहीं है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "burnout",
+     "text": {
+      "en": "Quitting everything to 'find peace' can still be about you — your comfort, your image as someone above the rat race. The verse points to a quieter freedom: keep doing what is needed, but stop needing anything from it.",
+      "hi": "‘शान्ति’के लिये सब छोड़ देना भी अपने ही सुख या छवि के लिये हो सकता है। यह श्लोक दूसरी स्वतन्त्रता बताता है: जो आवश्यक है वह करते रहो, पर उससे अपने लिये कुछ मत चाहो।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It removes the false choice Arjuna is stuck in — 'act and be bound' or 'renounce and be free' — by showing that freedom lies in non-attachment, not in the outer choice.",
+    "hi": "यह अर्जुनके झूठे विकल्प—‘कर्म करूँ तो बँधूँ, छोड़ूँ तो मुक्त होऊँ’—को मिटा देता है; मुक्ति बाहरी चुनावमें नहीं, निर्लिप्ततामें है।"
+   },
+   "terms": [
+    {
+     "sa": "कर्मणि अकर्म",
+     "meaning": {
+      "en": "inaction in action",
+      "hi": "कर्ममें अकर्म"
+     }
+    },
+    {
+     "sa": "अकर्मणि कर्म",
+     "meaning": {
+      "en": "action in inaction",
+      "hi": "अकर्ममें कर्म"
+     }
+    },
+    {
+     "sa": "युक्त:",
+     "meaning": {
+      "en": "a yogi, established in equanimity",
+      "hi": "योगी (समतामें स्थित)"
+     }
+    },
+    {
+     "sa": "कृत्स्नकर्मकृत्",
+     "meaning": {
+      "en": "one who has done all that is to be done",
+      "hi": "सम्पूर्ण कर्मोंको करनेवाला (कृतकृत्य)"
+     }
+    }
+   ],
+   "concepts": [
+    "karma",
+    "nishkama-karma",
+    "yoga",
+    "samatva",
+    "asakti"
+   ],
+   "related": [
+    "4.14",
+    "5.12",
+    "4.23",
+    "3.18",
+    "2.48",
+    "18.10",
+    "4.16",
+    "4.32",
+    "3.8"
+   ]
+  },
+  {
+   "id": "4.34",
+   "headline": {
+    "en": "Learn it by bowing, asking and serving",
+    "hi": "प्रणाम, प्रश्न और सेवासे उस ज्ञानको समझ"
+   },
+   "essence": {
+    "en": "Know that knowledge by prostrating before, serving, and sincerely questioning the wise who have realised the truth; they will teach it to you.",
+    "hi": "तत्त्वदर्शी ज्ञानी महापुरुषोंको प्रणाम करके, उनकी सेवा करके और सरलतापूर्वक प्रश्न करके उस तत्त्वज्ञानको समझ; वे तुझे उसका उपदेश देंगे।"
+   },
+   "idea": {
+    "en": "Here Krishna describes the accepted way of gaining knowledge: renouncing action and living with a realised teacher. Swamiji reads a gentle warning in it: Arjuna thinks giving up his duty is better, so Krishna says, in effect, 'if that is what you want, go to a sage and learn it that way — I will not teach you like that.' A little later (4.38) Krishna reveals that the same knowledge comes on its own to one perfected in karma-yoga. Still, the method itself is precise: bowing offers the body, service offers one's things, and questions are asked only to understand, never to show off or test the teacher. The teacher must both have realised the truth and know the scriptures.",
+    "hi": "यहाँ भगवान् तत्त्वज्ञान प्राप्त करनेकी प्रचलित प्रणाली बताते हैं—कर्मोंका त्याग करके तत्त्वदर्शी गुरुके पास रहना। स्वामीजी इसमें चेतावनी देखते हैं: अर्जुन कर्तव्य-त्यागको श्रेष्ठ मानते हैं, तो भगवान् मानो कहते हैं—‘ऐसा ही चाहते हो तो किसी ज्ञानी महापुरुषके पास जाकर ज्ञान प्राप्त करो; मैं तुझे ऐसा उपदेश नहीं दूँगा।’ आगे अड़तीसवें श्लोकमें भगवान् बताते हैं कि यही ज्ञान कर्मयोग सिद्ध होनेपर अपने-आप प्राप्त हो जाता है। फिर भी प्रणालीका स्वरूप स्पष्ट है—दण्डवत्-प्रणामसे शरीर, सेवासे वस्तुएँ अर्पण हों, और प्रश्न केवल जाननेके लिये हों, विद्वत्ता दिखाने या परीक्षा लेनेके लिये नहीं। गुरु तत्त्वदर्शी और शास्त्रज्ञ—दोनों होने चाहिये।"
+   },
+   "points": [
+    {
+     "en": "The greatest service to a saint is to shape one's life according to his principles; his principles are dearer to him than his own body.",
+     "hi": "सन्तकी सबसे बड़ी सेवा है—उनके सिद्धान्तोंके अनुसार अपना जीवन बनाना; उन्हें सिद्धान्त अपने शरीरसे भी अधिक प्रिय होते हैं।"
+    },
+    {
+     "en": "A teacher who has realised the truth but lacks scriptural learning cannot answer every doubt; one with learning but no realisation cannot give real understanding.",
+     "hi": "तत्त्वदर्शी हो पर शास्त्रज्ञ न हो तो शंकाओंका समाधान नहीं कर सकेगा; शास्त्रज्ञ हो पर तत्त्वदर्शी न हो तो बोध नहीं करा सकेगा।"
+    },
+    {
+     "en": "Bowing, service and questions can be done hypocritically; knowledge is actually gained by the one with faith (4.39).",
+     "hi": "प्रणाम, सेवा, प्रश्न कपटपूर्वक भी हो सकते हैं; ज्ञान श्रद्धावान्को ही प्राप्त होता है (४। ३९)।"
+    },
+    {
+     "en": "The sage does not need bowing or service; but when a seeker comes sincerely, a special feeling arises in the sage for him, which benefits the seeker greatly.",
+     "hi": "महापुरुषको प्रणाम-सेवाकी भूख नहीं होती; पर सरलतासे आनेवाले साधकके प्रति उनके अन्त:करणमें विशेष भाव पैदा होते हैं, जिससे साधकको बहुत लाभ होता है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Sending the listener elsewhere",
+      "hi": "दूसरे महापुरुषके पास भेजना"
+     },
+     "text": {
+      "en": "When a sage tells someone what is good for him but the listener, lacking faith, isn't convinced, the sage says: 'Go ask another sage.' Krishna's words here carry that same tone toward Arjuna.",
+      "hi": "जब कोई महापुरुष कल्याणकी बात कहता है, पर श्रद्धाकी कमीसे सुननेवालेको नहीं जँचती, तो वह कह देता है—‘किसी दूसरे महापुरुषसे पूछ।’ भगवान्के इन वचनोंमें अर्जुनके प्रति वही भाव है।"
+     },
+     "quote": {
+      "hi": "जैसे कोई महापुरुष किसीको उसके कल्याणकी बात कह रहा है, पर श्रद्धाकी कमीके कारण सुननेवालेको वह बात नहीं जँचती, तो वह महापुरुष उसे कह देता है कि तू किसी दूसरे महापुरुषके पास जाकर अपने कल्याणका उपाय पूछ"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "learning",
+     "text": {
+      "en": "Asking a mentor a question to look clever in a meeting and asking because you genuinely don't understand are two different acts — only the second actually opens you to learning.",
+      "hi": "मीटिंगमें होशियार दीखनेके लिये प्रश्न पूछना और सचमुच न समझनेके कारण पूछना—दो अलग बातें हैं; सीखनेका द्वार दूसरी ही खोलती है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It gives the right attitude toward any teacher — humility, service, sincere questioning — while Swamiji shows that Krishna is steering Arjuna back toward karma-yoga.",
+    "hi": "यह किसी भी गुरुके प्रति सही भाव—नम्रता, सेवा, सच्ची जिज्ञासा—सिखाता है, और स्वामीजी दिखाते हैं कि भगवान् अर्जुनको कर्मयोगकी ओर ही लौटा रहे हैं।"
+   },
+   "terms": [
+    {
+     "sa": "प्रणिपातेन",
+     "meaning": {
+      "en": "by full prostration",
+      "hi": "साष्टांग दण्डवत्-प्रणाम करनेसे"
+     }
+    },
+    {
+     "sa": "परिप्रश्नेन",
+     "meaning": {
+      "en": "by sincere questioning",
+      "hi": "सरलतापूर्वक प्रश्न करनेसे"
+     }
+    },
+    {
+     "sa": "सेवया",
+     "meaning": {
+      "en": "by service",
+      "hi": "सेवा करनेसे"
+     }
+    },
+    {
+     "sa": "तत्त्वदर्शिन:",
+     "meaning": {
+      "en": "who have realised the truth",
+      "hi": "तत्त्वदर्शी (अनुभवी)"
+     }
+    },
+    {
+     "sa": "ज्ञानिन:",
+     "meaning": {
+      "en": "learned in scripture",
+      "hi": "ज्ञानी (शास्त्रज्ञ)"
+     }
+    }
+   ],
+   "concepts": [
+    "jnana",
+    "shraddha"
+   ],
+   "related": [
+    "4.38",
+    "4.39",
+    "1.31",
+    "1.36",
+    "2.5",
+    "3.20",
+    "4.15"
+   ]
+  },
+  {
+   "id": "4.38",
+   "headline": {
+    "en": "Nothing purifies like knowledge — and karma-yoga brings it",
+    "hi": "ज्ञानके समान पवित्र कुछ नहीं—और वह कर्मयोगसे अपने-आप मिलता है"
+   },
+   "essence": {
+    "en": "Nothing here purifies like knowledge; one perfected in yoga finds it, without fail, by himself, within himself.",
+    "hi": "इस लोकमें ज्ञानके समान पवित्र करनेवाला कुछ नहीं; योगसंसिद्ध कर्मयोगी उसे अवश्य ही स्वयं अपने-आपमें पा लेता है।"
+   },
+   "idea": {
+    "en": "All sins arise from granting the world an independent reality and seeking pleasure from it; when true knowledge removes that, all impurity goes. Sacrifice, charity, fasting, japa, pilgrimage to holy rivers — all purify, but all are means to this knowledge, which is their goal. Then comes the key line: the karma-yogi whose practice is complete finds this same knowledge by himself, in himself, without needing a guru, a book or any other practice. Swamiji reads the whole praise of knowledge in 4.33–37 as, in effect, praise of karma-yoga: what one would get with difficulty by living with a sage, Arjuna will get simply by doing his duty in the spirit of karma-yoga.",
+    "hi": "संसारकी स्वतन्त्र सत्ता माननेसे और उससे सुख लेनेकी इच्छासे ही सब पाप पैदा होते हैं; तत्त्वज्ञान होनेपर यह मिट जाता है और महान् पवित्रता आ जाती है। यज्ञ, दान, तप, व्रत, जप, गंगा आदि तीर्थ—सब पवित्र करते हैं, पर वे सब तत्त्वज्ञानके साधन हैं और तत्त्वज्ञान उनका साध्य है। फिर मुख्य बात—योगसंसिद्ध कर्मयोगी इसी ज्ञानको किसी गुरु, ग्रन्थ या दूसरे साधनकी अपेक्षाके बिना स्वयं अपने-आपमें पा लेता है। स्वामीजीके अनुसार तैंतीसवेंसे सैंतीसवें श्लोकतककी ज्ञानकी प्रशंसा प्रकारान्तरसे कर्मयोगकी ही महिमा है: जो ज्ञान महापुरुषोंके पास रहकर कठिनतासे मिलता, वह अर्जुनको कर्मयोगकी विधिसे कर्तव्य-पालन करनेसे ही मिल जायगा।"
+   },
+   "points": [
+    {
+     "en": "The core of karma-yoga: consider nothing as 'mine' and do everything for the good of the world. Then even the sense 'I am a servant' drops; only service remains.",
+     "hi": "कर्मयोगकी मुख्य बात—अपना कुछ न मानकर सब कर्म संसारके हितके लिये करना। तब ‘मैं सेवक हूँ’—यह भाव भी नहीं रहता, केवल सेवा रह जाती है।"
+    },
+    {
+     "en": "'Kalena' in the instrumental case signals certainty: through karma-yoga the realisation surely comes.",
+     "hi": "‘कालेन’ पद तृतीया विभक्तिमें है, जो बताता है कि कर्मयोगसे तत्त्वज्ञान अवश्य होता है।"
+    },
+    {
+     "en": "God is present right where one feels 'I am'; He is not experienced only because we have turned toward the world.",
+     "hi": "जहाँ साधक ‘मैं हूँ’ रूपसे अपनेको मानता है, वहीं परमात्मा विराजमान हैं; संसारसे सम्बन्ध माननेके कारण ही उनका अनुभव नहीं होता।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The eye cannot see itself",
+      "hi": "आँख आँखको नहीं देखती"
+     },
+     "text": {
+      "en": "With the eyes one sees the world, but the eyes cannot see themselves — yet we can say 'that by which we see is the eye'. Likewise the Knower of all cannot be known by the mind or intellect; that by which everything is known is the Supreme itself.",
+      "hi": "आँखोंसे संसार देखा जाता है, पर आँखोंसे आँखें नहीं देखी जातीं; फिर भी कहा जाता है कि जिससे देखते हैं वही आँख है। ऐसे ही सबको जाननेवालेको मन-बुद्धिसे नहीं जाना जा सकता; जिससे सब जाना जाता है, वही परमात्मतत्त्व है।"
+     },
+     "quote": {
+      "hi": "जैसे, आँखोंसे संसारको तो देखा जा सकता है, पर आँखोंसे आँखोंको नहीं देखा जा सकता; परन्तु यह कहा जा सकता है कि जिससे देखते हैं, वही आँख है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "spiritual seeking",
+     "text": {
+      "en": "Many people feel they must quit their jobs and go to an ashram to 'really' grow. This verse says that sincere, selfless work where you already are is itself a complete path to the same realisation.",
+      "hi": "बहुत लोग सोचते हैं कि ‘सच्ची’ उन्नतिके लिये नौकरी छोड़कर आश्रम जाना पड़ेगा। यह श्लोक कहता है कि जहाँ हो, वहीं नि:स्वार्थ कर्तव्य-पालन भी उसी बोधका पूरा मार्ग है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It is the turning point of chapter 4: the highest knowledge does not require Arjuna to abandon his duty — his duty, done rightly, is the way to it.",
+    "hi": "यह चौथे अध्यायका मोड़ है: सर्वोच्च ज्ञानके लिये अर्जुनको कर्तव्य छोड़नेकी जरूरत नहीं—ठीक ढंगसे किया गया कर्तव्य ही उसका मार्ग है।"
+   },
+   "terms": [
+    {
+     "sa": "ज्ञानेन सदृशम्",
+     "meaning": {
+      "en": "equal to knowledge",
+      "hi": "ज्ञानके समान"
+     }
+    },
+    {
+     "sa": "पवित्रम्",
+     "meaning": {
+      "en": "purifier",
+      "hi": "पवित्र करनेवाला"
+     }
+    },
+    {
+     "sa": "योगसंसिद्ध:",
+     "meaning": {
+      "en": "one whose karma-yoga is perfected",
+      "hi": "जिसका (कर्म)योग भलीभाँति सिद्ध हो गया है"
+     }
+    },
+    {
+     "sa": "कालेन",
+     "meaning": {
+      "en": "surely, in due course",
+      "hi": "अवश्य ही"
+     }
+    },
+    {
+     "sa": "आत्मनि विन्दति",
+     "meaning": {
+      "en": "finds within himself",
+      "hi": "अपने-आपमें पा लेता है"
+     }
+    }
+   ],
+   "concepts": [
+    "jnana",
+    "yoga",
+    "nishkama-karma"
+   ],
+   "related": [
+    "3.37",
+    "6.4",
+    "4.34",
+    "5.3",
+    "4.35",
+    "4.41",
+    "4.42"
+   ]
+  },
+  {
+   "id": "5.2",
+   "headline": {
+    "en": "Both paths lead to the good — karma-yoga is better",
+    "hi": "दोनों कल्याणकारक हैं, पर कर्मयोग श्रेष्ठ है"
+   },
+   "essence": {
+    "en": "Sankhya-yoga and karma-yoga both surely lead to one's highest good; but of the two, karma-yoga is superior to renunciation of action.",
+    "hi": "संन्यास (सांख्ययोग) और कर्मयोग—दोनों ही कल्याण करनेवाले हैं; परन्तु उनमें भी कर्मसंन्याससे कर्मयोग श्रेष्ठ है।"
+   },
+   "idea": {
+    "en": "Arjuna asked which of the two is decisively better. Krishna first honours both: they give the same samata, and both are independent paths to God. Then He says karma-yoga is better, and Swamiji gives the reasons from the Gita itself. Sankhya needs karma-yoga (5.6), but karma-yoga does not need Sankhya. Renunciation in the traditional way requires a rare situation — finding a realised teacher, having faith in him, living with him — while karma-yoga can be practised by anyone, in any situation, even in a war. And the path of discrimination demands intense dispassion, since while attachment remains it is very hard to see the world as having no independent reality; karma-yoga removes that attachment directly, by working for others.",
+    "hi": "अर्जुनने पूछा कि दोनोंमें निश्चितरूपसे कल्याणकारक कौन-सा है? भगवान् पहले दोनोंका आदर करते हैं—दोनोंसे एक ही समताकी प्राप्ति होती है और दोनों परमात्मप्राप्तिके स्वतन्त्र साधन हैं। फिर कर्मयोगको श्रेष्ठ बताते हैं, और स्वामीजी गीतासे ही कारण देते हैं। सांख्ययोगमें कर्मयोगकी आवश्यकता है (५। ६), पर कर्मयोगमें सांख्ययोगकी नहीं। प्रचलित प्रणालीका कर्मसंन्यास विशेष परिस्थितिमें ही सम्भव है—तत्त्वज्ञ महापुरुषका मिलना, उनमें श्रद्धा और उनके पास निवास—जबकि कर्मयोग हर व्यक्ति, हर परिस्थितिमें, युद्ध-जैसी घोर परिस्थितिमें भी कर सकता है। सांख्ययोगमें तीव्र वैराग्य चाहिये, क्योंकि राग रहते संसारकी स्वतन्त्र सत्ताका अभाव बहुत कठिन है; कर्मयोग दूसरोंके हितके लिये कर्म करके रागको सीधे मिटा देता है।"
+   },
+   "points": [
+    {
+     "en": "The Sankhya-yogi dissolves doership through sharp discernment; the karma-yogi dissolves the wish to enjoy by working only for others — and giving up either one removes the other too.",
+     "hi": "सांख्ययोगी तीव्र विवेकसे कर्तृत्व मिटाता है, कर्मयोगी दूसरोंके हितके लिये कर्म करके भोक्तृत्व मिटाता है; एकके त्यागसे दूसरेका त्याग स्वत: हो जाता है।"
+    },
+    {
+     "en": "A karma-yogi's 'I' fades quickly because even 'I am a servant' is used up in service; a seeker of liberation for himself keeps his 'I' longer.",
+     "hi": "‘मैं सेवक हूँ’—इस भावसे कर्मयोगीका अहम् भी सेवामें लग जाता है, इसलिये शीघ्र मिटता है; ‘मैं मुमुक्षु हूँ’ माननेसे ज्ञानयोगीका अहम् दूरतक साथ रहता है।"
+    },
+    {
+     "en": "What binds is not the existence of things but our attachment to them; so the seeker's main task is to remove attachment.",
+     "hi": "बाँधनेवाली वस्तु पदार्थकी सत्ता नहीं, राग या सम्बन्ध है; इसलिये साधकका मुख्य काम है—रागका अभाव करना।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Karma-sannyasa (traditional)",
+      "hi": "कर्मसंन्यास (प्रचलित प्रणाली)"
+     },
+     "items": [
+      {
+       "en": "Needs a rare situation: a realised teacher, faith, living with him",
+       "hi": "विशेष परिस्थिति चाहिये—तत्त्वज्ञ गुरु, श्रद्धा, उनके पास निवास"
+      },
+      {
+       "en": "Needs intense dispassion; hard while attachment remains",
+       "hi": "तीव्र वैराग्य चाहिये; राग रहते कठिन"
+      },
+      {
+       "en": "Needs karma-yoga to succeed",
+       "hi": "इसमें कर्मयोगकी आवश्यकता है"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Karma-yoga",
+      "hi": "कर्मयोग"
+     },
+     "items": [
+      {
+       "en": "Possible for anyone, in any situation — even war",
+       "hi": "हर व्यक्ति, हर परिस्थितिमें सम्भव—युद्धमें भी"
+      },
+      {
+       "en": "Removes attachment directly by serving others",
+       "hi": "दूसरोंको सुख पहुँचानेसे राग स्वत: मिटता है"
+      },
+      {
+       "en": "Does not need Sankhya",
+       "hi": "इसमें सांख्ययोगकी आवश्यकता नहीं"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "The blankets",
+      "hi": "कम्बल"
+     },
+     "text": {
+      "en": "If we have spare blankets, letting go of them is easy when we see them warming someone else. But to simply walk away from them by reasoning that they are transient, dream-like objects is hard, unless dispassion is intense.",
+      "hi": "हमारे पास कम्बल पड़े हों, तो उन्हें दूसरोंके काम आते देखकर छोड़ना सहज है; पर उन्हें विचारद्वारा अनित्य, स्वप्नवत् मानकर यों ही छोड़ जाना (तीव्र वैराग्यके बिना) कठिन है।"
+     },
+     "quote": {
+      "hi": "जैसे, हमारे पास कम्बल पड़े हैं तो उन कम्बलोंको दूसरोंके काममें आते जानकर उनका त्याग करना अर्थात् उनसे अपना राग हटाना साधारण बात है"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Which roti do you take out?",
+      "hi": "थालीसे कौन-सी रोटी?"
+     },
+     "text": {
+      "en": "If we must remove a roti from our own plate, we take out the cold, stale, dry one. But if it is to be given to someone else, we take out the good one. Giving for others makes letting go of even what we like easy.",
+      "hi": "अपनी थालीसे रोटी निकालनी पड़े तो ठंडी, बासी, रूखी ही निकालेंगे; पर वही रोटी किसी दूसरेको देनी हो तो अच्छी ही निकालेंगे। दूसरेके लिये देनेसे प्रिय वस्तुका त्याग भी सुगम हो जाता है।"
+     },
+     "quote": {
+      "hi": "जैसे—भोजनके समय थालीमेंसे रोटी निकालनी पड़े तो ठंडी, बासी और रूखी रोटी ही निकालेंगे। परन्तु यदि वही रोटी किसी दूसरेको देनी हो तो अच्छी रोटी ही निकालेंगे, खराब नहीं।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Knowing the film isn't real",
+      "hi": "सिनेमा"
+     },
+     "text": {
+      "en": "We know the things shown on a cinema screen have no real existence, yet we still get attached to them. So merely knowing something is unreal does not remove attachment to it.",
+      "hi": "सिनेमामें दीखनेवाले पदार्थोंकी सत्ता नहीं है—यह जानते हुए भी उनमें राग हो जाता है। अत: केवल असत्को असत् जाननेसे रागकी निवृत्ति नहीं होती।"
+     },
+     "quote": {
+      "hi": "जैसे, सिनेमामें दीखनेवाले पदार्थों आदिकी सत्ता नहीं है—ऐसा जानते हुए भी उसमें राग हो जाता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "decluttering",
+     "text": {
+      "en": "Minimalism by reasoning ('it's just stuff') often stalls at the things you love; donating them to someone who needs them tends to work — which is Swamiji's roti example in a modern closet.",
+      "hi": "‘ये बस चीजें हैं’—ऐसे विचारसे सामान कम करना अक्सर प्रिय वस्तुओंपर रुक जाता है; पर किसी जरूरतमन्दको देना आसान पड़ता है—यही स्वामीजीका रोटीवाला उदाहरण है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It settles Arjuna's confusion from chapter 4: both paths are valid, but the one open to him right now, on the battlefield, is the better one.",
+    "hi": "यह चौथे अध्यायसे उठी अर्जुनकी उलझनको सुलझाता है: दोनों मार्ग सही हैं, पर जो अभी, रणभूमिमें उनके लिये खुला है, वही श्रेष्ठ है।"
+   },
+   "terms": [
+    {
+     "sa": "सन्न्यास:",
+     "meaning": {
+      "en": "renunciation (here, Sankhya-yoga)",
+      "hi": "संन्यास (सांख्ययोग)"
+     }
+    },
+    {
+     "sa": "नि:श्रेयसकरौ",
+     "meaning": {
+      "en": "both lead to the highest good",
+      "hi": "कल्याण करनेवाले हैं"
+     }
+    },
+    {
+     "sa": "कर्मसन्न्यासात्",
+     "meaning": {
+      "en": "than renunciation of action",
+      "hi": "कर्मसंन्यास (सांख्ययोग) से"
+     }
+    },
+    {
+     "sa": "विशिष्यते",
+     "meaning": {
+      "en": "is superior",
+      "hi": "श्रेष्ठ है"
+     }
+    }
+   ],
+   "concepts": [
+    "sannyasa",
+    "karma",
+    "jnana",
+    "vairagya",
+    "asakti"
+   ],
+   "related": [
+    "5.1",
+    "5.3",
+    "5.4",
+    "5.5",
+    "5.6",
+    "12.5",
+    "6.3",
+    "3.3",
+    "3.20",
+    "4.34",
+    "6.47"
+   ]
+  },
+  {
+   "id": "5.10",
+   "headline": {
+    "en": "Like a lotus leaf untouched by water",
+    "hi": "जलमें कमलके पत्तेकी तरह"
+   },
+   "essence": {
+    "en": "One who offers all actions to God and acts without attachment is not touched by sin, as a lotus leaf is not wetted by water.",
+    "hi": "जो सब कर्म परमात्मामें अर्पण करके आसक्तिरहित होकर करता है, वह जलसे कमलके पत्तेकी तरह पापसे लिप्त नहीं होता।"
+   },
+   "idea": {
+    "en": "After the karma-yogi (5.7) and the Sankhya-yogi (5.8–9), Krishna shows how the bhakti-yogi stays untouched by action. The body, senses, mind and life-breath all belong to God, so the devotee feels: all actions happen through the Lord and for the Lord; I am only an instrument. Swamiji adds a point about honesty: these things were given to us, are leaving us, and cannot be kept, changed or taken along — so calling them 'mine' is not honest; they should be recognised as His. Attachment is the root of desire, and desire the root of all sin; with attachment gone, the devotee lives in the world and does everything, yet stays untouched.",
+    "hi": "कर्मयोगी (५। ७) और सांख्ययोगी (५। ८-९) के बाद भगवान् भक्तियोगीकी निर्लिप्तता बताते हैं। शरीर, इन्द्रियाँ, मन, बुद्धि, प्राण सब भगवान्के हैं; अत: भक्तका भाव रहता है कि सब क्रियाएँ भगवान्के द्वारा और भगवान्के लिये हो रही हैं, मैं तो निमित्तमात्र हूँ। स्वामीजी ईमानदारीकी बात कहते हैं—शरीरादि वस्तुएँ मिली हुई हैं और बिछुड़ रही हैं, इन्हें न रख सकते हैं, न बदल सकते हैं, न साथ ले जा सकते हैं; इसलिये इन्हें अपनी मानना ईमानदारी नहीं है, जिसकी हैं उसी भगवान्की मान लेनी चाहिये। आसक्तिसे कामना और कामनासे सब पाप होते हैं; आसक्ति न रहनेसे भक्त संसारमें रहकर सब कर्म करते हुए भी निर्लिप्त रहता है।"
+   },
+   "points": [
+    {
+     "en": "The karma-yogi offers everything to the world, the jnana-yogi to prakriti, the bhakti-yogi to God — and since God is Lord of both, offering to Him is best.",
+     "hi": "कर्मयोगी सब कुछ संसारके, ज्ञानयोगी प्रकृतिके और भक्तियोगी भगवान्के अर्पण करता है; प्रकृति और संसार दोनोंके स्वामी भगवान् हैं, इसलिये भगवान्के अर्पण करना ही श्रेष्ठ है।"
+    },
+    {
+     "en": "Attachment is not only wanting a result; even crediting oneself with goodness while acting, or wanting to be called good, is attachment.",
+     "hi": "केवल फल चाहना ही आसक्ति नहीं; क्रिया करते समय अपनेमें अच्छेपनका आरोप करना और दूसरोंसे अच्छा कहलवानेका भाव भी आसक्ति है।"
+    },
+    {
+     "en": "Every action has some flaw, as fire has smoke; but one who has given up hope, desire and attachment is not touched by those flaws.",
+     "hi": "धुएँसे अग्निकी तरह सब कर्म किसी-न-किसी दोषसे युक्त हैं; पर जिसने आशा, कामना, आसक्तिका त्याग कर दिया, उसे ये दोष नहीं लगते।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The lotus leaf",
+      "hi": "कमलका पत्ता"
+     },
+     "text": {
+      "en": "A lotus leaf is born in water and lives in water, yet water does not cling to it. So the devotee, facing God, lives in the world and does all his work, yet the world does not cling to him.",
+      "hi": "कमलका पत्ता जलमें उत्पन्न होकर और जलमें रहकर भी जलसे अछूता रहता है। ऐसे ही भगवान्के सम्मुख भक्त संसारमें रहकर सब क्रियाएँ करते हुए भी निर्लिप्त रहता है।"
+     },
+     "quote": {
+      "hi": "जैसे कमलका पत्ता जलमें उत्पन्न होकर और जलमें रहकर भी जलसे निर्लिप्त रहता है, ऐसे ही भक्तियोगी संसारमें रहकर सम्पूर्ण क्रियाएँ करनेपर भी भगवान्के सम्मुख होनेके कारण संसारमें सर्वदा-सर्वथा निर्लिप्त रहता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "work",
+     "text": {
+      "en": "You can work in a competitive, gossipy office without absorbing its games — if you treat your abilities as given to you for a purpose rather than as 'my brand' to protect.",
+      "hi": "प्रतिस्पर्धा और चुगलीवाले दफ्तरमें रहकर भी उसके खेलोंसे अछूते रह सकते हो—यदि अपनी योग्यताको ‘मेरी छवि’ न मानकर किसी उद्देश्यके लिये मिली हुई मानो।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It shows a third, gentle way to be free while acting: not by effort of discrimination but by honestly handing everything back to its Owner.",
+    "hi": "यह कर्म करते हुए मुक्त रहनेका तीसरा सरल मार्ग बताता है: विचारके श्रमसे नहीं, बल्कि ईमानदारीसे सब कुछ उसके स्वामीको लौटा देनेसे।"
+   },
+   "terms": [
+    {
+     "sa": "ब्रह्मणि आधाय",
+     "meaning": {
+      "en": "offering to God",
+      "hi": "परमात्मामें अर्पण करके"
+     }
+    },
+    {
+     "sa": "सङ्गं त्यक्त्वा",
+     "meaning": {
+      "en": "giving up attachment",
+      "hi": "आसक्तिका त्याग करके"
+     }
+    },
+    {
+     "sa": "न लिप्यते",
+     "meaning": {
+      "en": "is not touched",
+      "hi": "लिप्त नहीं होता"
+     }
+    },
+    {
+     "sa": "पद्मपत्रम् इव अम्भसा",
+     "meaning": {
+      "en": "like a lotus leaf by water",
+      "hi": "जलसे कमलके पत्तेकी तरह"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "asakti",
+    "sharanagati",
+    "nishkama-karma"
+   ],
+   "related": [
+    "5.7",
+    "5.8",
+    "5.9",
+    "13.21",
+    "2.62",
+    "3.37",
+    "18.48",
+    "9.27",
+    "9.28",
+    "10.12"
+   ]
+  },
+  {
+   "id": "5.18",
+   "headline": {
+    "en": "The wise see the same in all",
+    "hi": "पण्डितजन सबमें सम देखते हैं"
+   },
+   "essence": {
+    "en": "The wise see the one same Supreme in a learned, humble brahmana, a cow, an elephant, a dog and an outcaste.",
+    "hi": "ज्ञानी महापुरुष विद्या-विनययुक्त ब्राह्मण, गाय, हाथी, कुत्ते और चाण्डालमें भी समरूप परमात्माको देखते हैं।"
+   },
+   "idea": {
+    "en": "Swamiji makes a careful distinction: the verse says the wise are sama-darshi (equal in vision), not sama-varti (equal in dealings). Among a brahmana, an outcaste, a cow, an elephant and a dog, differences in behaviour are unavoidable — worship is offered to the learned brahmana, milk is taken from the cow, one rides the elephant. Yet in all of them the same Supreme is fully present, and the sage's vision rests on that. So his love, care and wish for their good never differ. Real samata comes when another's sorrow becomes one's own sorrow and another's joy one's own joy.",
+    "hi": "स्वामीजी स्पष्ट करते हैं कि यहाँ महापुरुषोंको ‘समदर्शी’ कहा है, ‘समवर्ती’ नहीं। ब्राह्मण, चाण्डाल, गाय, हाथी, कुत्तेमें व्यवहारकी विषमता अनिवार्य है—पूजन विद्या-विनययुक्त ब्राह्मणका, दूध गायका, सवारी हाथीकी होती है। परन्तु तत्त्वत: सबमें एक ही परमात्मतत्त्व परिपूर्ण है और महापुरुषकी दृष्टि उसीपर रहती है। इसलिये उनकी आत्मीयता, प्रेम, हित, दयामें कभी फर्क नहीं पड़ता। वास्तविक समता तब आती है, जब दूसरोंका दु:ख अपना दु:ख और दूसरोंका सुख अपना सुख हो जाता है।"
+   },
+   "points": [
+    {
+     "en": "Equality of feeling, not of outward dealings: 'Keep non-duality always in feeling, never in action.'",
+     "hi": "भावमें समता, व्यवहारमें नहीं—‘भावाद्वैतं सदा कुर्यात् क्रियाद्वैतं न कुत्रचित्।’"
+    },
+    {
+     "en": "While one longs for one's own pleasure, samata will not come however hard one tries; when the heart asks 'how can others be happy?', it comes by itself.",
+     "hi": "जबतक अपने सुखकी लालसा है, समता नहीं आयेगी; जब हृदयसे लगन लग जाय कि दूसरोंको सुख कैसे पहुँचे, तब समता स्वत: आ जायगी।"
+    },
+    {
+     "en": "Start at home: let no one in the family suffer even a little because of me, however much I must bear.",
+     "hi": "इसका आरम्भ अपने घरसे करें—चाहे मैं कितना ही कष्ट पाऊँ, घरवालोंको किंचिन्मात्र भी दु:ख न पहुँचे।"
+    },
+    {
+     "en": "Pointing a lost traveller to the road or a thirsty person to water brings an immediate peace — a small taste of this equal vision.",
+     "hi": "भटके हुएको मार्ग बताने या प्यासेको जल बतानेसे हृदयमें प्रत्यक्ष शान्ति आती है—यह इस समताका छोटा अनुभव है।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Sama-darshi (equal vision)",
+      "hi": "समदर्शी"
+     },
+     "items": [
+      {
+       "en": "Sees the one Supreme in all",
+       "hi": "सबमें एक परमात्मतत्त्व देखता है"
+      },
+      {
+       "en": "Same love and care for all",
+       "hi": "सबके प्रति समान आत्मीयता, हित"
+      },
+      {
+       "en": "Dealings appropriate to each",
+       "hi": "व्यवहार यथायोग्य"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Sama-varti (equal dealings only)",
+      "hi": "समवर्ती"
+     },
+     "items": [
+      {
+       "en": "Treats all outwardly the same",
+       "hi": "सबसे बाहरी बर्ताव एक-सा"
+      },
+      {
+       "en": "Like death (Yama), which treats all alike",
+       "hi": "जैसे यमराज—मौत सबकी बराबर"
+      },
+      {
+       "en": "Goes against scripture and social order",
+       "hi": "शास्त्र और मर्यादाके विरुद्ध"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "The limbs of one body",
+      "hi": "शरीरके अंग"
+     },
+     "text": {
+      "en": "We feel equal ownership and care for every part of our body, yet treat them differently: we bow with head and hands, not feet; we apologise if our foot touches someone, not our hand. Different treatment, same belonging — and any hurt limb gets equal attention.",
+      "hi": "शरीरके सब अंगोंमें अपनापन समान है, फिर भी व्यवहार अलग है—प्रणाम मस्तक-हाथसे करते हैं, पैरसे नहीं; पैर लगनेपर क्षमा माँगते हैं, हाथ लगनेपर नहीं। व्यवहारमें भेद, आत्मीयतामें नहीं—और पीड़ित अंगकी उपेक्षा नहीं होती।"
+     },
+     "quote": {
+      "hi": "अपने शरीरके सब अंगों (मस्तक, पैर, हाथ, गुदा आदि) में हमारी दृष्टि अर्थात् अपनेपन और हितकी भावना समान रहती है, फिर भी हम उनके व्यवहारमें भेद रखते हैं"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The ant and the sugar",
+      "hi": "चींटी और चीनी"
+     },
+     "text": {
+      "en": "An ant picks out a grain of sugar mixed in sand. So the discerning vision of the wise picks out the one real Presence pervading this changing world, in every creature.",
+      "hi": "चींटी रेतमें मिले चीनीके दानेको पकड़कर निकाल लेती है। ऐसे ही ज्ञानियोंकी विवेकवती दृष्टि असत् संसारमें व्याप्त सत्-तत्त्वको पकड़ लेती है।"
+     },
+     "quote": {
+      "hi": "जैसे चींटी रेतमें मिली हुई चीनीके दानेको पकड़कर निकाल लेती है, ऐसे ही ज्ञानियोंकी विवेकवती सूक्ष्म दृष्टि असत् संसारमें व्याप्त सत्-तत्त्वको पकड़ लेती है।"
+     },
+     "from": "appendix"
+    },
+    {
+     "title": {
+      "en": "The monkey and her baby",
+      "hi": "बँदरी और बच्चा"
+     },
+     "text": {
+      "en": "A mother monkey clings to her baby's body even after it dies — yet when food comes, she eats it herself and chases the baby away. Possessive love (mamata) is really self-love; while it remains, samata cannot come.",
+      "hi": "बँदरी बच्चेके मरनेपर भी उसके शरीरको पकड़े रहती है, पर खानेकी वस्तु मिलनेपर स्वयं खा लेती है और बच्चेको घुड़ककर भगा देती है। ममताके रहते समताका आना असम्भव है।"
+     },
+     "quote": {
+      "hi": "जैसे, बँदरीकी अपने बच्चेपर इतनी ममता रहती है कि उसके मरनेके बाद भी वह उसके शरीरको पकड़े हुए चलती है, छोड़ती नहीं। परन्तु जब कोई वस्तु खानेके लिये मिल जाती है, तब वह स्वयं तो खा लेती है, पर बच्चेको नहीं खाने देती।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "workplace",
+     "text": {
+      "en": "A good team lead gives different people different tasks, pay and responsibility — but wishes every one of them well equally, including the one who annoys her. That is equal vision with appropriate dealings.",
+      "hi": "अच्छा टीम-लीडर अलग-अलग लोगोंको अलग काम और जिम्मेवारी देता है, पर सबका—उसका भी जो उसे अखरता है—समान हित चाहता है। यही समदृष्टि और यथायोग्य व्यवहार है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It clears up a common confusion about 'equality': the Gita asks for equal love and well-wishing toward all, which is harder and deeper than identical treatment.",
+    "hi": "यह ‘समता’के बारेमें आम भ्रम मिटाता है: गीता सबके प्रति समान प्रेम और हितकी भावना चाहती है, जो एक-सा बर्ताव करनेसे कहीं गहरी और कठिन है।"
+   },
+   "terms": [
+    {
+     "sa": "विद्याविनयसम्पन्ने",
+     "meaning": {
+      "en": "endowed with learning and humility",
+      "hi": "विद्या-विनययुक्त"
+     }
+    },
+    {
+     "sa": "श्वपाके",
+     "meaning": {
+      "en": "in an outcaste",
+      "hi": "चाण्डालमें"
+     }
+    },
+    {
+     "sa": "शुनि",
+     "meaning": {
+      "en": "in a dog",
+      "hi": "कुत्तेमें"
+     }
+    },
+    {
+     "sa": "पण्डिता:",
+     "meaning": {
+      "en": "the wise",
+      "hi": "ज्ञानी महापुरुष"
+     }
+    },
+    {
+     "sa": "समदर्शिन:",
+     "meaning": {
+      "en": "seeing the same (Supreme) in all",
+      "hi": "समरूप परमात्माको देखनेवाले"
+     }
+    }
+   ],
+   "concepts": [
+    "samatva",
+    "jnana",
+    "viveka"
+   ],
+   "related": [
+    "6.32",
+    "6.9",
+    "6.29",
+    "12.4",
+    "13.27",
+    "13.28",
+    "5.19",
+    "5.29"
+   ]
+  },
+  {
+   "id": "5.22",
+   "headline": {
+    "en": "Pleasures born of contact are wombs of sorrow",
+    "hi": "संयोगजन्य भोग दु:खके ही कारण हैं"
+   },
+   "essence": {
+    "en": "Pleasures born of sense-contact have a beginning and an end and are sources of sorrow; the discerning do not delight in them.",
+    "hi": "इन्द्रियों और विषयोंके संयोगसे होनेवाले भोग आदि-अन्तवाले और दु:खके ही कारण हैं; विवेकी मनुष्य उनमें रमण नहीं करता।"
+   },
+   "idea": {
+    "en": "'Bhoga' is the pleasure felt when the senses meet their objects with attachment — and Swamiji widens it: being pleased by comfort, praise, even hearing someone else praise an idea we hold, is also bhoga. Such pleasures come and go, while the self remains; so the self can never be satisfied by them. They are 'wombs of sorrow' because they are born from the pain of lack and end in the pain of loss: the joy of getting something is only as big as the pain of not having it was. Merely noticing 'these come and go' already weakens their hold — Swamiji calls the word 'adyantavantah' a medicine.",
+    "hi": "इन्द्रियोंका विषयोंसे रागपूर्वक सम्बन्ध होनेपर जो सुख प्रतीत होता है, वह ‘भोग’ है; स्वामीजी इसे और व्यापक बताते हैं—सुख-सुविधा, मान-बड़ाई मिलनेपर प्रसन्न होना, यहाँतक कि अपने माने सिद्धान्तकी दूसरेसे प्रशंसा सुनकर सुख होना भी भोग है। भोग आने-जानेवाले हैं और स्वयं सदा रहनेवाला है, इसलिये स्वयंको भोगोंसे कभी सुख नहीं मिल सकता। ये दु:खयोनि इसलिये हैं कि पहले वस्तुके अभावका दु:ख होता है, तभी मिलनेपर सुख होता है—जितना अभावका दु:ख, उतना ही मिलनेका सुख। ‘आद्यन्तवन्त:’ की ओर ध्यान जाते ही सुख-दु:खका प्रभाव कम हो जाता है, इसलिये यह पद औषधरूप है।"
+   },
+   "points": [
+    {
+     "en": "Three kinds of sorrow hide in every pleasure: the sorrow of its outcome, the burning while one has it (comparison, fear of loss), and the sorrow of remembering it once gone.",
+     "hi": "हर भोगमें तीन दु:ख छिपे हैं—परिणामदु:ख, तापदु:ख (तुलना, छिननेकी आशंका) और संस्कारदु:ख (बिछुड़नेपर याद करके दु:खी होना)।"
+    },
+    {
+     "en": "Pleasures can never come equally to two people, but God can be attained equally by every human being.",
+     "hi": "भोग दो मनुष्योंको भी समानरूपसे प्राप्त नहीं हो सकते, पर भगवान् मनुष्यमात्रको समानरूपसे प्राप्त हो सकते हैं।"
+    },
+    {
+     "en": "One who knows pleasures bring sorrow yet keeps chasing them is not truly wise, because he does not give weight to his own knowing.",
+     "hi": "जो जानता है कि भोग दु:खप्रद हैं, फिर भी उनमें रमण करता है, वह अपने ज्ञानको महत्त्व न देनेके कारण वास्तवमें बुद्धिमान् नहीं है।"
+    },
+    {
+     "en": "Change is not the culprit — without change a seed would never become a tree; the fault is in seeking pleasure from change.",
+     "hi": "परिवर्तन दोषी नहीं—परिवर्तनके बिना बीज वृक्ष कैसे बनेगा? दोष उसमें सुखबुद्धि करनेमें है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Sleep during satsang",
+      "hi": "सत्संगमें नींद"
+     },
+     "text": {
+      "en": "During satsang, tamas brings on drowsiness and the pleasure of sleep pulls at us, while sattva says 'listen now, this chance won't come again'. This inner tug-of-war between the gunas is itself a source of sorrow for seekers.",
+      "hi": "सत्संग करते समय तामसी वृत्तिसे नींद आने लगती है और नींदका सुख खींचता है, पर सात्त्विक वृत्ति कहती है—अभी सत्संग कर लें, यह मौका बार-बार नहीं मिलेगा। गुणोंकी वृत्तियोंका यह विरोध भी साधकोंको दु:ख देता है।"
+     },
+     "quote": {
+      "hi": "ऐसे ही सत्संग करते समय तामसी वृत्तिके कारण नींद आने लगती है और नींदका सुख मनुष्यको अपनी ओर खींचता है; परन्तु सात्त्विक वृत्तिके कारण उसे विचार आता है कि अभी सत्संग कर लें; क्योंकि यह मौका बार-बार मिलेगा नहीं"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "social media",
+     "text": {
+      "en": "The rush of a post going viral is exactly as large as the itch for validation before it — and it leaves behind a new itch to check again. Beginning, end, and sorrow on both sides.",
+      "hi": "पोस्ट वायरल होनेका रोमांच उतना ही बड़ा होता है जितनी पहले वाहवाहीकी चाह थी—और पीछे फिरसे देखनेकी नयी खुजली छोड़ जाता है। आदि, अन्त, और दोनों ओर दु:ख।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It gives the reason behind detachment: not that pleasure is sinful, but that it cannot give the self what it seeks and always carries sorrow with it.",
+    "hi": "यह वैराग्यका कारण बताता है: भोग इसलिये त्याज्य नहीं कि वह पाप है, बल्कि इसलिये कि वह स्वयंको वह नहीं दे सकता जो वह चाहता है, और सदा दु:ख साथ लाता है।"
+   },
+   "terms": [
+    {
+     "sa": "संस्पर्शजा:",
+     "meaning": {
+      "en": "born of contact (of senses and objects)",
+      "hi": "इन्द्रियों और विषयोंके संयोगसे पैदा होनेवाले"
+     }
+    },
+    {
+     "sa": "भोगा:",
+     "meaning": {
+      "en": "pleasures",
+      "hi": "भोग (सुख)"
+     }
+    },
+    {
+     "sa": "दु:खयोनय:",
+     "meaning": {
+      "en": "sources of sorrow",
+      "hi": "दु:खके ही कारण"
+     }
+    },
+    {
+     "sa": "आद्यन्तवन्त:",
+     "meaning": {
+      "en": "having a beginning and an end",
+      "hi": "आदि-अन्तवाले"
+     }
+    },
+    {
+     "sa": "बुध:",
+     "meaning": {
+      "en": "the discerning person",
+      "hi": "विवेकशील मनुष्य"
+     }
+    }
+   ],
+   "concepts": [
+    "vairagya",
+    "viveka",
+    "kama"
+   ],
+   "related": [
+    "2.14",
+    "5.21",
+    "15.7",
+    "18.38",
+    "3.39"
+   ]
+  },
+  {
+   "id": "5.29",
+   "headline": {
+    "en": "Knowing Me as the friend of all beings, one finds peace",
+    "hi": "मुझे सब प्राणियोंका सुहृद् जानकर शान्ति मिलती है"
+   },
+   "essence": {
+    "en": "Knowing the Lord as enjoyer of all sacrifices and austerities, great Lord of all worlds, and selfless friend of all beings, the devotee attains peace.",
+    "hi": "भगवान्को सब यज्ञों-तपोंका भोक्ता, सम्पूर्ण लोकोंका महान् ईश्वर और सब प्राणियोंका सुहृद् जानकर भक्त शान्तिको प्राप्त हो जाता है।"
+   },
+   "idea": {
+    "en": "After Karma-yoga, Sankhya and a brief account of meditation, Krishna closes the chapter with the path of devotion. Three recognitions bring peace. First, He is the real enjoyer of every good act — whoever we worship, feed or guide, He is present in their heart, so the aim should rest on Him, not on the person. Second, He is the Lord of all worlds — so an honest person cannot call anything in creation 'mine'; saying 'God owns everything' while holding things as mine is self-deception. Third, He is the friend of all beings — mighty, yet caring for us without any motive; then where is room for fear or worry? Swamiji says holding even one of these firmly is enough.",
+    "hi": "कर्मयोग, सांख्ययोग और संक्षेपसे ध्यानयोगके बाद भगवान् भक्तियोगसे अध्यायका उपसंहार करते हैं। तीन बातें शान्ति देती हैं। पहली—सब शुभ कर्मोंके भोक्ता भगवान् हैं; जिसकी पूजा करें, जिसे अन्न दें, जिसे मार्ग बतायें, उसके हृदयमें भगवान् ही हैं, इसलिये लक्ष्य भगवान्पर रहे, प्राणीपर नहीं। दूसरी—वे सम्पूर्ण लोकोंके महेश्वर हैं; तब कोई ईमानदार व्यक्ति सृष्टिकी किसी वस्तुको अपनी कैसे मान सकता है? वस्तुओंको अपनी मानते हुए ‘भगवान् सबके मालिक हैं’ कहना अपने-आपको धोखा देना है। तीसरी—वे प्राणिमात्रके सुहृद् हैं; ऐसे शक्तिशाली बिना प्रयोजन हमारे हितैषी हों, तो भय, चिन्ता कैसे रह सकती है? स्वामीजी कहते हैं कि इनमेंसे एक बात भी दृढ़तासे मान ली जाय तो परमशान्ति मिल जाती है।"
+   },
+   "points": [
+    {
+     "en": "Three things block God-realisation: wanting something for oneself, taking anything as 'mine', and not taking God as one's own.",
+     "hi": "भगवत्प्राप्तिमें तीन मुख्य बाधक हैं—अपने लिये कुछ चाहना, किसी वस्तुको अपनी मानना और भगवान्को अपना न मानना।"
+    },
+    {
+     "en": "Only two do good to all beings without any reason: the Lord and His devotees — and the devotees' friendliness too comes from Him.",
+     "hi": "बिना कारण जीवमात्रका हित करनेवाले दो ही हैं—भगवान् और उनके भक्त; भक्तोंमें सुहृत्ता भी भगवान्से ही आती है।"
+    },
+    {
+     "en": "We have the right only to use the body and things well, never to own them.",
+     "hi": "मनुष्यको शरीरादि पदार्थोंका सदुपयोग करनेका ही अधिकार है, अपने माननेका बिलकुल नहीं।"
+    }
+   ],
+   "examples": [],
+   "modern": [
+    {
+     "context": "anxiety",
+     "text": {
+      "en": "When you trust that someone far wiser and stronger than you genuinely wants your good, the 3 a.m. spiral of 'what if' loses its footing — this is the peace the verse describes.",
+      "hi": "जब भरोसा हो कि कोई तुमसे कहीं अधिक समझदार और समर्थ सचमुच तुम्हारा भला चाहता है, तो रातके ‘अगर ऐसा हुआ तो’ वाले चक्करकी जमीन खिसक जाती है—यही वह शान्ति है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It ends a chapter about two paths by pointing to the simplest one: recognising God as the true enjoyer, owner and friend — and resting in that.",
+    "hi": "दो मार्गोंवाले इस अध्यायको यह सबसे सरल मार्गकी ओर ले जाकर समाप्त करता है: भगवान्को ही वास्तविक भोक्ता, स्वामी और सुहृद् जानना—और उसीमें निश्चिन्त रहना।"
+   },
+   "terms": [
+    {
+     "sa": "भोक्तारं यज्ञतपसाम्",
+     "meaning": {
+      "en": "the enjoyer of all sacrifices and austerities",
+      "hi": "सब यज्ञों और तपोंका भोक्ता"
+     }
+    },
+    {
+     "sa": "सर्वलोकमहेश्वरम्",
+     "meaning": {
+      "en": "the great Lord of all worlds",
+      "hi": "सम्पूर्ण लोकोंका महान् ईश्वर"
+     }
+    },
+    {
+     "sa": "सुहृदं सर्वभूतानाम्",
+     "meaning": {
+      "en": "the selfless friend of all beings",
+      "hi": "सम्पूर्ण प्राणियोंका सुहृद् (स्वार्थरहित दयालु और प्रेमी)"
+     }
+    },
+    {
+     "sa": "शान्तिम् ऋच्छति",
+     "meaning": {
+      "en": "attains peace",
+      "hi": "शान्तिको प्राप्त हो जाता है"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "ishvara",
+    "yajna",
+    "sharanagati"
+   ],
+   "related": [
+    "9.24",
+    "18.61",
+    "3.22"
+   ]
+  },
+  {
+   "id": "6.5",
+   "headline": {
+    "en": "Lift yourself by yourself",
+    "hi": "अपने द्वारा अपना उद्धार करे"
+   },
+   "essence": {
+    "en": "Lift yourself by yourself; do not let yourself fall — you alone are your own friend, and you alone your own enemy.",
+    "hi": "अपने द्वारा अपना उद्धार करे, अपना पतन न करे; क्योंकि आप ही अपना मित्र है और आप ही अपना शत्रु है।"
+   },
+   "idea": {
+    "en": "To lift oneself means to rise above the body, senses, mind, intellect and even the limited sense of 'I' — all of which belong to prakriti, not to one's real self. Swamiji insists that the self does not need them to reach God: relying on them is itself the bondage, because the real is reached by letting go of the unreal, not by means of it. Everyone has the power of discernment that makes this possible, whether on the path of knowledge, devotion or action. God, saints and scripture do uplift us — but only when we ourselves put faith in them; so many avatars and saints have come, and if we are not yet free, it is because we have not turned toward them.",
+    "hi": "अपने-आपसे अपना उद्धार करनेका तात्पर्य है—शरीर, इन्द्रियाँ, मन, बुद्धि और एकदेशीय ‘मैं’-पनसे भी अपनेको ऊँचा उठाना, क्योंकि ये सब प्रकृतिके कार्य हैं, अपना स्वरूप नहीं। स्वामीजी कहते हैं कि परमात्मप्राप्तिके लिये इनकी आवश्यकता नहीं; इनका सहारा लेना ही खास बन्धन है, क्योंकि असत्के द्वारा नहीं, असत्के त्यागसे सत्की प्राप्ति होती है। मनुष्यमात्रमें ऐसी विचारशक्ति है, जिससे वह ज्ञान, भक्ति या कर्म—किसी भी मार्गसे अपना उद्धार कर सकता है। ईश्वर, सन्त, शास्त्र भी तभी उद्धार करते हैं, जब हम स्वयं उनमें श्रद्धा करें; अनेक अवतार और सन्त हो चुके, फिर भी हमारा उद्धार नहीं हुआ तो इसलिये कि हम स्वयं उनके सम्मुख नहीं हुए।"
+   },
+   "points": [
+    {
+     "en": "Reflect: I am not the body (it changes, I remain); it is not mine (I have no control over it); it is not for me (having it leaves my desires unfulfilled).",
+     "hi": "विचार करे—मैं शरीर नहीं (शरीर बदलता है, मैं वही रहता हूँ); यह मेरा नहीं (इसपर मेरा वश नहीं); यह मेरे लिये नहीं (इसके मिलनेपर भी इच्छा बाकी रहती है)।"
+    },
+    {
+     "en": "We fell by grabbing hold of the world — the world did not grab us. If we stop forming new ties, the old ones fall away by themselves.",
+     "hi": "स्वयंने ही संसारके सम्बन्धको पकड़ा है, संसारने इसको नहीं पकड़ा। नया सम्बन्ध न जोड़े तो पुराना स्वत: छूट जायगा।"
+    },
+    {
+     "en": "Feeling big because of wealth, position or power is actually a fall — one becomes dependent on them while believing oneself free.",
+     "hi": "धन, पद, अधिकार मिलनेपर अपनेको बड़ा मानना वास्तवमें पतन है—उनके अधीन होकर भी अपनेको स्वाधीन मानता है।"
+    },
+    {
+     "en": "Look for faults in yourself, not others; be your own teacher, leader and ruler.",
+     "hi": "दूसरेमें कमी न देखकर अपनेमें कमी देखे; आप ही अपना गुरु, नेता और शासक बने।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Your own friend",
+      "hi": "आप ही अपना मित्र"
+     },
+     "items": [
+      {
+       "en": "Takes no ownership of body, mind, things",
+       "hi": "प्रकृतिके कार्यसे किंचिन्मात्र भी सम्बन्ध नहीं मानता"
+      },
+      {
+       "en": "Puts faith in God, saints, scripture and follows them",
+       "hi": "भगवान्, सन्त, शास्त्रमें श्रद्धा करके उनकी बात मानता है"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Your own enemy",
+      "hi": "आप ही अपना शत्रु"
+     },
+     "items": [
+      {
+       "en": "Takes body and things as 'mine'",
+       "hi": "शरीरादिको अपना मान लेता है"
+      },
+      {
+       "en": "Blames others for his fall or rise",
+       "hi": "उद्धार-पतनमें दूसरेको हेतु मानता है"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "Food and hunger",
+      "hi": "भोजन और भूख"
+     },
+     "text": {
+      "en": "Someone else can give you food, but the hunger must be your own. Without your own hunger, food given by another is of no use; without your own longing, a guru's or saint's teaching is of no use.",
+      "hi": "दूसरा व्यक्ति भोजन दे देगा, पर भूख खुदकी चाहिये। खुदकी भूख न हो तो दिया हुआ भोजन किस कामका? ऐसे ही खुदकी लगन न हो तो गुरु और सन्तोंका उपदेश किस कामका?"
+     },
+     "quote": {
+      "hi": "जैसे, दूसरा व्यक्ति भोजन तो दे देगा, पर भूख खुदकी चाहिये। खुदकी भूख न हो तो दूसरेके द्वारा दिया गया भोजन किस कामका? ऐसे ही खुदकी लगन न हो तो गुरुका, सन्त-महात्माओंका उपदेश किस कामका?"
+     },
+     "from": "appendix"
+    },
+    {
+     "title": {
+      "en": "Childhood left on its own",
+      "hi": "बचपन अपने-आप छूट गया"
+     },
+     "text": {
+      "en": "We did not give up childhood — it left by itself. Then we caught hold of youth, 'I am young', but that tie too will not last. The old ties are always leaving; we keep making new ones.",
+      "hi": "बाल्यावस्थाको हमने छोड़ा नहीं, वह स्वाभाविक ही छूट गयी। फिर हमने ‘मैं जवान हूँ’ पकड़ लिया, पर यह सम्बन्ध भी नहीं रहेगा। पुराना सम्बन्ध छूट रहा है, हम नया जोड़ लेते हैं।"
+     },
+     "quote": {
+      "hi": "जैसे, बाल्यावस्थाको इसने छोड़ा नहीं, प्रत्युत वह स्वाभाविक ही छूट गयी। फिर इसने जवानीके सम्बन्धको पकड़ लिया कि ‘मैं जवान हूँ’, पर इसका जवानीके साथ भी सम्बन्ध नहीं रहेगा।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "self-improvement",
+     "text": {
+      "en": "Endless courses, mentors and videos can't do the one thing that is yours to do: actually wanting to change and turning toward the advice you already have.",
+      "hi": "अनगिनत कोर्स, मेंटर और वीडियो वह नहीं कर सकते जो केवल तुम कर सकते हो: सचमुच बदलना चाहना और जो सलाह पहलेसे मिली है, उसकी ओर मुड़ना।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It places both freedom and responsibility with the seeker: no circumstance is the real obstacle, and no one else can take this step for us.",
+    "hi": "यह उद्धारकी स्वतन्त्रता और जिम्मेवारी—दोनों साधकको सौंपता है: कोई परिस्थिति वास्तविक बाधा नहीं, और यह कदम कोई दूसरा हमारे लिये नहीं उठा सकता।"
+   },
+   "terms": [
+    {
+     "sa": "उद्धरेत्",
+     "meaning": {
+      "en": "should raise, uplift",
+      "hi": "उद्धार करे"
+     }
+    },
+    {
+     "sa": "आत्मना आत्मानम्",
+     "meaning": {
+      "en": "oneself by oneself",
+      "hi": "अपने द्वारा अपना"
+     }
+    },
+    {
+     "sa": "न अवसादयेत्",
+     "meaning": {
+      "en": "should not degrade (oneself)",
+      "hi": "पतन न करे"
+     }
+    },
+    {
+     "sa": "बन्धु:",
+     "meaning": {
+      "en": "friend",
+      "hi": "मित्र"
+     }
+    },
+    {
+     "sa": "रिपु:",
+     "meaning": {
+      "en": "enemy",
+      "hi": "शत्रु"
+     }
+    }
+   ],
+   "concepts": [
+    "atma",
+    "viveka",
+    "shraddha",
+    "sharira"
+   ],
+   "related": [
+    "6.4",
+    "6.6",
+    "13.21"
+   ]
+  },
+  {
+   "id": "6.17",
+   "headline": {
+    "en": "Yoga is for the one who keeps measure",
+    "hi": "यथायोग्य आहार-विहारवालेका योग"
+   },
+   "essence": {
+    "en": "Yoga that destroys sorrow is accomplished by one who is measured in food and recreation, in effort at work, and in sleep and waking.",
+    "hi": "दु:खोंका नाश करनेवाला योग यथायोग्य आहार-विहार, कर्मोंमें यथायोग्य चेष्टा और यथायोग्य सोने-जागनेवालेका ही सिद्ध होता है।"
+   },
+   "idea": {
+    "en": "Swamiji spells each word out. Food should be earned honestly, pure, eaten not for taste or bulk but as an aid to practice, light and a little less than one's fill. Recreation, walking and exercise — neither excessive nor absent. Work — whatever duty arises, done cheerfully, serving family and society as one is able. Sleep — enough that drowsiness doesn't trouble one while awake; sleep early, rise early. And 'waking' (avabodha) means more than not sleeping: it means being engaged in the purpose for which human birth is given — time for God. 'Yukta' is used because the rules cannot be identical for everyone; each should do what is fitting for him.",
+    "hi": "स्वामीजी हर पद खोलते हैं। भोजन सत्य-न्यायसे कमाये धनका, सात्त्विक, स्वाद या पुष्टिबुद्धिसे नहीं, साधनबुद्धिसे हो—हलका और खुराकसे थोड़ा कम। घूमना, व्यायाम, योगासन—न अधिक, न अभाव। कर्म—जो कर्तव्य सामने आ जाय, उसे प्रसन्नतापूर्वक करना और शक्तिके अनुसार कुटुम्ब-समाजकी सेवा करना। सोना इतना कि जागनेपर निद्रा-आलस्य न सताये; जल्दी सोये, जल्दी जागे। ‘अवबोध’ (जागना) का तात्पर्य है—जिसके लिये मनुष्यजन्म मिला है, उस काम अर्थात् भगवान्में लगना। ‘युक्त’ इसलिये कहा कि वर्ण, आश्रम, परिस्थिति आदिके कारण सबके नियम एक-से नहीं हो सकते; जिसके लिये जैसा उचित हो, वैसा करे।"
+   },
+   "points": [
+    {
+     "en": "Though said for the meditator, Swamiji says this verse is useful for every seeker.",
+     "hi": "यह श्लोक ध्यानयोगीके लिये कहा गया है, पर सभी साधक इसे अपने काममें ले सकते हैं।"
+    },
+    {
+     "en": "Work and 'waking' (sadhana) are earning; food-recreation and sleep are spending. With money, don't spend more than you earn; with life-span, cut down sleep and put the time into God.",
+     "hi": "कर्म और जागना (साधन-भजन) उपार्जन हैं; आहार-विहार और सोना व्यय हैं। धनमें उपार्जनसे अधिक खर्च न करे; आयुमें सोनेका समय घटाकर भजनमें लगाये।"
+    },
+    {
+     "en": "Remember God while working and even while lying down to sleep; then all one's work becomes worship.",
+     "hi": "काम करते समय और सोते समय भी भगवान्को याद रखे; तब सब काम-धंधा भजन हो जायगा।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Dividing the twenty-four hours",
+      "hi": "चौबीस घंटोंका बँटवारा"
+     },
+     "text": {
+      "en": "We have twenty-four hours and four tasks: food and recreation, livelihood, sleep, and 'waking' for God. Six hours each to begin with — then take time from recreation for work, and from sleep for japa, meditation and satsang, increasing the latter day by day.",
+      "hi": "हमारे पास चौबीस घंटे और चार काम हैं—आहार-विहार, जीविका, सोना और भगवत्प्राप्तिके लिये जागना। आरम्भमें छ:-छ: घंटे; फिर आहार-विहारसे समय घटाकर जीविकामें और नींदसे घटाकर भजन-ध्यानमें लगाये, और भजनको दिन-प्रतिदिन बढ़ाये।"
+     },
+     "quote": {
+      "hi": "हमारे पास चौबीस घंटे हैं और हमारे सामने चार काम हैं। चौबीस घंटोंको चारका भाग देनेसे प्रत्येक कामके लिये छ:-छ: घंटे मिल जाते हैं"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "student life",
+     "text": {
+      "en": "All-night study sessions followed by days of crashing, junk food and zero movement are the opposite of 'yukta'. A steady routine you can actually keep does more for both marks and mind.",
+      "hi": "रातभर पढ़ाई, फिर दिनोंतक थकान, जंक फूड और बिलकुल न चलना—यह ‘युक्त’का उलटा है। निभ सकनेवाली सधी हुई दिनचर्या अंक और मन—दोनोंके लिये अधिक करती है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Spiritual life is not built on extremes; ordinary daily habits — eating, working, sleeping — done in measure are themselves the ground on which yoga succeeds.",
+    "hi": "साधना अतियोंपर नहीं टिकती; रोजकी आदतें—खाना, काम, सोना—यथायोग्य हों तो वही योगकी सिद्धिकी भूमि बन जाती हैं।"
+   },
+   "terms": [
+    {
+     "sa": "युक्ताहारविहारस्य",
+     "meaning": {
+      "en": "of one measured in food and recreation",
+      "hi": "यथायोग्य आहार और विहार करनेवालेका"
+     }
+    },
+    {
+     "sa": "युक्तचेष्टस्य कर्मसु",
+     "meaning": {
+      "en": "of one measured in effort at work",
+      "hi": "कर्मोंमें यथायोग्य चेष्टा करनेवालेका"
+     }
+    },
+    {
+     "sa": "युक्तस्वप्नावबोधस्य",
+     "meaning": {
+      "en": "of one measured in sleep and waking",
+      "hi": "यथायोग्य सोने और जागनेवालेका"
+     }
+    },
+    {
+     "sa": "दु:खहा",
+     "meaning": {
+      "en": "destroyer of sorrow",
+      "hi": "दु:खोंका नाश करनेवाला"
+     }
+    }
+   ],
+   "concepts": [
+    "dhyana",
+    "yoga"
+   ],
+   "related": [
+    "6.16"
+   ]
+  },
+  {
+   "id": "6.35",
+   "headline": {
+    "en": "By practice and dispassion the mind is held",
+    "hi": "अभ्यास और वैराग्यसे मन वशमें होता है"
+   },
+   "essence": {
+    "en": "Yes, the mind is restless and hard to control — but it is held by practice and by dispassion.",
+    "hi": "नि:सन्देह मन चंचल है और इसका निग्रह कठिन है; परन्तु अभ्यास और वैराग्यके द्वारा इसका निग्रह होता है।"
+   },
+   "idea": {
+    "en": "Krishna does not dismiss Arjuna's complaint; He agrees it is entirely right. Then He gives two means. Practice (abhyasa) is bringing the mind back to the goal again and again — every day, continuously, with value and respect for the goal. It has two forms: keep the mind on the goal and ignore whatever else comes up; or wherever the mind goes, see your goal there. Dispassion (vairagya) supports practice: the more attachment to worldly pleasures falls away, the more the mind settles in God. When old impressions throw up a thought, neither like nor dislike it — it will fade by itself.",
+    "hi": "भगवान् अर्जुनकी बातको टालते नहीं—कहते हैं कि तुम्हारा कहना बिलकुल ठीक है, मन बड़ा चंचल है। फिर दो उपाय बताते हैं। मनको बार-बार ध्येयमें लगानेका नाम ‘अभ्यास’ है—रोजाना, निरन्तर, ध्येयमें महत्त्व और आदर-बुद्धि रखते हुए। इसके दो भेद हैं—ध्येयमें वृत्ति लगाये और दूसरा चिन्तन आ जाय तो उससे उदासीन हो जाय; अथवा जहाँ-जहाँ मन जाय, वहाँ-वहाँ अपने इष्टको देखे। अभ्यासकी सहायताके लिये ‘वैराग्य’ चाहिये—संसारके भोगोंसे राग जितना हटेगा, मन उतना परमात्मामें लगेगा। पुराने संस्कारोंसे कोई स्फुरणा हो जाय तो उसमें न राग करे, न द्वेष; वह अपने-आप मिट जायगी।"
+   },
+   "points": [
+    {
+     "en": "'Mahabaho' (mighty-armed) reminds Arjuna to bring a warrior's courage and patience to practice and never grow weary of it.",
+     "hi": "‘महाबाहो’ सम्बोधनका तात्पर्य है कि अभ्यासमें कभी उकताना नहीं, धैर्यपूर्वक शूरवीरता रखनी चाहिये।"
+    },
+    {
+     "en": "Aids to practice: japa without gaps while listening to the Name; counting the Name with the mind rather than beads; contemplating the Lord's form from feet to crown.",
+     "hi": "अभ्यासके उपाय: नाम-जपमें बीचमें समय खाली न जाने दे और नामको सुने; माला न गिनकर मनसे गिने; चरणोंसे मुकुटतक भगवान्के स्वरूपका चिन्तन करे।"
+    },
+    {
+     "en": "Ways to dispassion: see that the world changes every moment while the self does not; serve family members without wanting anything back; see that every fault and sorrow comes from attachment, and every peace from its absence.",
+     "hi": "वैराग्यके उपाय: संसार प्रतिक्षण बदलता है, स्वरूप नहीं—ऐसा विचार करे; कुटुम्बियोंकी सेवा करे पर उनसे कुछ न चाहे; सब दोष-दु:ख रागसे और सब सुख-शान्ति रागरहित होनेसे हैं—ऐसा विचार करे।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Kunti asks for adversity",
+      "hi": "कुन्तीका विपत्तिका वरदान"
+     },
+     "text": {
+      "en": "Arjuna's mother Kunti was so discerning and detached that she asked Krishna for adversity as a boon, so that she would keep having His darshan. By calling Arjuna 'Kaunteya', Krishna reminds him: be detached like your mother, and turn your mind to God.",
+      "hi": "अर्जुनकी माता कुन्ती इतनी विवेकवती और विरक्त थीं कि उन्होंने भगवान्से विपत्तिका वरदान माँगा। ‘कौन्तेय’ कहकर भगवान् याद दिलाते हैं कि माताकी तरह तुम भी संसारसे विरक्त होकर परमात्मामें लगो।"
+     },
+     "quote": {
+      "hi": "अर्जुनकी माता कुन्ती बहुत विवेकवती तथा भोगोंसे विरक्त रहनेवाली थीं। कुन्तीने भगवान् श्रीकृष्णसे विपत्तिका वरदान माँगा था"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "focus",
+     "text": {
+      "en": "Every time you notice you've drifted to your phone during study and gently return to the page — without scolding yourself — that is abhyasa. Deleting the app that keeps pulling you is a small vairagya.",
+      "hi": "पढ़ते समय फोनकी ओर भटकनेपर बिना खुदको डाँटे फिरसे पन्नेपर लौट आना—यही अभ्यास है। जो ऐप बार-बार खींचता है, उसे हटा देना छोटा-सा वैराग्य है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It turns a discouraging truth — 'the mind is hard to control' — into a workable method that anyone can begin today.",
+    "hi": "यह एक हतोत्साहित करनेवाले सत्य—‘मन वशमें करना कठिन है’—को ऐसी विधि बना देता है जिसे कोई भी आज आरम्भ कर सकता है।"
+   },
+   "terms": [
+    {
+     "sa": "असंशयम्",
+     "meaning": {
+      "en": "undoubtedly",
+      "hi": "नि:सन्देह (तुम्हारा कहना बिलकुल ठीक है)"
+     }
+    },
+    {
+     "sa": "दुर्निग्रहम्",
+     "meaning": {
+      "en": "hard to restrain",
+      "hi": "निग्रह करनेमें कठिन"
+     }
+    },
+    {
+     "sa": "चलम्",
+     "meaning": {
+      "en": "restless",
+      "hi": "चंचल"
+     }
+    },
+    {
+     "sa": "अभ्यासेन",
+     "meaning": {
+      "en": "by practice",
+      "hi": "अभ्याससे"
+     }
+    },
+    {
+     "sa": "वैराग्येण",
+     "meaning": {
+      "en": "by dispassion",
+      "hi": "वैराग्यसे"
+     }
+    },
+    {
+     "sa": "गृह्यते",
+     "meaning": {
+      "en": "is held, controlled",
+      "hi": "(इसका) निग्रह किया जाता है"
+     }
+    }
+   ],
+   "concepts": [
+    "dhyana",
+    "vairagya"
+   ],
+   "related": [
+    "6.34",
+    "6.36"
+   ]
+  },
+  {
+   "id": "6.40",
+   "headline": {
+    "en": "No one who does good comes to grief",
+    "hi": "कल्याणकारी काम करनेवालेकी दुर्गति नहीं होती"
+   },
+   "essence": {
+    "en": "Neither here nor hereafter is there loss for the sincere seeker; no one who does good, dear one, ever comes to a bad end.",
+    "hi": "सच्चे साधकका न इस लोकमें विनाश होता है, न परलोकमें; हे प्यारे! कल्याणकारी काम करनेवाला कोई भी दुर्गतिको नहीं जाता।"
+   },
+   "idea": {
+    "en": "Arjuna is deeply anxious: what happens to a seeker who, at the end, slips from yoga? Before even answering the question, Krishna removes the anxiety. Whatever progress one has made is not lost; one does not fall below it, the store of practice is not destroyed, the spiritual aim does not change. Krishna calls Arjuna 'Tata' — 'dear one' — the only time in the whole Gita. Swamiji explains why: work done for God becomes 'sat', and what is sat never ceases to be (17.27, 2.16). One may be delayed or seem to fall for a time, through bad company or carelessness, but the capital built up remains safe inside and comes forth again with good company or a great shock.",
+    "hi": "अर्जुनके हृदयमें बड़ी व्याकुलता है कि अन्तमें योगसे विचलित साधकका क्या होता है? प्रश्नका उत्तर देनेसे पहले ही भगवान् यह व्याकुलता दूर करते हैं। योगमें जितनी स्थिति बन चुकी है, उससे वह नीचे नहीं गिरता, साधनकी पूँजी नष्ट नहीं होती, पारमार्थिक उद्देश्य नहीं बदलता। यहाँ भगवान् ‘तात’ सम्बोधन देते हैं, जो गीताभरमें एक ही बार आया है और अत्यधिक प्यारका द्योतक है। स्वामीजी कारण बताते हैं: परमात्माके लिये किया गया कर्म ‘सत्’ हो जाता है और सत्का अभाव नहीं होता (१७। २७, २। १६)। कुसंग या असावधानीसे साधनमें बाधा, देरी हो सकती है, पर जितनी पूँजी बन चुकी है, वह भीतर सुरक्षित रहती है और अच्छा संग या बड़ी आफत आनेपर फिर प्रकट हो जाती है।"
+   },
+   "points": [
+    {
+     "en": "The Lord protects the one who turns to Him as a mother protects her small child, and keeps increasing his practice.",
+     "hi": "जैसे माता छोटे बच्चेकी रक्षा करती है, ऐसे ही भगवान् साधकके साधन और हितकी रक्षा करते हुए उसके साधनकी वृद्धि करते रहते हैं।"
+    },
+    {
+     "en": "When a seeker seems to lose his way, it is often because of pride; the Lord lets such a situation arise to wake him and make him run toward Him faster.",
+     "hi": "साधक कभी मोहित-सा दीखता है तो प्राय: अभिमानके कारण; भगवान् उसे चेतानेके लिये ऐसी घटना घटा देते हैं, जिससे वह व्याकुल होकर उनकी ओर तेजीसे चल पड़ता है।"
+    },
+    {
+     "en": "Still, the seeker must stay alert against bad company and sense-pull, because delay and fall of conduct are real losses.",
+     "hi": "फिर भी साधकको हर समय सावधान रहना चाहिये कि कुसंग और विषयोंके वश न हो; क्योंकि साधनमें बाधा और देरी तो हानि ही है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Bharata and the deer",
+      "hi": "भरत मुनि और हरिण"
+     },
+     "text": {
+      "en": "King Bharata left his kingdom for austerity, but out of compassion grew attached to a fawn and was born as a deer. Yet his store of practice was not lost: as a deer he remembered his past life, stayed away from his mother and ate only dry leaves.",
+      "hi": "भरत मुनि राज्य छोड़कर तप करते थे, पर दयावश हरिणके बच्चेमें आसक्त होकर अगले जन्ममें हरिण बने। फिर भी उनकी साधनकी पूँजी नष्ट नहीं हुई—हरिण-जन्ममें भी पूर्वजन्मकी याद रही, वे माँके साथ नहीं रहे और सूखे पत्ते खाते थे।"
+     },
+     "quote": {
+      "hi": "जैसे भरत मुनि भारतवर्षका राज्य छोड़कर एकान्तमें तप करते थे। वहाँ दयापरवश होकर वे हरिणके बच्चेमें आसक्त हो गये, जिससे दूसरे जन्ममें उनको हरिण बनना पड़ा।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The black dog at the katha",
+      "hi": "कथामें काला कुत्ता"
+     },
+     "text": {
+      "en": "Swamiji recounts something he saw himself: at a place where the katha was held, a black dog would come and sit and listen, and when the kirtan group walked around singing, the dog walked with them.",
+      "hi": "स्वामीजी अपनी देखी बात बताते हैं: एक जगह कथा होती थी तो एक काला कुत्ता आकर बैठता और कथा सुनता; कीर्तन-मण्डली घूमती तो वह भी साथ घूमता।"
+     },
+     "quote": {
+      "hi": "एक जगह कथा होती थी, तो एक काला कुत्ता आकर वहाँ बैठता और कथा सुनता। जब कीर्तन करते हुए कीर्तन-मण्डली घूमती, तो उस मण्डलीके साथ वह कुत्ता भी घूमता था। यह हमारी देखी हुई बात है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The Lord vanishes from the gopis",
+      "hi": "गोपियोंके बीचसे अन्तर्धान"
+     },
+     "text": {
+      "en": "Seeing the gopis' pride, the Lord disappeared in the middle of the rasa. When they became desperate He reappeared and said: 'I disappeared while still worshipping you' — your memory and your good never left Me.",
+      "hi": "गोपियोंका मद देखकर भगवान् रासमें अन्तर्धान हो गये। वे व्याकुल हुईं तो भगवान् प्रकट होकर बोले—‘तुम्हारा भजन करता हुआ ही मैं अन्तर्धान हुआ था’; तुम्हारी याद और हित मुझसे छूटा नहीं।"
+     },
+     "quote": {
+      "hi": "जैसे, गोपियोंका अभिमान (मद) देखकर मैं रासमें ही अन्तर्धान हो गया, तो सब गोपियाँ घबरा गयीं!"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "setbacks",
+     "text": {
+      "en": "Falling off a meditation or study routine for months doesn't erase what you built. When you return, you don't start from zero — the verse says the same of the inner life.",
+      "hi": "महीनोंतक ध्यान या पढ़ाईकी दिनचर्या छूट जानेसे बनायी हुई पूँजी मिटती नहीं; लौटनेपर शून्यसे शुरू नहीं करते—यही बात यह श्लोक आन्तरिक जीवनके लिये कहता है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It removes the fear that spiritual effort might be wasted: sincere effort is never lost, and the Lord Himself guards it.",
+    "hi": "यह इस भयको मिटाता है कि साधना व्यर्थ जा सकती है: सच्चा प्रयास कभी नष्ट नहीं होता, और भगवान् स्वयं उसकी रक्षा करते हैं।"
+   },
+   "terms": [
+    {
+     "sa": "न इह न अमुत्र",
+     "meaning": {
+      "en": "neither here nor hereafter",
+      "hi": "न इस लोकमें, न परलोकमें"
+     }
+    },
+    {
+     "sa": "विनाश:",
+     "meaning": {
+      "en": "loss, ruin",
+      "hi": "विनाश"
+     }
+    },
+    {
+     "sa": "कल्याणकृत्",
+     "meaning": {
+      "en": "one who does what leads to the good",
+      "hi": "कल्याणकारी काम करनेवाला"
+     }
+    },
+    {
+     "sa": "दुर्गतिम्",
+     "meaning": {
+      "en": "a bad end",
+      "hi": "दुर्गतिको"
+     }
+    },
+    {
+     "sa": "तात",
+     "meaning": {
+      "en": "dear one",
+      "hi": "हे प्यारे!"
+     }
+    }
+   ],
+   "concepts": [
+    "yoga",
+    "shraddha",
+    "ishvara"
+   ],
+   "related": [
+    "6.37",
+    "6.38",
+    "6.41",
+    "6.45",
+    "17.27",
+    "2.16"
+   ]
+  },
+  {
+   "id": "6.47",
+   "headline": {
+    "en": "The devotee is the highest yogi",
+    "hi": "श्रद्धावान् भक्त सर्वश्रेष्ठ योगी है"
+   },
+   "essence": {
+    "en": "Of all yogis, the one who worships Me with faith, his mind absorbed in Me, is in My view the most united (yuktatama).",
+    "hi": "सम्पूर्ण योगियोंमें भी जो श्रद्धावान् भक्त मुझमें तल्लीन मनसे मेरा भजन करता है, वह मेरे मतमें सर्वश्रेष्ठ योगी है।"
+   },
+   "idea": {
+    "en": "In 6.46 Krishna told Arjuna to be a yogi, but did not say which kind. Now, without being asked, He gives His own view: the devotee is the best. When one feels 'I am God's and God is mine', the mind settles in Him by itself — it doesn't have to be forced — and then eating, working, sleeping, even one's job, all become worship. Such a devotee, surrendered to the Lord of all yogas, has all the yogas in him. He cannot fall from yoga, because if at death he cannot remember God, God remembers him. Swamiji adds that the devotee walks small from the start, so even subtle ego does not remain, and in him love arises that grows every moment.",
+    "hi": "छियालीसवें श्लोकमें भगवान्ने अर्जुनको योगी बननेकी आज्ञा दी, पर कौन-सा योगी—यह नहीं कहा। अब बिना पूछे अपनी मान्यता बताते हैं कि भक्त सर्वश्रेष्ठ है। ‘मैं भगवान्का हूँ और भगवान् मेरे हैं’—ऐसा अपनापन होनेपर मन स्वत: भगवान्में लग जाता है, लगाना नहीं पड़ता; फिर खाना-पीना, सोना-जागना, खेती-व्यापार-नौकरी—सब भजन हो जाता है। महायोगेश्वरके शरण हुए भक्तमें सभी योग आ जाते हैं। वह योगभ्रष्ट हो ही नहीं सकता, क्योंकि अन्तसमयमें वह भगवान्को याद न कर सके तो भगवान् उसे याद करते हैं। स्वामीजी कहते हैं कि भक्त आरम्भसे ही छोटा होकर चलता है, इसलिये उसमें सूक्ष्म अहंकार भी नहीं रहता और उसमें प्रतिक्षण वर्धमान प्रेम प्रकट हो जाता है।"
+   },
+   "points": [
+    {
+     "en": "Karma-yogis and jnana-yogis are also free and at peace; the devotee is called best because in him love for God is revealed, which keeps growing and never ends.",
+     "hi": "कर्मयोगी, ज्ञानयोगी भी मुक्त और शान्त होते हैं; भक्तको सर्वश्रेष्ठ इसलिये कहा कि उसमें प्रतिक्षण वर्धमान भगवत्प्रेम प्रकट हो जाता है।"
+    },
+    {
+     "en": "Those who rely on their own strength and effort can fall from yoga; the one who depends wholly on God is not allowed to fall.",
+     "hi": "जिसे अपने बल, उद्योग, साधनका सहारा और अभिमान है, उसके योगभ्रष्ट होनेकी सम्भावना है; भगवान्पर निर्भर भक्तको भगवान् योगभ्रष्ट नहीं होने देते।"
+    },
+    {
+     "en": "Bhakti is present at the start of every path as attraction to God, and at the end as ever-growing love.",
+     "hi": "भक्ति प्रत्येक साधनके आरम्भमें पारमार्थिक आकर्षणके रूपमें और अन्तमें प्रतिक्षण वर्धमान प्रेमके रूपमें रहती है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The bride's new home",
+      "hi": "विवाहके बाद ससुराल"
+     },
+     "text": {
+      "en": "After marriage a girl's mind naturally turns to her new home — no one has to force it. In the same way, once one feels God is one's own, the mind settles in Him by itself.",
+      "hi": "विवाह होनेपर लड़कीका मन स्वाभाविक ही ससुरालमें लग जाता है, लगाना नहीं पड़ता। ऐसे ही भगवान्में अपनापन होनेपर भक्तका मन स्वत: भगवान्में लग जाता है।"
+     },
+     "quote": {
+      "hi": "जैसे विवाह होनेपर लड़कीका मन स्वाभाविक ही ससुरालमें लग जाता है, ऐसे ही भगवान्में अपनापन होनेपर भक्तका मन स्वाभाविक ही भगवान्में लग जाता है, मनको लगाना नहीं पड़ता।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "motivation",
+     "text": {
+      "en": "You don't need willpower to think about someone you love — the mind goes there on its own. The verse suggests that belonging, not force, is the easiest way to steady the mind.",
+      "hi": "जिससे प्रेम हो, उसके बारेमें सोचनेके लिये इच्छाशक्ति नहीं लगती—मन अपने-आप जाता है। यह श्लोक बताता है कि मनको स्थिर करनेका सबसे सरल उपाय जबरदस्ती नहीं, अपनापन है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It closes the first six chapters by revealing Krishna's own preference — devotion — and prepares the ground for the chapters on bhakti that follow.",
+    "hi": "यह पहले छ: अध्यायोंको भगवान्की अपनी मान्यता—भक्ति—प्रकट करके समाप्त करता है और आगेके भक्तिप्रधान अध्यायोंकी भूमि तैयार करता है।"
+   },
+   "terms": [
+    {
+     "sa": "योगिनाम् अपि सर्वेषाम्",
+     "meaning": {
+      "en": "even among all yogis",
+      "hi": "सम्पूर्ण योगियोंमें भी"
+     }
+    },
+    {
+     "sa": "मद्गतेन अन्तरात्मना",
+     "meaning": {
+      "en": "with a mind absorbed in Me",
+      "hi": "मुझमें तल्लीन हुए मनसे"
+     }
+    },
+    {
+     "sa": "श्रद्धावान्",
+     "meaning": {
+      "en": "full of faith",
+      "hi": "श्रद्धावान्"
+     }
+    },
+    {
+     "sa": "भजते",
+     "meaning": {
+      "en": "worships",
+      "hi": "भजन करता है"
+     }
+    },
+    {
+     "sa": "युक्ततम:",
+     "meaning": {
+      "en": "the most united, the best yogi",
+      "hi": "सर्वश्रेष्ठ योगी"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "yoga",
+    "shraddha",
+    "sharanagati"
+   ],
+   "related": [
+    "6.46",
+    "11.55",
+    "12.2",
+    "12.13",
+    "12.20",
+    "6.32",
+    "18.54",
+    "12.8"
+   ]
+  }
+ ]
+}

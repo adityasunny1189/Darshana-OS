@@ -1,0 +1,102 @@
+{
+  "id": "yoga",
+  "name": {
+    "en": "Yoga",
+    "sa": "योग",
+    "iast": "yoga"
+  },
+  "short": "Joining or disciplining — a path of practice toward freedom.",
+  "beginner": "Yoga comes from a root meaning 'to yoke' or 'to join'. In Indian philosophy it means a disciplined path of transforming the mind and life, not only physical postures. Different texts use it in quite different ways.",
+  "what": "Yoga names both a darshana — Patanjali's system for stilling the mind — and a general word for spiritual discipline. The Gita speaks of the yogas of action, knowledge, meditation and devotion, and defines yoga as equanimity and as skill in action. Hatha yoga texts add bodily and breath practices aimed at the same inner goals. Buddhist, Jain, Shaiva and Tantric traditions all have their own yogas.",
+  "scholar": "The Yoga Sutras define yoga as the stopping (nirodha) of the fluctuations of the mind (chitta-vritti) and lay out eight limbs (ashtanga). Gita usage is broader and debated: Shankara reads karma yoga as preparatory to jnana; Ramanuja integrates karma, jnana and bhakti; Swami Ramsukhdas presents karma, jnana and bhakti yoga as each independently able to lead to God. The pairing of 'yoga' with 'union' (with God or Brahman) is Vedantic and devotional; for Patanjali the goal is kaivalya, isolation of the seer.",
+  "perspectives": [
+    {
+      "tradition": "yoga",
+      "view": "Yoga is the stilling of the mind's fluctuations, practised through eight limbs, so that the seer rests in its own nature."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Yoga practices purify and steady the mind, but liberation itself comes from knowledge of the Self; meditation prepares for that knowledge."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Yoga culminates in loving union with or service to God; devotion is often called the highest yoga."
+    },
+    {
+      "tradition": "tantra",
+      "view": "Tantric yogas work with body, breath, mantra and subtle energy as means of realising identity with divine consciousness, within a ritual and contemplative framework."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist meditative disciplines (often called bhavana, cultivation) develop calm and insight; the term yoga is used especially in Yogacara, 'the practice of yoga'."
+    }
+  ],
+  "texts": [
+    "yoga-sutras",
+    "bhagavad-gita",
+    "hatha-yoga-pradipika",
+    "katha-upanishad",
+    "yoga-yajnavalkya",
+    "vivekananda-raja-yoga"
+  ],
+  "traditions": [
+    "yoga",
+    "sankhya",
+    "advaita",
+    "bhakti",
+    "tantra",
+    "buddhism"
+  ],
+  "relatedConcepts": [
+    "dhyana",
+    "samadhi",
+    "pranayama",
+    "chitta",
+    "samatva",
+    "nishkama-karma"
+  ],
+  "questions": [
+    "mind",
+    "freedom",
+    "live"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "katha-upanishad",
+      "note": "One of the first texts to describe yoga as steady control of the senses."
+    },
+    {
+      "kind": "gita",
+      "id": "2.48",
+      "note": "Yoga as equanimity in success and failure."
+    },
+    {
+      "kind": "gita",
+      "id": "2.50",
+      "note": "Yoga as skill in action."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "Patanjali's systematic definition and eight limbs."
+    },
+    {
+      "kind": "text",
+      "id": "hatha-yoga-pradipika",
+      "note": "The body and breath as instruments of inner discipline."
+    },
+    {
+      "kind": "text",
+      "id": "vivekananda-raja-yoga",
+      "note": "A modern exposition that shaped how yoga is presented worldwide."
+    }
+  ],
+  "gitaVerses": [
+    "2.48",
+    "2.50",
+    "5.2",
+    "6.1",
+    "6.23"
+  ]
+}

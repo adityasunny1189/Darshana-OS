@@ -1,0 +1,116 @@
+{
+  "id": "foundations",
+  "title": "I know nothing about Indian philosophy",
+  "level": "beginner",
+  "description": "A gentle first walk through the big ideas that recur across Indian thought, anchored in the Bhagavad Gita. By the end you will know the core vocabulary and be ready to explore the individual schools.",
+  "steps": [
+    {
+      "kind": "question",
+      "id": "knowledge",
+      "title": "What is philosophy here?",
+      "note": "Indian schools are called darshanas, 'ways of seeing'. Each begins with how we know things (pramana) — a good first question."
+    },
+    {
+      "kind": "gita",
+      "id": "2.7",
+      "title": "Philosophy begins with a real question",
+      "note": "The Gita opens with Arjuna confused about what is right and asking for guidance — philosophy as a response to a lived crisis."
+    },
+    {
+      "kind": "concept",
+      "id": "dharma",
+      "title": "Dharma",
+      "note": "Order, duty, right conduct: the word that frames how one should act in the world."
+    },
+    {
+      "kind": "gita",
+      "id": "3.35",
+      "title": "One's own duty",
+      "note": "The Gita's teaching that one's own path, imperfectly followed, is better than another's."
+    },
+    {
+      "kind": "concept",
+      "id": "karma",
+      "title": "Karma",
+      "note": "Action and its consequences — and the Gita's twist: the problem is attachment to results."
+    },
+    {
+      "kind": "gita",
+      "id": "2.47",
+      "title": "Work without clinging to results",
+      "note": "The single most quoted teaching of the Gita."
+    },
+    {
+      "kind": "question",
+      "id": "self",
+      "title": "Who am I?",
+      "note": "Almost every school asks what the real self is; their answers divide them."
+    },
+    {
+      "kind": "gita",
+      "id": "2.13",
+      "title": "The body changes, the experiencer continues",
+      "note": "A simple observation that launches the inquiry into the Self."
+    },
+    {
+      "kind": "concept",
+      "id": "yoga",
+      "title": "Yoga",
+      "note": "Far more than posture: in the Gita and Patanjali, a discipline of mind and action."
+    },
+    {
+      "kind": "concept",
+      "id": "moksha",
+      "title": "Moksha — liberation",
+      "note": "The highest aim for most schools, understood very differently by each."
+    },
+    {
+      "kind": "concept",
+      "id": "bhakti",
+      "title": "Bhakti — devotion",
+      "note": "The path of love for God, which shaped much of Indian religious life."
+    },
+    {
+      "kind": "gita",
+      "id": "9.26",
+      "title": "A leaf, a flower, fruit or water",
+      "note": "Devotion needs nothing elaborate, only sincerity."
+    },
+    {
+      "kind": "tradition",
+      "id": "vedanta",
+      "title": "Explore the schools: Vedanta",
+      "note": "The schools built on the Upanishads, Brahma Sutras and Gita."
+    },
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "title": "Sankhya",
+      "note": "A dualist map of consciousness and nature."
+    },
+    {
+      "kind": "tool",
+      "id": "tattvas",
+      "title": "The 25 principles",
+      "note": "Explore Sankhya's model of reality interactively."
+    },
+    {
+      "kind": "tradition",
+      "id": "buddhism",
+      "title": "Buddhism",
+      "note": "A major tradition that denies a permanent self."
+    },
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "title": "Jainism",
+      "note": "Non-harm and many-sided reality."
+    },
+    {
+      "kind": "tool",
+      "id": "anekanta",
+      "title": "Many-sided reality",
+      "note": "Try the Jain method of standpoints."
+    }
+  ]
+}

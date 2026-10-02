@@ -1,0 +1,43 @@
+{
+  "id": "prabhakara",
+  "name": {
+    "en": "Prabhakara",
+    "sa": "प्रभाकर"
+  },
+  "traditions": [
+    "mimamsa"
+  ],
+  "period": "Scholars generally place him in the 7th century CE, around the time of Kumarila; their exact chronological relation is debated.",
+  "context": "Prabhakara, called Guru in the tradition, founded the Prabhakara school of Purva Mimamsa through his commentaries on Shabara's Bhashya. Tradition makes him a pupil of Kumarila, but scholars treat this as uncertain. His school was developed especially by Shalikanatha and remained a rival to the Bhatta school, though it had fewer followers in later centuries.",
+  "coreIdeas": [
+    "Five means of valid knowledge; non-apprehension is not accepted as a separate pramana",
+    "Words convey meaning only as already related within a sentence, especially to an injunction (anvitabhidhana)",
+    "All cognition is valid; error is a failure to distinguish two cognitions, not a positive misapprehension (akhyati)",
+    "Every cognition reveals itself, its object and the knowing self together",
+    "Vedic injunction is binding as duty itself, not merely for the sake of its results"
+  ],
+  "works": [],
+  "otherWorks": [
+    "Brihati (a commentary on Shabara's Bhashya)",
+    "Laghvi"
+  ],
+  "influences": [
+    "jaimini"
+  ],
+  "disagreements": [
+    {
+      "with": "kumarila",
+      "note": "The two Mimamsa schools differ on the pramanas, on the theory of sentence meaning, on the explanation of error, and on how the self is known."
+    }
+  ],
+  "relatedThinkers": [
+    "kumarila",
+    "jaimini"
+  ],
+  "concepts": [
+    "dharma",
+    "pramana",
+    "karma",
+    "yajna"
+  ]
+}

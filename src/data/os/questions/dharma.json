@@ -1,0 +1,115 @@
+{
+  "id": "dharma",
+  "q": "What is Dharma?",
+  "motif": "scales",
+  "quickAnswer": "Dharma is one of the widest words in Indian thought: it can mean cosmic order, moral duty, law, right conduct, the nature of a thing, or, in Buddhism, the teaching and the basic elements of experience. Mimamsa ties it to Vedic injunction, the Dharmashastra and epic traditions to duties that vary by stage and role, and the Gita to one's own duty (svadharma) done without selfish attachment. Jain, Buddhist and Sikh thought each give it distinct meanings, so the question always invites 'dharma in which sense?'",
+  "concepts": [
+    "dharma",
+    "svadharma",
+    "rta",
+    "karma",
+    "ahimsa",
+    "hukam"
+  ],
+  "traditions": [
+    "vedic",
+    "mimamsa",
+    "itihasa-purana",
+    "buddhism",
+    "jainism",
+    "sikhism",
+    "tamil-ethics"
+  ],
+  "perspectives": [
+    {
+      "tradition": "vedic",
+      "view": "The older Vedic idea of rta (cosmic order) is often seen as a forerunner of dharma — the order that sustains the world and that ritual and right conduct uphold."
+    },
+    {
+      "tradition": "mimamsa",
+      "view": "Purva Mimamsa defines dharma as that which is known through Vedic injunction and leads to good; its sole reliable source is the Veda itself.",
+      "sources": [
+        {
+          "text": "mimamsa-sutras",
+          "ref": "1.1.2"
+        }
+      ]
+    },
+    {
+      "tradition": "itihasa-purana",
+      "view": "The Mahabharata repeatedly shows dharma as subtle and hard to know, with duties colliding; its stories explore the tension rather than resolving it neatly.",
+      "sources": [
+        {
+          "text": "mahabharata"
+        }
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "view": "In Buddhism, Dharma (Dhamma) means the Buddha's teaching and the truth it points to; in technical Abhidharma usage, dharmas are the momentary elements that make up experience.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jain philosophy uses dharma both for the ethical path, centred on non-harm, and, uniquely, for a substance (dharmastikaya) that makes motion possible.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Sikh thought speaks of dharam as righteous living within the divine order (hukam): honest work, sharing and remembrance of the Name, rather than duties fixed by birth.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "3.35",
+    "note": "The Gita's compact statement that one's own duty, even imperfectly done, is better than another's done well."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "2.31",
+      "note": "Arjuna's duty framed in terms of his role."
+    },
+    {
+      "kind": "gita",
+      "id": "4.7",
+      "note": "The divine descends whenever dharma declines — dharma as cosmic order."
+    },
+    {
+      "kind": "concept",
+      "id": "svadharma",
+      "note": "How personal duty is understood, and debated."
+    },
+    {
+      "kind": "text",
+      "id": "mahabharata",
+      "note": "The epic that stress-tests dharma through hard cases."
+    },
+    {
+      "kind": "text",
+      "id": "tirukkural",
+      "note": "A Tamil ethical classic on virtue largely independent of ritual or caste."
+    }
+  ],
+  "gitaQuestions": [
+    "duty-dislike",
+    "leave-world"
+  ],
+  "related": [
+    "live",
+    "karma"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ishvarakrishna",
+  "name": {
+    "en": "Ishvarakrishna",
+    "sa": "ईश्वरकृष्ण"
+  },
+  "traditions": [
+    "sankhya"
+  ],
+  "period": "Scholars generally place him around the 4th–5th century CE.",
+  "context": "Ishvarakrishna is the author of the Sankhya Karika, the oldest surviving systematic text of classical Sankhya. The Karika presents itself as a summary of an earlier, now lost, Sankhya treatise and names the lineage of teachers from Kapila onward. It was translated into Chinese in the 6th century and attracted several Sanskrit commentaries, including the Yuktidipika, the commentary attributed to Gaudapada, and Vachaspati Mishra's Tattva Kaumudi. Almost nothing is known of his life.",
+  "coreIdeas": [
+    "Human life is marked by threefold suffering, and discriminating knowledge is the means to end it",
+    "Two ultimate realities: many conscious purushas and one unconscious prakriti",
+    "Prakriti consists of three gunas (sattva, rajas, tamas) and evolves into twenty-three principles, making twenty-five tattvas in all",
+    "The effect pre-exists in its cause (satkaryavada)",
+    "Liberation (kaivalya) comes when purusha is known as distinct from prakriti's activity"
+  ],
+  "works": [
+    "sankhya-karika"
+  ],
+  "influences": [
+    "kapila"
+  ],
+  "disagreements": [
+    {
+      "with": "vedanta",
+      "note": "The Brahma Sutras and their Vedanta commentators argue against Sankhya's claim that unconscious prakriti (pradhana) could be the cause of an ordered world, holding that the cause must be conscious Brahman."
+    }
+  ],
+  "relatedThinkers": [
+    "kapila",
+    "patanjali"
+  ],
+  "concepts": [
+    "purusha",
+    "prakriti",
+    "guna",
+    "tattva",
+    "buddhi",
+    "ahankara",
+    "manas",
+    "viveka"
+  ]
+}

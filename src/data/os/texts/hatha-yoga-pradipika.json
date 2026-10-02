@@ -1,0 +1,104 @@
+{
+  "id": "hatha-yoga-pradipika",
+  "title": {
+    "en": "Hatha Yoga Pradipika",
+    "sa": "हठयोगप्रदीपिका",
+    "iast": "Haṭhayogapradīpikā"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "yoga",
+    "tantra",
+    "shaivism"
+  ],
+  "attribution": "Attributed to Svatmarama, who presents himself within a lineage of Nath teachers",
+  "author": null,
+  "period": "Generally dated to around the 15th century CE",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Body",
+    "Breath",
+    "Energy",
+    "Discipline",
+    "Meditation"
+  ],
+  "summary": "The best-known medieval manual of hatha yoga, compiling postures, cleansing practices, breath control and seals as preparation for raja yoga.",
+  "whyRead": "It shows how medieval yogis understood the body as an instrument of liberation, and it is the source of much vocabulary in modern posture yoga. It also shows that hatha was framed as serving meditative absorption, not as exercise alone.",
+  "questions": [
+    "Why should the body matter to a spiritual path?",
+    "How do breath and mind relate?",
+    "What is the relation between hatha yoga and Patanjali's yoga?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Hatha as a ladder to raja yoga",
+      "text": "The text presents hatha yoga as a means to raja yoga, the state of meditative absorption. Physical practices are meant to steady the body and breath so that the mind can become absorbed."
+    },
+    {
+      "title": "Purification and posture",
+      "text": "It describes a set of cleansing practices (shatkarma) and a limited number of postures, emphasising seated postures for breathwork and meditation over a large repertoire of poses."
+    },
+    {
+      "title": "Breath and mind move together",
+      "text": "A recurring idea is that when breath is unsteady the mind is unsteady, and when breath is steadied the mind follows. Breath regulation (pranayama) and retention (kumbhaka) are central."
+    },
+    {
+      "title": "Subtle body and seals",
+      "text": "Seals (mudra) and locks (bandha) are described in the language of the subtle body: channels (nadi), the central channel (sushumna) and the awakening of kundalini, reflecting Nath and tantric influence."
+    },
+    {
+      "title": "Absorption in sound",
+      "text": "The final chapter treats samadhi and the practice of listening to inner sound (nada), describing the dissolution (laya) of the mind as the culmination."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Chapter 1",
+      "note": "Asana, conduct and diet"
+    },
+    {
+      "label": "Chapter 2",
+      "note": "Shatkarma and pranayama"
+    },
+    {
+      "label": "Chapter 3",
+      "note": "Mudras and bandhas"
+    },
+    {
+      "label": "Chapter 4",
+      "note": "Samadhi, laya and nada"
+    },
+    {
+      "label": "Recensions",
+      "note": "The common edition has four chapters; some manuscripts are longer and divided differently"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "yoga",
+    "pranayama",
+    "samadhi",
+    "shakti",
+    "sharira",
+    "dhyana"
+  ],
+  "relatedTexts": [
+    {
+      "id": "yoga-sutras",
+      "note": "Hatha texts often present themselves as serving the goal Patanjali calls samadhi"
+    },
+    {
+      "id": "gheranda-samhita",
+      "note": "A later hatha manual with a sevenfold scheme"
+    },
+    {
+      "id": "shiva-samhita",
+      "note": "Another medieval hatha text with a more Vedantic frame"
+    }
+  ],
+  "thinkers": [],
+  "advanced": false,
+  "ingested": false
+}

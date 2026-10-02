@@ -1,0 +1,102 @@
+{
+  "id": "jiva",
+  "name": {
+    "en": "Jiva — the individual soul",
+    "sa": "जीव",
+    "iast": "jīva"
+  },
+  "short": "The living, embodied individual who acts, experiences and transmigrates.",
+  "beginner": "Jiva means 'the living one' — you as an individual who is born, acts, enjoys and suffers, and (in most Indian views) moves from life to life. Traditions differ on how the jiva relates to God or the ultimate reality.",
+  "what": "Where atman stresses the Self's pure nature, jiva usually names the self as embodied and bound: associated with a subtle body, carrying karma and undergoing rebirth. The Gita describes the jiva as an eternal fragment of the Lord that draws the senses and mind to itself and carries them from body to body. In Jainism, jiva is the basic term for soul, and the universe is full of them.",
+  "scholar": "Advaita explains the jiva through limitation (avaccheda) or reflection (pratibimba) models of consciousness in the mind. Ramanuja takes the jiva as atomic (anu) in size and a real mode (prakara) of Brahman; Madhva holds an intrinsic gradation of souls (a much-debated doctrine). Jain thought classifies jivas by number of senses, from one-sensed beings (plants, earth-bodies) to five-sensed beings.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "The jiva is Brahman appearing as limited through ignorance and the mind; on realisation, the jiva's individuality is found never to have been ultimately real."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "The jiva is real, eternal, atomic and many; it is a part (amsha) and body of Brahman, and remains an individual in liberation, serving God."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Jivas are innumerable and eternally distinct from God and each other; each has its own intrinsic nature that is revealed in liberation."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jivas are infinite in number, pervade all forms of life down to plants and elements, and are weighed down by karmic matter; each can become fully omniscient."
+    },
+    {
+      "tradition": "shaiva-siddhanta",
+      "view": "The soul (pashu) is eternal and bound by three bonds (pasha); in liberation it attains Shiva's nature while remaining distinct from Shiva."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "brihadaranyaka-upanishad",
+    "brahma-sutras",
+    "sri-bhashya",
+    "tattvartha-sutra",
+    "shiva-jnana-bodham"
+  ],
+  "traditions": [
+    "vedanta",
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "jainism",
+    "shaiva-siddhanta"
+  ],
+  "relatedConcepts": [
+    "atma",
+    "samsara",
+    "karma",
+    "sharira",
+    "pati-pashu-pasha",
+    "brahman"
+  ],
+  "questions": [
+    "self",
+    "death"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "15.7",
+      "note": "The jiva as an eternal fragment of the Lord, drawing the senses and mind to itself."
+    },
+    {
+      "kind": "gita",
+      "id": "15.8",
+      "note": "How the jiva carries the senses from one body to the next, like wind carrying scent."
+    },
+    {
+      "kind": "tradition",
+      "id": "advaita",
+      "note": "The jiva as Brahman seemingly limited by ignorance."
+    },
+    {
+      "kind": "tradition",
+      "id": "vishishtadvaita",
+      "note": "The jiva as a real, eternal part and mode of Brahman."
+    },
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "note": "A different metaphysics: countless jivas bound by karmic matter."
+    },
+    {
+      "kind": "concept",
+      "id": "pati-pashu-pasha",
+      "note": "The Shaiva Siddhanta picture of soul, Lord and bond."
+    }
+  ],
+  "gitaVerses": [
+    "2.22",
+    "7.5",
+    "13.22",
+    "15.7",
+    "15.8",
+    "15.16"
+  ]
+}

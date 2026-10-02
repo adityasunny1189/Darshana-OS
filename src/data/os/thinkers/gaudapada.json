@@ -1,0 +1,45 @@
+{
+  "id": "gaudapada",
+  "name": {
+    "en": "Gaudapada",
+    "sa": "गौडपाद"
+  },
+  "traditions": [
+    "advaita",
+    "vedanta"
+  ],
+  "period": "Scholars generally place him around the 6th–7th century CE; dates are uncertain.",
+  "context": "Gaudapada is remembered in the Advaita tradition as the teacher of Govinda, who in turn is said to have taught Shankara, making him the earliest named figure of the systematic Advaita lineage whose work survives. His Mandukya Karika, a verse commentary on the Mandukya Upanishad, is the earliest surviving text of Advaita Vedanta. Scholars have long noted that its fourth chapter uses vocabulary and arguments close to Madhyamaka and Yogacara Buddhism; how much he borrowed, and how to interpret this, is debated.",
+  "coreIdeas": [
+    "Ajativada, the doctrine of non-origination: in the highest sense nothing is ever truly born or created",
+    "Analysis of the three states of waking, dream and deep sleep, and of turiya, the 'fourth' that underlies them",
+    "The world of multiplicity is compared to a dream and to the apparent patterns traced by a moving firebrand",
+    "Duality is appearance; the non-dual Self alone is real"
+  ],
+  "works": [
+    "mandukya-karika"
+  ],
+  "otherWorks": [
+    "A commentary on the Sankhya Karika is attributed to a Gaudapada; whether this is the same person is doubtful"
+  ],
+  "attributionNote": "The Mandukya Karika is traditionally his. Some scholars argue its four chapters may not all come from a single author. The Sankhya Karika commentary bearing the name Gaudapada is generally treated as by a different author.",
+  "influenced": [
+    "shankara"
+  ],
+  "disagreements": [
+    {
+      "with": "madhyamaka",
+      "note": "Gaudapada's arguments against real origination resemble Madhyamaka dialectic, yet he affirms a non-dual Self, which Madhyamaka does not. Scholars debate whether this is borrowing, parallel development or deliberate engagement."
+    }
+  ],
+  "relatedThinkers": [
+    "shankara",
+    "nagarjuna"
+  ],
+  "concepts": [
+    "non-duality",
+    "atma",
+    "brahman",
+    "maya"
+  ]
+}

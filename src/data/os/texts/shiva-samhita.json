@@ -1,0 +1,74 @@
+{
+  "id": "shiva-samhita",
+  "title": {
+    "en": "Shiva Samhita",
+    "sa": "शिवसंहिता",
+    "iast": "Śivasaṃhitā"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "yoga",
+    "tantra",
+    "shaivism",
+    "vedanta"
+  ],
+  "attribution": "Presented as the teaching of Shiva; author unknown",
+  "author": null,
+  "period": "Scholars place it between roughly the 15th and 17th centuries CE; dating is debated",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Subtle body",
+    "Breath",
+    "Non-duality",
+    "Practice"
+  ],
+  "summary": "A hatha yoga text that joins subtle-body practice with a broadly Vedantic, non-dual view of the self.",
+  "whyRead": "It is notable for grounding hatha practice in a metaphysical frame close to Advaita, and for describing the subtle body in detail. It also states that householders can practise yoga successfully.",
+  "questions": [
+    "Can bodily yoga be joined to a non-dual philosophy?",
+    "Is yoga only for renunciants?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "A philosophical opening",
+      "text": "The first chapter surveys competing views and then favours a non-dual position in which the individual self is not ultimately different from the supreme. The practical chapters are set within this frame."
+    },
+    {
+      "title": "The body as microcosm",
+      "text": "The body is described as containing the cosmos in miniature, with channels (nadi), centres and the central channel, through which the practice is mapped."
+    },
+    {
+      "title": "Practice for householders",
+      "text": "The text holds that success in yoga depends on practice rather than on renouncing household life, a point often cited in discussions of who yoga is for."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Five chapters (patalas) in the common edition"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "yoga",
+    "pranayama",
+    "non-duality",
+    "shakti",
+    "sharira",
+    "brahman"
+  ],
+  "relatedTexts": [
+    {
+      "id": "hatha-yoga-pradipika",
+      "note": "Contemporary hatha manual with overlapping practices"
+    },
+    {
+      "id": "yoga-yajnavalkya",
+      "note": "Another text joining yoga practice to Vedantic ideas"
+    }
+  ],
+  "thinkers": [],
+  "advanced": false,
+  "ingested": false
+}

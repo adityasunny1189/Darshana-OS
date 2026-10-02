@@ -1,0 +1,102 @@
+{
+  "id": "shankara-brahma-sutra-bhashya",
+  "title": {
+    "en": "Brahma Sutra Bhashya (Shankara)",
+    "sa": "ब्रह्मसूत्रभाष्य",
+    "iast": "Brahmasūtra Bhāṣya"
+  },
+  "category": "bhashya",
+  "sourceType": "traditional-commentary",
+  "traditions": [
+    "advaita",
+    "vedanta"
+  ],
+  "attribution": "Adi Shankaracharya; authorship accepted by scholars",
+  "author": "shankara",
+  "period": "Traditionally 8th century CE; scholars generally place Shankara in the 7th–8th centuries",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Superimposition",
+    "Brahman",
+    "Maya",
+    "Knowledge",
+    "Scriptural interpretation"
+  ],
+  "summary": "Shankara's commentary on the Brahma Sutras, the foundational systematic statement of Advaita Vedanta.",
+  "whyRead": "This is the classic source for Advaita's core ideas: that the individual self is ultimately Brahman, that the experienced world of difference arises from superimposition through ignorance, and that liberation comes from knowledge. Its preface on superimposition is one of the most studied pieces of Indian philosophy.",
+  "questions": [
+    "Why do we mistake the non-Self for the Self?",
+    "How can Brahman be one if the world is many?",
+    "Can action lead to liberation?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Superimposition (adhyasa)",
+      "text": "In the preface Shankara argues that ordinary experience rests on mutually superimposing Self and non-Self, like mistaking a rope for a snake. All ordinary knowing and acting proceed within this ignorance."
+    },
+    {
+      "title": "Two standpoints",
+      "text": "He distinguishes the conventional standpoint, where the world, souls and God are treated as real, from the ultimate standpoint, where Brahman alone is real without a second."
+    },
+    {
+      "title": "Knowledge, not action, liberates",
+      "text": "Since bondage is due to ignorance, only knowledge removes it; rituals and ethical action purify the mind but are not themselves the cause of liberation."
+    },
+    {
+      "title": "Critiques of rival schools",
+      "text": "Commenting on the second chapter, he offers detailed critiques of Sankhya, Vaisheshika atomism, Buddhist schools, Jainism and some theistic schools."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Preface on superimposition (adhyasa bhashya)"
+    },
+    {
+      "label": "Commentary on all four chapters of the Brahma Sutras"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Preface (adhyasa bhashya)",
+      "about": "The analysis of superimposition of Self and non-Self"
+    }
+  ],
+  "concepts": [
+    "brahman",
+    "atma",
+    "maya",
+    "avidya",
+    "jnana",
+    "non-duality",
+    "moksha",
+    "jiva"
+  ],
+  "relatedTexts": [
+    {
+      "id": "brahma-sutras",
+      "note": "The root text"
+    },
+    {
+      "id": "sri-bhashya",
+      "note": "Ramanuja's commentary, which contains a sustained critique of Shankara's doctrine of ignorance"
+    },
+    {
+      "id": "madhva-brahma-sutra-bhashya",
+      "note": "Madhva's Dvaita alternative"
+    },
+    {
+      "id": "mandukya-karika",
+      "note": "Gaudapada's earlier Advaita treatise"
+    },
+    {
+      "id": "shankara-gita-bhashya",
+      "note": "Shankara's commentary on the Gita, which applies the same framework"
+    }
+  ],
+  "thinkers": [
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

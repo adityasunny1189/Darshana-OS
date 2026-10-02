@@ -1,0 +1,27 @@
+{
+  "id": "tiruvalluvar",
+  "name": {
+    "en": "Tiruvalluvar",
+    "sa": "तिरुवल्लुवर्"
+  },
+  "traditions": [
+    "tamil-ethics"
+  ],
+  "period": "Dates are much debated; scholars' estimates range from the last centuries BCE to about the 5th–6th century CE.",
+  "context": "Tiruvalluvar is the author of the Tirukkural, a classic of Tamil literature composed of 1,330 couplets on ethics, statecraft and love. Almost nothing reliable is known of his life; biographical stories are late and legendary. Jains, Shaivas, Vaishnavas and Buddhists have all claimed him, and his religious affiliation remains debated, partly because the work is largely non-sectarian. The Tirukkural remains among the most widely read and translated Tamil works.",
+  "coreIdeas": [
+    "Virtue (aram) as the foundation of a good life",
+    "Wise conduct in public life, statecraft, friendship and wealth (porul)",
+    "Love and its emotions treated as part of a full human life (inbam)",
+    "Non-harm, truthfulness, gratitude and self-restraint as central virtues",
+    "Ethics addressed to householders and rulers as well as renunciants"
+  ],
+  "works": [
+    "tirukkural"
+  ],
+  "concepts": [
+    "dharma",
+    "ahimsa",
+    "karma"
+  ]
+}

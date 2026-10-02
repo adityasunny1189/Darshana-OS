@@ -1,0 +1,81 @@
+{
+  "id": "vishishtadvaita",
+  "name": {
+    "en": "Vishishtadvaita Vedanta",
+    "sa": "विशिष्टाद्वैत",
+    "iast": "Viśiṣṭādvaita"
+  },
+  "family": "vedanta-school",
+  "parent": "vedanta",
+  "tagline": "Qualified non-dualism: one Brahman, inseparably qualified by real selves and a real world.",
+  "period": "Systematised by Ramanuja, traditionally dated 1017–1137 CE, building on earlier teachers such as Yamuna and on the Tamil devotional hymns of the Alvars.",
+  "overview": "Vishishtadvaita holds that Brahman is one, but a one that is internally differentiated: conscious selves (chit) and non-conscious matter (achit) are real and form the \"body\" of Brahman, who is their inner controller. Brahman is identified with Vishnu-Narayana, a personal God endowed with infinite auspicious qualities, not a featureless absolute. The world is a real transformation of Brahman's body, not an illusion. Bondage is the self's karma-caused contraction of its knowledge; liberation is the self's restoration to its natural state, in which it enjoys God eternally while remaining distinct. The path centres on devotion (bhakti) understood as loving, continuous meditation, and on surrender (prapatti) with reliance on God's grace.",
+  "beginner": "Ramanuja's view is that God is like the soul and everything else — all souls and the whole world — is like God's body. They are real and truly depend on God, and liberation means living in loving relationship with God forever.",
+  "coreQuestions": [
+    "How can Brahman be one if selves and the world are real?",
+    "What is the relation between the soul and God?",
+    "Is liberation earned by devotion or given by grace?",
+    "What is God like?"
+  ],
+  "coreConcepts": [
+    "brahman",
+    "ishvara",
+    "jiva",
+    "bhakti",
+    "prapatti",
+    "sharanagati",
+    "anugraha",
+    "moksha"
+  ],
+  "texts": [
+    "sri-bhashya",
+    "vedartha-sangraha",
+    "ramanuja-gita-bhashya",
+    "brahma-sutras",
+    "bhagavad-gita"
+  ],
+  "thinkers": [
+    "ramanuja"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "vedanta",
+      "note": "One of the principal Vedanta schools"
+    },
+    {
+      "id": "advaita",
+      "note": "Ramanuja's works contain a sustained critique of Advaita's doctrine of maya"
+    },
+    {
+      "id": "bhakti",
+      "note": "Deeply shaped by the devotion of the Tamil Alvars; the living tradition is Shri Vaishnavism"
+    },
+    {
+      "id": "dvaita",
+      "note": "Shares theism and the reality of the world, but Dvaita stresses difference more strongly"
+    }
+  ],
+  "darshana": {
+    "problem": "How can the Upanishads teach both that Brahman is one and that God, souls and the world are real — and how does the soul reach God?",
+    "real": "Brahman as Vishnu-Narayana is real, and so are conscious selves and non-conscious matter, which are inseparable attributes or the body of Brahman.",
+    "pramanas": "Perception, inference and scripture (shabda). All cognition is held to be of something real; there is no cognition of an undifferentiated object.",
+    "self": "The self (jiva) is an eternal, atomic, conscious knower whose essence is knowledge and bliss; it is a real mode of Brahman and wholly dependent on him.",
+    "bondage": "Beginningless karma, which contracts the self's knowledge and binds it to bodies; this is a real condition, not an illusion.",
+    "liberation": "The self's natural knowledge and bliss are restored and it enjoys communion with and service to God in Vaikuntha, remaining distinct from him.",
+    "path": "Knowledge and action as auxiliaries to bhakti, understood as continuous loving meditation; or prapatti, complete surrender to God, whose grace is decisive."
+  },
+  "disagreements": [
+    {
+      "with": "advaita",
+      "topic": "maya and the featureless Brahman",
+      "note": "Ramanuja argues that ignorance cannot have a locus in pure consciousness and that scripture describes Brahman with qualities."
+    },
+    {
+      "with": "dvaita",
+      "topic": "unity of Brahman",
+      "note": "Dvaita rejects the body-soul model as blurring the difference between God and souls."
+    }
+  ],
+  "scholar": "The body-soul relation (sharira-shariri bhava) and the grammatical principle of samanadhikaranya (co-ordinate predication) are central tools. After Ramanuja the tradition divided into Vadakalai and Tenkalai lineages, differing notably on the role of the soul's effort in prapatti.",
+  "difficulty": "intermediate"
+}

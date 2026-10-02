@@ -1,0 +1,78 @@
+{
+  "id": "sankhya",
+  "name": {
+    "en": "Sankhya",
+    "sa": "साङ्ख्य",
+    "iast": "Sāṅkhya"
+  },
+  "family": "darshana",
+  "parent": null,
+  "tagline": "A dualist analysis of reality into pure consciousness and creative nature.",
+  "period": "Ideas associated with Sankhya appear in the Upanishads and Mahabharata; the classical system is known mainly from Ishvarakrishna's Sankhya Karika, generally placed around the 4th–5th century CE. Kapila is its traditional founder.",
+  "overview": "Sankhya (\"enumeration\") analyses reality into two independent kinds of principle: purusha, pure consciousness, of which there are many, and prakriti, a single, non-conscious, ever-changing nature. Prakriti is constituted by three gunas — sattva (clarity), rajas (activity) and tamas (inertia) — and evolves into twenty-three further principles (tattvas), including intellect (buddhi), the I-maker (ahankara), mind (manas), the senses and the elements. Suffering arises because purusha fails to discriminate itself from the activity of prakriti, especially from the intellect in which it is reflected. Liberation (kaivalya, \"isolation\") comes through discriminating knowledge of the difference between the two. Classical Sankhya is generally non-theistic, and its framework deeply influenced Yoga, Vedanta, medicine and the Puranas.",
+  "beginner": "Sankhya says there are two basic things: consciousness, which only watches, and nature, which does everything — including thinking and feeling. We suffer because we confuse the watcher with what it watches; seeing the difference clearly sets us free.",
+  "coreQuestions": [
+    "What is the relation of consciousness to matter?",
+    "How does the world evolve from a single source?",
+    "Why does suffering arise, and how can it end for good?",
+    "How many basic principles make up reality?"
+  ],
+  "coreConcepts": [
+    "purusha",
+    "prakriti",
+    "guna",
+    "tattva",
+    "buddhi",
+    "ahankara",
+    "manas",
+    "viveka",
+    "dukkha",
+    "moksha"
+  ],
+  "texts": [
+    "sankhya-karika",
+    "bhagavad-gita",
+    "mahabharata"
+  ],
+  "thinkers": [
+    "kapila",
+    "ishvarakrishna"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "yoga",
+      "note": "Yoga adopts Sankhya's metaphysics and adds Ishvara as a special purusha"
+    },
+    {
+      "id": "vedanta",
+      "note": "Vedanta borrows much Sankhya vocabulary while rejecting its dualism and its non-conscious first cause"
+    },
+    {
+      "id": "advaita",
+      "note": "Shankara critiques Sankhya extensively in the Brahma Sutra Bhashya"
+    }
+  ],
+  "darshana": {
+    "problem": "How can the threefold suffering — from oneself, from other beings and from natural or divine forces — be ended permanently, beyond the temporary relief of ordinary or ritual remedies?",
+    "real": "Two eternal realities: many purushas (pure conscious subjects) and one prakriti (unconscious primordial nature), with its twenty-three evolutes. Effects pre-exist in their cause (satkaryavada).",
+    "pramanas": "Three: perception (pratyaksha), inference (anumana) and reliable testimony (aptavachana).",
+    "self": "The Self is purusha: pure, inactive, unchanging witness-consciousness, distinct from mind, intellect and ego, which belong to prakriti.",
+    "bondage": "Non-discrimination (aviveka) between purusha and prakriti, as a result of which the qualities and activities of the intellect are attributed to consciousness.",
+    "liberation": "Kaivalya: the isolation of purusha from prakriti, in which prakriti ceases to act for that purusha and suffering ends permanently.",
+    "path": "Discriminating knowledge (viveka-khyati) of the twenty-five principles, cultivated through study and reflection."
+  },
+  "disagreements": [
+    {
+      "with": "advaita",
+      "topic": "plurality of selves and unconscious cause",
+      "note": "Advaita holds there is one Self and that a non-conscious prakriti cannot be the purposeful cause of the world."
+    },
+    {
+      "with": "nyaya",
+      "topic": "causation",
+      "note": "Nyaya-Vaisheshika hold that effects are new creations (asatkaryavada), against Sankhya's view that effects pre-exist in the cause."
+    }
+  ],
+  "scholar": "Proto-Sankhya passages in the Mahabharata (e.g. the Mokshadharma) show theistic and non-theistic variants. Classical commentaries on the Karika include those of Gaudapada (whether the same as the Advaita Gaudapada is debated) and Vachaspati Mishra; the later Sankhya Sutras and Vijnanabhikshu's commentary give it a more theistic, Vedanta-leaning reading.",
+  "difficulty": "intermediate"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "vaisheshika-sutras",
+  "title": {
+    "en": "Vaisheshika Sutras",
+    "sa": "वैशेषिकसूत्र",
+    "iast": "Vaiśeṣikasūtra"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vaisheshika",
+    "nyaya"
+  ],
+  "attribution": "Traditionally attributed to Kanada",
+  "author": "kanada",
+  "period": "Scholars place the core between roughly the 2nd century BCE and the early centuries CE; dates are uncertain",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Categories",
+    "Atomism",
+    "Ontology",
+    "Dharma"
+  ],
+  "summary": "The founding text of Vaisheshika: an analysis of reality into categories and a theory of indivisible atoms.",
+  "whyRead": "It is one of the earliest attempts in any culture to list the basic kinds of things that exist. Its categories and atomism shaped Nyaya-Vaisheshika realism for over a thousand years.",
+  "questions": [
+    "What are the basic kinds of things that exist?",
+    "Is the world made of indivisible parts?",
+    "How does understanding the world relate to dharma and liberation?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Framed as an inquiry into dharma",
+      "text": "The text opens by announcing an inquiry into dharma, defined as that which yields both worldly flourishing and the highest good. The analysis of reality is presented as serving this goal."
+    },
+    {
+      "title": "Categories (padartha)",
+      "text": "Reality is analysed into categories: substance (dravya), quality (guna), action (karma), universal (samanya), particularity (vishesha) and inherence (samavaya). Later authors added absence (abhava) as a seventh. The name Vaisheshika comes from vishesha."
+    },
+    {
+      "title": "Nine substances",
+      "text": "The substances are earth, water, fire, air, ether (akasha), time, space, self (atman) and mind (manas). Selves are many and distinct."
+    },
+    {
+      "title": "Atomism",
+      "text": "Earth, water, fire and air are composed of eternal, partless atoms (paramanu) that combine into larger wholes. Later Nyaya-Vaisheshika authors connect this combination to the unseen force of karma (adrishta) and, in time, to Ishvara."
+    },
+    {
+      "title": "Link to Nyaya",
+      "text": "Vaisheshika supplied ontology and Nyaya supplied epistemology and logic; the two were later treated as one system, Nyaya-Vaisheshika."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Ten books (adhyayas), each in two sections (ahnikas)",
+      "note": "The received text differs between recensions"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Vaisheshika Sutra 1.1.1",
+      "about": "The announcement of an inquiry into dharma"
+    },
+    {
+      "ref": "Vaisheshika Sutra 1.1.2",
+      "about": "Dharma as that which yields worldly flourishing and the highest good"
+    }
+  ],
+  "concepts": [
+    "tattva",
+    "atma",
+    "manas",
+    "karma",
+    "dharma",
+    "moksha",
+    "pramana"
+  ],
+  "relatedTexts": [
+    {
+      "id": "nyaya-sutras",
+      "note": "Sister school; later merged into Nyaya-Vaisheshika"
+    },
+    {
+      "id": "sankhya-karika",
+      "note": "A rival account of the elements, based on evolution from prakriti rather than atoms"
+    }
+  ],
+  "thinkers": [
+    "kanada"
+  ],
+  "advanced": false,
+  "ingested": false
+}

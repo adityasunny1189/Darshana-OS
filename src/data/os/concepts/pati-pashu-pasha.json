@@ -1,0 +1,79 @@
+{
+  "id": "pati-pashu-pasha",
+  "name": {
+    "en": "Pati, Pashu, Pasha — Lord, soul, bond",
+    "sa": "पति पशु पाश",
+    "iast": "pati, paśu, pāśa"
+  },
+  "short": "Shaiva Siddhanta's three eternal realities: the Lord, bound souls, and the bonds that bind them.",
+  "beginner": "Shaiva Siddhanta explains existence with three words: Pati (the Lord, Shiva), Pashu (the soul, like a tethered animal) and Pasha (the rope that ties it). Liberation is Shiva's grace cutting the rope.",
+  "what": "In Shaiva Siddhanta, reality consists of three eternal categories. Pati is Shiva, the Lord, who is omniscient and all-powerful. Pashu is the individual soul, which is eternal and conscious but bound. Pasha is the fetter, usually counted as three impurities: anava (a primordial limitation of the soul's knowledge and power), karma, and maya (the material ground of bodies and worlds). Through ritual, devotion and above all Shiva's grace, the bonds are removed and the soul attains a Shiva-like state, remaining distinct from Shiva in most accounts.",
+  "scholar": "The triad appears in the Shaiva Agamas and is systematised in Sanskrit by authors such as Sadyojyoti and Bhoja, and in Tamil by Meykandar's Shiva Jnana Bodham (13th century). Debates concern the liberated soul's relation to Shiva: Sanskrit Siddhanta tends to a dualist reading (equality but not identity), while the Tamil tradition develops an advaita ('non-separation') in a qualified sense. Kashmir Shaivism uses similar vocabulary but interprets the pashu as Shiva self-limited.",
+  "perspectives": [
+    {
+      "tradition": "shaiva-siddhanta",
+      "view": "Lord, souls and bonds are all eternal; the soul is freed by Shiva's grace working through initiation, the guru and devotion, and in liberation shares Shiva's qualities without becoming Shiva."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Non-dual Kashmir Shaivism reinterprets the bound soul as Shiva who has contracted through his own power, so the bonds are ultimately self-imposed limitations of one consciousness."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Readers often compare the Siddhanta triad to Madhva's realist distinctions between God, souls and matter, though the two developed in different traditions."
+    }
+  ],
+  "texts": [
+    "shiva-jnana-bodham",
+    "agamas"
+  ],
+  "traditions": [
+    "shaiva-siddhanta",
+    "kashmir-shaivism",
+    "dvaita"
+  ],
+  "relatedConcepts": [
+    "anugraha",
+    "shiva",
+    "jiva",
+    "maya",
+    "karma",
+    "ishvara"
+  ],
+  "questions": [
+    "god",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "shaivism",
+      "note": "Begin with the broad family of Shaiva traditions."
+    },
+    {
+      "kind": "text",
+      "id": "agamas",
+      "note": "The Shaiva Agamas as the ritual and doctrinal basis."
+    },
+    {
+      "kind": "thinker",
+      "id": "meykandar",
+      "note": "Meykandar's Tamil systematisation."
+    },
+    {
+      "kind": "text",
+      "id": "shiva-jnana-bodham",
+      "note": "The foundational Tamil Siddhanta text."
+    },
+    {
+      "kind": "concept",
+      "id": "anugraha",
+      "note": "Grace as the power that cuts the bonds."
+    },
+    {
+      "kind": "tradition",
+      "id": "kashmir-shaivism",
+      "note": "Contrast with the non-dual reading of the same vocabulary."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "god",
+  "title": "Understanding God",
+  "level": "intermediate",
+  "description": "A tour of how Indian traditions conceive of the Divine, beginning with the Gita and the Upanishads and moving through devotional, Vedantic, Shaiva, Shakta and Sikh understandings. Each step is presented on its own terms, without ranking.",
+  "steps": [
+    {
+      "kind": "gita",
+      "id": "7.7",
+      "title": "All strung on the Divine",
+      "note": "Everything rests on the Divine like pearls on a thread."
+    },
+    {
+      "kind": "gita",
+      "id": "9.4",
+      "title": "Immanent and transcendent",
+      "note": "All beings are in God, yet God is not confined to them."
+    },
+    {
+      "kind": "gita",
+      "id": "15.17",
+      "title": "The Supreme Person",
+      "note": "Beyond the perishable and the imperishable."
+    },
+    {
+      "kind": "text",
+      "id": "shvetashvatara-upanishad",
+      "title": "The Upanishads",
+      "note": "The Shvetashvatara is the most theistic of the major Upanishads; others speak of Brahman."
+    },
+    {
+      "kind": "concept",
+      "id": "brahman",
+      "title": "Brahman",
+      "note": "The absolute ground of being in the Upanishads."
+    },
+    {
+      "kind": "concept",
+      "id": "bhakti",
+      "title": "Bhakti",
+      "note": "God known through love and devotion."
+    },
+    {
+      "kind": "text",
+      "id": "bhagavata-purana",
+      "title": "Bhagavata Purana",
+      "note": "The central text of Krishna devotion."
+    },
+    {
+      "kind": "tradition",
+      "id": "vishishtadvaita",
+      "title": "Vishishtadvaita",
+      "note": "Ramanuja: one God, with world and souls as God's body."
+    },
+    {
+      "kind": "tradition",
+      "id": "dvaita",
+      "title": "Dvaita",
+      "note": "Madhva: God eternally distinct from souls and matter."
+    },
+    {
+      "kind": "tradition",
+      "id": "shaivism",
+      "title": "Shaivism",
+      "note": "Shiva as the supreme Lord; Siddhanta and Kashmir views differ."
+    },
+    {
+      "kind": "concept",
+      "id": "pati-pashu-pasha",
+      "title": "Lord, soul and bond",
+      "note": "Shaiva Siddhanta's three realities."
+    },
+    {
+      "kind": "tradition",
+      "id": "shaktism",
+      "title": "Shaktism",
+      "note": "The Goddess as supreme power."
+    },
+    {
+      "kind": "text",
+      "id": "devi-mahatmya",
+      "title": "Devi Mahatmya",
+      "note": "The foundational text of Goddess worship."
+    },
+    {
+      "kind": "tradition",
+      "id": "sikhism",
+      "title": "Sikh philosophy",
+      "note": "One formless God, known through the Name and grace."
+    },
+    {
+      "kind": "concept",
+      "id": "hukam",
+      "title": "Hukam",
+      "note": "The divine order in which all things move."
+    }
+  ]
+}

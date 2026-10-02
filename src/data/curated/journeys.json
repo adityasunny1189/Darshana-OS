@@ -1,0 +1,457 @@
+[
+ {
+  "id": "clarity",
+  "label": {
+   "en": "I want clarity",
+   "hi": "मुझे स्पष्टता चाहिये"
+  },
+  "intro": {
+   "en": "Arjuna began the Gita unsure of what was right. Follow the same steps Krishna took him through: from the question, to what is real, to what to do, to where to rest.",
+   "hi": "अर्जुन गीताके आरम्भमें असमंजसमें थे कि क्या उचित है। उन्हीं कदमोंपर चलिये जिनपर भगवान् उन्हें ले गये — प्रश्नसे, सत्-असत्के विवेकतक, कर्तव्यतक और अन्तमें शरणतक।"
+  },
+  "steps": [
+   {
+    "verse": "2.7",
+    "why": {
+     "en": "Clarity starts where Arjuna started: admitting he could not decide, and asking sincerely for what is truly good for him.",
+     "hi": "स्पष्टता वहींसे शुरू होती है जहाँसे अर्जुनने शुरू की — यह मानकर कि मैं निर्णय नहीं कर पा रहा, और जो निश्चित कल्याणकारी हो, वह पूछकर।"
+    }
+   },
+   {
+    "verse": "2.11",
+    "why": {
+     "en": "Krishna's first answer shows that grief and confusion come from dividing people into 'mine' and 'not mine', and introduces the body–self distinction.",
+     "hi": "भगवान्का पहला उत्तर बताता है कि शोक और मोह 'मेरे' और 'मेरे नहीं'के भेदसे आते हैं, और शरीर-शरीरीका विवेक आरम्भ करता है।"
+    }
+   },
+   {
+    "verse": "2.16",
+    "why": {
+     "en": "The core lens for every decision: what changes has no lasting existence, and what is real never ceases.",
+     "hi": "हर निर्णयकी मूल दृष्टि — असत्की सत्ता नहीं और सत्का अभाव नहीं।"
+    }
+   },
+   {
+    "verse": "2.47",
+    "why": {
+     "en": "It separates what is in your hands (the action) from what is not (the result), which removes much of the confusion.",
+     "hi": "यह श्लोक आपके हाथकी बात (कर्म) और हाथसे बाहरकी बात (फल)को अलग करता है, जिससे बहुत-सा असमंजस मिट जाता है।"
+    }
+   },
+   {
+    "verse": "2.48",
+    "why": {
+     "en": "Having decided what to do, act while staying even in success and failure — this evenness is yoga.",
+     "hi": "क्या करना है यह तय होनेपर, सिद्धि-असिद्धिमें सम रहकर कर्म करें — यही समता योग है।"
+    }
+   },
+   {
+    "verse": "3.35",
+    "why": {
+     "en": "When comparing paths, Krishna's answer is that your own duty, done without desire, is better than another's, however attractive.",
+     "hi": "जब दूसरोंके मार्गसे तुलना हो, तब भगवान्का उत्तर है कि निष्कामभावसे किया गया अपना धर्म परधर्मसे श्रेष्ठ है, चाहे वह कितना ही आकर्षक दीखे।"
+    }
+   },
+   {
+    "verse": "18.66",
+    "why": {
+     "en": "The final word: stop trying to settle every question of dharma by yourself, take refuge in God and set down the worry.",
+     "hi": "अन्तिम वचन — धर्मके निर्णयका सारा भार अपने ऊपर न रखकर भगवान्की शरण लें और चिन्ता छोड़ दें।"
+    }
+   },
+   {
+    "verse": "18.73",
+    "why": {
+     "en": "The result of the whole dialogue: Arjuna's delusion is gone, he stands free of doubt and is ready to act.",
+     "hi": "पूरे संवादका परिणाम — अर्जुनका मोह नष्ट हो गया, वे सन्देहरहित होकर कर्तव्य-पालनको तैयार हैं।"
+    }
+   }
+  ]
+ },
+ {
+  "id": "confused",
+  "label": {
+   "en": "I feel confused",
+   "hi": "मैं उलझनमें हूँ"
+  },
+  "intro": {
+   "en": "The Gita was spoken to someone overwhelmed and unable to act. Start with Arjuna's state, then move step by step towards steadiness.",
+   "hi": "गीता ऐसे व्यक्तिसे कही गयी जो घबराया हुआ था और कुछ कर नहीं पा रहा था। अर्जुनकी दशासे शुरू करके धीरे-धीरे स्थिरताकी ओर बढ़िये।"
+  },
+  "steps": [
+   {
+    "verse": "1.28",
+    "why": {
+     "en": "Seeing his own family on both sides, Arjuna's body trembles and his mind reels — confusion is not a new or shameful thing.",
+     "hi": "दोनों ओर अपने ही स्वजनोंको देखकर अर्जुनका शरीर काँपता है और मन भ्रमित होता है — उलझन कोई नयी या लज्जाकी बात नहीं।"
+    }
+   },
+   {
+    "verse": "2.7",
+    "why": {
+     "en": "Arjuna names his confusion honestly and turns to Krishna as a disciple; that honest turning is the first step out.",
+     "hi": "अर्जुन अपनी उलझनको ईमानदारीसे स्वीकार करते हैं और शिष्य बनकर भगवान्की शरण लेते हैं; यही बाहर निकलनेका पहला कदम है।"
+    }
+   },
+   {
+    "verse": "2.11",
+    "why": {
+     "en": "Krishna shows where the turmoil comes from: 'mine-ness' towards people and things gives rise to grief, worry and fear.",
+     "hi": "भगवान् बताते हैं कि हलचल कहाँसे आती है — व्यक्तियों और वस्तुओंमें ममतासे ही शोक, चिन्ता और भय पैदा होते हैं।"
+    }
+   },
+   {
+    "verse": "2.14",
+    "why": {
+     "en": "Pleasant and painful experiences come and go and do not last; you can bear them without being carried away.",
+     "hi": "सुख-दु:ख देनेवाले अनुभव आने-जानेवाले और अनित्य हैं; उनमें बहे बिना उन्हें सहा जा सकता है।"
+    }
+   },
+   {
+    "verse": "2.47",
+    "why": {
+     "en": "Narrow your attention to what is actually yours to do now, and let go of the claim on how it turns out.",
+     "hi": "ध्यानको उसपर लाइये जो अभी आपके करनेका है, और परिणामपर अपना दावा छोड़ दीजिये।"
+    }
+   },
+   {
+    "verse": "6.35",
+    "why": {
+     "en": "Krishna agrees the mind is restless and hard to hold, and gives the way: steady practice and dispassion.",
+     "hi": "भगवान् मानते हैं कि मन चंचल और कठिनतासे वशमें होनेवाला है, और उपाय बताते हैं — अभ्यास और वैराग्य।"
+    }
+   },
+   {
+    "verse": "18.66",
+    "why": {
+     "en": "When nothing else is clear, this is: take refuge in God alone and do not grieve.",
+     "hi": "जब कुछ भी स्पष्ट न हो, तब यह स्पष्ट है — केवल भगवान्की शरण लें और चिन्ता न करें।"
+    }
+   }
+  ]
+ },
+ {
+  "id": "karma",
+  "label": {
+   "en": "I want to understand karma",
+   "hi": "मैं कर्मको समझना चाहता हूँ"
+  },
+  "intro": {
+   "en": "A step-by-step look at what karma is in the Gita: why we cannot avoid action, what makes it bind, and how the same action can set us free.",
+   "hi": "गीतामें कर्म क्या है — इसे क्रमसे समझिये: हम कर्मसे बच क्यों नहीं सकते, कर्म बाँधता क्यों है, और वही कर्म मुक्त कैसे करता है।"
+  },
+  "steps": [
+   {
+    "verse": "3.5",
+    "why": {
+     "en": "The starting fact: no one can remain without action even for a moment.",
+     "hi": "आरम्भिक तथ्य — कोई भी क्षणमात्र भी कर्म किये बिना नहीं रह सकता।"
+    }
+   },
+   {
+    "verse": "4.17",
+    "why": {
+     "en": "The same act becomes karma, akarma or vikarma depending on the intent behind it.",
+     "hi": "एक ही क्रिया भीतरके भावके अनुसार कर्म, अकर्म या विकर्म बन जाती है।"
+    }
+   },
+   {
+    "verse": "2.47",
+    "why": {
+     "en": "Your right is to the action, never to its fruit — the two belong to different departments.",
+     "hi": "अधिकार कर्ममें है, फलमें कभी नहीं — दोनोंके विभाग अलग हैं।"
+    }
+   },
+   {
+    "verse": "3.9",
+    "why": {
+     "en": "What binds is action done for oneself; action done as yajna, for others' good, does not.",
+     "hi": "बाँधता वह कर्म है जो अपने लिये किया जाय; दूसरोंके हितके लिये यज्ञरूपसे किया गया कर्म नहीं बाँधता।"
+    }
+   },
+   {
+    "verse": "3.19",
+    "why": {
+     "en": "So act, but without attachment — this is how one reaches the Supreme through action.",
+     "hi": "इसलिये कर्म करो, पर आसक्तिरहित होकर — इसी प्रकार कर्मसे परमात्माकी प्राप्ति होती है।"
+    }
+   },
+   {
+    "verse": "2.48",
+    "why": {
+     "en": "The inner posture while acting: evenness in success and failure.",
+     "hi": "कर्म करते समय भीतरकी स्थिति — सिद्धि-असिद्धिमें समता।"
+    }
+   },
+   {
+    "verse": "4.18",
+    "why": {
+     "en": "The goal of karma yoga: seeing inaction in action — remaining untouched while fully engaged.",
+     "hi": "कर्मयोगका लक्ष्य — कर्ममें अकर्म देखना, अर्थात् कर्म करते हुए भी निर्लिप्त रहना।"
+    }
+   },
+   {
+    "verse": "5.12",
+    "why": {
+     "en": "The outcome: giving up desire for the fruit brings lasting peace, while desire binds.",
+     "hi": "परिणाम — फलेच्छाके त्यागसे नैष्ठिकी शान्ति मिलती है, और कामनासे बन्धन।"
+    }
+   }
+  ]
+ },
+ {
+  "id": "self",
+  "label": {
+   "en": "I want to understand myself",
+   "hi": "मैं स्वयंको समझना चाहता हूँ"
+  },
+  "intro": {
+   "en": "The Gita's teaching begins with the question of who you are. These verses move from the changing body to the unchanging self, and to your relationship with God.",
+   "hi": "गीताका उपदेश इसी प्रश्नसे शुरू होता है कि आप कौन हैं। ये श्लोक बदलनेवाले शरीरसे न बदलनेवाले स्वयंतक, और परमात्माके साथ आपके सम्बन्धतक ले जाते हैं।"
+  },
+  "steps": [
+   {
+    "verse": "2.13",
+    "why": {
+     "en": "Childhood, youth and old age change; the one who lives through them does not.",
+     "hi": "बालकपन, जवानी, बुढ़ापा बदलते हैं; इन्हें अनुभव करनेवाला नहीं बदलता।"
+    }
+   },
+   {
+    "verse": "2.16",
+    "why": {
+     "en": "The principle behind it: the unreal has no lasting existence, and the real never ceases to be.",
+     "hi": "इसका सिद्धान्त — असत्की सत्ता नहीं और सत्का अभाव नहीं।"
+    }
+   },
+   {
+    "verse": "2.20",
+    "why": {
+     "en": "The self is never born and never dies; it is not killed when the body is.",
+     "hi": "स्वयं न कभी जन्मता है, न मरता है; शरीरके मारे जानेपर भी नहीं मरता।"
+    }
+   },
+   {
+    "verse": "2.22",
+    "why": {
+     "en": "An everyday image: as we change old clothes, the embodied one changes bodies and stays the same.",
+     "hi": "रोज़का उदाहरण — जैसे हम पुराने कपड़े बदलते हैं, वैसे देही शरीर बदलता है और वही रहता है।"
+    }
+   },
+   {
+    "verse": "13.1",
+    "why": {
+     "en": "The body is 'this', the field; you are the one who knows it.",
+     "hi": "शरीर 'यह' अर्थात् क्षेत्र है; आप उसे जाननेवाले क्षेत्रज्ञ हैं।"
+    }
+   },
+   {
+    "verse": "5.16",
+    "why": {
+     "en": "Knowledge is simply seeing your existence as separate from the body; seeing them as one is ignorance.",
+     "hi": "अपनी सत्ताको शरीरसे अलग देखना ही ज्ञान है; दोनोंको एक मानना अज्ञान।"
+    }
+   },
+   {
+    "verse": "15.7",
+    "why": {
+     "en": "Who you are at root: an eternal part of God, who has taken mind and senses as its own.",
+     "hi": "मूलमें आप कौन हैं — भगवान्के सनातन अंश, जिसने मन और इन्द्रियोंको अपना मान लिया है।"
+    }
+   },
+   {
+    "verse": "13.31",
+    "why": {
+     "en": "Even while in the body, the self neither acts nor is touched — freedom is its natural state.",
+     "hi": "शरीरमें रहते हुए भी स्वयं न करता है, न लिप्त होता है — मुक्ति इसकी स्वाभाविक स्थिति है।"
+    }
+   }
+  ]
+ },
+ {
+  "id": "learn",
+  "label": {
+   "en": "I want to learn the Gita",
+   "hi": "मैं गीता सीखना चाहता हूँ"
+  },
+  "intro": {
+   "en": "Begin with the guided path for newcomers. These are its first verses; the full path continues through duty, equanimity, knowledge, devotion and liberation.",
+   "hi": "नये पाठकोंके लिये बने मार्गदर्शित पथसे शुरू कीजिये। ये उसके पहले श्लोक हैं; पूरा पथ कर्तव्य, समता, ज्ञान, भक्ति और मुक्तितक जाता है।"
+  },
+  "steps": [
+   {
+    "verse": "1.28",
+    "why": {
+     "en": "The setting: Arjuna, facing his own family in battle, is overcome.",
+     "hi": "पृष्ठभूमि — युद्धमें अपने ही स्वजनोंको सामने देखकर अर्जुन व्याकुल हो जाते हैं।"
+    }
+   },
+   {
+    "verse": "2.7",
+    "why": {
+     "en": "Arjuna becomes Krishna's disciple and asks for guidance — the teaching begins.",
+     "hi": "अर्जुन भगवान्के शिष्य बनकर मार्गदर्शन माँगते हैं — यहींसे उपदेश आरम्भ होता है।"
+    }
+   },
+   {
+    "verse": "2.11",
+    "why": {
+     "en": "Krishna's first lesson: the difference between the body and the self.",
+     "hi": "भगवान्का पहला पाठ — शरीर और शरीरीका भेद।"
+    }
+   },
+   {
+    "verse": "2.13",
+    "why": {
+     "en": "The self stays the same through every change of the body.",
+     "hi": "शरीरके हर परिवर्तनमें स्वयं वही रहता है।"
+    }
+   },
+   {
+    "verse": "3.35",
+    "why": {
+     "en": "Next on the path: what one's own duty is.",
+     "hi": "पथका अगला पड़ाव — अपना कर्तव्य क्या है।"
+    }
+   },
+   {
+    "verse": "2.47",
+    "why": {
+     "en": "Then: how to act — with a right to the action, not the fruit.",
+     "hi": "फिर — कर्म कैसे करें: अधिकार कर्ममें, फलमें नहीं।"
+    }
+   }
+  ]
+ },
+ {
+  "id": "teachings",
+  "label": {
+   "en": "I want to explore Krishna's teachings",
+   "hi": "मैं श्रीकृष्णके उपदेश जानना चाहता हूँ"
+  },
+  "intro": {
+   "en": "A tour of the Gita's main teachings as Sadhak Sanjivani presents them — one key verse for each, from equanimity to surrender.",
+   "hi": "साधक-संजीवनीके अनुसार गीताके मुख्य उपदेशोंकी एक झलक — समतासे शरणागतितक, हर उपदेशका एक मुख्य श्लोक।"
+  },
+  "steps": [
+   {
+    "verse": "2.48",
+    "why": {
+     "en": "Equanimity is yoga — the thread that runs through every path in the Gita.",
+     "hi": "समता ही योग है — यह सूत्र गीताके हर मार्गमें है।"
+    }
+   },
+   {
+    "verse": "3.9",
+    "why": {
+     "en": "Karma Yoga: duty done for others' good is yajna and does not bind.",
+     "hi": "कर्मयोग — दूसरोंके हितके लिये किया गया कर्तव्य यज्ञ है और बाँधता नहीं।"
+    }
+   },
+   {
+    "verse": "4.38",
+    "why": {
+     "en": "Jnana Yoga: nothing purifies like the knowledge of truth.",
+     "hi": "ज्ञानयोग — तत्त्वज्ञानके समान पवित्र करनेवाला कुछ नहीं।"
+    }
+   },
+   {
+    "verse": "6.35",
+    "why": {
+     "en": "Dhyana Yoga: the restless mind is held by practice and dispassion.",
+     "hi": "ध्यानयोग — चंचल मन अभ्यास और वैराग्यसे वशमें होता है।"
+    }
+   },
+   {
+    "verse": "9.26",
+    "why": {
+     "en": "Bhakti: God accepts even a leaf or a little water offered with love — love matters, not ritual.",
+     "hi": "भक्ति — प्रेमसे अर्पित पत्र-पुष्प-जल भी भगवान् स्वीकार करते हैं; विधि नहीं, प्रेम मुख्य है।"
+    }
+   },
+   {
+    "verse": "13.31",
+    "why": {
+     "en": "The self: beginningless, beyond the gunas, neither acting nor touched.",
+     "hi": "स्वरूप — अनादि, निर्गुण, न करनेवाला और न लिप्त होनेवाला।"
+    }
+   },
+   {
+    "verse": "14.19",
+    "why": {
+     "en": "The gunas: see that they alone act, know yourself beyond them.",
+     "hi": "गुण — गुण ही कर्ता हैं, यह देखकर अपनेको गुणोंसे पर जानना।"
+    }
+   },
+   {
+    "verse": "18.66",
+    "why": {
+     "en": "Surrender: the most secret teaching, the essence of all practices.",
+     "hi": "शरणागति — सबसे गोपनीय उपदेश, सब साधनोंका सार।"
+    }
+   }
+  ]
+ },
+ {
+  "id": "original",
+  "label": {
+   "en": "I want to read the original verses",
+   "hi": "मैं मूल श्लोक पढ़ना चाहता हूँ"
+  },
+  "intro": {
+   "en": "Read the Gita from its very first verse, in order, with Sadhak Sanjivani's translation and commentary alongside.",
+   "hi": "गीताको उसके पहले श्लोकसे क्रमश: पढ़िये, साथमें साधक-संजीवनीका अनुवाद और व्याख्या।"
+  },
+  "steps": [
+   {
+    "verse": "1.1",
+    "why": {
+     "en": "The Gita opens with Dhritarashtra's question to Sanjaya about 'my sons and Pandu's sons' at Kurukshetra.",
+     "hi": "गीता धृतराष्ट्रके प्रश्नसे खुलती है — कुरुक्षेत्रमें मेरे और पाण्डुके पुत्रोंने क्या किया?"
+    }
+   },
+   {
+    "verse": "1.2",
+    "why": {
+     "en": "Sanjaya begins the account: seeing the Pandava army arrayed, Duryodhana goes to his teacher Drona.",
+     "hi": "संजय वर्णन आरम्भ करते हैं — पाण्डव-सेनाको व्यूहमें खड़ी देखकर दुर्योधन द्रोणाचार्यके पास जाता है।"
+    }
+   },
+   {
+    "verse": "1.3",
+    "why": {
+     "en": "Duryodhana's first words, pointing out the great Pandava army to Drona.",
+     "hi": "दुर्योधनके पहले वचन — द्रोणाचार्यको पाण्डवोंकी विशाल सेना दिखाना।"
+    }
+   },
+   {
+    "verse": "1.20",
+    "why": {
+     "en": "Arjuna, ready to fight, lifts his bow and speaks to Krishna.",
+     "hi": "युद्धके लिये तत्पर अर्जुन गाण्डीव उठाकर श्रीकृष्णसे बोलते हैं।"
+    }
+   },
+   {
+    "verse": "1.21",
+    "why": {
+     "en": "Arjuna asks Krishna to place his chariot between the two armies.",
+     "hi": "अर्जुन भगवान्से दोनों सेनाओंके बीच रथ खड़ा करनेको कहते हैं।"
+    }
+   },
+   {
+    "verse": "1.24",
+    "why": {
+     "en": "Krishna places the chariot before Bhishma and Drona and says: 'Behold these assembled Kurus.'",
+     "hi": "भगवान् भीष्म और द्रोणके सामने रथ खड़ा करके कहते हैं — 'हे पार्थ! इन इकट्ठे हुए कुरुवंशियोंको देख।'"
+    }
+   },
+   {
+    "verse": "1.28",
+    "why": {
+     "en": "Seeing his own kin, Arjuna is overcome — the crisis from which the whole Gita flows.",
+     "hi": "स्वजनोंको देखकर अर्जुन व्याकुल हो जाते हैं — यही संकट है जिससे पूरी गीता निकलती है।"
+    }
+   }
+  ]
+ }
+]

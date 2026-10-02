@@ -1,0 +1,86 @@
+{
+  "id": "self-inquiry",
+  "title": "Who am I?",
+  "level": "intermediate",
+  "description": "A path through the texts that make the question 'Who am I?' their centre, from the Gita and Upanishads to Advaita manuals and Ramana Maharshi. It follows mainly the Advaita line of interpretation and closes with a contrast from Buddhism so the alternative is visible.",
+  "steps": [
+    {
+      "kind": "gita",
+      "id": "2.13",
+      "title": "The body changes, you don't",
+      "note": "Krishna points to the one who witnesses childhood, youth and old age."
+    },
+    {
+      "kind": "gita",
+      "id": "2.20",
+      "title": "Unborn and undying",
+      "note": "The Self described as never born and never dying."
+    },
+    {
+      "kind": "gita",
+      "id": "13.1",
+      "title": "Field and knower of the field",
+      "note": "The body is the field; the one who knows it is the knower."
+    },
+    {
+      "kind": "text",
+      "id": "katha-upanishad",
+      "title": "Katha Upanishad",
+      "note": "Nachiketa asks Death what lies beyond death; the teaching turns to the Self."
+    },
+    {
+      "kind": "text",
+      "id": "mandukya-upanishad",
+      "title": "Mandukya Upanishad",
+      "note": "Waking, dream, deep sleep and the fourth — the Self examined through states of consciousness."
+    },
+    {
+      "kind": "text",
+      "id": "brihadaranyaka-upanishad",
+      "title": "Brihadaranyaka Upanishad",
+      "note": "The Self as the unseen seer, approached by 'not this, not this'."
+    },
+    {
+      "kind": "concept",
+      "id": "neti-neti",
+      "title": "Neti neti",
+      "note": "Negating every object to point to the subject."
+    },
+    {
+      "kind": "text",
+      "id": "tattva-bodha",
+      "title": "Tattva Bodha",
+      "note": "A beginner's Advaita manual of terms: three bodies, five sheaths, three states."
+    },
+    {
+      "kind": "text",
+      "id": "vivekachudamani",
+      "title": "Vivekachudamani",
+      "note": "The traditional classic on discerning the Self from the not-self."
+    },
+    {
+      "kind": "text",
+      "id": "ashtavakra-gita",
+      "title": "Ashtavakra Gita",
+      "note": "A radical, advanced dialogue declaring the Self already free."
+    },
+    {
+      "kind": "thinker",
+      "id": "ramana-maharshi",
+      "title": "Ramana Maharshi",
+      "note": "A modern sage who taught tracing the 'I'-thought to its source."
+    },
+    {
+      "kind": "text",
+      "id": "who-am-i",
+      "title": "Who Am I? (Nan Yar)",
+      "note": "Ramana's short text on the method of self-inquiry."
+    },
+    {
+      "kind": "concept",
+      "id": "anatta",
+      "title": "A contrast: no-self",
+      "note": "The Buddhist analysis finds no permanent self — an essential counterpoint."
+    }
+  ]
+}

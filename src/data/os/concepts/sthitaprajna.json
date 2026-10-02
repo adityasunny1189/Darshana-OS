@@ -1,0 +1,96 @@
+{
+  "id": "sthitaprajna",
+  "name": {
+    "en": "Sthitaprajna — steady wisdom",
+    "sa": "स्थितप्रज्ञ",
+    "iast": "sthitaprajña"
+  },
+  "short": "The person whose understanding has become steady — the Gita's portrait of the realised human being.",
+  "beginner": "Sthitaprajna means someone whose wisdom is steady. Such a person is not thrown around by success and failure, praise and blame, because their contentment comes from within.",
+  "what": "Sthitaprajna is the Gita's description of a person of stable insight. Arjuna asks how such a person speaks, sits and moves, and Krishna answers in the closing verses of chapter two: they have given up all desires that arise in the mind, are content in the Self, are unshaken in pain and without craving in pleasure, and withdraw the senses from objects as a tortoise draws in its limbs. The portrait is one of several in the Gita, alongside the devotee of chapter twelve and the one beyond the gunas in chapter fourteen.",
+  "scholar": "Gita 2.54–72 is traditionally recited as the sthitaprajna section. Commentators debate whether it describes the goal (the jivanmukta, liberated while living) or a model for the practitioner; Shankara reads it as both, describing the knower's natural traits which are to be cultivated as disciplines. Parallels include the gunatita (14.22–26) and the ideal devotee (12.13–20). Similar ideals appear in other traditions, such as the Buddhist arahant and Jain kevalin, though with different metaphysics.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Shankara reads the sthitaprajna as the knower of the Self, whose traits come naturally after realisation and serve as disciplines for the seeker."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "In Ramanuja's reading, steady wisdom is the stable vision of the self as distinct from matter and dependent on the Lord, a stage leading into devotion."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Devotional readers link the steady-minded sage to the ideal devotee of Gita chapter twelve, whose equanimity grows from love and dependence on God."
+    },
+    {
+      "tradition": "modern",
+      "view": "Mahatma Gandhi and others treated these verses as a practical ethical ideal for public life; this is a modern reading."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "shankara-gita-bhashya",
+    "ramanuja-gita-bhashya"
+  ],
+  "traditions": [
+    "vedanta",
+    "advaita",
+    "vishishtadvaita",
+    "bhakti",
+    "modern"
+  ],
+  "relatedConcepts": [
+    "samatva",
+    "kama",
+    "viveka",
+    "vairagya",
+    "moksha",
+    "samadhi"
+  ],
+  "questions": [
+    "mind",
+    "live",
+    "failure"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.54",
+      "note": "Arjuna asks what the person of steady wisdom is like."
+    },
+    {
+      "kind": "gita",
+      "id": "2.55",
+      "note": "The answer begins: all desires of the mind given up, content in the Self."
+    },
+    {
+      "kind": "gita",
+      "id": "2.62",
+      "note": "The chain from dwelling on objects to ruin shows what steadiness protects against."
+    },
+    {
+      "kind": "gita",
+      "id": "2.70",
+      "note": "The ocean image: enjoyments enter but the full person is undisturbed."
+    },
+    {
+      "kind": "concept",
+      "id": "samatva",
+      "note": "Equanimity is the practical core of steady wisdom."
+    },
+    {
+      "kind": "gita",
+      "id": "14.25",
+      "note": "Compare the portrait of one who has gone beyond the gunas."
+    }
+  ],
+  "gitaVerses": [
+    "2.54",
+    "2.55",
+    "2.56",
+    "2.59",
+    "2.70",
+    "2.71"
+  ]
+}

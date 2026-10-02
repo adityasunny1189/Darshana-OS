@@ -1,0 +1,99 @@
+{
+  "id": "valmiki-ramayana",
+  "title": {
+    "en": "Valmiki Ramayana",
+    "sa": "वाल्मीकिरामायण",
+    "iast": "Vālmīkirāmāyaṇa"
+  },
+  "category": "itihasa",
+  "sourceType": "primary-text",
+  "traditions": [
+    "itihasa-purana",
+    "bhakti",
+    "vedic"
+  ],
+  "attribution": "Traditionally attributed to the sage Valmiki, called the first poet (adi-kavi)",
+  "author": "valmiki",
+  "period": "Scholars commonly place its composition between roughly the 5th century BCE and the 3rd century CE, with the first and last books generally considered later layers",
+  "language": "Sanskrit",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "Duty",
+    "Truth",
+    "Sacrifice",
+    "Kingship",
+    "Relationships",
+    "Exile"
+  ],
+  "summary": "The Sanskrit epic of Rama, prince of Ayodhya: his exile, the abduction of Sita, the war with Ravana and his return as king.",
+  "whyRead": "It is the source of one of the most retold stories in Asia and a sustained exploration of dharma under pressure: the duties of son, spouse, brother, friend and king, and their conflicts.",
+  "story": "Prince Rama is exiled for fourteen years to honour his father's promise to a queen. With Sita and his brother Lakshmana he lives in the forest until the demon king Ravana abducts Sita. With the help of Hanuman and an army of vanaras, Rama crosses to Lanka, defeats Ravana and returns to rule, though the final book raises hard questions about Sita's treatment.",
+  "questions": [
+    "What does one owe to family, to a promise and to a kingdom?",
+    "Is duty ever in conflict with love or justice?",
+    "What makes a ruler good?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Truth and the keeping of promises",
+      "text": "The plot turns on a king keeping his word even at great cost. Rama accepts exile rather than let his father be untruthful, making satya (truthfulness) central to dharma."
+    },
+    {
+      "title": "Dharma in relationships",
+      "text": "The epic explores ideals of conduct among parents and children, spouses, brothers, friends and allies. Lakshmana, Bharata, Sita and Hanuman each embody a form of loyalty or devotion."
+    },
+    {
+      "title": "Kingship and its burdens",
+      "text": "Rama's rule (Rama-rajya) became a lasting image of just government, while the epic also shows the personal cost of placing public duty over private happiness."
+    },
+    {
+      "title": "Contested episodes",
+      "text": "Episodes such as Sita's ordeal by fire and her later banishment have been debated for centuries, and later retellings often revise them. The epic invites moral reflection rather than easy answers."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Seven books (kandas)",
+      "note": "Bala, Ayodhya, Aranya, Kishkindha, Sundara, Yuddha, Uttara"
+    },
+    {
+      "label": "Length",
+      "note": "Traditionally about 24,000 verses"
+    },
+    {
+      "label": "Layers",
+      "note": "Many scholars regard the Bala and Uttara Kandas as later additions"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "dharma",
+    "svadharma",
+    "tyaga",
+    "bhakti",
+    "karma"
+  ],
+  "relatedTexts": [
+    {
+      "id": "adhyatma-ramayana",
+      "note": "A later Sanskrit retelling with a devotional and Advaitic frame"
+    },
+    {
+      "id": "ramcharitmanas",
+      "note": "Tulsidas's Awadhi retelling centred on devotion to Rama"
+    },
+    {
+      "id": "mahabharata",
+      "note": "The other great Sanskrit epic; it also contains a short version of the Rama story"
+    },
+    {
+      "id": "yoga-vasistha",
+      "note": "A philosophical dialogue framed as Vasistha's teaching to Rama"
+    }
+  ],
+  "thinkers": [
+    "valmiki"
+  ],
+  "advanced": false,
+  "ingested": false
+}

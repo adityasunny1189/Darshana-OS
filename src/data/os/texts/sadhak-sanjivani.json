@@ -1,0 +1,99 @@
+{
+  "id": "sadhak-sanjivani",
+  "title": {
+    "en": "Sadhak Sanjivani",
+    "sa": "साधक-संजीवनी",
+    "iast": "Sādhaka-Sañjīvanī"
+  },
+  "category": "commentary",
+  "sourceType": "modern-commentary",
+  "traditions": [
+    "vedanta",
+    "bhakti",
+    "modern"
+  ],
+  "attribution": "Swami Ramsukhdas; published by Gita Press, Gorakhpur",
+  "author": "ramsukhdas",
+  "period": "Late 20th century; revised editions followed",
+  "language": "Hindi (with English translation)",
+  "difficulty": "beginner",
+  "themes": [
+    "Practice",
+    "Surrender",
+    "Detachment",
+    "Devotion",
+    "Self-knowledge",
+    "Everyday life"
+  ],
+  "summary": "A verse-by-verse Hindi commentary on the whole Bhagavad Gita, written for practitioners (sadhakas) rather than scholars.",
+  "whyRead": "Sadhak Sanjivani is written to be practised, not only studied: it keeps turning each verse into a question about how the reader lives. It is the commentary ingested in this app for all 700 verses, in Hindi and English, so it is the most direct way to go deeper into any Gita verse here.",
+  "questions": [
+    "How do I apply the Gita in ordinary life?",
+    "What does it mean to accept that the body is not mine?",
+    "How can surrender be practised today?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Written for the practitioner",
+      "text": "The title means roughly 'life-giving herb for the spiritual aspirant'. Ramsukhdas repeatedly addresses the reader directly and draws out practical implications of each verse."
+    },
+    {
+      "title": "Disidentification from body and world",
+      "text": "A recurring theme is that the body, mind and possessions belong to the world, not to the Self. Recognising this, in his presentation, is itself a large part of freedom."
+    },
+    {
+      "title": "Paths are complementary",
+      "text": "Ramsukhdas treats action, knowledge and devotion as valid paths suited to different temperaments, while giving surrender (sharanagati) to God a special place."
+    },
+    {
+      "title": "Service without expectation",
+      "text": "Action is to be done for the good of others and offered to God, without seeking anything for oneself. He presents this as available to anyone, regardless of learning."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Commentary on all 18 chapters",
+      "note": "Each verse: Sanskrit, word meanings, Hindi translation, explanation"
+    },
+    {
+      "label": "Chapter introductions and closing notes",
+      "note": "Many chapters include an introduction linking them to the previous one"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "sharanagati",
+    "nishkama-karma",
+    "seva",
+    "viveka",
+    "vairagya",
+    "asakti",
+    "bhakti",
+    "atma",
+    "samatva",
+    "karma"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavad-gita",
+      "note": "The text on which it comments, verse by verse"
+    },
+    {
+      "id": "shankara-gita-bhashya",
+      "note": "A classical Advaita commentary; Ramsukhdas draws on the commentarial tradition but writes for practice"
+    },
+    {
+      "id": "ramanuja-gita-bhashya",
+      "note": "A classical devotional reading with which it shares an emphasis on surrender"
+    },
+    {
+      "id": "ramcharitmanas",
+      "note": "Ramsukhdas frequently draws illustrations from Tulsidas's Hindi Ramayana"
+    }
+  ],
+  "thinkers": [
+    "ramsukhdas"
+  ],
+  "advanced": false,
+  "ingested": true
+}

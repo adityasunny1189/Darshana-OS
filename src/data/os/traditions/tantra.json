@@ -1,0 +1,81 @@
+{
+  "id": "tantra",
+  "name": {
+    "en": "Tantra",
+    "sa": "तन्त्र",
+    "iast": "Tantra"
+  },
+  "family": "tantric",
+  "parent": null,
+  "tagline": "Initiatory traditions of scripture, ritual, contemplation and philosophy across Shaiva, Shakta, Vaishnava, Buddhist and Jain streams.",
+  "period": "Tantric scriptures and lineages developed from roughly the 5th–7th centuries CE onward, with major philosophical works in the 9th–11th centuries; dating individual texts is often difficult.",
+  "overview": "Tantra refers to a large body of scriptures (Tantras, Agamas, Samhitas) and to the initiatory traditions based on them, found among Shaivas, Shaktas and Vaishnavas (the Pancharatra), and also in Buddhism and Jainism. Tantric traditions share features such as initiation (diksha) by a guru, mantra, sacred diagrams (yantra, mandala), deity visualisation, the subtle body with its channels and centres, and detailed temple and domestic ritual. Philosophically, many tantric systems — especially non-dual Shaiva and Shakta ones — hold that the world and the body are real manifestations of divine power (shakti), so that they can be means rather than obstacles to liberation; others, such as Shaiva Siddhanta, are dualist. Contemplative practice ranges from meditation on the nature of consciousness to breath and energy practices. Transgressive (left-hand) rites existed in some Kaula lineages but are a small part of a much wider, largely ritual and devotional tradition, and \"tantra\" should not be reduced to them or to techniques.",
+  "beginner": "Tantra is a family of traditions with their own scriptures, rituals and teachers. Many of them teach that the world and the body are expressions of the divine, and use ritual, mantra and meditation to realise this.",
+  "coreQuestions": [
+    "Can the world and the body be means to liberation rather than obstacles?",
+    "What is the role of initiation and the guru?",
+    "How do mantra and ritual transform consciousness?",
+    "How do tantric philosophies relate to Vedanta?"
+  ],
+  "coreConcepts": [
+    "shakti",
+    "shiva",
+    "tattva",
+    "anugraha",
+    "dhyana",
+    "pranayama",
+    "non-duality",
+    "spanda"
+  ],
+  "texts": [
+    "agamas",
+    "vijnana-bhairava",
+    "kularnava-tantra",
+    "shiva-sutras",
+    "hatha-yoga-pradipika"
+  ],
+  "thinkers": [
+    "abhinavagupta",
+    "kshemaraja"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "kashmir-shaivism",
+      "note": "The most philosophically developed non-dual Shaiva tantric tradition"
+    },
+    {
+      "id": "shaiva-siddhanta",
+      "note": "The dualist ritual tradition of the Shaiva Agamas"
+    },
+    {
+      "id": "shaktism",
+      "note": "Many Shakta traditions are tantric, e.g. Shri Vidya and Kalikula"
+    },
+    {
+      "id": "bhakti",
+      "note": "The Vaishnava Pancharatra tradition shaped temple worship and devotional theology"
+    },
+    {
+      "id": "buddhism",
+      "note": "Vajrayana is the Buddhist tantric tradition, beyond the scope of this library for now"
+    },
+    {
+      "id": "yoga",
+      "note": "Hatha Yoga developed largely in tantric and Nath milieus"
+    }
+  ],
+  "disagreements": [
+    {
+      "with": "mimamsa",
+      "topic": "authority of scripture",
+      "note": "Orthodox Vedic ritualists often regarded tantric scriptures as outside, or subordinate to, the Veda; tantric authors claimed their scriptures were a higher revelation."
+    },
+    {
+      "with": "advaita",
+      "topic": "the world and the body",
+      "note": "Non-dual tantric thought affirms the world as real divine power rather than appearance."
+    }
+  ],
+  "scholar": "The Pancharatra Samhitas underpin Shri Vaishnava temple ritual, and Ramanuja's tradition defended their Vedic compatibility. Scholars distinguish mantramarga Shaivism from Kaula and Krama currents. The term \"Tantrism\" is a modern scholarly category, and its boundaries are debated.",
+  "difficulty": "advanced"
+}

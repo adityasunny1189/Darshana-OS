@@ -1,0 +1,124 @@
+{
+  "id": "bhakti",
+  "q": "What is Bhakti?",
+  "motif": "lotus",
+  "quickAnswer": "Bhakti means loving devotion, from a root meaning to share or partake. It is both a spiritual path and a vast historical movement of poets and saints across languages and regions. Traditions differ on its object (Vishnu, Krishna, Rama, Shiva, the Goddess, or the formless Divine), on whether it is a means to liberation or the goal itself, and on how grace and self-effort relate. The Gita presents it as open to anyone and as requiring nothing more elaborate than a sincere offering.",
+  "concepts": [
+    "bhakti",
+    "prema",
+    "sharanagati",
+    "prapatti",
+    "anugraha",
+    "naam",
+    "lila"
+  ],
+  "traditions": [
+    "bhakti",
+    "vishishtadvaita",
+    "dvaita",
+    "shaivism",
+    "shaktism",
+    "sikhism",
+    "advaita"
+  ],
+  "perspectives": [
+    {
+      "tradition": "bhakti",
+      "view": "Devotional texts describe bhakti as supreme love for God, sought for its own sake; many schools consider it higher than liberation itself.",
+      "sources": [
+        {
+          "text": "narada-bhakti-sutra"
+        },
+        {
+          "text": "bhagavata-purana"
+        }
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "For Ramanuja, bhakti is continuous loving meditation on God, and prapatti (total refuge) is its culmination; the liberated self enjoys eternal service of Narayana.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        }
+      ]
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Madhva holds that liberation is attained through God's grace, earned by devotion founded on correct knowledge of God's supremacy and one's own dependence.",
+      "sources": [
+        {
+          "text": "gita-tatparya"
+        }
+      ]
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita values devotion as a powerful purifier of the mind and a support for knowledge; for some Advaitins, the highest devotion is inseparable from knowing the Self.",
+      "sources": [
+        {
+          "text": "bhaja-govindam"
+        }
+      ]
+    },
+    {
+      "tradition": "shaivism",
+      "view": "Shaiva devotional traditions, including the Tamil Nayanars, centre love on Shiva, and Shaiva Siddhanta links it to grace releasing the soul from bondage.",
+      "sources": [
+        {
+          "text": "shiva-jnana-bodham"
+        }
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Sikh devotion centres on loving remembrance of the one formless God through the Name (naam simran), joined to honest work and service.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "9.26",
+    "note": "Krishna accepts even a leaf, a flower, fruit or water offered with love — the simplest statement of bhakti."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "12.13",
+      "note": "The first of the qualities of the devotee dear to God."
+    },
+    {
+      "kind": "gita",
+      "id": "18.65",
+      "note": "Fix the mind on Me, be devoted to Me."
+    },
+    {
+      "kind": "text",
+      "id": "narada-bhakti-sutra",
+      "note": "A short classical definition of devotion."
+    },
+    {
+      "kind": "text",
+      "id": "bhagavata-purana",
+      "note": "The great Puranic source of Krishna devotion."
+    },
+    {
+      "kind": "concept",
+      "id": "sharanagati",
+      "note": "Surrender as the heart of devotion."
+    }
+  ],
+  "gitaQuestions": [
+    "surrender",
+    "attachment-people"
+  ],
+  "related": [
+    "god",
+    "freedom",
+    "live"
+  ]
+}

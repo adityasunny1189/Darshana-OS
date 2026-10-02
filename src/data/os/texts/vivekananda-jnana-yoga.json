@@ -1,0 +1,83 @@
+{
+  "id": "vivekananda-jnana-yoga",
+  "title": {
+    "en": "Jnana Yoga",
+    "sa": "ज्ञानयोग",
+    "iast": "Jñānayoga"
+  },
+  "category": "modern-exposition",
+  "sourceType": "modern-exposition",
+  "traditions": [
+    "modern",
+    "advaita",
+    "vedanta"
+  ],
+  "attribution": "Swami Vivekananda; a collection of his lectures",
+  "author": "vivekananda",
+  "period": "Lectures given mainly in 1896, largely in London; published as a collection shortly afterwards",
+  "language": "English",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "Knowledge",
+    "Maya",
+    "Self",
+    "Religion",
+    "Freedom"
+  ],
+  "summary": "Vivekananda's lectures presenting Advaita Vedanta to Western audiences as a rational philosophy of knowledge and freedom.",
+  "whyRead": "It shows how Advaita was reframed in the modern period for a global audience, in the language of reason, science and universal religion. It is a modern exposition, not a classical text, and reflects Vivekananda's own emphases.",
+  "questions": [
+    "What is maya?",
+    "Is the real Self infinite?",
+    "Can religion be rational?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Maya as a statement of fact",
+      "text": "Vivekananda presents maya not as a theory that the world is an illusion but as a description of the contradictions in which we live."
+    },
+    {
+      "title": "The real nature of the human being",
+      "text": "The true Self is presented as infinite and free, identical with Brahman, with bondage an apparent limitation."
+    },
+    {
+      "title": "Religion and reason",
+      "text": "He argues that Vedanta can meet the demands of reason and science, and that realisation, not belief, is the core of religion."
+    }
+  ],
+  "structure": [
+    {
+      "label": "A collection of lectures",
+      "note": "Contents vary somewhat between editions"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "jnana",
+    "maya",
+    "brahman",
+    "atma",
+    "moksha",
+    "viveka"
+  ],
+  "relatedTexts": [
+    {
+      "id": "vivekachudamani",
+      "note": "A classical text of the path of knowledge in Advaita"
+    },
+    {
+      "id": "vivekananda-karma-yoga",
+      "note": "Companion volume on action"
+    },
+    {
+      "id": "brahma-sutras",
+      "note": "The classical Vedanta source text"
+    }
+  ],
+  "thinkers": [
+    "vivekananda",
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

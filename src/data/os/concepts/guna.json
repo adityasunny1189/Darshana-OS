@@ -1,0 +1,93 @@
+{
+  "id": "guna",
+  "name": {
+    "en": "Gunas — the three qualities",
+    "sa": "गुण",
+    "iast": "guṇa"
+  },
+  "short": "Sattva, rajas and tamas — the three strands of all nature.",
+  "beginner": "The gunas are three basic qualities that make up everything in nature: sattva (clarity, balance), rajas (activity, passion) and tamas (inertia, dullness). Their shifting mix explains differences in things, moods and people.",
+  "what": "Guna means 'strand' or 'quality'. In Sankhya the three gunas are the constituents of prakriti; when they are in balance nature is unmanifest, and their disturbance produces the world. The Gita uses the gunas extensively — in chapter 14 to explain bondage, and in chapters 17–18 to classify faith, food, action, knowledge, intellect and happiness. Rising beyond all three is the goal. In Nyaya-Vaisheshika, by contrast, guna is a technical term for 'quality' as a category.",
+  "scholar": "Sankhya Karika 12–13 describes the gunas' natures and interdependence. The Gita's 'gunatita' (one who has gone beyond the gunas) of 14.22–26 is a key ideal. The Vaisheshika use of guna (24 qualities such as colour, taste, number) is a different, unrelated technical sense and should not be confused with the triguna.",
+  "perspectives": [
+    {
+      "tradition": "sankhya",
+      "view": "The three gunas are the actual constituents of prakriti, always together in varying proportions; the world is their transformation."
+    },
+    {
+      "tradition": "yoga",
+      "view": "The seen consists of the gunas; the yogi aims at a sattvic mind clear enough to discern the seer, and finally beyond the gunas altogether."
+    },
+    {
+      "tradition": "vedanta",
+      "view": "The Vedanta schools adopt the gunas to describe prakriti or maya, while locating the Self or God beyond them."
+    },
+    {
+      "tradition": "vaisheshika",
+      "view": "Guna here means 'quality' as one of the basic categories of reality — a different technical sense from the three strands."
+    }
+  ],
+  "texts": [
+    "sankhya-karika",
+    "bhagavad-gita",
+    "yoga-sutras"
+  ],
+  "traditions": [
+    "sankhya",
+    "yoga",
+    "vedanta",
+    "vaisheshika"
+  ],
+  "relatedConcepts": [
+    "prakriti",
+    "tattva",
+    "purusha",
+    "maya",
+    "shraddha"
+  ],
+  "questions": [
+    "mind",
+    "live"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "note": "The gunas as the constituents of nature."
+    },
+    {
+      "kind": "gita",
+      "id": "3.27",
+      "note": "Actions are done by the gunas; the ego thinks 'I am the doer'."
+    },
+    {
+      "kind": "gita",
+      "id": "14.5",
+      "note": "Sattva, rajas and tamas bind the embodied soul."
+    },
+    {
+      "kind": "gita",
+      "id": "14.20",
+      "note": "Going beyond the three gunas."
+    },
+    {
+      "kind": "gita",
+      "id": "17.2",
+      "note": "Faith is of three kinds, according to one's nature."
+    },
+    {
+      "kind": "concept",
+      "id": "tattva",
+      "note": "The larger Sankhya map in which the gunas operate."
+    }
+  ],
+  "gitaVerses": [
+    "3.27",
+    "7.14",
+    "13.21",
+    "14.5",
+    "14.19",
+    "14.26",
+    "17.2"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "sikhism",
+  "name": {
+    "en": "Sikh philosophy (Gurmat)",
+    "sa": "गुरमत",
+    "iast": "Gurmat"
+  },
+  "family": "sikh",
+  "parent": null,
+  "tagline": "The teaching of the Gurus: one Creator, the Name, divine order and a life of service.",
+  "period": "Founded by Guru Nanak (1469–1539) in the Punjab and developed through nine successor Gurus; the Guru Granth Sahib was compiled by Guru Arjan in 1604 and given its final form and status as the Guru by Guru Gobind Singh (d. 1708).",
+  "overview": "Sikh philosophy, called Gurmat (\"the Guru's teaching\"), is the thought of a distinct religious tradition founded by Guru Nanak; it is not a school of Hindu philosophy, though it arose in dialogue with Hindu and Islamic traditions. It affirms one God, the formless Creator (nirankar), who is both beyond creation and present within it. Creation unfolds according to hukam, the divine order or will. The human problem is haumai, ego or self-centredness, which keeps a person turned away from God; liberation (mukti) is attained through the Guru's grace, remembrance of the divine Name (naam simran), and living in harmony with hukam, and it is compatible with — indeed expressed in — householder life. Sikh ethics stress honest work, sharing with others, selfless service (seva) and the equality of all people. The Guru Granth Sahib, which includes hymns by the Sikh Gurus and by Hindu and Muslim saints, is the living Guru.",
+  "beginner": "Sikhism teaches that there is one God who created everything and is present in everything. Sikhs aim to remember God, work honestly, share with others and serve selflessly, living as householders rather than renouncing the world.",
+  "coreQuestions": [
+    "What is God, and how is God present in creation?",
+    "What is hukam, the divine order?",
+    "What is ego (haumai), and how is it overcome?",
+    "How can spiritual life be lived within family and work?"
+  ],
+  "coreConcepts": [
+    "naam",
+    "hukam",
+    "seva",
+    "anugraha",
+    "ishvara",
+    "bhakti",
+    "karma",
+    "moksha"
+  ],
+  "texts": [
+    "guru-granth-sahib"
+  ],
+  "thinkers": [
+    "guru-nanak"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "bhakti",
+      "note": "The Guru Granth Sahib includes hymns of sants such as Kabir and Namdev; Sikhism is nonetheless its own tradition"
+    },
+    {
+      "id": "advaita",
+      "note": "Some scholars note resonances with non-dual thought, while Sikh theology stresses the Creator's personal will and grace"
+    }
+  ],
+  "disagreements": [
+    {
+      "with": "mimamsa",
+      "topic": "ritual and caste",
+      "note": "The Gurus criticised ritual observances and caste distinctions as having no value without inner devotion and right conduct."
+    },
+    {
+      "with": "advaita",
+      "topic": "renunciation",
+      "note": "Where classical Advaita associates the pursuit of liberation with renunciation (sannyasa), the Gurus taught that liberation does not require leaving household life."
+    }
+  ],
+  "scholar": "Key terms include gurmukh (one oriented to the Guru) and manmukh (one oriented to self), and nadar (grace). The Mul Mantar opens the Guru Granth Sahib and summarises core theology. The Khalsa was instituted by Guru Gobind Singh in 1699.",
+  "difficulty": "beginner"
+}

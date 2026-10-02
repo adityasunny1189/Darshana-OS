@@ -1,0 +1,87 @@
+{
+  "id": "svadharma",
+  "name": {
+    "en": "Svadharma",
+    "sa": "स्वधर्म",
+    "iast": "svadharma"
+  },
+  "short": "One's own duty, suited to one's nature and situation.",
+  "beginner": "Svadharma means your own duty: what is yours to do given who you are and where you stand. The Gita says it is better to do your own duty imperfectly than someone else's perfectly.",
+  "what": "The Gita introduces svadharma when Arjuna wants to abandon his role as a warrior. It argues that duty arising from one's nature and position, done without selfish motive, becomes a means of reaching God. Traditionally svadharma was tied to social class (varna) and stage of life (ashrama); modern readers often reinterpret it as one's personal calling or responsibilities. Sadhak Sanjivani reads it as the duty that falls to one's lot, performed for the welfare of others.",
+  "scholar": "Classical dharmashastra ties svadharma to varna-ashrama; this link is contested in modern scholarship and reform movements. The Gita's argument (3.35, 18.47) is often read alongside 18.41–46 on duties born of nature (svabhava). Some interpreters read svadharma spiritually, as the dharma of the Self. Buddhist and Jain traditions criticised birth-based duty while retaining role-based ethics.",
+  "perspectives": [
+    {
+      "tradition": "itihasa-purana",
+      "view": "The epics dramatise conflicts between duties, for example between kinship and role in the Mahabharata, making svadharma a matter of hard judgment."
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Doing one's own duty without attachment purifies the mind; Advaita sees it as preparatory, while theistic Vedanta sees it as worship of God."
+    },
+    {
+      "tradition": "mimamsa",
+      "view": "Duty is what the Veda enjoins for a given person and situation; dharma is known from scriptural injunction."
+    },
+    {
+      "tradition": "modern",
+      "view": "Modern readers often interpret svadharma as one's authentic calling and responsibilities rather than a birth-assigned role."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "mahabharata",
+    "mimamsa-sutras",
+    "sadhak-sanjivani"
+  ],
+  "traditions": [
+    "itihasa-purana",
+    "vedanta",
+    "mimamsa",
+    "modern"
+  ],
+  "relatedConcepts": [
+    "dharma",
+    "karma",
+    "nishkama-karma",
+    "guna",
+    "yajna"
+  ],
+  "questions": [
+    "dharma",
+    "live"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.31",
+      "note": "Krishna first appeals to Arjuna's own duty."
+    },
+    {
+      "kind": "gita",
+      "id": "3.35",
+      "note": "Better one's own duty, though imperfect."
+    },
+    {
+      "kind": "gita",
+      "id": "18.46",
+      "note": "Worshipping the source of all through one's own work."
+    },
+    {
+      "kind": "text",
+      "id": "mahabharata",
+      "note": "The larger epic where duties collide."
+    },
+    {
+      "kind": "concept",
+      "id": "dharma",
+      "note": "The wider concept of which svadharma is part."
+    }
+  ],
+  "gitaVerses": [
+    "2.31",
+    "3.35",
+    "18.45",
+    "18.46",
+    "18.47"
+  ]
+}

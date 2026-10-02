@@ -1,0 +1,91 @@
+{
+  "id": "pranayama",
+  "name": {
+    "en": "Pranayama",
+    "sa": "प्राणायाम",
+    "iast": "prāṇāyāma"
+  },
+  "short": "Regulation of the breath and the life-force (prana).",
+  "beginner": "Pranayama means working consciously with the breath: slowing it, pausing it, balancing it. Yoga traditions see the breath as a bridge between body and mind.",
+  "what": "Prana is the life-force, most tangibly the breath; ayama means extension or restraint. In Patanjali's Yoga, pranayama is the fourth limb, a regulation of inhalation, exhalation and retention that prepares the mind for concentration. Hatha Yoga texts develop elaborate techniques and link them to channels (nadis) and the awakening of kundalini. The Gita mentions breath-control as one of several forms of inner offering (yajna).",
+  "scholar": "YS 2.49–53 treat pranayama as following asana and leading to fitness of the mind for dharana. Hatha texts (Hatha Yoga Pradipika, Gheranda Samhita) list named kumbhakas and connect pranayama to ida, pingala and sushumna. The Upanishads already speak of the five pranas (prana, apana, vyana, udana, samana). Tantric sources treat breath and consciousness as intertwined, as in several practices of the Vijnana Bhairava.",
+  "perspectives": [
+    {
+      "tradition": "yoga",
+      "view": "The fourth limb: regulated breath thins the covering over the mind's clarity and prepares it for concentration."
+    },
+    {
+      "tradition": "tantra",
+      "view": "Breath is a living expression of Shakti; working with the pause between breaths and the movement of prana becomes a doorway to recognising consciousness."
+    },
+    {
+      "tradition": "vedic",
+      "view": "The Upanishads treat prana as a principle of life, sometimes as a symbol of Brahman, and discuss the several vital airs."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Mindfulness of breathing (anapanasati) observes the breath rather than forcibly controlling it, as a basis for calm and insight."
+    }
+  ],
+  "texts": [
+    "yoga-sutras",
+    "hatha-yoga-pradipika",
+    "gheranda-samhita",
+    "shiva-samhita",
+    "vijnana-bhairava",
+    "bhagavad-gita"
+  ],
+  "traditions": [
+    "yoga",
+    "tantra",
+    "vedic",
+    "buddhism"
+  ],
+  "relatedConcepts": [
+    "dhyana",
+    "samadhi",
+    "yoga",
+    "chitta",
+    "yajna"
+  ],
+  "questions": [
+    "mind"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "4.29",
+      "note": "The Gita counts breath regulation among forms of inner offering."
+    },
+    {
+      "kind": "gita",
+      "id": "5.27",
+      "note": "Evening the in- and out-breath as part of the sage's inner discipline."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "Pranayama as the fourth of eight limbs."
+    },
+    {
+      "kind": "text",
+      "id": "hatha-yoga-pradipika",
+      "note": "The classic manual of hatha breath techniques."
+    },
+    {
+      "kind": "text",
+      "id": "vijnana-bhairava",
+      "note": "Tantric contemplations that begin from the breath."
+    },
+    {
+      "kind": "concept",
+      "id": "dhyana",
+      "note": "Where breath practice is meant to lead."
+    }
+  ],
+  "gitaVerses": [
+    "4.29",
+    "5.27",
+    "8.12"
+  ]
+}

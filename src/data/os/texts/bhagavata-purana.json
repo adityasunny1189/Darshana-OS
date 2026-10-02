@@ -1,0 +1,122 @@
+{
+  "id": "bhagavata-purana",
+  "title": {
+    "en": "Bhagavata Purana",
+    "sa": "भागवतपुराण",
+    "iast": "Bhāgavatapurāṇa"
+  },
+  "category": "purana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "bhakti",
+    "itihasa-purana",
+    "vedanta"
+  ],
+  "attribution": "Traditionally attributed to Vyasa and narrated by his son Shuka; composite authorship",
+  "author": "vyasa",
+  "period": "Scholars commonly place its composition between roughly the 6th and 10th centuries CE, often associating it with South India",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Devotion",
+    "Krishna",
+    "Divine play",
+    "Grace",
+    "Surrender"
+  ],
+  "summary": "The most influential Purana of Krishna devotion, telling the stories of Vishnu's descents and above all Krishna's life, with extended philosophical teaching.",
+  "whyRead": "It is the scriptural heart of many Vaishnava bhakti traditions, and its tenth canto shaped Indian poetry, music, dance and theology. It joins vivid narrative to sustained reflection on devotion, knowledge and grace.",
+  "story": "The Purana is framed as the sage Shuka narrating to King Parikshit, who has seven days to live. Within this frame come the stories of creation, of Vishnu's descents (avataras) and of devotees, culminating in Krishna's life and teaching.",
+  "questions": [
+    "What is devotion, and can love of God be a path to liberation?",
+    "Why does God take form and act in the world?",
+    "How do knowledge and devotion relate?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Krishna as the supreme",
+      "text": "Among the lists of Vishnu's descents, the text singles out Krishna as the Lord himself rather than a partial descent. This claim is central to many Krishna-centred traditions."
+    },
+    {
+      "title": "Devotion as the highest aim",
+      "text": "Bhakti, devotion that is selfless and uninterrupted, is presented as superior even to liberation sought for oneself. Knowledge and dispassion are said to follow from it."
+    },
+    {
+      "title": "The devotees' stories",
+      "text": "Figures such as Prahlada (canto 7), who remains devoted to Vishnu despite his father's persecution, and Dhruva (canto 4), a child who seeks and finds Vishnu through austerity, serve as models of devotion."
+    },
+    {
+      "title": "Krishna's life and the gopis",
+      "text": "The tenth canto narrates Krishna's childhood and youth in Vraja and his love for the gopis (cowherd women). Their longing is read by many traditions as the highest form of prema, divine love."
+    },
+    {
+      "title": "Teaching to Uddhava",
+      "text": "The eleventh canto contains Krishna's last major teaching, to his friend Uddhava, often called the Uddhava Gita, covering renunciation, knowledge, yoga and devotion."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Twelve cantos (skandhas)",
+      "note": "Traditionally about 18,000 verses"
+    },
+    {
+      "label": "Cantos 1–9",
+      "note": "Frame story, creation, Kapila's teaching (canto 3), Dhruva (canto 4), Prahlada (canto 7), other descents and dynasties"
+    },
+    {
+      "label": "Canto 10",
+      "note": "The life of Krishna; the largest canto"
+    },
+    {
+      "label": "Canto 11",
+      "note": "The Uddhava Gita and the end of Krishna's earthly presence"
+    },
+    {
+      "label": "Canto 12",
+      "note": "The age of Kali and the conclusion of the frame story"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Bhagavata Purana 1.3.28",
+      "about": "Krishna distinguished from other descents as the Lord himself",
+      "gita": [
+        "4.7",
+        "4.8"
+      ]
+    }
+  ],
+  "concepts": [
+    "bhakti",
+    "prema",
+    "lila",
+    "ishvara",
+    "sharanagati",
+    "anugraha",
+    "moksha",
+    "jnana"
+  ],
+  "relatedTexts": [
+    {
+      "id": "uddhava-gita",
+      "note": "Canto 11 teaching often read alongside the Bhagavad Gita"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "Both present Krishna as teacher; the Purana expands the Gita's theme of devotion"
+    },
+    {
+      "id": "narada-bhakti-sutra",
+      "note": "A short systematic treatment of the devotion the Purana narrates"
+    },
+    {
+      "id": "mahabharata",
+      "note": "The Mahabharata tells Krishna's role in the war; the Bhagavata dwells on his early life"
+    }
+  ],
+  "thinkers": [
+    "vyasa"
+  ],
+  "advanced": false,
+  "ingested": false
+}

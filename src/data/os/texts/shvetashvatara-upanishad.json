@@ -1,0 +1,116 @@
+{
+  "id": "shvetashvatara-upanishad",
+  "title": {
+    "en": "Shvetashvatara Upanishad",
+    "sa": "श्वेताश्वतरोपनिषद्",
+    "iast": "Śvetāśvatara Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta",
+    "shaivism",
+    "yoga",
+    "sankhya"
+  ],
+  "attribution": "Krishna Yajurveda; named after the sage Shvetashvatara, to whom its teaching is ascribed at the close. A commentary ascribed to Shankara exists, though its authenticity is doubted",
+  "author": null,
+  "period": "Usually placed among the later principal Upanishads, in the last centuries BCE; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "God",
+    "Maya",
+    "Devotion",
+    "Yoga",
+    "Sankhya"
+  ],
+  "summary": "A theistic Upanishad that identifies Brahman with a personal Lord, Rudra-Shiva, and weaves in early Sankhya and Yoga ideas.",
+  "whyRead": "Shvetashvatara shows the Upanishadic Absolute becoming a personal God worthy of devotion, and it is one of the earliest texts to use terms such as maya, Sankhya and Yoga in ways later schools build on. It is important for Shaiva traditions as well as for Vedanta.",
+  "questions": [
+    "What is the cause of the world?",
+    "Is the Absolute personal?",
+    "How does meditation lead to God?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The question of the cause",
+      "text": "The text opens with sages asking what the cause of the world is, and rejects time, nature, chance and other candidates in favour of the power of God."
+    },
+    {
+      "title": "The Lord and his maya",
+      "text": "It describes nature (prakriti) as maya and the great Lord as its wielder (mayin). Advaita and theistic schools interpret this differently: as illusion-making power, or as God's real creative power."
+    },
+    {
+      "title": "A personal Absolute",
+      "text": "Brahman is praised as Rudra or Shiva, the one God who rules and pervades all, making this a key early source for theism in Vedanta and for Shaivism."
+    },
+    {
+      "title": "Yoga practice",
+      "text": "The second chapter gives one of the earliest descriptions of meditative practice: posture, breath control and the signs of progress."
+    },
+    {
+      "title": "Devotion to God and teacher",
+      "text": "The final verse links the full disclosure of the teaching to supreme devotion toward God and equally toward one's teacher."
+    }
+  ],
+  "structure": [
+    {
+      "label": "6 chapters (adhyayas)"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "4.6",
+      "about": "Two birds on one tree (shared with Mundaka 3.1.1)"
+    },
+    {
+      "ref": "4.10",
+      "about": "Nature as maya and the Lord as its wielder"
+    },
+    {
+      "ref": "6.23",
+      "about": "Supreme devotion to God and to the teacher"
+    }
+  ],
+  "concepts": [
+    "ishvara",
+    "brahman",
+    "maya",
+    "prakriti",
+    "yoga",
+    "bhakti",
+    "shiva",
+    "pranayama",
+    "dhyana",
+    "jiva"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavad-gita",
+      "note": "Shares the Gita's synthesis of Upanishadic monism, Sankhya-Yoga and devotion to a personal Lord"
+    },
+    {
+      "id": "mundaka-upanishad",
+      "note": "Shares the two-birds verse"
+    },
+    {
+      "id": "katha-upanishad",
+      "note": "Another Krishna Yajurveda Upanishad with early Yoga vocabulary"
+    },
+    {
+      "id": "sankhya-karika",
+      "note": "The classical Sankhya system whose early form is visible here"
+    },
+    {
+      "id": "agamas",
+      "note": "Later Shaiva scripture develops the theism of Rudra-Shiva found here"
+    }
+  ],
+  "thinkers": [
+    "ramanuja"
+  ],
+  "advanced": false,
+  "ingested": false
+}

@@ -1,0 +1,102 @@
+{
+  "id": "guru-granth-sahib",
+  "title": {
+    "en": "Guru Granth Sahib",
+    "sa": "गुरु ग्रन्थ साहिब",
+    "iast": "Guru Granth Sāhib"
+  },
+  "category": "canonical-scripture",
+  "sourceType": "primary-text",
+  "traditions": [
+    "sikhism"
+  ],
+  "attribution": "Hymns of the Sikh Gurus together with bhagats and other poets; compiled by Guru Arjan and given its final form by Guru Gobind Singh",
+  "author": "guru-nanak",
+  "period": "First compiled as the Adi Granth in 1604 CE; final form with the hymns of Guru Tegh Bahadur added by Guru Gobind Singh, who in 1708 CE declared the scripture the eternal Guru",
+  "language": "Gurmukhi script; Punjabi and other languages including Braj, Sant Bhasha, Persian and Sindhi",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "The One",
+    "Name",
+    "Divine order",
+    "Service",
+    "Equality",
+    "Devotion"
+  ],
+  "summary": "The scripture and living Guru of the Sikhs: poetic hymns set to musical ragas on the One, the Name, divine order and ethical life.",
+  "whyRead": "It is the centre of Sikh worship and thought, and unusual among scriptures in including hymns by saints of other backgrounds, Hindu and Muslim. Its teaching joins inner devotion with honest work, sharing and service.",
+  "questions": [
+    "What is the One, beyond all names?",
+    "How should a person live in the world without being consumed by ego?",
+    "What does it mean to remember the Name?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The One",
+      "text": "The scripture opens with the Mul Mantar, which affirms one Being, the Creator, beyond fear and enmity, timeless and self-existent. Sikh thought is its own tradition and not a school of Hinduism."
+    },
+    {
+      "title": "Naam: remembering the Name",
+      "text": "Meditative remembrance of the divine Name (naam simran) is the heart of practice, turning attention from ego to the divine."
+    },
+    {
+      "title": "Hukam: the divine order",
+      "text": "All things occur within hukam, the divine order or will. Living in harmony with it, rather than through self-will (haumai), is the aim."
+    },
+    {
+      "title": "Seva and honest living",
+      "text": "Selfless service (seva), earning an honest living and sharing with others are central, and the householder life is valued over renunciation."
+    },
+    {
+      "title": "Equality and bhagat bani",
+      "text": "The inclusion of hymns by bhagats such as Kabir, Ravidas, Namdev and Sheikh Farid reflects the teaching that devotion is open to all, regardless of caste or creed."
+    }
+  ],
+  "structure": [
+    {
+      "label": "1430 pages (angs) in the standard edition"
+    },
+    {
+      "label": "Opening",
+      "note": "Japji Sahib of Guru Nanak and other daily prayers"
+    },
+    {
+      "label": "Main body",
+      "note": "Hymns arranged by musical raga (31 principal ragas), then by author"
+    },
+    {
+      "label": "Closing sections",
+      "note": "Including verses by Guru Tegh Bahadur and the concluding compositions"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Guru Granth Sahib, Ang 1",
+      "about": "The Mul Mantar and the opening of Japji Sahib"
+    }
+  ],
+  "concepts": [
+    "naam",
+    "hukam",
+    "seva",
+    "bhakti",
+    "ishvara",
+    "ahankara",
+    "anugraha"
+  ],
+  "relatedTexts": [
+    {
+      "id": "ramcharitmanas",
+      "note": "A contemporaneous North Indian devotional work from a different tradition"
+    },
+    {
+      "id": "narada-bhakti-sutra",
+      "note": "Classical account of devotion that invites comparison, though Sikh thought is distinct"
+    }
+  ],
+  "thinkers": [
+    "guru-nanak"
+  ],
+  "advanced": false,
+  "ingested": false
+}

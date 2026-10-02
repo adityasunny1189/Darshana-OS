@@ -1,0 +1,122 @@
+{
+  "id": "mind",
+  "q": "How do I control my mind?",
+  "motif": "moon",
+  "quickAnswer": "Indian traditions broadly agree that the mind can be trained, and that force alone rarely works. The Gita and Patanjali's Yoga name two complementary supports — steady practice (abhyasa) and dispassion (vairagya) — while Buddhist meditation emphasises mindful observation of mental states as they arise and pass. Traditions differ on the goal: stilling the mind to reveal a witnessing consciousness, seeing that thoughts have no owning self, or offering the mind to God so that it is naturally absorbed.",
+  "concepts": [
+    "manas",
+    "chitta",
+    "dhyana",
+    "vairagya",
+    "samadhi",
+    "pranayama",
+    "kama"
+  ],
+  "traditions": [
+    "yoga",
+    "sankhya",
+    "buddhism",
+    "vedanta",
+    "bhakti",
+    "tantra"
+  ],
+  "perspectives": [
+    {
+      "tradition": "yoga",
+      "view": "Patanjali defines yoga as the stilling of the fluctuations (vrittis) of the mind-field (chitta), cultivated through practice and dispassion and the eight limbs, culminating in absorption (samadhi).",
+      "sources": [
+        {
+          "text": "yoga-sutras",
+          "ref": "1.2"
+        },
+        {
+          "text": "yoga-sutras",
+          "ref": "1.12"
+        }
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist traditions stress that the mind leads experience; training involves attention, ethical restraint and meditation that sees thoughts and feelings as impermanent events rather than a self to be fought.",
+      "sources": [
+        {
+          "text": "dhammapada",
+          "ref": "1"
+        }
+      ]
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Vedantic teachers generally treat the mind as an instrument that can be purified and quietened, so that discernment (viveka) recognises the Self as the witness of the mind rather than the mind itself.",
+      "sources": [
+        {
+          "text": "vivekachudamani"
+        }
+      ]
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Bhakti traditions often redirect rather than suppress: the mind is turned toward God through remembrance, chanting and love, and becomes steady as its attachments shift.",
+      "sources": [
+        {
+          "text": "narada-bhakti-sutra"
+        }
+      ]
+    },
+    {
+      "tradition": "tantra",
+      "view": "Many Tantric and Hatha lineages work through the body, breath (prana) and subtle energy, holding that steadying the breath steadies the mind.",
+      "sources": [
+        {
+          "text": "hatha-yoga-pradipika"
+        },
+        {
+          "text": "vijnana-bhairava"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "6.35",
+    "note": "Krishna concedes the mind is restless and hard to hold, then names the two means: practice and dispassion."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "6.34",
+      "note": "Arjuna's honest complaint that the mind is like the wind."
+    },
+    {
+      "kind": "gita",
+      "id": "6.26",
+      "note": "Bringing the wandering mind back again and again — the core of practice."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "The systematic map of the mind and its disciplines."
+    },
+    {
+      "kind": "concept",
+      "id": "chitta",
+      "note": "How Yoga models the mind-field and its fluctuations."
+    },
+    {
+      "kind": "tradition",
+      "id": "buddhism",
+      "note": "A contrasting, observation-based approach to mental training."
+    }
+  ],
+  "gitaQuestions": [
+    "restless-mind",
+    "desire",
+    "anger",
+    "what-is-yoga"
+  ],
+  "related": [
+    "suffering",
+    "freedom",
+    "self"
+  ]
+}

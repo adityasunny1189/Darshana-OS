@@ -1,0 +1,79 @@
+{
+  "id": "aitareya-upanishad",
+  "title": {
+    "en": "Aitareya Upanishad",
+    "sa": "ऐतरेयोपनिषद्",
+    "iast": "Aitareya Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta"
+  ],
+  "attribution": "Rigveda (Aitareya Aranyaka); author unknown",
+  "author": null,
+  "period": "Generally placed among the earlier Upanishads, in the mid-first millennium BCE; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Creation",
+    "Self",
+    "Consciousness",
+    "Birth"
+  ],
+  "summary": "A short Rigvedic Upanishad telling how the Self created the worlds and entered the human body, and concluding that consciousness is Brahman.",
+  "whyRead": "Aitareya offers a mythic account of creation in which the Self enters the body it has made, and then asks which of our faculties is really the Self. It is the source of one of the four traditional 'great sayings' identifying consciousness with Brahman.",
+  "questions": [
+    "How did the world come to be?",
+    "Which of our faculties is the Self?",
+    "What is consciousness?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "In the beginning, the Self alone",
+      "text": "The text opens with the Self alone existing and deciding to create worlds, guardians of the worlds and a cosmic person from whom the senses and their deities emerge."
+    },
+    {
+      "title": "The Self enters the body",
+      "text": "The Self is pictured entering the body through the crown of the head, and then wondering what it is, until it recognises itself as Brahman."
+    },
+    {
+      "title": "Consciousness is Brahman",
+      "text": "Its final chapter lists the functions of mind and concludes that all are names of consciousness (prajnana), and that consciousness is Brahman, a statement counted among the mahavakyas."
+    }
+  ],
+  "structure": [
+    {
+      "label": "3 chapters",
+      "note": "Part of the Aitareya Aranyaka of the Rigveda"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "atma",
+    "brahman",
+    "manas",
+    "jnana"
+  ],
+  "relatedTexts": [
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "Another creation account beginning from the Self alone"
+    },
+    {
+      "id": "chandogya-upanishad",
+      "note": "Contains another of the four mahavakyas"
+    },
+    {
+      "id": "mandukya-upanishad",
+      "note": "Contains another of the four mahavakyas"
+    }
+  ],
+  "thinkers": [
+    "shankara",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

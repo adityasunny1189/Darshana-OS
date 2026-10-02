@@ -1,0 +1,88 @@
+{
+  "id": "krodha",
+  "name": {
+    "en": "Krodha",
+    "sa": "क्रोध",
+    "iast": "krodha"
+  },
+  "short": "Anger, often described as frustrated desire.",
+  "beginner": "Krodha means anger. The Gita explains that anger usually comes from desire that has been blocked, and that it clouds memory and judgment.",
+  "what": "Anger is widely listed among the main inner enemies. The Gita's chain runs from attachment to desire, from blocked desire to anger, and from anger to delusion, loss of memory and destruction of discernment. It names desire, anger and greed as three gates to self-destruction. Buddhist thought treats aversion (dvesha) as one of the three poisons, and Jain thought counts anger as one of four passions (kashayas) that bind karma.",
+  "scholar": "Gita 3.37 identifies desire and anger as forms of one force born of rajas. Yoga Sutra 2.8 defines dvesha (aversion) as following pain. Buddhist abhidharma lists dosa (hatred) among the unwholesome roots. Jain kashaya theory (anger, pride, deceit, greed) is detailed in the Tattvartha Sutra. Tirukkural devotes a chapter to avoiding anger.",
+  "perspectives": [
+    {
+      "tradition": "vedanta",
+      "view": "Anger arises from obstructed desire and destroys discernment; its root is identification with the non-Self."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Aversion is one of the three poisons, with greed and delusion; it is countered by loving-kindness and insight."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Anger is one of four passions (kashayas) that cause karmic matter to stick to the soul; forgiveness is its remedy."
+    },
+    {
+      "tradition": "tamil-ethics",
+      "view": "The Tirukkural counsels restraint from anger, especially toward those weaker than oneself."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "dhammapada",
+    "tattvartha-sutra",
+    "tirukkural",
+    "yoga-sutras"
+  ],
+  "traditions": [
+    "vedanta",
+    "buddhism",
+    "jainism",
+    "tamil-ethics"
+  ],
+  "relatedConcepts": [
+    "kama",
+    "asakti",
+    "guna",
+    "samatva",
+    "ahimsa"
+  ],
+  "questions": [
+    "mind",
+    "suffering"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.62",
+      "note": "From attachment to desire to anger."
+    },
+    {
+      "kind": "gita",
+      "id": "2.63",
+      "note": "From anger to delusion and the ruin of discernment."
+    },
+    {
+      "kind": "gita",
+      "id": "16.21",
+      "note": "Desire, anger and greed as three gates."
+    },
+    {
+      "kind": "text",
+      "id": "dhammapada",
+      "note": "Buddhist teaching on overcoming hatred."
+    },
+    {
+      "kind": "text",
+      "id": "tirukkural",
+      "note": "Tamil ethical counsel on restraint from anger."
+    }
+  ],
+  "gitaVerses": [
+    "2.56",
+    "2.62",
+    "2.63",
+    "3.37",
+    "16.21"
+  ]
+}

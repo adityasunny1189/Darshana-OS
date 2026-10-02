@@ -1,0 +1,119 @@
+{
+  "id": "death",
+  "q": "What happens after death?",
+  "motif": "river",
+  "quickAnswer": "Most Indian traditions accept rebirth (samsara) shaped by karma, and see liberation as release from that cycle; they differ on what continues. Vedantic schools say the Self does not die and the subtle body carries karmic impressions to a new birth; Jainism speaks of a soul bound by karmic matter; Buddhism describes rebirth as a causal continuity without a permanent self. The Charvaka materialists denied any afterlife, and Sikh thought places the cycle under divine will and grace.",
+  "concepts": [
+    "samsara",
+    "atma",
+    "karma",
+    "sharira",
+    "moksha",
+    "anatta",
+    "jiva"
+  ],
+  "traditions": [
+    "vedic",
+    "vedanta",
+    "jainism",
+    "buddhism",
+    "charvaka",
+    "sikhism"
+  ],
+  "perspectives": [
+    {
+      "tradition": "vedic",
+      "view": "The Katha Upanishad is framed as a young man's questions to Death, who teaches that the Self is not killed when the body is killed.",
+      "sources": [
+        {
+          "text": "katha-upanishad",
+          "ref": "1.2.18"
+        }
+      ]
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Vedanta holds that at death the subtle body (sukshma sharira), carrying desires and impressions, leaves the gross body and takes on another, until knowledge or grace ends the cycle.",
+      "sources": [
+        {
+          "text": "brahma-sutras"
+        },
+        {
+          "text": "tattva-bodha"
+        }
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism teaches that the soul, weighed by its karmic matter, moves immediately into a new birth among the many realms of beings; the freed soul rises to the summit of the universe.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhism teaches rebirth without a transmigrating self: craving and intention condition a new arising, like a flame lit from another flame.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ]
+    },
+    {
+      "tradition": "charvaka",
+      "view": "The Charvaka or Lokayata materialists held that consciousness arises from the body and ends with it; they rejected rebirth and the afterlife."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Sikh thought accepts the cycle of birth and death but emphasises that human life is a rare chance to merge with God through the Name and grace.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "2.22",
+    "note": "The image of changing worn-out clothes for new ones."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "2.27",
+      "note": "What is born must die and what dies is reborn — so do not grieve over the inevitable."
+    },
+    {
+      "kind": "gita",
+      "id": "8.6",
+      "note": "What one dwells on at the time of death shapes what follows."
+    },
+    {
+      "kind": "gita",
+      "id": "15.8",
+      "note": "The self carries the senses and mind like the wind carries scent."
+    },
+    {
+      "kind": "text",
+      "id": "katha-upanishad",
+      "note": "The classic dialogue with Death."
+    },
+    {
+      "kind": "concept",
+      "id": "samsara",
+      "note": "The cycle of rebirth across the traditions."
+    }
+  ],
+  "gitaQuestions": [
+    "body-soul",
+    "who-am-i"
+  ],
+  "related": [
+    "self",
+    "karma",
+    "freedom"
+  ]
+}

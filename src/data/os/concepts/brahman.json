@@ -1,0 +1,114 @@
+{
+  "id": "brahman",
+  "name": {
+    "en": "Brahman",
+    "sa": "ब्रह्मन्",
+    "iast": "brahman"
+  },
+  "short": "The ultimate reality, the ground from which everything arises.",
+  "beginner": "Brahman is the name the Upanishads give to the deepest reality behind everything — what the whole universe finally is. Schools differ on whether Brahman is personal or impersonal and on how the world relates to it.",
+  "what": "Originally linked to the power of Vedic ritual speech, Brahman became in the Upanishads the single source, support and end of all things, often described as being, consciousness and bliss (sat-chit-ananda). The Vedanta schools are largely organised around how they interpret Brahman: as attributeless and non-dual, as a personal God qualified by souls and matter, or as the independent Lord distinct from everything else. The Gita uses the term for the imperishable Absolute and relates it closely to Krishna as the supreme person.",
+  "scholar": "Standard distinctions: nirguna (without qualities) and saguna (with qualities) Brahman; Advaita treats the latter as Brahman seen through maya, i.e. Ishvara. Ramanuja rejects any attributeless Brahman, arguing that scripture always describes Brahman with auspicious qualities (kalyana-gunas). Madhva identifies Brahman with Vishnu, full of infinite qualities. The Brahma Sutras open with the inquiry into Brahman (brahma-jijnasa) and define it as the source of the world's origin, maintenance and dissolution.",
+  "perspectives": [
+    {
+      "tradition": "vedic",
+      "view": "The Upanishads describe Brahman in many ways: as the essence of all, as what cannot be described, and as identical with the inner Self — setting up the questions later schools answer."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Brahman alone is real: pure, attributeless consciousness without a second. The world and the personal God are how Brahman appears through maya; the Self is Brahman."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Brahman is the personal Lord Narayana, possessing infinite good qualities, with individual souls and matter as His real body; unity is that of an organism, not of identity."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Brahman is Vishnu, the only independent reality; souls and the world are real, dependent and forever distinct from Him."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "The absolute is Shiva as dynamic consciousness, inseparable from its own power (shakti); the world is its real self-expression rather than an illusion."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Sikh thought speaks of the one formless Creator (Ik Onkar), both transcendent and immanent, rather than using Brahman in a Vedantic sense; the comparison is drawn by scholars, not by the tradition itself."
+    }
+  ],
+  "texts": [
+    "chandogya-upanishad",
+    "brihadaranyaka-upanishad",
+    "taittiriya-upanishad",
+    "mundaka-upanishad",
+    "brahma-sutras",
+    "shankara-brahma-sutra-bhashya",
+    "sri-bhashya",
+    "bhagavad-gita"
+  ],
+  "traditions": [
+    "vedic",
+    "vedanta",
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "kashmir-shaivism"
+  ],
+  "relatedConcepts": [
+    "atma",
+    "ishvara",
+    "maya",
+    "non-duality",
+    "neti-neti",
+    "moksha"
+  ],
+  "questions": [
+    "reality",
+    "god",
+    "self"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "taittiriya-upanishad",
+      "note": "Presents Brahman through the layers of the person and describes it as the source of beings."
+    },
+    {
+      "kind": "text",
+      "id": "chandogya-upanishad",
+      "note": "Uddalaka's teaching to Shvetaketu identifies the subtle essence of all with the Self."
+    },
+    {
+      "kind": "gita",
+      "id": "13.12",
+      "note": "The Gita describes the supreme Brahman, beginningless, as the one thing to be known."
+    },
+    {
+      "kind": "text",
+      "id": "brahma-sutras",
+      "note": "The sutras systematise Upanishadic statements about Brahman; every Vedanta school comments on them."
+    },
+    {
+      "kind": "tradition",
+      "id": "advaita",
+      "note": "One reading: Brahman is attributeless and non-dual."
+    },
+    {
+      "kind": "tradition",
+      "id": "vishishtadvaita",
+      "note": "Another reading: Brahman is the personal Lord with the world as His body."
+    },
+    {
+      "kind": "tradition",
+      "id": "dvaita",
+      "note": "A third reading: Brahman as Vishnu, eternally distinct from souls and matter."
+    }
+  ],
+  "gitaVerses": [
+    "2.17",
+    "4.24",
+    "5.24",
+    "8.3",
+    "13.12",
+    "14.27"
+  ]
+}

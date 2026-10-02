@@ -1,0 +1,88 @@
+{
+  "id": "narada-bhakti-sutra",
+  "title": {
+    "en": "Narada Bhakti Sutra",
+    "sa": "नारदभक्तिसूत्र",
+    "iast": "Nāradabhaktisūtra"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "bhakti"
+  ],
+  "attribution": "Traditionally attributed to the sage Narada; actual author unknown",
+  "author": null,
+  "period": "Date uncertain; many scholars place it in the early or middle second millennium CE, after the Bhagavata Purana",
+  "language": "Sanskrit",
+  "difficulty": "beginner",
+  "themes": [
+    "Devotion",
+    "Love",
+    "Surrender",
+    "Company of the devout"
+  ],
+  "summary": "A short set of aphorisms (about 84) defining bhakti as supreme love for God and describing its signs and means.",
+  "whyRead": "It is the most accessible systematic account of devotion. In a few pages it defines bhakti, compares it with knowledge and action, and gives practical counsel.",
+  "questions": [
+    "What is bhakti, and how is it different from ordinary love?",
+    "Is devotion a means or an end?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Bhakti as supreme love",
+      "text": "The opening sutras define devotion as supreme love (parama-prema) for God, and describe it as the nature of immortality and fulfilment."
+    },
+    {
+      "title": "Devotion as its own end",
+      "text": "The text holds that bhakti is itself the fruit, not merely a means to something else, and ranks it above action, knowledge and yoga."
+    },
+    {
+      "title": "The gopis as exemplars",
+      "text": "The cowherd women of Vraja are named as models of devotion, since their love was total and self-forgetful."
+    },
+    {
+      "title": "Means: company and self-giving",
+      "text": "It recommends the company of the devout, giving up sense-attachment and bad company, and offering all actions to God."
+    }
+  ],
+  "structure": [
+    {
+      "label": "About 84 sutras",
+      "note": "Counts differ slightly between editions"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Narada Bhakti Sutra 2",
+      "about": "Bhakti defined as supreme love for God",
+      "gita": [
+        "9.26",
+        "12.6"
+      ]
+    }
+  ],
+  "concepts": [
+    "bhakti",
+    "prema",
+    "sharanagati",
+    "ishvara",
+    "vairagya"
+  ],
+  "relatedTexts": [
+    {
+      "id": "shandilya-bhakti-sutra",
+      "note": "The other classical sutra text on bhakti, more scholastic in tone"
+    },
+    {
+      "id": "bhagavata-purana",
+      "note": "The narrative source for much of its devotional ideal"
+    },
+    {
+      "id": "vivekananda-bhakti-yoga",
+      "note": "A modern exposition that draws on it"
+    }
+  ],
+  "thinkers": [],
+  "advanced": false,
+  "ingested": false
+}

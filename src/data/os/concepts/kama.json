@@ -1,0 +1,91 @@
+{
+  "id": "kama",
+  "name": {
+    "en": "Kama",
+    "sa": "काम",
+    "iast": "kāma"
+  },
+  "short": "Desire; also, as one of four aims of life, pleasure and love.",
+  "beginner": "Kama means desire. In everyday Indian thought it is a legitimate aim of life, pleasure and love; in spiritual teaching, uncontrolled desire is seen as a major source of restlessness.",
+  "what": "Kama has two faces. As one of the four aims of human life (purusharthas), alongside dharma, artha and moksha, it is enjoyment and love within ethical limits. As a spiritual problem, it is selfish craving that clouds judgment. The Gita names desire and anger, born of rajas, as the enemy, and says desire is never satisfied by feeding it. Buddhist thought analyses a parallel craving (tanha) as the origin of suffering.",
+  "scholar": "Gita 3.37–43 locates desire in senses, mind and intellect and advises mastering it by knowing what lies beyond them. Gita 7.11 also says Krishna is desire not opposed to dharma, preserving the legitimate sense. Kama-sutra literature treats kama as an aim with its own science. In Buddhism, kama-tanha (sensual craving) is one of three kinds of craving.",
+  "perspectives": [
+    {
+      "tradition": "itihasa-purana",
+      "view": "Desire within dharma is a legitimate human aim; the epics show how desire unbound by dharma leads to ruin."
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Selfish desire covers knowledge and binds; the Upanishads describe liberation as freedom from desires that lodge in the heart."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Craving (tanha), including sensual craving, is the origin of suffering named in the second noble truth."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Desire and attachment are afflictions; dispassion is cultivated to still them."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "brihadaranyaka-upanishad",
+    "dhammapada",
+    "mahabharata",
+    "sadhak-sanjivani"
+  ],
+  "traditions": [
+    "itihasa-purana",
+    "vedanta",
+    "buddhism",
+    "yoga"
+  ],
+  "relatedConcepts": [
+    "krodha",
+    "asakti",
+    "vairagya",
+    "guna",
+    "dukkha"
+  ],
+  "questions": [
+    "suffering",
+    "mind",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.62",
+      "note": "How dwelling on objects becomes desire."
+    },
+    {
+      "kind": "gita",
+      "id": "3.37",
+      "note": "Desire and anger, born of rajas, as the enemy."
+    },
+    {
+      "kind": "gita",
+      "id": "3.39",
+      "note": "Desire as an insatiable fire covering knowledge."
+    },
+    {
+      "kind": "gita",
+      "id": "2.55",
+      "note": "The steady one has let go of desires of the mind."
+    },
+    {
+      "kind": "concept",
+      "id": "dukkha",
+      "note": "Compare: craving as the origin of suffering in Buddhism."
+    }
+  ],
+  "gitaVerses": [
+    "2.55",
+    "2.62",
+    "2.71",
+    "3.37",
+    "3.39",
+    "3.43",
+    "16.21"
+  ]
+}

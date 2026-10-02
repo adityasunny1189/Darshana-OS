@@ -1,0 +1,52 @@
+{
+  "id": "vivekananda",
+  "name": {
+    "en": "Swami Vivekananda",
+    "sa": "स्वामी विवेकानन्द"
+  },
+  "traditions": [
+    "modern",
+    "advaita",
+    "vedanta"
+  ],
+  "period": "1863–1902 CE (modern).",
+  "context": "Swami Vivekananda, born Narendranath Datta in Kolkata, was a disciple of Ramakrishna. His addresses at the World's Parliament of Religions in Chicago in 1893 made him a prominent interpreter of Hindu thought abroad, and in 1897 he founded the Ramakrishna Mission. His lectures, published as Jnana Yoga, Karma Yoga, Bhakti Yoga and Raja Yoga, present Vedanta and Yoga for a modern, international audience. Scholars often describe his thought as a modern reinterpretation of Advaita that emphasises experience, social service and the harmony of religions; it should be read as a modern exposition rather than as classical Advaita.",
+  "coreIdeas": [
+    "Every soul is potentially divine, and the goal of life is to manifest that divinity",
+    "Four yogas (knowledge, action, devotion and meditation) as complementary paths to the same goal",
+    "Service to human beings as service to God, especially for the poor",
+    "The harmony of religions as different paths to one truth",
+    "A practical Vedanta that inspires strength, self-confidence and social reform"
+  ],
+  "works": [
+    "vivekananda-jnana-yoga",
+    "vivekananda-karma-yoga",
+    "vivekananda-bhakti-yoga",
+    "vivekananda-raja-yoga"
+  ],
+  "otherWorks": [
+    "Chicago addresses (1893)",
+    "Lectures from Colombo to Almora",
+    "Letters and other talks collected in the Complete Works"
+  ],
+  "attributionNote": "Most of his books are transcriptions of lectures, edited for publication.",
+  "influences": [
+    "shankara",
+    "patanjali"
+  ],
+  "relatedThinkers": [
+    "shankara",
+    "patanjali",
+    "ramana-maharshi"
+  ],
+  "concepts": [
+    "yoga",
+    "jnana",
+    "bhakti",
+    "karma",
+    "seva",
+    "atma",
+    "brahman",
+    "non-duality"
+  ]
+}

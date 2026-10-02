@@ -1,0 +1,84 @@
+{
+  "id": "yoga",
+  "name": {
+    "en": "Yoga (Patanjala)",
+    "sa": "योग",
+    "iast": "Yoga"
+  },
+  "family": "darshana",
+  "parent": null,
+  "tagline": "A discipline of mind for isolating pure consciousness, built on Sankhya metaphysics.",
+  "period": "The Yoga Sutras attributed to Patanjali are commonly dated by scholars between roughly the 2nd century BCE and the 5th century CE; many now favour the early centuries CE. Yogic practices themselves are older.",
+  "overview": "The Yoga darshana is the system of the Yoga Sutras, traditionally attributed to Patanjali, read with the commentary (Yoga Bhashya) traditionally attributed to Vyasa. It defines yoga as the stilling of the fluctuations (vrittis) of the mind-field (chitta), so that the seer, purusha, abides in its own nature. It largely shares Sankhya's metaphysics of purusha and prakriti, but adds Ishvara, a special purusha untouched by affliction and karma, as an object of devotion and support for practice. The path is set out as eight limbs (ashtanga): ethical restraints, observances, posture, breath regulation, withdrawal of the senses, concentration, meditation and absorption (samadhi). The goal is kaivalya, the isolation of consciousness from the movements of mind. \"Yoga\" in the wider sense — in the Gita, in Hatha Yoga, in Tantra and modern practice — overlaps with but is not identical to this system.",
+  "beginner": "Patanjali's Yoga is a method for calming the mind until its constant chatter stops. Then, it says, you see what you really are: pure awareness, separate from all the thoughts and feelings that pass through the mind.",
+  "coreQuestions": [
+    "What is the mind, and why is it restless?",
+    "How can the fluctuations of the mind be stilled?",
+    "What is the role of God in practice?",
+    "What are the stages of meditation and absorption?"
+  ],
+  "coreConcepts": [
+    "yoga",
+    "chitta",
+    "samadhi",
+    "dhyana",
+    "pranayama",
+    "purusha",
+    "prakriti",
+    "ishvara",
+    "vairagya",
+    "avidya",
+    "guna"
+  ],
+  "texts": [
+    "yoga-sutras",
+    "bhagavad-gita",
+    "hatha-yoga-pradipika",
+    "yoga-yajnavalkya"
+  ],
+  "thinkers": [
+    "patanjali",
+    "vyasa"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "sankhya",
+      "note": "Shares the purusha-prakriti metaphysics"
+    },
+    {
+      "id": "buddhism",
+      "note": "Scholars note significant overlap in vocabulary and meditative analysis with Buddhist sources"
+    },
+    {
+      "id": "tantra",
+      "note": "Hatha Yoga, which develops bodily and breath practices, grew largely within Tantric and Nath milieus"
+    },
+    {
+      "id": "modern",
+      "note": "Vivekananda's Raja Yoga is an influential modern exposition of the Yoga Sutras"
+    }
+  ],
+  "darshana": {
+    "problem": "How can the suffering that arises from the mind's entanglement with the world be ended by stilling the mind itself?",
+    "real": "Like Sankhya: many purushas and one prakriti with its evolutes; in addition, Ishvara, a special purusha forever free.",
+    "pramanas": "Three: perception, inference and testimony (agama).",
+    "self": "The Self is purusha, the seer: pure consciousness that only appears to be coloured by the mind's fluctuations.",
+    "bondage": "Five afflictions (kleshas): ignorance (avidya), I-am-ness (asmita), attraction, aversion and clinging to life, of which ignorance is the root; they drive karma and its fruits.",
+    "liberation": "Kaivalya: the seer abides in its own nature, isolated from the play of the gunas, when the mind's fluctuations have been fully stilled.",
+    "path": "Practice (abhyasa) and dispassion (vairagya); the eight limbs from ethical restraint to samadhi; and devotion to Ishvara (ishvara-pranidhana)."
+  },
+  "disagreements": [
+    {
+      "with": "sankhya",
+      "topic": "Ishvara and method",
+      "note": "Yoga adds Ishvara and places far greater emphasis on meditative practice than on discriminative knowledge alone."
+    },
+    {
+      "with": "advaita",
+      "topic": "plurality of selves",
+      "note": "Advaita accepts yogic disciplines as preparation but holds there is one Self and that knowledge, not stillness, liberates."
+    }
+  ],
+  "scholar": "The Yoga Sutras distinguish samprajnata (with support) and asamprajnata (without support) samadhi. Key commentaries include the Yoga Bhashya, Vachaspati Mishra's Tattvavaisharadi and Vijnanabhikshu's Yogavarttika. Whether the grammarian Patanjali and the author of the Yoga Sutras are the same is doubted by most scholars.",
+  "difficulty": "intermediate"
+}

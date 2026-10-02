@@ -1,0 +1,113 @@
+{
+  "id": "ishvara",
+  "name": {
+    "en": "Ishvara — God",
+    "sa": "ईश्वर",
+    "iast": "īśvara"
+  },
+  "short": "The Lord — God as ruler, creator and object of worship.",
+  "beginner": "Ishvara means 'the Lord': God understood as the one who governs the universe and responds to devotion. Some schools make Ishvara central, others give Ishvara a limited role, and some deny a creator altogether.",
+  "what": "Ishvara is the personal aspect of the divine — the controller of the world, the giver of the fruits of action and the one to whom devotion is directed. For Vishnu- and Shiva-centred traditions, Ishvara is the highest reality. In Advaita, Ishvara is Brahman as seen through maya — real at the empirical level. Yoga speaks of Ishvara as a special purusha untouched by affliction, and Nyaya argues for Ishvara as the world's intelligent cause, while Mimamsa, Jainism and Buddhism reject a creator God.",
+  "scholar": "Classical theistic arguments (e.g. Udayana's Nyayakusumanjali) infer Ishvara from the world as an effect; Mimamsakas and Buddhists rebut them. Ishvara-pranidhana (devotion or surrender to Ishvara) is one of Yoga's niyamas and an alternative route to samadhi in the Yoga Sutras. The Gita's term purushottama (supreme person) figures centrally in Vishishtadvaita and Dvaita readings.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Ishvara is Brahman associated with maya: the real creator and ruler within the world of experience, but not the final truth, which is attributeless Brahman."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Ishvara (Narayana) is Brahman itself: the supreme person, inner controller of all souls and matter, and the refuge who grants liberation."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Vishnu is the only fully independent being; everything else depends on Him, and liberation comes through His grace in response to devotion."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Ishvara is a special purusha never touched by afflictions or karma, the first teacher; devotion to Ishvara is one means to samadhi."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "Ishvara is an eternal self with eternal knowledge, inferred as the intelligent maker who arranges atoms and ensures karma bears fruit."
+    },
+    {
+      "tradition": "mimamsa",
+      "view": "The classical Mimamsakas did not need a creator God: the Veda is eternal and authorless, and ritual action produces its own results."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism denies a creator or ruler of the world; liberated souls (siddhas) are worshipped as ideals, not as agents who intervene."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "shvetashvatara-upanishad",
+    "yoga-sutras",
+    "sri-bhashya",
+    "nyaya-sutras",
+    "guru-granth-sahib"
+  ],
+  "traditions": [
+    "vedanta",
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "yoga",
+    "nyaya",
+    "mimamsa",
+    "jainism",
+    "bhakti"
+  ],
+  "relatedConcepts": [
+    "brahman",
+    "bhakti",
+    "sharanagati",
+    "anugraha",
+    "lila",
+    "prapatti"
+  ],
+  "questions": [
+    "god",
+    "bhakti"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "shvetashvatara-upanishad",
+      "note": "The most explicitly theistic of the principal Upanishads, speaking of a personal Lord."
+    },
+    {
+      "kind": "gita",
+      "id": "15.17",
+      "note": "The Gita names a supreme person beyond the perishable and the imperishable, who sustains the worlds."
+    },
+    {
+      "kind": "gita",
+      "id": "18.61",
+      "note": "The Lord dwells in the heart of all beings and moves them."
+    },
+    {
+      "kind": "tradition",
+      "id": "yoga",
+      "note": "A limited, distinctive role: Ishvara as a special purusha and object of devotion."
+    },
+    {
+      "kind": "tradition",
+      "id": "vishishtadvaita",
+      "note": "A full theism: Ishvara as Brahman, the inner controller of all."
+    },
+    {
+      "kind": "tradition",
+      "id": "mimamsa",
+      "note": "For contrast: an orthodox school that does without a creator God."
+    }
+  ],
+  "gitaVerses": [
+    "4.6",
+    "9.4",
+    "13.27",
+    "15.17",
+    "18.61",
+    "18.62"
+  ]
+}

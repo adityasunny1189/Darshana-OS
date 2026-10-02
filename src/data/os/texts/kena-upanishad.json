@@ -1,0 +1,98 @@
+{
+  "id": "kena-upanishad",
+  "title": {
+    "en": "Kena Upanishad",
+    "sa": "केनोपनिषद्",
+    "iast": "Kena Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta"
+  ],
+  "attribution": "Samaveda (Talavakara or Jaiminiya Upanishad Brahmana); author unknown",
+  "author": null,
+  "period": "Generally placed after the oldest prose Upanishads, perhaps mid-first millennium BCE; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "Consciousness",
+    "Knowledge",
+    "The unknowable",
+    "Humility"
+  ],
+  "summary": "Named from its first word, 'by whom?', it asks what directs the mind and senses, and answers that it is what cannot itself be made an object of knowledge.",
+  "whyRead": "Kena poses a question that still feels modern: what is it that knows, if it can never be seen as an object? Its second half tells a memorable story about the gods' pride. It is short and accessible.",
+  "story": "After a victory, the gods take credit for it themselves. A mysterious being (yaksha) appears; Agni cannot burn a blade of grass before it and Vayu cannot blow it away. When Indra approaches, it vanishes, and the goddess Uma Haimavati appears and tells him it was Brahman, through whose power the gods had won.",
+  "questions": [
+    "What makes the mind think and the eye see?",
+    "Can the knower be known?",
+    "Where does our power really come from?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The source behind mind and senses",
+      "text": "The opening verses ask by whom the mind, breath, speech, eye and ear are directed. The answer points to that which is the ear of the ear and mind of the mind, rather than any of the faculties themselves."
+    },
+    {
+      "title": "Not an object of knowledge",
+      "text": "Brahman is described as different from both the known and the unknown. It is not what one thinks of, but that by which thinking happens."
+    },
+    {
+      "title": "Knowing that one does not know",
+      "text": "The text says, paradoxically, that Brahman is understood by one who does not claim to grasp it as an object, and not understood by one who does."
+    },
+    {
+      "title": "The humbling of the gods",
+      "text": "The yaksha story teaches that the powers of nature and the senses (the gods) act only through Brahman's power, a lesson against pride."
+    }
+  ],
+  "structure": [
+    {
+      "label": "4 khandas (sections)",
+      "note": "First two in verse, last two in prose"
+    },
+    {
+      "label": "Khandas 3–4",
+      "note": "The story of the yaksha and Uma Haimavati"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "1.1",
+      "about": "The opening question: by whom is the mind directed?"
+    },
+    {
+      "ref": "2.3",
+      "about": "Brahman is known to the one for whom it is not an object of knowledge"
+    }
+  ],
+  "concepts": [
+    "brahman",
+    "atma",
+    "manas",
+    "jnana",
+    "sakshi"
+  ],
+  "relatedTexts": [
+    {
+      "id": "isha-upanishad",
+      "note": "Another short principal Upanishad, often studied alongside Kena"
+    },
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "Yajnavalkya's teaching that the seer of seeing cannot be seen is a close parallel"
+    },
+    {
+      "id": "chandogya-upanishad",
+      "note": "Also belongs to the Samaveda tradition"
+    }
+  ],
+  "thinkers": [
+    "shankara",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

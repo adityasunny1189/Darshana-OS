@@ -1,0 +1,94 @@
+{
+  "id": "ahankara",
+  "name": {
+    "en": "Ahankara — I-maker, ego",
+    "sa": "अहङ्कार",
+    "iast": "ahaṅkāra"
+  },
+  "short": "The 'I-maker' — the sense of being a separate doer and owner.",
+  "beginner": "Ahankara literally means 'I-maker'. It is the habit of saying 'I did this' and 'this is mine' about the body, mind and actions. Many Indian traditions see it as a key knot to untie.",
+  "what": "In Sankhya, ahankara evolves from buddhi and gives rise to mind, senses and the subtle elements; it individuates experience. The Gita counts ahankara among the eight parts of prakriti and warns that one deluded by it thinks 'I am the doer', while actions are really done by the gunas. Freedom from egoism and possessiveness (nirmama, nirahankara) is a recurring mark of the wise.",
+  "scholar": "Sankhya Karika 24–25 describes the sattvic and tamasic forms of ahankara and their products. In Advaita, ahankara is the 'I'-thought in which Self and not-self are knotted together (chit-jada-granthi). Ramana Maharshi's inquiry targets this 'I'-thought directly. Buddhist thought speaks similarly of the conceit 'I am' (asmimana).",
+  "perspectives": [
+    {
+      "tradition": "sankhya",
+      "view": "Ahankara is a material principle that produces the sense of 'I' and 'mine' and the further evolutes."
+    },
+    {
+      "tradition": "advaita",
+      "view": "The ego is the knot where pure consciousness is confused with the body-mind; inquiry into its source dissolves it."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "The conceit 'I am' is a subtle fetter; it is dismantled by insight into not-self."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Haumai (ego, self-centredness) is the root malady separating one from God; its cure is the Name and living by divine order."
+    }
+  ],
+  "texts": [
+    "sankhya-karika",
+    "bhagavad-gita",
+    "who-am-i",
+    "vivekachudamani",
+    "guru-granth-sahib"
+  ],
+  "traditions": [
+    "sankhya",
+    "advaita",
+    "buddhism",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "buddhi",
+    "manas",
+    "atma-vichara",
+    "anatta",
+    "asakti"
+  ],
+  "questions": [
+    "self",
+    "mind"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "7.4",
+      "note": "Ego listed among the eight parts of nature."
+    },
+    {
+      "kind": "gita",
+      "id": "3.27",
+      "note": "The one deluded by ego thinks 'I am the doer'."
+    },
+    {
+      "kind": "gita",
+      "id": "18.17",
+      "note": "One free of the sense of doership is not bound."
+    },
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "note": "Ahankara in the chain of evolution."
+    },
+    {
+      "kind": "text",
+      "id": "who-am-i",
+      "note": "Ramana Maharshi on tracing the 'I'-thought to its source."
+    },
+    {
+      "kind": "concept",
+      "id": "anatta",
+      "note": "The Buddhist critique of the self-sense."
+    }
+  ],
+  "gitaVerses": [
+    "2.71",
+    "3.27",
+    "7.4",
+    "9.34",
+    "13.21",
+    "18.17"
+  ]
+}

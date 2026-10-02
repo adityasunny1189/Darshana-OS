@@ -1,0 +1,45 @@
+{
+  "id": "jaimini",
+  "name": {
+    "en": "Jaimini",
+    "sa": "जैमिनि"
+  },
+  "traditions": [
+    "mimamsa"
+  ],
+  "period": "The Mimamsa Sutras are commonly placed in the last centuries BCE, though dates are uncertain.",
+  "context": "Jaimini is traditionally the author of the Mimamsa Sutras, the root text of Purva Mimamsa, the school devoted to interpreting the Vedic injunctions. Tradition makes him a disciple of Vyasa, which belongs to legend rather than history. The sutras were expounded by Shabara in his Bhashya, on which the later schools of Kumarila and Prabhakara built. The Brahma Sutras cite Jaimini's opinions on several points, reflecting close ties between the two Mimamsas.",
+  "coreIdeas": [
+    "The inquiry into dharma, which is known through Vedic injunction",
+    "The Veda is authorless (apaurusheya) and eternal, and therefore not subject to the errors of human authors",
+    "Rules of interpretation for Vedic sentences, ritual procedure and the relations among rites",
+    "Ritual action produces results through an unseen potency (later called apurva)"
+  ],
+  "works": [
+    "mimamsa-sutras"
+  ],
+  "influences": [
+    "vyasa"
+  ],
+  "influenced": [
+    "kumarila",
+    "prabhakara"
+  ],
+  "disagreements": [
+    {
+      "with": "buddhism",
+      "note": "Mimamsa defends the authority of the Veda against Buddhist and Jain critics, who rejected Vedic revelation and ritual sacrifice."
+    }
+  ],
+  "relatedThinkers": [
+    "kumarila",
+    "prabhakara",
+    "vyasa"
+  ],
+  "concepts": [
+    "dharma",
+    "karma",
+    "yajna",
+    "pramana"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "aparokshanubhuti",
+  "title": {
+    "en": "Aparokshanubhuti",
+    "sa": "अपरोक्षानुभूति",
+    "iast": "Aparokṣānubhūti"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita",
+    "vedanta",
+    "yoga"
+  ],
+  "attribution": "Traditionally attributed to Shankara; authorship debated by scholars",
+  "author": null,
+  "period": "Traditionally 8th century CE; date uncertain",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Direct experience",
+    "Self-inquiry",
+    "Meditation",
+    "Non-duality"
+  ],
+  "summary": "A verse manual on 'direct realisation' of the Self, known for recasting the limbs of yoga in terms of Vedantic knowledge.",
+  "whyRead": "The title means immediate, non-mediated experience. The work is notable for reinterpreting the familiar limbs of yoga, such as restraint, posture and breath control, as inner disciplines of knowledge rather than physical practices, showing how Advaita relates to Yoga.",
+  "questions": [
+    "What is direct experience of the Self?",
+    "How does Advaita reinterpret yoga?",
+    "What is the role of inquiry?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Inquiry as the means",
+      "text": "Knowledge of the Self arises through inquiry into who one is, not through other means."
+    },
+    {
+      "title": "Self and body distinguished",
+      "text": "Many verses contrast the Self, which is conscious and unchanging, with the body, which is inert and changing."
+    },
+    {
+      "title": "A fifteen-limbed yoga",
+      "text": "The text lists fifteen limbs of practice and reinterprets each; for example, breath regulation becomes the steady negation of the world and affirmation of Brahman."
+    }
+  ],
+  "structure": [
+    {
+      "label": "About 144 verses"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "atma-vichara",
+    "atma",
+    "brahman",
+    "non-duality",
+    "yoga",
+    "pranayama",
+    "dhyana",
+    "samadhi"
+  ],
+  "relatedTexts": [
+    {
+      "id": "yoga-sutras",
+      "note": "The classical eight-limbed yoga that it reinterprets"
+    },
+    {
+      "id": "atma-bodha",
+      "note": "Another short Advaita manual"
+    },
+    {
+      "id": "who-am-i",
+      "note": "Ramana Maharshi's modern teaching of self-inquiry covers similar ground"
+    }
+  ],
+  "thinkers": [
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

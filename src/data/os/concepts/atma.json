@@ -1,0 +1,118 @@
+{
+  "id": "atma",
+  "name": {
+    "en": "Atman — the Self",
+    "sa": "आत्मन्",
+    "iast": "ātman"
+  },
+  "short": "The innermost Self — what you are beneath body, mind and personality.",
+  "beginner": "Atman is the word for your deepest self: the one who is aware of your body, thoughts and feelings, but is not simply any of them. Many Indian traditions say that knowing this Self clearly is the key to freedom.",
+  "what": "In the Upanishads, atman names the conscious core of a person, distinct from the changing body and mind. Traditions agree it is the subject of experience but disagree about everything else: whether there is one Self or many, whether it is identical with Brahman (the ultimate reality), whether it acts or only witnesses, and whether it has qualities. Buddhist schools, by contrast, deny that any such permanent self can be found.",
+  "scholar": "The term moves from 'breath' or 'self' (reflexive pronoun) in Vedic usage to a metaphysical principle in the Brihadaranyaka and Chandogya Upanishads. Key debates: Advaita's identity of atman and Brahman versus Vishishtadvaita's body–soul (sharira–sharirin) relation and Dvaita's real difference; Nyaya-Vaisheshika's atman as a substance whose consciousness is an adventitious quality; Sankhya-Yoga's plurality of purushas; Jain jiva as intrinsically conscious and size-variable; Buddhist anatman critiques (e.g. the Pudgalavada controversy within Buddhism).",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "The Self is pure, non-dual consciousness, identical with Brahman. Individuality belongs to the adjuncts (upadhi) of body and mind, which are superimposed on it through ignorance."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Each self (jivatman) is real, eternal and distinct, yet exists as a mode of Brahman, who is its inner controller. The self is a knower whose knowledge expands fully in liberation."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Selves are eternally many and eternally distinct from God and from one another; each is a reflection-like dependent (pratibimba) of Vishnu with its own intrinsic nature."
+    },
+    {
+      "tradition": "sankhya",
+      "view": "What Upanishadic language calls the Self is here purusha: pure witnessing consciousness, inactive and plural, one per being, wholly separate from matter (prakriti)."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "The self is an eternal, all-pervading substance; consciousness, desire and effort are qualities it acquires when joined with a mind and body, and they cease in liberation."
+    },
+    {
+      "tradition": "jainism",
+      "view": "The soul (jiva) is inherently conscious, blissful and energetic, but its innate qualities are obscured by karmic matter clinging to it; each soul is distinct."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "The Buddhist schools reject a permanent self (anatman): what we call a person is a changing stream of physical and mental processes, and grasping at a self is a root of suffering."
+    }
+  ],
+  "texts": [
+    "katha-upanishad",
+    "brihadaranyaka-upanishad",
+    "chandogya-upanishad",
+    "mandukya-upanishad",
+    "bhagavad-gita",
+    "vivekachudamani",
+    "atma-bodha",
+    "who-am-i"
+  ],
+  "traditions": [
+    "vedic",
+    "vedanta",
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "sankhya",
+    "nyaya",
+    "jainism",
+    "buddhism"
+  ],
+  "relatedConcepts": [
+    "brahman",
+    "jiva",
+    "purusha",
+    "sakshi",
+    "anatta",
+    "atma-vichara",
+    "sharira"
+  ],
+  "questions": [
+    "self",
+    "death",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "katha-upanishad",
+      "note": "Nachiketa's questions to Death set out the Self as unborn and undying — one of the earliest sustained teachings."
+    },
+    {
+      "kind": "gita",
+      "id": "2.20",
+      "note": "The Gita restates the teaching: the Self is not born and does not die when the body dies."
+    },
+    {
+      "kind": "tradition",
+      "id": "advaita",
+      "note": "Advaita reads these texts as teaching the identity of the Self with Brahman."
+    },
+    {
+      "kind": "text",
+      "id": "vivekachudamani",
+      "note": "A classic Advaita manual (traditionally attributed to Shankara) on discriminating the Self from the not-self."
+    },
+    {
+      "kind": "thinker",
+      "id": "ramana-maharshi",
+      "note": "A modern teacher who made the direct question 'Who am I?' the central practice."
+    },
+    {
+      "kind": "concept",
+      "id": "anatta",
+      "note": "For contrast: the Buddhist teaching that no permanent self is to be found at all."
+    }
+  ],
+  "gitaVerses": [
+    "2.11",
+    "2.13",
+    "2.16",
+    "2.20",
+    "2.22",
+    "13.31",
+    "15.7"
+  ]
+}

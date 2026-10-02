@@ -1,0 +1,85 @@
+{
+  "id": "shiva-jnana-bodham",
+  "title": {
+    "en": "Shiva Jnana Bodham",
+    "sa": "शिवज्ञानबोधम्",
+    "iast": "Śivajñānabodham"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "shaiva-siddhanta",
+    "shaivism"
+  ],
+  "attribution": "Meykandar; tradition regards it as a Tamil rendering of twelve Sanskrit verses from the Raurava Agama, a claim scholars discuss",
+  "author": "meykandar",
+  "period": "13th century CE",
+  "language": "Tamil",
+  "difficulty": "advanced",
+  "themes": [
+    "God",
+    "Soul",
+    "Bondage",
+    "Grace",
+    "Liberation"
+  ],
+  "summary": "Twelve sutras that became the foundational philosophical text of Tamil Shaiva Siddhanta.",
+  "whyRead": "It sets out, in compact form, the Shaiva Siddhanta account of Lord (Pati), soul (Pashu) and bond (Pasha), a realist theism distinct from both Advaita and Vaishnava Vedanta.",
+  "questions": [
+    "What is the relation between God and the soul?",
+    "What binds the soul, and how does grace release it?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Pati, Pashu, Pasha",
+      "text": "Three realities are eternal: the Lord (Pati, Shiva), souls (Pashu) and the bonds (Pasha) that fetter them, chiefly anava (innate impurity), karma and maya."
+    },
+    {
+      "title": "Proof of the Lord",
+      "text": "The opening sutra argues that the world, being a product that appears, persists and dissolves, requires an intelligent agent."
+    },
+    {
+      "title": "Grace as the cause of release",
+      "text": "Liberation comes through Shiva's grace (arul), often through the guru, when the soul is ready. The soul does not become Shiva but comes to rest in union with him."
+    },
+    {
+      "title": "Inseparable yet distinct",
+      "text": "The relation of God and soul is described as advaita in a special sense: inseparable, but not identical."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Twelve sutras",
+      "note": "Traditionally grouped as proofs (1–6), means (7–9) and fruit (10–12)"
+    },
+    {
+      "label": "Commentary",
+      "note": "Meykandar's own brief explanatory notes and illustrations accompany the sutras"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "pati-pashu-pasha",
+    "shiva",
+    "anugraha",
+    "karma",
+    "maya",
+    "moksha",
+    "jiva"
+  ],
+  "relatedTexts": [
+    {
+      "id": "agamas",
+      "note": "The Shaiva Agamas it draws on"
+    },
+    {
+      "id": "shiva-sutras",
+      "note": "Kashmir Shaivism offers a more strictly non-dual Shaiva view"
+    }
+  ],
+  "thinkers": [
+    "meykandar"
+  ],
+  "advanced": false,
+  "ingested": false
+}

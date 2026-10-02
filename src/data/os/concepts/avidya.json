@@ -1,0 +1,95 @@
+{
+  "id": "avidya",
+  "name": {
+    "en": "Avidya — ignorance",
+    "sa": "अविद्या",
+    "iast": "avidyā"
+  },
+  "short": "Fundamental misunderstanding of oneself and reality — the root of bondage.",
+  "beginner": "Avidya is not lack of information but a basic mistake about who we are and what the world is — like taking the temporary for permanent, or the body for the self. Many traditions say it is the root of suffering.",
+  "what": "Avidya is named as the first cause of bondage across many Indian systems. Yoga defines it as taking the impermanent, impure, painful and not-self as permanent, pure, pleasant and self, and lists it as the root of all afflictions. In Advaita it is the beginningless ignorance that superimposes the not-self on the Self. In Buddhism it heads the twelve links of dependent origination. The Gita speaks of knowledge covered by ignorance and dispelled by knowledge like the sun.",
+  "scholar": "Advaita's theory of adhyasa (superimposition), set out in Shankara's introduction to his Brahma Sutra commentary, is the classic analysis. Post-Shankara debates concern avidya's locus and object. Buddhist avijja is non-knowledge of the four noble truths. Yoga Sutra 2.5 gives the fourfold definition noted above.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Ignorance is the superimposition of body, mind and world on the Self; only knowledge, not action, can remove it."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Avidya is the first and root affliction (klesha), mistaking the impermanent and not-self for the permanent and self."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Ignorance of the nature of suffering and its cause is the first link in the chain that keeps rebirth going."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Bondage is due to beginningless karma, which contracts the soul's knowledge; removal is by God's grace through devotion rather than by knowledge alone."
+    }
+  ],
+  "texts": [
+    "yoga-sutras",
+    "shankara-brahma-sutra-bhashya",
+    "vivekachudamani",
+    "bhagavad-gita",
+    "isha-upanishad"
+  ],
+  "traditions": [
+    "advaita",
+    "yoga",
+    "buddhism",
+    "vishishtadvaita"
+  ],
+  "relatedConcepts": [
+    "maya",
+    "jnana",
+    "viveka",
+    "ahankara",
+    "samsara",
+    "pratityasamutpada"
+  ],
+  "questions": [
+    "suffering",
+    "freedom",
+    "reality"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "isha-upanishad",
+      "note": "A short Upanishad that pairs and contrasts knowledge and ignorance."
+    },
+    {
+      "kind": "gita",
+      "id": "5.15",
+      "note": "Knowledge is covered by ignorance, and beings are deluded."
+    },
+    {
+      "kind": "gita",
+      "id": "5.16",
+      "note": "Knowledge dispels ignorance and reveals the supreme, like the sun."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "Avidya as the root of all afflictions."
+    },
+    {
+      "kind": "tradition",
+      "id": "advaita",
+      "note": "Ignorance as superimposition of the not-self on the Self."
+    },
+    {
+      "kind": "concept",
+      "id": "pratityasamutpada",
+      "note": "Ignorance as the first link in the Buddhist chain."
+    }
+  ],
+  "gitaVerses": [
+    "5.15",
+    "5.16",
+    "7.13",
+    "14.8",
+    "13.11"
+  ]
+}

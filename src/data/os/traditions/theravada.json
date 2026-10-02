@@ -1,0 +1,59 @@
+{
+  "id": "theravada",
+  "name": {
+    "en": "Theravada",
+    "sa": "स्थविरवाद",
+    "iast": "Theravāda"
+  },
+  "family": "buddhist-school",
+  "parent": "buddhism",
+  "tagline": "The \"teaching of the elders\", the Buddhist school of the Pali Canon.",
+  "period": "Theravada traces itself to the early Sthavira lineage; its Pali Canon was, by tradition, written down in Sri Lanka in the 1st century BCE, and its commentarial tradition was consolidated by Buddhaghosa around the 5th century CE.",
+  "overview": "Theravada is the Buddhist tradition preserved in Pali, today dominant in Sri Lanka, Myanmar, Thailand, Laos and Cambodia. It regards the Pali Canon (Tipitaka) as the authoritative record of the Buddha's teaching and emphasises the Four Noble Truths, the Eightfold Path and the three marks of existence: impermanence, unsatisfactoriness and not-self. Its Abhidhamma analyses experience into momentary mental and physical phenomena (dhammas) and their conditions. The ideal figure is the arahant, one who has fully realised nirvana, though Theravada also recognises the path of a future Buddha. Meditation is organised around calm (samatha) and insight (vipassana).",
+  "beginner": "Theravada is the oldest surviving school of Buddhism. It focuses on the Buddha's early teachings, careful ethical living and meditation that sees clearly how the mind and body work, leading to nirvana.",
+  "coreQuestions": [
+    "What did the Buddha teach in the earliest records?",
+    "How can experience be analysed into its elements?",
+    "What is the difference between calm and insight meditation?",
+    "Who is an arahant?"
+  ],
+  "coreConcepts": [
+    "dukkha",
+    "anatta",
+    "anitya",
+    "pratityasamutpada",
+    "nirvana",
+    "dhyana",
+    "samadhi",
+    "karma"
+  ],
+  "texts": [
+    "dhammapada"
+  ],
+  "thinkers": [
+    "buddha"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "buddhism",
+      "note": "One of the major branches of Buddhism"
+    },
+    {
+      "id": "madhyamaka",
+      "note": "A Mahayana school that critiques the idea that dhammas have intrinsic nature"
+    },
+    {
+      "id": "yoga",
+      "note": "Shares a vocabulary of meditative absorption (jhana / dhyana)"
+    }
+  ],
+  "disagreements": [
+    {
+      "with": "madhyamaka",
+      "topic": "status of the elements",
+      "note": "Abhidharma thinkers treat dhammas as ultimate constituents; Madhyamaka argues that they too are empty of intrinsic nature. (Whether Theravada Abhidhamma held a strong intrinsic-nature doctrine is debated.)"
+    }
+  ],
+  "scholar": "The Theravada Abhidhamma Pitaka comprises seven books; Buddhaghosa's Visuddhimagga is the classic synthesis of path and practice. Modern Theravada includes both forest traditions and the twentieth-century insight meditation movements.",
+  "difficulty": "intermediate"
+}

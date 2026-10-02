@@ -1,0 +1,66 @@
+{
+  "id": "anekantavada",
+  "name": {
+    "en": "Anekantavada",
+    "sa": "अनेकान्तवाद",
+    "iast": "anekāntavāda"
+  },
+  "short": "The Jain doctrine that reality is many-sided and no single viewpoint captures it fully.",
+  "beginner": "Anekantavada means 'the teaching of not-one-sidedness'. Jain thinkers hold that reality is complex, so every statement about it is true only from a certain angle, like people touching different parts of an elephant.",
+  "what": "Jain philosophy holds that each thing has countless aspects: a pot is permanent as clay and impermanent as a pot. Anekantavada is supported by two methods: nayavada (the theory of partial standpoints) and syadvada (qualifying every claim with 'in some respect'), often expressed in a sevenfold scheme of predication (saptabhangi). It is used to reconcile or critique rival schools, each of which is seen as absolutising one standpoint. Jains also connect it with ahimsa in thought: intellectual humility as non-violence toward other views.",
+  "scholar": "Classical formulations appear in Siddhasena Divakara, Samantabhadra and later Hemachandra; Umasvati's Tattvartha Sutra frames reality as having origination, decay and permanence. Critics such as Shankara (Brahma Sutra Bhashya 2.2.33) argued that contradictory predicates cannot belong to one thing. Modern writers sometimes present it as pluralism or tolerance; scholars note it is also a rigorous logic and a tool of polemic.",
+  "perspectives": [
+    {
+      "tradition": "jainism",
+      "view": "Reality has infinite aspects; every claim is valid only from a standpoint (naya), so statements should be qualified with 'in some respect' (syat)."
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Shankara and other Vedantins criticised the doctrine, arguing that one thing cannot have contradictory properties at the same time and that the view leaves nothing certain."
+    }
+  ],
+  "texts": [
+    "tattvartha-sutra",
+    "shankara-brahma-sutra-bhashya"
+  ],
+  "traditions": [
+    "jainism"
+  ],
+  "relatedConcepts": [
+    "ahimsa",
+    "pramana",
+    "tattva",
+    "jiva"
+  ],
+  "questions": [
+    "knowledge",
+    "reality"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "note": "The Jain view of a real, many-sided world."
+    },
+    {
+      "kind": "thinker",
+      "id": "mahavira",
+      "note": "The tradition's last tirthankara, to whom its teaching is traced."
+    },
+    {
+      "kind": "text",
+      "id": "tattvartha-sutra",
+      "note": "Umasvati's systematic compendium."
+    },
+    {
+      "kind": "concept",
+      "id": "ahimsa",
+      "note": "Many-sidedness as non-violence in thought."
+    },
+    {
+      "kind": "concept",
+      "id": "pramana",
+      "note": "Compare how other schools settle what counts as knowledge."
+    }
+  ]
+}

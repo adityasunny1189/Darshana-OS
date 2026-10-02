@@ -1,0 +1,83 @@
+{
+  "id": "mimamsa",
+  "name": {
+    "en": "Purva Mimamsa",
+    "sa": "पूर्व मीमांसा",
+    "iast": "Pūrva Mīmāṃsā"
+  },
+  "family": "darshana",
+  "parent": null,
+  "tagline": "The science of interpreting the Veda, centred on dharma as ritual duty.",
+  "period": "The Mimamsa Sutras, attributed to Jaimini, are generally dated to around the last centuries BCE; the major commentators Shabara (c. 5th century), Kumarila and Prabhakara (c. 7th century) shaped its two main schools.",
+  "overview": "Purva Mimamsa (\"prior inquiry\") is the school devoted to interpreting the Vedic injunctions and so to knowing dharma, understood as what the Veda enjoins. It holds that the Veda is eternal and authorless (apaurusheya), and therefore free of the defects of human authors; its injunctions are the only source for knowing dharma, which cannot be known by perception or inference. Mimamsa developed sophisticated principles of textual interpretation, language and meaning, used widely in Indian law and hermeneutics. Classical Mimamsa is realist and pluralist and generally denies a creator God. Its early aim was heaven (svarga) through ritual; later Mimamsakas also discuss liberation as release from rebirth.",
+  "beginner": "Mimamsa is about how to read the Vedas correctly and what they tell us to do. It holds that the Vedas are eternal, not written by anyone, and that performing the duties they prescribe is dharma.",
+  "coreQuestions": [
+    "What is dharma, and how can it be known?",
+    "How should a sacred text be interpreted?",
+    "Is language eternal?",
+    "How does an action performed now bring results later?"
+  ],
+  "coreConcepts": [
+    "dharma",
+    "yajna",
+    "karma",
+    "phala",
+    "pramana",
+    "shraddha",
+    "svadharma"
+  ],
+  "texts": [
+    "mimamsa-sutras"
+  ],
+  "thinkers": [
+    "jaimini",
+    "kumarila",
+    "prabhakara"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "vedic",
+      "note": "Systematises the ritual and injunctive portion of the Veda"
+    },
+    {
+      "id": "vedanta",
+      "note": "Vedanta (Uttara Mimamsa) applies Mimamsa methods to the Upanishads"
+    },
+    {
+      "id": "advaita",
+      "note": "Advaita adopts Kumarila's six pramanas"
+    },
+    {
+      "id": "nyaya",
+      "note": "Debated the authority of the Veda and the nature of knowledge"
+    }
+  ],
+  "darshana": {
+    "problem": "What is dharma, and how can one know with certainty what one ought to do, especially in ritual?",
+    "real": "A real, plural world; eternal selves; the eternal Veda and eternal word-meaning relations. No creator God is required.",
+    "pramanas": "Kumarila (Bhatta school) accepts six: perception, inference, comparison, testimony, postulation (arthapatti) and non-apprehension (anupalabdhi); Prabhakara accepts five, rejecting non-apprehension. Knowledge is intrinsically valid (svatah pramanya) unless defeated.",
+    "self": "The self is an eternal, real substance, the agent of ritual action and enjoyer of its fruits, distinct from the body; the schools differ on how it is known.",
+    "bondage": "Action motivated by desire, including prohibited actions, which binds the self to embodiment; in earlier Mimamsa the focus is on performing dharma rather than on bondage.",
+    "liberation": "Earlier, heaven (svarga) as the fruit of ritual; later Mimamsakas describe liberation as the cessation of embodiment through exhausting karma.",
+    "path": "Performance of obligatory and occasional duties enjoined by the Veda, avoidance of prohibited acts, and (for liberation) abstention from desire-motivated acts."
+  },
+  "disagreements": [
+    {
+      "with": "vedanta",
+      "topic": "the purpose of the Veda",
+      "note": "Mimamsa holds the Veda is fundamentally injunctive; Vedanta holds the Upanishads convey knowledge of an existing reality, Brahman."
+    },
+    {
+      "with": "nyaya",
+      "topic": "validity and authorship",
+      "note": "Mimamsa holds knowledge is intrinsically valid and the Veda authorless; Nyaya holds validity is established externally and the Veda is God-authored."
+    },
+    {
+      "with": "buddhism",
+      "topic": "scriptural authority",
+      "note": "Mimamsakas argued forcefully against Buddhist claims that the Buddha was omniscient."
+    }
+  ],
+  "scholar": "Apurva (the \"unprecedented\" potency produced by ritual) explains how an act yields results later. The Bhatta and Prabhakara schools differ on error, on the self's self-luminosity, and on whether words convey meaning in isolation or only in syntactic connection (abhihitanvaya vs anvitabhidhana).",
+  "difficulty": "advanced"
+}

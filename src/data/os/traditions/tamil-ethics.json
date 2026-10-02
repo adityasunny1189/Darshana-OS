@@ -1,0 +1,48 @@
+{
+  "id": "tamil-ethics",
+  "name": {
+    "en": "Tamil ethical literature",
+    "iast": "Tamiḻ aṟa ilakkiyam"
+  },
+  "family": "tamil",
+  "parent": null,
+  "tagline": "The ethical classics of Tamil literature, led by the Tirukkural.",
+  "period": "The Tirukkural, attributed to Tiruvalluvar, is dated by most scholars to somewhere between roughly the 1st century BCE and the 6th century CE; the wider group of eighteen minor ethical works belongs broadly to the post-Sangam period.",
+  "overview": "Tamil ethical literature (often grouped as the \"eighteen minor works\", Patinenkilkanakku) is a body of didactic poetry on virtue, statecraft and love. Its best-known work, the Tirukkural, is organised in three parts on virtue (aram), wealth and political life (porul) and love (inbam), corresponding broadly to the Sanskrit aims of dharma, artha and kama. It offers practical wisdom on non-violence, truthfulness, gratitude, self-control, hospitality, friendship and just rule in compact couplets. Because it avoids sectarian claims, it has been claimed by Jains, Shaivas, Vaishnavas and secular readers alike, and scholars debate its religious affiliation, with many noting Jain influence. It is valued as a universal ethical text.",
+  "beginner": "The Tirukkural is a famous Tamil book of short couplets about how to live well: being kind, truthful and grateful, ruling justly, and loving wisely. People of many religions treat it as a guide to life.",
+  "coreQuestions": [
+    "What makes a good life?",
+    "How should a ruler govern?",
+    "Can ethics be taught without a particular theology?",
+    "How do virtue, wealth and love fit together?"
+  ],
+  "coreConcepts": [
+    "dharma",
+    "ahimsa",
+    "karma",
+    "seva"
+  ],
+  "texts": [
+    "tirukkural"
+  ],
+  "thinkers": [
+    "tiruvalluvar"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "jainism",
+      "note": "Many scholars see Jain influence in the Tirukkural's ethics"
+    },
+    {
+      "id": "shaiva-siddhanta",
+      "note": "Tamil Shaiva tradition also claims and reveres the Tirukkural"
+    },
+    {
+      "id": "bhakti",
+      "note": "Shares the Tamil literary world of the Alvars and Nayanars"
+    }
+  ],
+  "disagreements": [],
+  "scholar": "The Tirukkural has 133 chapters of ten couplets each (1,330 kurals). Medieval commentaries, notably Parimelazhagar's, shaped its reception. Its relation to the Sanskrit purusharthas is debated: some see it as independent Tamil ethics, others as a parallel framework.",
+  "difficulty": "beginner"
+}

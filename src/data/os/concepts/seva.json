@@ -1,0 +1,90 @@
+{
+  "id": "seva",
+  "name": {
+    "en": "Seva",
+    "sa": "सेवा",
+    "iast": "sevā"
+  },
+  "short": "Selfless service offered without seeking reward.",
+  "beginner": "Seva is service done for others without wanting anything back, such as cooking for anyone who comes, caring for the sick or cleaning a shared space. In Sikh life it is a central spiritual practice.",
+  "what": "Seva means service. In Sikh thought it is one of the pillars of the path, practised in the community kitchen (langar), the gurdwara and society, and it is valued because it wears down ego (haumai). In the Gita the closest ideas are acting for the welfare of all beings and action as offering (yajna), without attachment to results. Bhakti traditions describe service to God, the guru and devotees as an expression of love.",
+  "scholar": "Sikh sources distinguish service of the body (tan), mind (man) and wealth (dhan). In Vaishnava bhakti, seva can mean ritual service of the deity image as well as service to devotees; in Ramanuja's lineage the soul's essential nature is described as being a servant (shesha) of God. Modern expositions, notably Vivekananda's, extended the idea to social service as worship.",
+  "perspectives": [
+    {
+      "tradition": "sikhism",
+      "view": "Selfless service within and beyond the community is a core discipline alongside remembering the Name and honest work; it dissolves ego and expresses equality."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Service to God, guru and fellow devotees is a natural outflow of love and a way of offering one's whole life."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "The soul's essential nature is to be a servant of God; service is fulfilment, not a burden."
+    },
+    {
+      "tradition": "modern",
+      "view": "Modern expositions such as Vivekananda's present service of people, especially the poor, as service of God."
+    }
+  ],
+  "texts": [
+    "guru-granth-sahib",
+    "bhagavad-gita",
+    "vivekananda-karma-yoga",
+    "ramcharitmanas"
+  ],
+  "traditions": [
+    "sikhism",
+    "bhakti",
+    "vishishtadvaita",
+    "modern"
+  ],
+  "relatedConcepts": [
+    "nishkama-karma",
+    "yajna",
+    "bhakti",
+    "ahankara",
+    "naam"
+  ],
+  "questions": [
+    "live",
+    "bhakti"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "3.20",
+      "note": "Acting for the good of the world."
+    },
+    {
+      "kind": "gita",
+      "id": "5.25",
+      "note": "Sages devoted to the welfare of all beings."
+    },
+    {
+      "kind": "concept",
+      "id": "nishkama-karma",
+      "note": "Service as action without selfish motive."
+    },
+    {
+      "kind": "tradition",
+      "id": "sikhism",
+      "note": "Where seva is a central pillar of practice."
+    },
+    {
+      "kind": "text",
+      "id": "guru-granth-sahib",
+      "note": "The Sikh scripture."
+    },
+    {
+      "kind": "thinker",
+      "id": "vivekananda",
+      "note": "A modern reading of service as worship."
+    }
+  ],
+  "gitaVerses": [
+    "3.20",
+    "5.25",
+    "12.4"
+  ]
+}

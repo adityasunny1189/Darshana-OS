@@ -1,0 +1,99 @@
+{
+  "id": "maya",
+  "name": {
+    "en": "Maya",
+    "sa": "माया",
+    "iast": "māyā"
+  },
+  "short": "The power of appearance — why the world seems other than it is.",
+  "beginner": "Maya is often translated 'illusion', but it more precisely means the power that makes things appear. Some schools say it hides the one reality; others say it is God's real creative power.",
+  "what": "In early texts maya means wondrous power or magic. The Shvetashvatara Upanishad calls prakriti maya and the Lord its wielder. In Advaita, maya is the beginningless power by which the one Brahman appears as many, neither real nor unreal (anirvachaniya). Theistic Vedantins accept maya as God's wondrous power but reject that the world is illusory. In the Gita, Krishna speaks of His divine maya made of the gunas, hard to cross except by taking refuge in Him.",
+  "scholar": "Advaita distinguishes the veiling (avarana) and projecting (vikshepa) powers of maya, and debates whether maya and avidya are the same, and whether ignorance resides in Brahman or the individual (Bhamati vs Vivarana schools). Ramanuja's 'seven untenabilities' (saptavidha anupapatti) attack the notion of an indescribable ignorance. Kashmir Shaivism treats maya as one of its thirty-six tattvas, a self-limiting power of Shiva.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Maya is the indescribable power by which Brahman appears as the world; the world is not nothing, but it is not ultimately real either."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Maya refers to the Lord's wondrous power and to real prakriti; the world is real, not an illusion."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "The world is real and eternally distinct from God; maya is God's will or power, not a principle of illusion."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Maya is Shiva's own power of self-limitation, by which universal consciousness appears as limited subjects and objects."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Maya denotes attachment to worldly things and wealth that distracts from the divine; the world itself is real as God's creation."
+    }
+  ],
+  "texts": [
+    "shvetashvatara-upanishad",
+    "bhagavad-gita",
+    "mandukya-karika",
+    "vivekachudamani",
+    "sri-bhashya",
+    "yoga-vasistha"
+  ],
+  "traditions": [
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "kashmir-shaivism",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "avidya",
+    "brahman",
+    "prakriti",
+    "guna",
+    "lila",
+    "non-duality"
+  ],
+  "questions": [
+    "reality",
+    "god"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "shvetashvatara-upanishad",
+      "note": "Prakriti called maya, the Lord its wielder."
+    },
+    {
+      "kind": "gita",
+      "id": "7.14",
+      "note": "The Lord's divine maya of the gunas, crossed by those who take refuge in Him."
+    },
+    {
+      "kind": "text",
+      "id": "mandukya-karika",
+      "note": "Gaudapada's radical non-origination: the world like a dream."
+    },
+    {
+      "kind": "tradition",
+      "id": "advaita",
+      "note": "Maya as indescribable appearance."
+    },
+    {
+      "kind": "tradition",
+      "id": "vishishtadvaita",
+      "note": "The objection: the world is real and God's power is real."
+    },
+    {
+      "kind": "tradition",
+      "id": "kashmir-shaivism",
+      "note": "Maya as consciousness's self-limitation."
+    }
+  ],
+  "gitaVerses": [
+    "4.6",
+    "7.14",
+    "7.25",
+    "18.61"
+  ]
+}

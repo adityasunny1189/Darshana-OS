@@ -1,0 +1,60 @@
+{
+  "id": "ramanuja",
+  "name": {
+    "en": "Ramanujacharya",
+    "sa": "रामानुजाचार्य"
+  },
+  "traditions": [
+    "vishishtadvaita",
+    "vedanta",
+    "bhakti"
+  ],
+  "period": "Traditionally 1017–1137 CE; the traditional lifespan of 120 years is often questioned and scholars treat the dates as approximate (11th–12th century CE).",
+  "context": "Ramanuja is the principal systematiser of Vishishtadvaita ('non-duality of the qualified') and a central teacher of the Sri Vaishnava tradition of South India, associated especially with Srirangam. He inherited the teaching of earlier Sri Vaishnava teachers such as Yamuna and the devotional heritage of the Tamil Alvar poets. Traditional biographies, written later, describe conflicts with a Chola king and a period of exile; details are hagiographical. His commentaries give Vedanta a thoroughly theistic and devotional reading.",
+  "coreIdeas": [
+    "Brahman is a personal God (identified with Vishnu-Narayana), possessing infinite auspicious qualities, not an attributeless reality",
+    "Souls (chit) and matter (achit) are real and form the 'body' of Brahman, who is their inner controller: the body–soul relation (sharira–shariri)",
+    "Non-duality means an inseparable unity of God with the world and souls, not bare identity",
+    "Liberation is attained through devotion (bhakti) and refuge (prapatti) with divine grace; the liberated soul enjoys God while remaining distinct",
+    "The world is real, not maya in the sense of illusion"
+  ],
+  "works": [
+    "sri-bhashya",
+    "ramanuja-gita-bhashya",
+    "vedartha-sangraha"
+  ],
+  "otherWorks": [
+    "Vedanta Sara",
+    "Vedanta Dipa",
+    "Gadya Traya (three prose hymns of refuge; attribution sometimes discussed)",
+    "Nitya Grantha"
+  ],
+  "attributionNote": "The Sri Bhashya, Gita Bhashya and Vedartha Sangraha are accepted as his. Some scholars have questioned whether the Gadya Traya is his.",
+  "influences": [
+    "vyasa"
+  ],
+  "disagreements": [
+    {
+      "with": "shankara",
+      "note": "Ramanuja devotes a long section of the Sri Bhashya to refuting Advaita: he argues that an attributeless Brahman cannot be known or taught, that the theory of maya is incoherent, and that ignorance cannot reside in Brahman."
+    },
+    {
+      "with": "madhva",
+      "note": "Madhva, writing later, agrees that the world and souls are real but rejects Ramanuja's model of the world as God's body, insisting instead on absolute and eternal difference between God, souls and matter."
+    }
+  ],
+  "relatedThinkers": [
+    "shankara",
+    "madhva"
+  ],
+  "concepts": [
+    "brahman",
+    "ishvara",
+    "jiva",
+    "bhakti",
+    "prapatti",
+    "sharanagati",
+    "anugraha",
+    "sharira"
+  ]
+}

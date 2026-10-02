@@ -1,0 +1,43 @@
+{
+  "id": "gautama-akshapada",
+  "name": {
+    "en": "Gautama (Akshapada)",
+    "sa": "अक्षपाद गौतम"
+  },
+  "traditions": [
+    "nyaya"
+  ],
+  "period": "The Nyaya Sutras are placed by scholars roughly between the 2nd century BCE and the 2nd century CE, and probably grew in layers.",
+  "context": "Gautama, also called Akshapada, is traditionally the author of the Nyaya Sutras, the root text of the Nyaya school of logic and epistemology. Almost nothing reliable is known about him, and legends about his name are late; he should be distinguished from Siddhartha Gautama, the Buddha. The sutras were expounded by Vatsyayana in the Nyaya Bhashya, and the school developed through centuries of debate with Buddhist logicians, culminating in the 'new Nyaya' (Navya-Nyaya) of Gangesha in the 14th century.",
+  "coreIdeas": [
+    "Liberation comes through correct knowledge of sixteen topics (padarthas) of reasoning and debate",
+    "Four means of valid knowledge (pramanas): perception, inference, comparison and reliable testimony",
+    "A five-membered form of inference for demonstrating conclusions to others",
+    "An enduring self (atman) is the substrate of cognition, desire and memory",
+    "Rules for debate and the identification of fallacies and faulty argument"
+  ],
+  "works": [
+    "nyaya-sutras"
+  ],
+  "attributionNote": "Attribution of the Nyaya Sutras to a single author is traditional; scholars see signs of layered composition.",
+  "disagreements": [
+    {
+      "with": "buddhism",
+      "note": "Nyaya thinkers argue that memory and recognition require an enduring self, against the Buddhist no-self and momentariness doctrines; commentators such as Vatsyayana and Uddyotakara debated Buddhist logicians like Dignaga, and the dispute continued for centuries."
+    },
+    {
+      "with": "nagarjuna",
+      "note": "Nagarjuna's Vigrahavyavartani questions how the pramanas themselves can be established, a challenge usually read as directed at Nyaya-style epistemology."
+    }
+  ],
+  "relatedThinkers": [
+    "kanada",
+    "nagarjuna"
+  ],
+  "concepts": [
+    "pramana",
+    "atma",
+    "moksha",
+    "jnana"
+  ]
+}

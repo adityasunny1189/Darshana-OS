@@ -1,0 +1,79 @@
+{
+  "id": "adhyatma-ramayana",
+  "title": {
+    "en": "Adhyatma Ramayana",
+    "sa": "अध्यात्मरामायण",
+    "iast": "Adhyātmarāmāyaṇa"
+  },
+  "category": "purana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "itihasa-purana",
+    "bhakti",
+    "advaita"
+  ],
+  "attribution": "Author unknown; traditionally regarded as part of the Brahmanda Purana, though this placement is doubted by scholars",
+  "author": null,
+  "period": "Commonly placed around the 14th–15th century CE; dates are approximate",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Devotion",
+    "Non-duality",
+    "Rama as the supreme",
+    "Knowledge"
+  ],
+  "summary": "A Sanskrit retelling of the Rama story in which Rama is the supreme Self and the narrative becomes a vehicle for Advaitic and devotional teaching.",
+  "whyRead": "It shows how the Ramayana was reread spiritually: the story is retold as a dialogue between Shiva and Parvati, and Rama's divinity is explicit throughout. It influenced later devotional retellings, including Tulsidas.",
+  "story": "Shiva narrates the story to Parvati. The events follow Valmiki's outline, but characters repeatedly recognise Rama as the supreme reality, and several episodes pause for philosophical instruction.",
+  "questions": [
+    "Can a story be read as a map of spiritual truth?",
+    "How can devotion and non-dual knowledge be combined?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Rama as Brahman",
+      "text": "Rama is presented as the supreme Brahman and Sita as his power, often identified with maya, with the narrative understood as divine play."
+    },
+    {
+      "title": "Devotion leading to knowledge",
+      "text": "The text joins bhakti to an Advaitic view: devotion to Rama purifies the mind and culminates in knowledge of the one Self."
+    },
+    {
+      "title": "Teaching sections",
+      "text": "Several passages are sustained teachings, including one in the Uttara Kanda commonly called the Rama Gita, in which Rama instructs Lakshmana in non-dual knowledge."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Seven books (kandas)",
+      "note": "Following the order of Valmiki's epic"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "bhakti",
+    "brahman",
+    "maya",
+    "jnana",
+    "lila",
+    "non-duality"
+  ],
+  "relatedTexts": [
+    {
+      "id": "valmiki-ramayana",
+      "note": "The Sanskrit epic whose narrative it follows"
+    },
+    {
+      "id": "ramcharitmanas",
+      "note": "Tulsidas drew on it among other sources"
+    },
+    {
+      "id": "yoga-vasistha",
+      "note": "Another Rama-centred text with a non-dual philosophy"
+    }
+  ],
+  "thinkers": [],
+  "advanced": false,
+  "ingested": false
+}

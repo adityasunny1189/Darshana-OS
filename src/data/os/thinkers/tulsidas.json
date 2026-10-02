@@ -1,0 +1,46 @@
+{
+  "id": "tulsidas",
+  "name": {
+    "en": "Tulsidas",
+    "sa": "तुलसीदास"
+  },
+  "traditions": [
+    "bhakti",
+    "itihasa-purana"
+  ],
+  "period": "c. 1532–1623 CE; his birth date is debated, with some traditions placing it earlier.",
+  "context": "Tulsidas was a poet-saint of North India devoted to Rama, who lived mostly in Varanasi and Ayodhya. His Ramcharitmanas, a retelling of the Rama story in the Awadhi language, became one of the most widely recited religious works in North India and remains central to popular devotion and performance such as the Ramlila. Much of the traditional biography is hagiographical. His retelling draws on the Valmiki Ramayana, the Adhyatma Ramayana and other sources, and presents Rama as the supreme God.",
+  "coreIdeas": [
+    "Devotion (bhakti) to Rama as the supreme God, accessible to all",
+    "The power of the divine Name, which the Ramcharitmanas praises as even greater than the form of God",
+    "Dharma and devotion united: Rama as the ideal of right conduct and as the object of love",
+    "Humility and surrender to God's grace",
+    "A harmonising outlook that honours Shiva and integrates non-dual and devotional vocabulary"
+  ],
+  "works": [
+    "ramcharitmanas"
+  ],
+  "otherWorks": [
+    "Vinaya Patrika",
+    "Kavitavali",
+    "Gitavali",
+    "Dohavali",
+    "Hanuman Chalisa (traditionally attributed; some scholars question the attribution)"
+  ],
+  "influences": [
+    "valmiki",
+    "vyasa"
+  ],
+  "relatedThinkers": [
+    "valmiki"
+  ],
+  "concepts": [
+    "bhakti",
+    "prema",
+    "sharanagati",
+    "lila",
+    "dharma",
+    "maya",
+    "anugraha"
+  ]
+}

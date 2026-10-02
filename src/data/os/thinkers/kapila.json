@@ -1,0 +1,40 @@
+{
+  "id": "kapila",
+  "name": {
+    "en": "Kapila",
+    "sa": "कपिल"
+  },
+  "traditions": [
+    "sankhya"
+  ],
+  "period": "Legendary figure; no historical dating is possible.",
+  "context": "Kapila is honoured as the founding sage of Sankhya, but he is a legendary rather than a historically documented figure. No work that can be securely ascribed to him survives. The Sankhya Karika names a line of teachers descending from Kapila through Asuri and Panchashikha. The Bhagavata Purana presents a Kapila, regarded as an incarnation of Vishnu, teaching a devotional form of Sankhya to his mother Devahuti, and the Bhagavad Gita names Kapila among perfected sages (10.26). Whether these references point to one figure is unclear.",
+  "coreIdeas": [
+    "In tradition, the first teacher of the distinction between consciousness (purusha) and nature (prakriti)",
+    "Liberation through discriminating knowledge of this distinction",
+    "Enumeration of the principles (tattvas) through which nature unfolds",
+    "In the Bhagavata Purana, Sankhya analysis joined with devotion to God"
+  ],
+  "works": [],
+  "otherWorks": [
+    "Sankhya Sutras (traditionally attributed; generally dated much later, around the 14th–15th century CE)",
+    "Tattva Samasa (traditionally attributed; date uncertain)",
+    "Teaching to Devahuti in the Bhagavata Purana, Canto 3 (a Puranic presentation)"
+  ],
+  "attributionNote": "Texts bearing Kapila's name are traditional attributions to a legendary founder and are much later than the origins of Sankhya.",
+  "influenced": [
+    "ishvarakrishna",
+    "patanjali"
+  ],
+  "relatedThinkers": [
+    "ishvarakrishna",
+    "patanjali"
+  ],
+  "concepts": [
+    "purusha",
+    "prakriti",
+    "guna",
+    "tattva",
+    "viveka"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "spanda",
+  "name": {
+    "en": "Spanda — the vibration of consciousness",
+    "sa": "स्पन्द",
+    "iast": "spanda"
+  },
+  "short": "Kashmir Shaivism's teaching that ultimate consciousness is dynamic — a subtle, creative pulsation.",
+  "beginner": "Spanda means a subtle throb or vibration. Kashmir Shaivism uses it to say that consciousness is not still and blank but alive, creative and always expressing itself as the world.",
+  "what": "Spanda is the dynamic aspect of the supreme consciousness in non-dual Kashmir Shaivism. Where some philosophies describe ultimate reality as pure, inactive awareness, the Spanda teaching holds that consciousness is also power (shakti), a vibration by which it manifests, sustains and withdraws the world while remaining itself. The practitioner is encouraged to notice this pulsation in moments of intense emotion, surprise, or the gap between thoughts.",
+  "scholar": "The Spanda Karikas are attributed either to Vasugupta or to his disciple Kallata; commentaries include those of Kshemaraja (Spanda Nirnaya). Spanda is often paired with the Pratyabhijna ('recognition') school of Utpaladeva and Abhinavagupta; both belong to the broader Trika tradition. Key terms include spanda-tattva, unmesha and nimesha (opening and closing), and vimarsha (self-reflective awareness), contrasted with a purely static prakasha (light).",
+  "perspectives": [
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Ultimate reality is Shiva as consciousness that is inseparable from its own power; spanda is that power's ceaseless creative pulsation, which the yogi learns to recognise within experience."
+    },
+    {
+      "tradition": "advaita",
+      "view": "From an Advaita viewpoint Brahman is changeless; Kashmir Shaiva authors present spanda partly as a response to such views, insisting that stillness and dynamism are not opposed in the Absolute."
+    }
+  ],
+  "texts": [
+    "shiva-sutras",
+    "vijnana-bhairava",
+    "pratyabhijna-hridayam"
+  ],
+  "traditions": [
+    "kashmir-shaivism",
+    "tantra"
+  ],
+  "relatedConcepts": [
+    "shakti",
+    "shiva",
+    "pratyabhijna",
+    "non-duality"
+  ],
+  "questions": [
+    "reality",
+    "mind"
+  ],
+  "follow": [
+    {
+      "kind": "concept",
+      "id": "shiva",
+      "note": "Start with Shiva as the principle of consciousness."
+    },
+    {
+      "kind": "concept",
+      "id": "shakti",
+      "note": "Spanda is the power of consciousness in action."
+    },
+    {
+      "kind": "thinker",
+      "id": "vasugupta",
+      "note": "Vasugupta, traditionally credited with the Shiva Sutras and associated with the Spanda teaching."
+    },
+    {
+      "kind": "text",
+      "id": "vijnana-bhairava",
+      "note": "Contemplative practices for noticing the pulse of awareness."
+    },
+    {
+      "kind": "thinker",
+      "id": "kshemaraja",
+      "note": "Kshemaraja's commentaries systematise the doctrine."
+    },
+    {
+      "kind": "concept",
+      "id": "pratyabhijna",
+      "note": "The sister teaching of recognition."
+    }
+  ]
+}

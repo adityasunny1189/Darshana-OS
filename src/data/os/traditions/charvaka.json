@@ -1,0 +1,70 @@
+{
+  "id": "charvaka",
+  "name": {
+    "en": "Charvaka / Lokayata",
+    "sa": "चार्वाक / लोकायत",
+    "iast": "Cārvāka / Lokāyata"
+  },
+  "family": "materialist",
+  "parent": null,
+  "tagline": "Indian materialism: only the perceptible world is real.",
+  "period": "Materialist views are mentioned in early Buddhist and Jain sources and in the epics; a Barhaspatya sutra text is known only from fragments quoted by opponents. Dating is uncertain.",
+  "overview": "Charvaka, also called Lokayata (\"worldly\"), is the name given to Indian materialism. Its own texts are almost entirely lost, and it is known mainly through the summaries and quotations of its critics, which may not always represent it fairly. As reported, it holds that perception is the only reliable means of knowledge, that only the four material elements exist, and that consciousness arises from their combination in the body, much as an intoxicating quality arises from fermented ingredients. It therefore denies an eternal soul, rebirth, karma as moral causation, God and the authority of the Veda, and regards the enjoyment of life and avoidance of pain as reasonable aims. Its critique of inference — that we can never be certain a general rule holds without exception — was taken seriously by other schools.",
+  "beginner": "Charvaka was the Indian school of materialism. It said we should trust only what we can perceive, that there is no soul beyond the body and no afterlife, and that a good life is a life of reasonable enjoyment.",
+  "coreQuestions": [
+    "Can we trust anything beyond perception?",
+    "Is consciousness a product of the body?",
+    "Is there life after death?",
+    "What is a reasonable aim for human life?"
+  ],
+  "coreConcepts": [
+    "pramana",
+    "sharira",
+    "kama",
+    "karma"
+  ],
+  "texts": [],
+  "thinkers": [],
+  "relatedTraditions": [
+    {
+      "id": "buddhism",
+      "note": "Early Buddhist texts report and reject materialist views"
+    },
+    {
+      "id": "nyaya",
+      "note": "Nyaya developed its account of inference partly in response to Charvaka scepticism"
+    },
+    {
+      "id": "vedic",
+      "note": "Charvaka rejects the authority of the Veda"
+    }
+  ],
+  "darshana": {
+    "problem": "How should we live, given that only this life and this world can be known?",
+    "real": "Only the four elements — earth, water, fire and air — and what is composed of them.",
+    "pramanas": "Perception alone, as usually reported. Some later Charvakas seem to have accepted inference about perceptible matters while rejecting inference to the imperceptible.",
+    "self": "There is no self apart from the living body; consciousness is a property that emerges from the combination of elements and ceases at death.",
+    "bondage": "There is no bondage in the metaphysical sense; suffering is simply part of life, to be minimised.",
+    "liberation": "Liberation in the traditional sense is denied; death is the end. The aim of life is well-being and pleasure balanced against pain.",
+    "path": "Not a path to liberation but prudent living: pursuit of wealth and pleasure, guided by experience."
+  },
+  "disagreements": [
+    {
+      "with": "nyaya",
+      "topic": "inference",
+      "note": "Charvaka argues that inference rests on unprovable universal relations; Nyaya defends inference as a valid pramana."
+    },
+    {
+      "with": "jainism",
+      "topic": "the soul",
+      "note": "Jain thinkers argue that consciousness cannot arise from non-conscious matter."
+    },
+    {
+      "with": "mimamsa",
+      "topic": "the Veda and ritual",
+      "note": "Charvaka mocks ritual and rejects Vedic authority."
+    }
+  ],
+  "scholar": "Much of what is known comes from later doxographies such as the Sarvadarshanasangraha, and from critiques in Nyaya, Buddhist and Jain works. Jayarashi's Tattvopaplavasimha, a thoroughgoing sceptical work, is sometimes associated with Lokayata. Scholars caution that the hedonistic caricature may reflect opponents' polemic.",
+  "difficulty": "intermediate"
+}

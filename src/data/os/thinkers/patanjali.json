@@ -1,0 +1,55 @@
+{
+  "id": "patanjali",
+  "name": {
+    "en": "Patanjali",
+    "sa": "पतञ्जलि"
+  },
+  "traditions": [
+    "yoga"
+  ],
+  "period": "The Yoga Sutras are placed by scholars anywhere between about the 2nd century BCE and the 5th century CE; many recent scholars favour a date around the 4th–5th century CE.",
+  "context": "Almost nothing is known of the person behind the Yoga Sutras. Tradition identifies the author with the grammarian Patanjali, who wrote the Mahabhashya (around the 2nd century BCE), and sometimes also with an author of a medical text, and presents him as an incarnation of the serpent Adishesha; most scholars treat these identifications as traditional rather than historical. The Yoga Sutras gather and systematise earlier practices of meditation into a concise work that became the root text of the Yoga darshana. Some scholars argue that the sutras and the earliest commentary (the Yoga Bhashya) were composed together as a single work.",
+  "coreIdeas": [
+    "Yoga is the stilling of the fluctuations (vrittis) of the mind-field (chitta)",
+    "Practice (abhyasa) and dispassion (vairagya) are the two pillars of the discipline",
+    "The eight limbs (ashtanga): ethical restraints and observances, posture, breath regulation, withdrawal of the senses, concentration, meditation and absorption (samadhi)",
+    "Suffering arises from the kleshas (afflictions), rooted in ignorance (avidya), which confuses the seer (purusha) with the seen",
+    "Liberation is kaivalya, the 'aloneness' or isolation of pure consciousness from prakriti; Ishvara is a special purusha and devotion to Ishvara is one means"
+  ],
+  "works": [
+    "yoga-sutras"
+  ],
+  "otherWorks": [
+    "Mahabhashya on Panini's grammar (by the grammarian Patanjali; identity with the Yoga Sutra author is traditional and doubted)"
+  ],
+  "attributionNote": "Whether the author of the Yoga Sutras is the same person as the grammarian Patanjali is debated; most scholars think not.",
+  "influences": [
+    "kapila"
+  ],
+  "influenced": [
+    "vivekananda"
+  ],
+  "disagreements": [
+    {
+      "with": "buddhism",
+      "note": "The Yoga Sutras share much vocabulary and practice with Buddhist meditation traditions, but affirm an enduring purusha and a special purusha, Ishvara, which Buddhist schools reject; some sutras are read by commentators as responding to Buddhist views of mind."
+    }
+  ],
+  "relatedThinkers": [
+    "kapila",
+    "ishvarakrishna",
+    "buddha"
+  ],
+  "concepts": [
+    "yoga",
+    "chitta",
+    "samadhi",
+    "dhyana",
+    "pranayama",
+    "vairagya",
+    "avidya",
+    "purusha",
+    "prakriti",
+    "ishvara"
+  ]
+}

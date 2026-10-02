@@ -1,0 +1,95 @@
+{
+  "id": "phala",
+  "name": {
+    "en": "Phala",
+    "sa": "फल",
+    "iast": "phala"
+  },
+  "short": "The fruit or result of action.",
+  "beginner": "Phala means fruit: the result an action produces. The Gita's famous advice is to act fully but not be attached to the results, because results depend on many factors beyond you.",
+  "what": "Every intentional action, in most Indian systems, bears fruit either visibly or later. Mimamsa focuses on the fruits of ritual action, such as heaven. The Gita teaches that one has a right to action but not to its fruits, and that attachment to fruits binds while relinquishing them frees. Sadhak Sanjivani emphasises that the fruit belongs to the world's order, not to the doer, so desire for it is where bondage lies.",
+  "scholar": "Mimamsa explains the delayed fruit of ritual through apurva, an unseen potency. Nyaya argues that Ishvara is needed to dispense the fruits of karma; Mimamsa and Sankhya do not require that. The Gita's term karma-phala-tyaga (relinquishing the fruit of action) is defined in 18.2 and discussed as the essence of tyaga. Buddhist texts speak of vipaka (ripening), determined chiefly by intention.",
+  "perspectives": [
+    {
+      "tradition": "mimamsa",
+      "view": "Prescribed rituals produce their fruit through an unseen potency (apurva), sometimes long after the act."
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Fruit-seeking action keeps one in the cycle; action done as offering, without desire for fruit, purifies the mind for knowledge or devotion."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "The just distribution of fruits to agents is one of the arguments for an intelligent Lord (Ishvara)."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Results (vipaka) ripen according to intention; skilful intentions bring pleasant results, but liberation is beyond both."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Fruits follow from karmic matter bound to the soul; they are experienced when that karma matures."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "mimamsa-sutras",
+    "nyaya-sutras",
+    "sadhak-sanjivani"
+  ],
+  "traditions": [
+    "mimamsa",
+    "vedanta",
+    "nyaya",
+    "buddhism",
+    "jainism"
+  ],
+  "relatedConcepts": [
+    "karma",
+    "nishkama-karma",
+    "tyaga",
+    "asakti",
+    "kama"
+  ],
+  "questions": [
+    "karma",
+    "failure",
+    "live"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.47",
+      "note": "Right to action, not to its fruits."
+    },
+    {
+      "kind": "gita",
+      "id": "5.12",
+      "note": "Abandoning attachment to fruits brings lasting peace."
+    },
+    {
+      "kind": "gita",
+      "id": "18.9",
+      "note": "Doing duty because it ought to be done, relinquishing fruit."
+    },
+    {
+      "kind": "tradition",
+      "id": "mimamsa",
+      "note": "Compare the ritual theory of fruit."
+    },
+    {
+      "kind": "concept",
+      "id": "karma",
+      "note": "The wider theory in which fruit belongs."
+    }
+  ],
+  "gitaVerses": [
+    "2.47",
+    "2.48",
+    "4.20",
+    "5.12",
+    "12.12",
+    "18.9",
+    "18.11"
+  ]
+}

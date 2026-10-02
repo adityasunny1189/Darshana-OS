@@ -1,0 +1,97 @@
+{
+  "id": "samadhi",
+  "name": {
+    "en": "Samadhi",
+    "sa": "समाधि",
+    "iast": "samādhi"
+  },
+  "short": "Complete absorption of the mind in its object, or beyond any object.",
+  "beginner": "Samadhi is the deepest state of meditation, where the mind becomes so absorbed that the usual sense of 'me watching something' falls away. Different traditions describe it differently and value it for different reasons.",
+  "what": "Samadhi (literally 'putting together' or 'settling') names a state of unified, one-pointed awareness. In Patanjali's Yoga it is the eighth limb and the culmination of concentration and meditation, divided into stages with and without a supporting object. Buddhist texts use the word for concentration generally and pair it with ethics and wisdom. Vedantic and devotional traditions accept absorption but often treat it as a means or a by-product rather than the final goal.",
+  "scholar": "Yoga Sutra distinguishes samprajnata (with cognitive content: vitarka, vicara, ananda, asmita) from asamprajnata samadhi, and sabija from nirbija. In Buddhist sources samadhi overlaps with the jhanas (dhyana) and is one of the three trainings (sila, samadhi, prajna); Theravada commentaries distinguish access (upacara) and absorption (appana) concentration. Advaita authors debate whether nirvikalpa samadhi is necessary for liberation or whether knowledge (jnana) alone suffices; Shankara's position is usually read as the latter.",
+  "perspectives": [
+    {
+      "tradition": "yoga",
+      "view": "The goal-state of Patanjali's eight limbs. Objectless (asamprajnata) samadhi is where the seer abides in its own nature, discriminated from the activity of the mind."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Concentration is one of the three trainings alongside ethics and wisdom. Absorption calms the mind, but insight into impermanence, unsatisfactoriness and not-self is what liberates."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Absorption can steady the mind for knowledge, but liberation is understood as knowledge of the Self as Brahman, which is not a temporary state that comes and goes. Later Advaita texts describe savikalpa and nirvikalpa samadhi as aids."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Many devotional teachers value loving remembrance over withdrawn absorption; absorption in God through love (bhava) is prized, while trance for its own sake is often de-emphasised."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Absorption (samavesha) into Shiva-consciousness is sought not only in withdrawal but also in the midst of activity, since the world is itself an expression of that consciousness."
+    }
+  ],
+  "texts": [
+    "yoga-sutras",
+    "bhagavad-gita",
+    "hatha-yoga-pradipika",
+    "vivekachudamani",
+    "dhammapada"
+  ],
+  "traditions": [
+    "yoga",
+    "buddhism",
+    "advaita",
+    "bhakti",
+    "kashmir-shaivism"
+  ],
+  "relatedConcepts": [
+    "dhyana",
+    "chitta",
+    "yoga",
+    "pranayama",
+    "sakshi"
+  ],
+  "questions": [
+    "mind",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.53",
+      "note": "The Gita speaks of an intellect that becomes unwavering and settled; commentators link this settledness to samadhi."
+    },
+    {
+      "kind": "gita",
+      "id": "6.20",
+      "note": "The mind, stilled by practice, rests content in the Self."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "Patanjali gives the classical map of stages of samadhi."
+    },
+    {
+      "kind": "concept",
+      "id": "dhyana",
+      "note": "Samadhi grows out of sustained meditation."
+    },
+    {
+      "kind": "text",
+      "id": "hatha-yoga-pradipika",
+      "note": "Hatha Yoga presents bodily and breath practice as preparation for absorption (raja yoga)."
+    },
+    {
+      "kind": "tradition",
+      "id": "buddhism",
+      "note": "Compare the Buddhist pairing of concentration with insight."
+    }
+  ],
+  "gitaVerses": [
+    "2.53",
+    "6.20",
+    "6.21",
+    "6.23"
+  ]
+}

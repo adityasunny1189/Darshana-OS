@@ -1,0 +1,118 @@
+{
+  "id": "mahabharata",
+  "title": {
+    "en": "Mahabharata",
+    "sa": "महाभारत",
+    "iast": "Mahābhārata"
+  },
+  "category": "itihasa",
+  "sourceType": "primary-text",
+  "traditions": [
+    "itihasa-purana",
+    "vedic",
+    "bhakti"
+  ],
+  "attribution": "Traditionally attributed to Vyasa, who is also a character in it; composed and expanded over centuries",
+  "author": "vyasa",
+  "period": "Scholars commonly place its main composition between roughly the 4th century BCE and the 4th century CE",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Dharma",
+    "War",
+    "Justice",
+    "Fate and free will",
+    "Kingship",
+    "Karma"
+  ],
+  "summary": "The vast Sanskrit epic of the conflict between the Pandavas and Kauravas, which contains the Bhagavad Gita and extended teachings on dharma.",
+  "whyRead": "It is one of the longest poems ever composed and a sustained inquiry into dharma when every choice is compromised. The Bhagavad Gita, the most read Indian philosophical text, is one small part of it. Only the Gita portion is available in this app so far.",
+  "story": "Two branches of the Kuru family, the five Pandava brothers and the hundred Kaurava brothers, contest the throne of Hastinapura. After a rigged game of dice, exile and failed peace talks, the conflict ends in an eighteen-day war at Kurukshetra that destroys almost everyone. The epic follows the survivors through grief, instruction and final renunciation.",
+  "questions": [
+    "What is right action when every option causes harm?",
+    "Are we free, or bound by fate and past karma?",
+    "What does a ruler owe to the people, and what is permitted in emergencies?",
+    "Can a war be just?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Dharma is subtle",
+      "text": "The epic repeatedly shows that dharma is hard to discern. Characters who seem virtuous act wrongly, and rules conflict. The idea that dharma is subtle (sukshma) runs through its debates."
+    },
+    {
+      "title": "Rajadharma and apaddharma",
+      "text": "In the Shanti Parva the dying Bhishma instructs Yudhishthira at length on the duties of a king (rajadharma), on conduct in times of emergency (apaddharma), and on liberation (mokshadharma)."
+    },
+    {
+      "title": "Fate, effort and karma",
+      "text": "Characters argue over whether outcomes are shaped by destiny (daiva), human effort (paurusha) or past karma. The epic gives no single answer and lets these views contend."
+    },
+    {
+      "title": "War and its cost",
+      "text": "The war is fought on the claim of justice, yet it is won by questionable means and ends in near-total ruin. Many readers see the epic as an extended reflection on the limits of violence and victory."
+    },
+    {
+      "title": "The Bhagavad Gita",
+      "text": "On the eve of battle Krishna teaches Arjuna the Bhagavad Gita, on action without attachment to results, knowledge of the Self and devotion. It is found in the Bhishma Parva."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Eighteen books (parvas)",
+      "note": "Plus the Harivamsha, an appendix on Krishna's life"
+    },
+    {
+      "label": "Length",
+      "note": "Traditionally counted at about 100,000 verses; the critical edition is considerably shorter"
+    },
+    {
+      "label": "Bhishma Parva",
+      "note": "Contains the Bhagavad Gita (chapters 23–40 in the critical edition)"
+    },
+    {
+      "label": "Other teaching sections",
+      "note": "Including the Yaksha questions in the Vana (Aranyaka) Parva, Vidura's counsel in the Udyoga Parva, and the Shanti and Anushasana Parvas"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Mahabharata, Bhishma Parva (Bhagavad Gita)",
+      "about": "Krishna's teaching to Arjuna before the war",
+      "gita": [
+        "1.1",
+        "2.31",
+        "2.47",
+        "11.32"
+      ]
+    }
+  ],
+  "concepts": [
+    "dharma",
+    "svadharma",
+    "karma",
+    "phala",
+    "ahimsa",
+    "moksha",
+    "nishkama-karma",
+    "bhakti"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavad-gita",
+      "note": "Part of the Bhishma Parva; the only portion ingested in this app"
+    },
+    {
+      "id": "valmiki-ramayana",
+      "note": "The other great Sanskrit epic"
+    },
+    {
+      "id": "bhagavata-purana",
+      "note": "Expands on Krishna's life outside the war narrative"
+    }
+  ],
+  "thinkers": [
+    "vyasa"
+  ],
+  "advanced": false,
+  "ingested": false
+}

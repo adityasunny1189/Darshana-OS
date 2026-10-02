@@ -1,0 +1,93 @@
+{
+  "id": "prapatti",
+  "name": {
+    "en": "Prapatti — refuge in God",
+    "sa": "प्रपत्ति",
+    "iast": "prapatti"
+  },
+  "short": "Taking refuge in God as the sole means, a central teaching of Sri Vaishnavism.",
+  "beginner": "Prapatti means taking refuge. It is the act of giving yourself completely into God's care, trusting that God, not your own effort, is what saves you.",
+  "what": "Prapatti is complete surrender to God as the means (upaya) of liberation. It is most fully developed in Sri Vaishnavism, the tradition of Ramanuja, where it is presented as an alternative to the demanding path of bhakti-yoga, open to all regardless of caste, gender or learning. Classical accounts list its components: resolving to act in accordance with God's will, giving up what is contrary to it, faith that God will protect, choosing God as protector, entrusting oneself, and a sense of one's own helplessness. The Gita's verse on abandoning all dharmas and taking refuge in Krishna (18.66) is its key scriptural basis.",
+  "scholar": "Ramanuja's Sharanagati Gadya is traditionally read as a performance of prapatti. After Vedanta Desika and Pillai Lokacharya, Sri Vaishnavism divided into Vadakalai and Tenkalai lineages, which differ over whether prapatti requires the soul's minimal effort (the 'monkey' analogy, the baby clinging to its mother) or depends wholly on God's grace (the 'cat' analogy, the kitten carried by its mother). The Tamil hymns of the Alvars are an important source.",
+  "perspectives": [
+    {
+      "tradition": "vishishtadvaita",
+      "view": "In Ramanuja's tradition, prapatti is a valid and complete means of liberation, grounded in the soul's nature as wholly dependent on and belonging to the Lord."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Across devotional traditions, refuge in God is the culmination of love; Tulsidas and other poets describe the Lord's promise to protect whoever seeks refuge."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Madhva's school stresses devotion grounded in knowledge of God's supremacy and the soul's dependence, with grace (prasada) as decisive for liberation."
+    },
+    {
+      "tradition": "shaiva-siddhanta",
+      "view": "Shaiva Siddhanta has a parallel emphasis on the soul's dependence on Shiva's grace, which descends when the soul is ripe."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "ramanuja-gita-bhashya",
+    "sri-bhashya",
+    "ramcharitmanas"
+  ],
+  "traditions": [
+    "vishishtadvaita",
+    "bhakti",
+    "dvaita",
+    "shaiva-siddhanta"
+  ],
+  "relatedConcepts": [
+    "sharanagati",
+    "anugraha",
+    "bhakti",
+    "ishvara",
+    "shraddha"
+  ],
+  "questions": [
+    "bhakti",
+    "god",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "7.14",
+      "note": "The divine maya is hard to cross, but those who take refuge in the Lord cross it."
+    },
+    {
+      "kind": "gita",
+      "id": "18.62",
+      "note": "Take refuge in Him with your whole being; by His grace, supreme peace."
+    },
+    {
+      "kind": "gita",
+      "id": "18.66",
+      "note": "The verse Sri Vaishnavas treat as the charter of prapatti."
+    },
+    {
+      "kind": "thinker",
+      "id": "ramanuja",
+      "note": "Ramanuja's theology of the soul's dependence on the Lord."
+    },
+    {
+      "kind": "tradition",
+      "id": "vishishtadvaita",
+      "note": "Later Sri Vaishnava debates over effort and grace."
+    },
+    {
+      "kind": "concept",
+      "id": "anugraha",
+      "note": "Compare the role of grace in Shaiva traditions."
+    }
+  ],
+  "gitaVerses": [
+    "7.14",
+    "18.62",
+    "18.65",
+    "18.66"
+  ]
+}

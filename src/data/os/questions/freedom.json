@@ -1,0 +1,123 @@
+{
+  "id": "freedom",
+  "q": "How do I become free?",
+  "motif": "mountain",
+  "quickAnswer": "Nearly all Indian traditions frame the highest goal as freedom — moksha, mukti, kaivalya or nirvana — from bondage to ignorance, craving or karma. They differ on what freedom is and how it comes: knowledge of the Self in Advaita, isolation of consciousness from nature in Sankhya-Yoga, the ending of craving in Buddhism, the shedding of karmic matter in Jainism, and loving union or service through grace in the bhakti schools. The Gita offers several paths — action, knowledge, meditation and devotion — and treats them as converging.",
+  "concepts": [
+    "moksha",
+    "nirvana",
+    "avidya",
+    "jnana",
+    "bhakti",
+    "nishkama-karma",
+    "vairagya"
+  ],
+  "traditions": [
+    "advaita",
+    "sankhya",
+    "yoga",
+    "buddhism",
+    "jainism",
+    "vishishtadvaita",
+    "kashmir-shaivism"
+  ],
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Advaita holds that freedom is not produced but recognised: one is already Brahman, and liberation is the removal of ignorance, possible even while living (jivanmukti).",
+      "sources": [
+        {
+          "text": "vivekachudamani"
+        }
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "view": "Patanjali describes the goal as kaivalya, the aloneness of pure consciousness when the mind's activity has ceased and it no longer mistakes itself for nature.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist schools describe nirvana as the extinguishing of craving, aversion and delusion, reached through the Noble Eightfold Path.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism teaches that liberation comes from right faith, right knowledge and right conduct, which stop and destroy karmic matter so the soul rises to its natural omniscience.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra",
+          "ref": "1.1"
+        }
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "In Ramanuja's view the liberated self retains its individuality and enjoys God eternally; freedom comes through devotion, surrender and grace.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        }
+      ]
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Kashmir Shaivism frames liberation as recognition (pratyabhijna) that one's own awareness is Shiva, a freedom that embraces the world rather than escaping it.",
+      "sources": [
+        {
+          "text": "pratyabhijna-hridayam"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "2.50",
+    "note": "Equanimity frees one in this very life; yoga is skill in action. Freedom begins inside everyday work."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "5.24",
+      "note": "The one whose happiness and light are within attains the peace of Brahman."
+    },
+    {
+      "kind": "gita",
+      "id": "18.66",
+      "note": "The final teaching: take refuge and do not grieve."
+    },
+    {
+      "kind": "concept",
+      "id": "moksha",
+      "note": "How different schools define liberation."
+    },
+    {
+      "kind": "concept",
+      "id": "nirvana",
+      "note": "The Buddhist understanding of release."
+    },
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "note": "Liberation as purification of the soul."
+    }
+  ],
+  "gitaQuestions": [
+    "leave-world",
+    "real-peace",
+    "worry-future"
+  ],
+  "related": [
+    "suffering",
+    "self",
+    "death"
+  ]
+}

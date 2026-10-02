@@ -1,0 +1,127 @@
+{
+  "id": "knowledge",
+  "topic": "How do we know? (valid means of knowledge)",
+  "concept": "pramana",
+  "intro": "Schools list different pramanas — valid means of knowledge — and this shapes what each can claim to know about the self, God and the world.",
+  "rows": [
+    {
+      "tradition": "charvaka",
+      "claim": "Perception alone is valid (as usually reported).",
+      "detail": "Inference cannot be trusted because we cannot establish that a general rule has no exceptions. Some later materialists may have allowed inference about perceptible matters.",
+      "sources": [],
+      "concepts": [
+        "pramana"
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "claim": "Two: perception and inference (Dignaga–Dharmakirti tradition).",
+      "detail": "Perception grasps unique momentary particulars; inference works with general concepts. Madhyamaka questions whether pramanas can be established independently.",
+      "sources": [
+        {
+          "text": "mulamadhyamakakarika"
+        }
+      ],
+      "concepts": [
+        "pramana"
+      ]
+    },
+    {
+      "tradition": "vaisheshika",
+      "claim": "Two: perception and inference; testimony is treated as inference.",
+      "detail": "Classical Vaisheshika reduces other means to inference; the later combined school adopted Nyaya's four.",
+      "sources": [
+        {
+          "text": "vaisheshika-sutras"
+        }
+      ],
+      "concepts": [
+        "pramana"
+      ]
+    },
+    {
+      "tradition": "sankhya",
+      "claim": "Three: perception, inference and reliable testimony.",
+      "detail": "Prakriti and purusha, being beyond perception, are established by inference; testimony covers the rest.",
+      "sources": [
+        {
+          "text": "sankhya-karika"
+        }
+      ],
+      "concepts": [
+        "pramana"
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "claim": "Three: perception, inference and testimony.",
+      "detail": "Yoga accepts Sankhya's three pramanas, listing valid knowledge as one of the fluctuations of mind to be stilled.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ],
+      "concepts": [
+        "pramana",
+        "chitta"
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "claim": "Direct and indirect knowledge, qualified by many-sided standpoints.",
+      "detail": "Knowledge is classified into five kinds, from sensory to omniscient. Anekantavada holds any claim is true only from a particular standpoint.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ],
+      "concepts": [
+        "anekantavada",
+        "pramana"
+      ]
+    },
+    {
+      "tradition": "nyaya",
+      "claim": "Four: perception, inference, comparison and testimony.",
+      "detail": "Nyaya gives a detailed theory of each, a five-membered inference, and holds that validity is confirmed by external checks.",
+      "sources": [
+        {
+          "text": "nyaya-sutras"
+        }
+      ],
+      "concepts": [
+        "pramana"
+      ]
+    },
+    {
+      "tradition": "mimamsa",
+      "claim": "Up to six; knowledge is intrinsically valid unless defeated.",
+      "detail": "Kumarila accepts six, adding postulation and non-apprehension; Prabhakara accepts five. Only the Veda reveals dharma.",
+      "sources": [
+        {
+          "text": "mimamsa-sutras"
+        }
+      ],
+      "concepts": [
+        "pramana",
+        "dharma"
+      ]
+    },
+    {
+      "tradition": "advaita",
+      "claim": "Six pramanas; scripture alone reveals Brahman.",
+      "detail": "Advaita largely follows Kumarila for the everyday world, but holds that Brahman, not being an object, is known only through the Upanishadic teaching.",
+      "sources": [
+        {
+          "text": "shankara-brahma-sutra-bhashya"
+        }
+      ],
+      "concepts": [
+        "pramana",
+        "brahman",
+        "jnana"
+      ]
+    }
+  ],
+  "note": "The debate is less about counting sources than about their limits: whether anything beyond perception can be known, whether reason can reach God or the Self, and whether scripture is a distinct and authoritative source."
+}

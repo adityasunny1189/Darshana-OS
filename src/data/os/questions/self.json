@@ -1,0 +1,129 @@
+{
+  "id": "self",
+  "q": "Who am I?",
+  "motif": "eye",
+  "quickAnswer": "Most Indian traditions agree that you are not simply the body or the stream of thoughts, but they disagree sharply about what remains. Upanishadic and Vedantic schools speak of an abiding Self (atman), which Advaita identifies with Brahman while Vishishtadvaita and Dvaita keep it distinct from God. Sankhya and Yoga describe pure consciousness (purusha) apart from nature, Jainism a conscious soul (jiva) obscured by karmic matter, and Buddhist schools deny any permanent self altogether, analysing the person as changing processes. The question is less about a definition than about what one discovers on close examination.",
+  "concepts": [
+    "atma",
+    "jiva",
+    "purusha",
+    "anatta",
+    "ahankara",
+    "sakshi",
+    "atma-vichara"
+  ],
+  "traditions": [
+    "vedic",
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "sankhya",
+    "jainism",
+    "buddhism"
+  ],
+  "perspectives": [
+    {
+      "tradition": "vedic",
+      "view": "The Upanishads repeatedly turn inward, describing a Self that is unborn, undying and the inner witness of seeing and hearing, and in several passages equating it with Brahman.",
+      "sources": [
+        {
+          "text": "katha-upanishad",
+          "ref": "1.2.18"
+        },
+        {
+          "text": "chandogya-upanishad",
+          "ref": "6.8.7"
+        }
+      ]
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita holds that the true Self is pure consciousness, identical with Brahman; the sense of being a separate, limited individual arises from ignorance (avidya) and dissolves in direct knowledge.",
+      "sources": [
+        {
+          "text": "vivekachudamani"
+        },
+        {
+          "text": "mandukya-karika"
+        }
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "In Ramanuja's view each self is real, eternal and conscious, yet exists as a part or 'mode' of God, related to Brahman as body to soul — one with God in dependence, never merged into sameness.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        }
+      ]
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Madhva holds that individual selves are eternally distinct from God and from one another; self-knowledge includes knowing one's dependence on Vishnu.",
+      "sources": [
+        {
+          "text": "madhva-brahma-sutra-bhashya"
+        }
+      ]
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Sankhya distinguishes the witnessing consciousness (purusha) from everything in nature, including mind, intellect and ego; liberation is recognising that one was never the changing personality.",
+      "sources": [
+        {
+          "text": "sankhya-karika"
+        }
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist schools teach anatta (no-self): nothing in body, feeling, perception, mental formations or consciousness is a permanent owner or core; clinging to a self is itself a root of suffering.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "2.13",
+    "note": "Krishna's first teaching: the body passes through childhood, youth and age, yet the one who experiences it continues. A simple observation to begin with."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "2.20",
+      "note": "The Self described as unborn and undying — closely paralleled in the Katha Upanishad."
+    },
+    {
+      "kind": "text",
+      "id": "katha-upanishad",
+      "note": "Nachiketa's dialogue with Death is one of the oldest sustained inquiries into the Self."
+    },
+    {
+      "kind": "concept",
+      "id": "atma-vichara",
+      "note": "Self-inquiry as a practice: tracing the sense of 'I' back to its source."
+    },
+    {
+      "kind": "text",
+      "id": "who-am-i",
+      "note": "Ramana Maharshi's short modern text on self-inquiry."
+    },
+    {
+      "kind": "concept",
+      "id": "anatta",
+      "note": "The Buddhist counter-analysis, essential for seeing what is at stake."
+    }
+  ],
+  "gitaQuestions": [
+    "who-am-i",
+    "body-soul"
+  ],
+  "related": [
+    "death",
+    "reality",
+    "freedom"
+  ]
+}

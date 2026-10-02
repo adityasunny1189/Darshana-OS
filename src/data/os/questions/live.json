@@ -1,0 +1,125 @@
+{
+  "id": "live",
+  "q": "How should I live?",
+  "motif": "tree",
+  "quickAnswer": "Indian traditions offer frameworks rather than a single rulebook. Many speak of the four aims of life (dharma, wealth, pleasure and liberation) balanced within right conduct; the Gita urges acting from one's own duty without selfish attachment; Jainism centres non-harm; Buddhism the Eightfold Path; Sikh thought honest work, sharing and remembrance of God; and the Tirukkural a practical ethics of virtue, wealth and love. They differ in emphasis, but most tie a good life to inner discipline and care for others.",
+  "concepts": [
+    "dharma",
+    "ahimsa",
+    "seva",
+    "svadharma",
+    "nishkama-karma",
+    "yajna",
+    "samatva"
+  ],
+  "traditions": [
+    "vedanta",
+    "jainism",
+    "buddhism",
+    "sikhism",
+    "tamil-ethics",
+    "itihasa-purana"
+  ],
+  "perspectives": [
+    {
+      "tradition": "vedanta",
+      "view": "The Gita, central to Vedantic ethics, asks one to act according to one's own duty as an offering, with equanimity and without selfish attachment.",
+      "sources": [
+        {
+          "text": "bhagavad-gita"
+        }
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism centres life on non-harm (ahimsa), truthfulness and non-possessiveness, with vows scaled for lay people and ascetics.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "view": "The Buddhist path combines ethical conduct, meditation and wisdom, with friendliness and compassion toward all beings.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Sikh teaching summarises the good life as honest work, sharing with others and remembrance of the Name, lived as a householder rather than in withdrawal.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ]
+    },
+    {
+      "tradition": "tamil-ethics",
+      "view": "The Tirukkural addresses virtue, wealth and love in practical terms, from friendship and hospitality to governance.",
+      "sources": [
+        {
+          "text": "tirukkural"
+        }
+      ]
+    },
+    {
+      "tradition": "itihasa-purana",
+      "view": "The epics teach largely through character and story: the Ramayana holds up ideals of conduct, while the Mahabharata dwells on hard moral choices.",
+      "sources": [
+        {
+          "text": "valmiki-ramayana"
+        },
+        {
+          "text": "mahabharata"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "3.19",
+    "note": "Therefore always do the work that should be done, without attachment."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "12.13",
+      "note": "Friendliness and compassion toward all beings."
+    },
+    {
+      "kind": "gita",
+      "id": "16.2",
+      "note": "Non-violence, truth, freedom from anger and compassion among divine qualities."
+    },
+    {
+      "kind": "gita",
+      "id": "3.21",
+      "note": "Others follow the example one sets."
+    },
+    {
+      "kind": "concept",
+      "id": "ahimsa",
+      "note": "Non-harm across Jain, Buddhist, Yoga and Gandhian thought."
+    },
+    {
+      "kind": "concept",
+      "id": "seva",
+      "note": "Selfless service in Sikh and other traditions."
+    }
+  ],
+  "gitaQuestions": [
+    "duty-dislike",
+    "leave-world",
+    "attachment-people",
+    "real-peace"
+  ],
+  "related": [
+    "dharma",
+    "karma",
+    "bhakti"
+  ]
+}

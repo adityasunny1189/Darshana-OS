@@ -1,0 +1,108 @@
+{
+  "id": "shankara-gita-bhashya",
+  "title": {
+    "en": "Gita Bhashya (Shankara)",
+    "sa": "गीताभाष्य",
+    "iast": "Gītā Bhāṣya"
+  },
+  "category": "bhashya",
+  "sourceType": "traditional-commentary",
+  "traditions": [
+    "advaita",
+    "vedanta"
+  ],
+  "attribution": "Adi Shankaracharya; generally accepted as authentic",
+  "author": "shankara",
+  "period": "Traditionally 8th century CE; scholars generally place Shankara in the 7th–8th centuries",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Knowledge",
+    "Renunciation",
+    "Action",
+    "Self"
+  ],
+  "summary": "The oldest surviving complete commentary on the Bhagavad Gita, reading it as teaching liberation through knowledge of the Self.",
+  "whyRead": "Shankara's commentary shaped how the Gita was read for centuries, and later commentators often define their positions against it. It is especially useful for seeing how Advaita handles the Gita's teaching on action.",
+  "questions": [
+    "Does the Gita teach action or renunciation?",
+    "Can knowledge and action be combined?",
+    "Who is the Self that the Gita describes?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The Gita's goal is knowledge",
+      "text": "Shankara holds that the Gita's ultimate teaching is liberation through knowledge of the Self as Brahman, preceded by renunciation."
+    },
+    {
+      "title": "Against combining knowledge and action",
+      "text": "He argues against the view that knowledge and ritual action must be combined for liberation (jnana-karma-samuccaya); action purifies the mind and prepares one for knowledge."
+    },
+    {
+      "title": "Karma yoga as preparation",
+      "text": "Action without attachment is valued as a discipline for those not yet ready for knowledge, purifying the mind."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Introduction",
+      "note": "Frames the Gita's teaching as twofold: action and withdrawal"
+    },
+    {
+      "label": "Verse-by-verse commentary, with longer discussions at key verses such as 2.10–11"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Introduction to 2.10–11",
+      "about": "Shankara's extended argument on knowledge and action",
+      "gita": [
+        "2.10",
+        "2.11"
+      ]
+    },
+    {
+      "ref": "On 18.66",
+      "about": "His reading of the call to take refuge",
+      "gita": [
+        "18.66"
+      ]
+    }
+  ],
+  "concepts": [
+    "jnana",
+    "sannyasa",
+    "karma",
+    "nishkama-karma",
+    "atma",
+    "brahman",
+    "avidya"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavad-gita",
+      "note": "The root text"
+    },
+    {
+      "id": "ramanuja-gita-bhashya",
+      "note": "Ramanuja's devotional alternative, which responds to Advaita readings"
+    },
+    {
+      "id": "gita-tatparya",
+      "note": "Madhva's Dvaita reading"
+    },
+    {
+      "id": "sadhak-sanjivani",
+      "note": "A modern practical commentary available in this app"
+    },
+    {
+      "id": "shankara-brahma-sutra-bhashya",
+      "note": "Shankara's main systematic work"
+    }
+  ],
+  "thinkers": [
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

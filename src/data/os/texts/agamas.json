@@ -1,0 +1,79 @@
+{
+  "id": "agamas",
+  "title": {
+    "en": "Shaiva Agamas",
+    "sa": "शैवागम",
+    "iast": "Śaivāgama"
+  },
+  "category": "agama-tantra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "shaivism",
+    "shaiva-siddhanta",
+    "tantra"
+  ],
+  "attribution": "A body of scriptures regarded by followers as revealed by Shiva; many authors over centuries",
+  "author": null,
+  "period": "The oldest surviving Shaiva scriptures are generally placed from about the 5th–7th centuries CE onward, with many later works",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Ritual",
+    "Temple",
+    "Initiation",
+    "Yoga",
+    "Theology"
+  ],
+  "summary": "The corpus of Shaiva scriptures that governs initiation, worship, temple construction, yoga and theology, especially for Shaiva Siddhanta.",
+  "whyRead": "The Agamas shaped temple religion in South India and the ritual and theological life of Shaivism. They show Tantra as a full religious system of doctrine, ritual and contemplation.",
+  "questions": [
+    "How do ritual, knowledge and meditation fit together?",
+    "What is initiation, and why does it matter?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Four subjects",
+      "text": "Agamas are traditionally organised around four subjects (padas): knowledge (vidya or jnana), ritual (kriya), yoga and conduct (charya)."
+    },
+    {
+      "title": "Initiation (diksha)",
+      "text": "Initiation by a qualified teacher is central. In Shaiva Siddhanta it is understood as an act of Shiva's grace that removes bonds and qualifies one for worship and liberation."
+    },
+    {
+      "title": "Temple and image",
+      "text": "Many Agamas give detailed rules for temple building, installing images and daily and festival worship, which still govern South Indian temple practice."
+    },
+    {
+      "title": "Theology of Pati, Pashu, Pasha",
+      "text": "The Siddhanta Agamas set out the three eternal realities of Lord, soul and bond, later systematised in Tamil by Meykandar."
+    }
+  ],
+  "structure": [
+    {
+      "label": "28 principal Shaiva Agamas in the Siddhanta tradition",
+      "note": "Traditionally divided into 10 Shaiva and 18 Raudra Agamas, with many subsidiary texts (upagamas)"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "shiva",
+    "pati-pashu-pasha",
+    "anugraha",
+    "yoga",
+    "yajna",
+    "shakti"
+  ],
+  "relatedTexts": [
+    {
+      "id": "shiva-jnana-bodham",
+      "note": "Tamil systematisation of Agamic theology"
+    },
+    {
+      "id": "kularnava-tantra",
+      "note": "A Kaula Tantra from a different stream of the tantric traditions"
+    }
+  ],
+  "thinkers": [],
+  "advanced": false,
+  "ingested": false
+}

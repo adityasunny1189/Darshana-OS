@@ -1,0 +1,55 @@
+{
+  "id": "buddha",
+  "name": {
+    "en": "Siddhartha Gautama, the Buddha",
+    "sa": "गौतम बुद्ध"
+  },
+  "traditions": [
+    "buddhism",
+    "theravada"
+  ],
+  "period": "Traditionally c. 563–483 BCE; many scholars now place his death around 400 BCE. Dates are debated.",
+  "context": "Siddhartha Gautama, of the Shakya clan in the foothills of present-day Nepal, is a historical figure, though the traditional life story contains legendary elements. According to tradition he renounced household life, practised severe asceticism, abandoned it for a middle way, attained awakening at Bodh Gaya, taught first at Sarnath and died at Kushinagar. He wrote nothing: his teachings were transmitted orally and later compiled in collections such as the Pali Nikayas and the Chinese Agamas. His followers developed many schools, so later Buddhist philosophy is plural rather than a single system.",
+  "coreIdeas": [
+    "The Four Noble Truths: suffering (dukkha), its arising from craving, its cessation, and the path to cessation",
+    "The Noble Eightfold Path of ethics, meditation and wisdom, a middle way between indulgence and self-mortification",
+    "Impermanence (anicca) and no-self (anatta): no permanent self is found in the body or mind",
+    "Dependent origination (pratityasamutpada): phenomena arise in dependence on conditions",
+    "Nirvana, the cessation of craving and of rebirth"
+  ],
+  "works": [
+    "dhammapada"
+  ],
+  "otherWorks": [
+    "Discourses (suttas) preserved in the Pali Nikayas and the Chinese Agamas, compiled after his death"
+  ],
+  "attributionNote": "The Buddha wrote nothing. Texts such as the Dhammapada are collections of teachings attributed to him and compiled by the early community.",
+  "influenced": [
+    "nagarjuna"
+  ],
+  "disagreements": [
+    {
+      "with": "vedic",
+      "note": "The Buddha rejected the authority of the Veda, the efficacy of animal sacrifice and the religious significance of birth-based status. How far early discourses target specific Upanishadic doctrines of the self is debated by scholars."
+    },
+    {
+      "with": "mahavira",
+      "note": "The Buddha and Mahavira were contemporaries who both taught renunciation and non-harm, but Jainism affirms real, eternal souls (jivas), while the Buddha taught no-self. Early Buddhist texts also criticise Jain views of karma and austerity."
+    }
+  ],
+  "relatedThinkers": [
+    "mahavira",
+    "nagarjuna"
+  ],
+  "concepts": [
+    "dukkha",
+    "anatta",
+    "anitya",
+    "pratityasamutpada",
+    "nirvana",
+    "karma",
+    "samsara",
+    "dhyana",
+    "ahimsa"
+  ]
+}

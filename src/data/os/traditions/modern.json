@@ -1,0 +1,65 @@
+{
+  "id": "modern",
+  "name": {
+    "en": "Modern expositions",
+    "sa": "आधुनिक",
+    "iast": "Ādhunika"
+  },
+  "family": "modern",
+  "parent": null,
+  "tagline": "Nineteenth- and twentieth-century teachers who re-presented classical ideas for modern audiences.",
+  "period": "Modern: roughly the late 19th century to the present. Vivekananda (1863–1902), Ramana Maharshi (1879–1950), Swami Ramsukhdas (c. 1904–2005).",
+  "overview": "This category gathers modern teachers and interpreters, clearly distinguished from the classical schools they draw on. Swami Vivekananda presented Vedanta, especially in an Advaita-inflected form, together with the four yogas of knowledge, action, devotion and meditation, to audiences in India and the West, and his interpretations shaped modern Hinduism and modern ideas of yoga. Ramana Maharshi taught self-inquiry (atma-vichara), the investigation of the source of the \"I\"-thought, in a direct, experiential idiom that has been read as consonant with Advaita. Swami Ramsukhdas, author of the Hindi Gita commentary Sadhak Sanjivani, is a modern commentator in a devotional Vedanta idiom, emphasising surrender, selfless action and the Gita as a practical guide for ordinary people. Modern expositions often combine sources, respond to colonial and scientific contexts, and emphasise practice and universality; their readings should not be taken as identical to those of the classical schools.",
+  "beginner": "These are modern teachers — Vivekananda, Ramana Maharshi, Swami Ramsukhdas — who explained old ideas in new, accessible ways. They are often the easiest place to start, but they are modern interpretations, not the classical schools themselves.",
+  "coreQuestions": [
+    "How do modern teachers reinterpret classical ideas?",
+    "What is self-inquiry?",
+    "How can the Gita guide everyday life?",
+    "What are the four yogas?"
+  ],
+  "coreConcepts": [
+    "atma-vichara",
+    "jnana",
+    "bhakti",
+    "yoga",
+    "nishkama-karma",
+    "sharanagati",
+    "non-duality",
+    "atma"
+  ],
+  "texts": [
+    "who-am-i",
+    "upadesa-saram",
+    "vivekananda-jnana-yoga",
+    "vivekananda-karma-yoga",
+    "vivekananda-bhakti-yoga",
+    "vivekananda-raja-yoga",
+    "sadhak-sanjivani"
+  ],
+  "thinkers": [
+    "vivekananda",
+    "ramana-maharshi",
+    "ramsukhdas"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "advaita",
+      "note": "Vivekananda and Ramana are widely read as modern voices of non-dual Vedanta"
+    },
+    {
+      "id": "yoga",
+      "note": "Vivekananda's Raja Yoga popularised the Yoga Sutras in the West"
+    },
+    {
+      "id": "bhakti",
+      "note": "Swami Ramsukhdas's commentary is strongly devotional"
+    },
+    {
+      "id": "vedanta",
+      "note": "Modern expositions mostly draw on Vedanta and the Gita"
+    }
+  ],
+  "disagreements": [],
+  "scholar": "Scholars discuss \"Neo-Vedanta\" as a label for Vivekananda's synthesis, including its emphasis on experience and on the harmony of religions, and debate how far it departs from classical Advaita. Ramana Maharshi's works are short and were partly compiled from questions put to him by devotees.",
+  "difficulty": "beginner"
+}

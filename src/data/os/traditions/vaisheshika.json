@@ -1,0 +1,72 @@
+{
+  "id": "vaisheshika",
+  "name": {
+    "en": "Vaisheshika",
+    "sa": "वैशेषिक",
+    "iast": "Vaiśeṣika"
+  },
+  "family": "darshana",
+  "parent": null,
+  "tagline": "A realist, atomist account of the categories of reality.",
+  "period": "The Vaisheshika Sutras, attributed to Kanada, are placed by scholars between roughly the last centuries BCE and the early centuries CE; Prashastapada's work (c. 5th–6th century) systematised the school.",
+  "overview": "Vaisheshika (\"pertaining to distinctions\") is a system of natural philosophy and ontology. It classifies everything that exists into categories (padarthas): substance, quality, action, universal, particularity and inherence, with absence added later. Physical things are composed of eternal, partless atoms of earth, water, fire and air, combined in stages; space, time, ether, minds and selves are further substances. Like Nyaya, it holds that selves are eternal substances and that liberation comes from true knowledge of the categories. The school merged with Nyaya, which supplied its epistemology, while Vaisheshika supplied the ontology.",
+  "beginner": "Vaisheshika tries to list every basic kind of thing that exists, and explains the physical world as built out of tiny, indivisible atoms. Knowing reality correctly, it says, is the way to freedom.",
+  "coreQuestions": [
+    "What kinds of things exist?",
+    "What are physical things made of?",
+    "How do wholes relate to their parts?",
+    "What is the self, and how is it different from matter?"
+  ],
+  "coreConcepts": [
+    "tattva",
+    "atma",
+    "dharma",
+    "moksha",
+    "pramana",
+    "karma"
+  ],
+  "texts": [
+    "vaisheshika-sutras",
+    "nyaya-sutras"
+  ],
+  "thinkers": [
+    "kanada"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "nyaya",
+      "note": "Merged with Nyaya as Nyaya-Vaisheshika"
+    },
+    {
+      "id": "jainism",
+      "note": "Jain philosophy also has an atomic theory of matter, developed differently"
+    },
+    {
+      "id": "buddhism",
+      "note": "Buddhist schools criticised Vaisheshika's enduring wholes and universals"
+    }
+  ],
+  "darshana": {
+    "problem": "What is the true structure of reality, knowledge of which leads to the highest good?",
+    "real": "The categories: substance (nine kinds, including atoms, space, time, selves and minds), quality, action, universal, particularity, inherence, and later absence.",
+    "pramanas": "Two: perception and inference; testimony and other means are treated as forms of inference. (Later syncretic Nyaya-Vaisheshika accepted Nyaya's four.)",
+    "self": "The self is an eternal, all-pervading substance, the substrate of qualities such as cognition, desire and effort, which arise through contact with a mind.",
+    "bondage": "Ignorance of the true nature of the categories, leading to desire, action and the accumulation of merit and demerit (adrishta) that binds the self to rebirth.",
+    "liberation": "The cessation of the self's specific qualities, including pain, so that it is no longer embodied.",
+    "path": "True knowledge of the categories, together with the practice of dharma, which the Sutras say leads to prosperity and the highest good."
+  },
+  "disagreements": [
+    {
+      "with": "sankhya",
+      "topic": "causation",
+      "note": "Vaisheshika holds that an effect is a new entity not pre-existing in its cause."
+    },
+    {
+      "with": "buddhism",
+      "topic": "wholes and universals",
+      "note": "Buddhist thinkers argue that only momentary particulars are real; Vaisheshika defends real wholes, universals and inherence."
+    }
+  ],
+  "scholar": "Adrishta (unseen force) explains phenomena such as the first motion of atoms and the working of merit and demerit. Early Vaisheshika may have been non-theistic; the role of God as efficient cause becomes explicit in later Nyaya-Vaisheshika.",
+  "difficulty": "advanced"
+}

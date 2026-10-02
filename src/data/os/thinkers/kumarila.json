@@ -1,0 +1,49 @@
+{
+  "id": "kumarila",
+  "name": {
+    "en": "Kumarila Bhatta",
+    "sa": "कुमारिल भट्ट"
+  },
+  "traditions": [
+    "mimamsa"
+  ],
+  "period": "Scholars generally place him in the 7th century CE.",
+  "context": "Kumarila Bhatta founded the Bhatta school of Purva Mimamsa through his subcommentaries on Shabara's Bhashya. He is a major figure in the history of Indian epistemology, famous for his defence of Vedic authority against Buddhist philosophers, especially the logician Dignaga. Later hagiographies relate that he studied among Buddhists in disguise, died by self-immolation and met Shankara; these stories are legendary.",
+  "coreIdeas": [
+    "Cognitions are intrinsically valid (svatah pramanya) unless defeated by contrary evidence",
+    "Six means of valid knowledge: perception, inference, comparison, testimony, presumption (arthapatti) and non-apprehension (anupalabdhi)",
+    "The Veda is authorless and needs no author to validate it; no person, including the Buddha, can know dharma directly",
+    "Word meanings are first grasped separately and then related into sentence meaning (abhihitanvaya)",
+    "Realism about the external world, defended against Buddhist idealism"
+  ],
+  "works": [],
+  "otherWorks": [
+    "Shlokavarttika",
+    "Tantravarttika",
+    "Tuptika"
+  ],
+  "influences": [
+    "jaimini"
+  ],
+  "disagreements": [
+    {
+      "with": "prabhakara",
+      "note": "The two founders of the main Mimamsa schools differ on the number of pramanas (Prabhakara does not accept non-apprehension), on how sentences convey meaning, and on the nature of error and of the self's awareness."
+    },
+    {
+      "with": "buddhism",
+      "note": "Kumarila argues against Buddhist doctrines of momentariness, no-self and idealism, and against the claim that the Buddha was omniscient, as part of his defence of Vedic authority."
+    }
+  ],
+  "relatedThinkers": [
+    "prabhakara",
+    "jaimini",
+    "shankara"
+  ],
+  "concepts": [
+    "dharma",
+    "pramana",
+    "karma",
+    "yajna"
+  ]
+}

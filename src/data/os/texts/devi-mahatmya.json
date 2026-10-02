@@ -1,0 +1,90 @@
+{
+  "id": "devi-mahatmya",
+  "title": {
+    "en": "Devi Mahatmya",
+    "sa": "देवीमाहात्म्य",
+    "iast": "Devīmāhātmya"
+  },
+  "category": "purana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "shaktism",
+    "itihasa-purana"
+  ],
+  "attribution": "Part of the Markandeya Purana; author unknown",
+  "author": null,
+  "period": "Commonly dated to around the 5th–7th centuries CE",
+  "language": "Sanskrit",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "The Goddess",
+    "Power",
+    "Protection",
+    "Devotion"
+  ],
+  "summary": "A Sanskrit hymn-narrative of 13 chapters, also called Durga Saptashati or Chandi, praising the Goddess as the supreme power who defeats the demons.",
+  "whyRead": "It is often described as the first text to present the Goddess as the supreme reality in a sustained way. It is recited widely, especially during Navaratri.",
+  "story": "A dispossessed king and a merchant betrayed by his family meet a sage, Medhas, and ask why they still feel attached. He answers by telling three stories of the Goddess defeating demons: Madhu and Kaitabha, Mahishasura, and Shumbha and Nishumbha.",
+  "questions": [
+    "Is the ultimate reality a Goddess?",
+    "Why does attachment persist even when we know better?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The Goddess as supreme",
+      "text": "The Devi is presented as the power (shakti) behind creation, preservation and dissolution, and as the source of the powers of the gods."
+    },
+    {
+      "title": "Both binding and liberating",
+      "text": "The Goddess is described both as the great illusion (mahamaya) that binds beings and as the one who grants liberation when pleased."
+    },
+    {
+      "title": "Protection of the world",
+      "text": "She manifests whenever the world is threatened, a promise echoing the Gita's theme of divine descent."
+    }
+  ],
+  "structure": [
+    {
+      "label": "13 chapters, about 700 verses",
+      "note": "Hence the name Saptashati (\"seven hundred\")"
+    },
+    {
+      "label": "Three episodes (charitas)",
+      "note": "Chapter 1; chapters 2–4; chapters 5–13"
+    },
+    {
+      "label": "Place in the Purana",
+      "note": "Markandeya Purana, commonly counted as chapters 81–93"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Devi Mahatmya, chapters 1–13",
+      "about": "The three episodes of the Goddess's victories",
+      "gita": [
+        "4.7",
+        "4.8"
+      ]
+    }
+  ],
+  "concepts": [
+    "shakti",
+    "maya",
+    "bhakti",
+    "moksha",
+    "lila"
+  ],
+  "relatedTexts": [
+    {
+      "id": "devi-bhagavata-purana",
+      "note": "A later, larger Shakta Purana"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "Its theme of divine protection parallels Gita 4.7–8"
+    }
+  ],
+  "thinkers": [],
+  "advanced": false,
+  "ingested": false
+}

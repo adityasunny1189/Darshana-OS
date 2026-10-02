@@ -1,0 +1,109 @@
+{
+  "id": "anugraha",
+  "name": {
+    "en": "Anugraha — grace",
+    "sa": "अनुग्रह",
+    "iast": "anugraha"
+  },
+  "short": "Divine grace — God's freely given favour that frees the soul.",
+  "beginner": "Anugraha means grace: help that comes from God, not something you earn. Many traditions say that liberation finally depends on grace, though they differ on how grace and human effort fit together.",
+  "what": "Anugraha (also prasada, kripa) is grace, the favour by which the divine reveals itself or frees the soul. In Shaiva traditions it is one of the five acts of Shiva, alongside creation, maintenance, dissolution and concealment. In Vaishnava theology grace is the Lord's response to devotion and surrender. The Gita speaks of attaining the eternal state and overcoming obstacles by the Lord's grace, and Arjuna says at the end that his delusion is gone through Krishna's grace. Traditions differ on whether grace is conditional on effort or wholly free.",
+  "scholar": "The five acts (panchakritya) are common to Shaiva Siddhanta and Kashmir Shaivism; Kashmir Shaivism correlates them with states of consciousness (Pratyabhijna Hridayam). Shaktipata, the 'descent of power', is the technical term for grace in Shaiva and Shakta initiation, graded by intensity. In Sri Vaishnavism, the relation of grace to effort divides the Vadakalai and Tenkalai lineages. Madhva's theology gives God's grace the decisive role in liberation. Sikh thought uses nadar or kirpa for divine grace.",
+  "perspectives": [
+    {
+      "tradition": "shaiva-siddhanta",
+      "view": "Grace is Shiva's act that, when the soul's bonds are ripe for removal, descends through the guru and initiation and frees the soul from its fetters."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Grace is the fifth of Shiva's acts, by which consciousness reveals itself; shaktipata awakens recognition of one's identity with Shiva."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "In Ramanuja's tradition, grace is the Lord's compassionate response to the soul's surrender; lineages differ on how much the soul contributes."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Madhva holds that liberation depends on God's grace, which is granted in response to knowledge and devotion."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "The Guru Granth Sahib repeatedly presents liberation and remembrance of the Name as gifts of divine grace (nadar)."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita speaks of the grace of God and guru as helping the seeker toward knowledge, while holding that liberation is the knowledge itself."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "pratyabhijna-hridayam",
+    "shiva-jnana-bodham",
+    "guru-granth-sahib"
+  ],
+  "traditions": [
+    "shaiva-siddhanta",
+    "kashmir-shaivism",
+    "vishishtadvaita",
+    "dvaita",
+    "sikhism",
+    "advaita"
+  ],
+  "relatedConcepts": [
+    "prapatti",
+    "sharanagati",
+    "bhakti",
+    "ishvara",
+    "pati-pashu-pasha"
+  ],
+  "questions": [
+    "god",
+    "bhakti",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "18.56",
+      "note": "By the Lord's grace the devotee reaches the eternal state."
+    },
+    {
+      "kind": "gita",
+      "id": "18.58",
+      "note": "With the mind fixed on the Lord, by grace one crosses all obstacles."
+    },
+    {
+      "kind": "gita",
+      "id": "18.73",
+      "note": "Arjuna's delusion is destroyed through grace."
+    },
+    {
+      "kind": "tradition",
+      "id": "vishishtadvaita",
+      "note": "Grace and surrender in Sri Vaishnavism."
+    },
+    {
+      "kind": "tradition",
+      "id": "shaiva-siddhanta",
+      "note": "Grace as one of Shiva's five acts, freeing the bound soul."
+    },
+    {
+      "kind": "text",
+      "id": "pratyabhijna-hridayam",
+      "note": "Kashmir Shaivism's account of the five acts and recognition."
+    },
+    {
+      "kind": "tradition",
+      "id": "sikhism",
+      "note": "Grace (nadar) in Sikh thought."
+    }
+  ],
+  "gitaVerses": [
+    "10.11",
+    "18.56",
+    "18.58",
+    "18.62",
+    "18.73"
+  ]
+}

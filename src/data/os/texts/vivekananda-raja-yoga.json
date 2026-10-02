@@ -1,0 +1,80 @@
+{
+  "id": "vivekananda-raja-yoga",
+  "title": {
+    "en": "Raja Yoga",
+    "sa": "राजयोग",
+    "iast": "Rājayoga"
+  },
+  "category": "modern-exposition",
+  "sourceType": "modern-exposition",
+  "traditions": [
+    "modern",
+    "yoga"
+  ],
+  "attribution": "Swami Vivekananda",
+  "author": "vivekananda",
+  "period": "Published in 1896, based on classes given in New York in 1895–1896",
+  "language": "English",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "Meditation",
+    "Mind",
+    "Concentration",
+    "Breath"
+  ],
+  "summary": "Vivekananda's influential presentation of Patanjali's yoga, with lectures on practice and his own rendering and commentary on the Yoga Sutras.",
+  "whyRead": "It was one of the books that introduced yoga to the West, and it shaped how meditation and yoga were understood for decades. Read it as a modern interpretation of the Yoga Sutras, with its own emphases on psychology and science.",
+  "questions": [
+    "How does concentration work?",
+    "Can meditation be studied like a science?",
+    "What is the relation between breath and mind?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Yoga as a science of mind",
+      "text": "Vivekananda presents raja yoga as an experimental method: its claims are to be tested by practice rather than accepted on faith."
+    },
+    {
+      "title": "The eight limbs",
+      "text": "He explains Patanjali's eight limbs, from ethics and posture to concentration, meditation and samadhi."
+    },
+    {
+      "title": "Prana and the subtle body",
+      "text": "He discusses prana and the subtle channels, blending Patanjali with hatha and tantric ideas, a blend characteristic of his interpretation."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Part 1: lectures on practice"
+    },
+    {
+      "label": "Part 2: the Yoga Sutras",
+      "note": "Vivekananda's rendering and commentary"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "yoga",
+    "chitta",
+    "pranayama",
+    "dhyana",
+    "samadhi",
+    "manas"
+  ],
+  "relatedTexts": [
+    {
+      "id": "yoga-sutras",
+      "note": "The classical text it interprets"
+    },
+    {
+      "id": "hatha-yoga-pradipika",
+      "note": "Source of some of the subtle-body ideas it draws on"
+    }
+  ],
+  "thinkers": [
+    "vivekananda",
+    "patanjali"
+  ],
+  "advanced": false,
+  "ingested": false
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pratyabhijna",
+  "name": {
+    "en": "Pratyabhijna — recognition",
+    "sa": "प्रत्यभिज्ञा",
+    "iast": "pratyabhijñā"
+  },
+  "short": "Recognising that one's own awareness is Shiva — liberation as re-cognition rather than new attainment.",
+  "beginner": "Pratyabhijna means recognition, like suddenly recognising a friend you had forgotten. Kashmir Shaivism says liberation is recognising that you already are Shiva — nothing new has to be made.",
+  "what": "Pratyabhijna is both a key idea and the name of a philosophical school within non-dual Kashmir Shaivism. It holds that the individual is Shiva, the universal consciousness, which has freely concealed itself by limiting its own powers; liberation is the recognition of this identity. Unlike Advaita's changeless Brahman, the Shiva of Pratyabhijna is dynamic and self-aware, and the world is a real expression of that consciousness rather than an illusion.",
+  "scholar": "The school was founded by Somananda (Shivadrishti) and systematised by Utpaladeva (Ishvara-pratyabhijna-karika) and Abhinavagupta, who wrote two commentaries on it. Kshemaraja's Pratyabhijna Hridayam is a concise primer. Central technical terms are prakasha (light of consciousness) and vimarsha (its reflexive self-awareness); the malas (limitations) and the thirty-six tattvas explain how Shiva appears as limited beings. The school argued extensively against Buddhist logicians.",
+  "perspectives": [
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "The self is Shiva; bondage is self-forgetting through Shiva's own power of concealment, and liberation is recognition, which can be sudden through grace or gradual through practice."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita shares the non-dual identity of self and absolute but treats the world as an appearance (vivarta) of changeless Brahman, whereas Pratyabhijna treats the world as the real self-expression of dynamic consciousness."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "The Pratyabhijna philosophers developed their position largely in debate with Buddhist logicians who denied a lasting self; the Buddhist side held that memory and recognition can be explained without one."
+    }
+  ],
+  "texts": [
+    "pratyabhijna-hridayam",
+    "shiva-sutras",
+    "vijnana-bhairava"
+  ],
+  "traditions": [
+    "kashmir-shaivism",
+    "advaita",
+    "buddhism"
+  ],
+  "relatedConcepts": [
+    "shiva",
+    "shakti",
+    "spanda",
+    "non-duality",
+    "anugraha",
+    "atma"
+  ],
+  "questions": [
+    "self",
+    "freedom",
+    "reality"
+  ],
+  "follow": [
+    {
+      "kind": "concept",
+      "id": "shiva",
+      "note": "Shiva as universal, self-aware consciousness."
+    },
+    {
+      "kind": "text",
+      "id": "shiva-sutras",
+      "note": "Its opening teaching identifies the self with consciousness."
+    },
+    {
+      "kind": "thinker",
+      "id": "abhinavagupta",
+      "note": "Abhinavagupta's systematic philosophy of recognition."
+    },
+    {
+      "kind": "text",
+      "id": "pratyabhijna-hridayam",
+      "note": "Kshemaraja's short introduction to the school."
+    },
+    {
+      "kind": "concept",
+      "id": "anugraha",
+      "note": "Grace as the trigger of recognition."
+    },
+    {
+      "kind": "tradition",
+      "id": "advaita",
+      "note": "Compare Advaita's non-dualism of a changeless Brahman."
+    }
+  ]
+}

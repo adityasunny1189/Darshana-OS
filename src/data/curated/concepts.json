@@ -1,0 +1,1322 @@
+[
+ {
+  "id": "atma",
+  "sa": "आत्मा",
+  "iast": "ātmā",
+  "en": "The Self",
+  "hi": "आत्मा (स्वयं)",
+  "short": {
+   "en": "The unchanging you, which lives in the body but is not the body.",
+   "hi": "वह न बदलनेवाला 'मैं', जो शरीरमें रहते हुए भी शरीर नहीं है।"
+  },
+  "what": {
+   "en": "Atma is what you really are: the one who knows the body, the mind and all their changes, while never changing itself. Sadhak Sanjivani often calls it 'svayam' (oneself) or 'sharīrī', the one who has a body.",
+   "hi": "आत्मा हमारा वास्तविक स्वरूप है — जो शरीर, मन और उनके सब परिवर्तनोंको जानता है, पर स्वयं कभी नहीं बदलता। साधक-संजीवनीमें इसे प्राय: 'स्वयं' या 'शरीरी' कहा गया है।"
+  },
+  "source": {
+   "en": "Swamiji explains that the Gita's teaching begins with the distinction between the body and the one who has the body (2.11). The body passes through childhood, youth and old age and then another body is taken, but the self stays the same through all of it (2.13, 2.22). It is never born and never dies, and it is not killed when the body is killed (2.20). He says our nature and the body's nature are completely different: we are not stuck to the body, so nothing of ours is lost when it goes (2.20). The self is an eternal part of God; it becomes a 'jiva' only by taking the body, senses and mind as its own (15.7). Even while it seems to dwell in the body, it neither acts nor is touched by action (13.31).",
+   "hi": "स्वामीजी बताते हैं कि गीताका उपदेश शरीर और शरीरीके भेदसे आरम्भ होता है (२।११)। शरीरमें बालकपन, जवानी और बुढ़ापा आता है, फिर दूसरा शरीर मिलता है, पर स्वयं इन सबमें वही रहता है (२।१३, २।२२)। यह न जन्मता है, न मरता है; शरीरके मारे जानेपर भी यह नहीं मरता (२।२०)। हमारा और शरीरका स्वभाव बिलकुल अलग है — हम शरीरसे चिपके हुए नहीं हैं, इसलिये शरीर न रहनेपर हमारा कुछ नहीं बिगड़ता (२।२०)। आत्मा परमात्माका सनातन अंश है; शरीर, इन्द्रियों और मनको अपना माननेसे ही वह 'जीव' बना है (१५।७)। शरीरमें रहता हुआ भी यह न करता है, न लिप्त होता है (१३।३१)।"
+  },
+  "quote": {
+   "hi": "हमारा (स्वयंका) और शरीरका स्वभाव बिलकुल अलग-अलग है। हम शरीरके साथ चिपके हुए नहीं हैं, शरीरसे मिले हुए नहीं हैं।",
+   "from": "2.20"
+  },
+  "verses": [
+   "2.11",
+   "2.13",
+   "2.16",
+   "2.20",
+   "2.22",
+   "13.31",
+   "15.7"
+  ],
+  "related": [
+   "sharira",
+   "viveka",
+   "purusha",
+   "jnana",
+   "ishvara"
+  ],
+  "chapters": [
+   2,
+   13,
+   15
+  ]
+ },
+ {
+  "id": "sharira",
+  "sa": "शरीर",
+  "iast": "śarīra",
+  "en": "The Body",
+  "hi": "शरीर",
+  "short": {
+   "en": "The ever-changing instrument — something you can call 'this', never truly 'I'.",
+   "hi": "निरन्तर बदलनेवाला साधन — जिसे 'यह' कहा जा सकता है, 'मैं' नहीं।"
+  },
+  "what": {
+   "en": "The body is the form through which we act in the world. Swamiji explains three bodies — gross, subtle and causal — and shows that all of them are things we observe, which means none of them is the observer.",
+   "hi": "शरीर वह रूप है जिसके द्वारा हम संसारमें काम करते हैं। स्वामीजी स्थूल, सूक्ष्म और कारण — तीनों शरीरोंका वर्णन करके बताते हैं कि ये सब देखनेमें आनेवाले हैं, इसलिये इनमेंसे कोई भी देखनेवाला नहीं है।"
+  },
+  "source": {
+   "en": "Swamiji points out that the body never stays the same: it did not exist before birth, will not exist after death, and even now it is dying every moment (2.13, 2.16). Just as we change old clothes without grieving, the embodied one leaves worn-out bodies and takes new ones (2.22). We call the body sometimes 'I' and sometimes 'mine', but in truth it is 'this' — an object, like every other thing in the world (13.1). The body is not even a limb of the self, because what keeps flowing and changing cannot be part of the unchanging (2.20). The gunas bind us only because we take the body as 'I' and 'mine' (14.5). The body, abilities and possessions we have are received and will be parted from, so they are not for ourselves but for the service of others (3.13).",
+   "hi": "स्वामीजी बताते हैं कि शरीर कभी एकरूप नहीं रहता — जन्मसे पहले नहीं था, मरनेके बाद नहीं रहेगा और अभी भी प्रतिक्षण मर रहा है (२।१३, २।१६)। जैसे पुराने कपड़े बदलनेपर शोक नहीं होता, ऐसे ही देही पुराने शरीर छोड़कर नये शरीर धारण करता है (२।२२)। मनुष्य शरीरको कभी 'मैं' और कभी 'मेरा' कहता है, पर वास्तवमें यह भी 'यह' (इदम्) ही है (१३।१)। शरीर स्वयंका अंग भी नहीं है; जो बहनेवाला और विकारी है, वह अविकारीका अंग नहीं हो सकता (२।२०)। 'मैं शरीर हूँ और शरीर मेरा है' — ऐसा माननेसे ही गुण हमें बाँधते हैं (१४।५)। शरीर, योग्यता, वस्तुएँ सब मिली हुई और बिछुड़नेवाली हैं, इसलिये अपने लिये नहीं, दूसरोंकी सेवाके लिये हैं (३।१३)।"
+  },
+  "quote": {
+   "hi": "शरीर कभी एकरूप रहता ही नहीं और सत्ता कभी अनेकरूप होती ही नहीं। शरीर जन्मसे पहले भी नहीं था, मरनेके बाद भी नहीं रहेगा तथा वर्तमानमें भी वह प्रतिक्षण मर रहा है।",
+   "from": "2.13"
+  },
+  "verses": [
+   "2.13",
+   "2.16",
+   "2.20",
+   "2.22",
+   "3.13",
+   "13.1",
+   "14.5"
+  ],
+  "related": [
+   "atma",
+   "prakriti",
+   "ahankara",
+   "viveka"
+  ],
+  "chapters": [
+   2,
+   3,
+   13,
+   14
+  ]
+ },
+ {
+  "id": "karma",
+  "sa": "कर्म",
+  "iast": "karma",
+  "en": "Action",
+  "hi": "कर्म",
+  "short": {
+   "en": "Every action — and the inner intent that decides whether it binds or frees.",
+   "hi": "हर क्रिया — और वह भीतरी भाव, जो तय करता है कि कर्म बाँधेगा या मुक्त करेगा।"
+  },
+  "what": {
+   "en": "Karma simply means action: everything done by body, speech and mind. The Gita's question is not whether we act — no one can stay without acting — but how, and for whom, we act.",
+   "hi": "कर्मका अर्थ है क्रिया — शरीर, वाणी और मनसे होनेवाला सब कुछ। गीताका प्रश्न यह नहीं कि कर्म करें या नहीं — कर्म किये बिना कोई रह ही नहीं सकता — प्रश्न यह है कि कैसे और किसके लिये कर्म करें।"
+  },
+  "source": {
+   "en": "Swamiji explains that no one can remain even for a moment without action, because as long as one identifies with prakriti its qualities make one act (3.5). Only the human birth is meant for doing new karma; animals, gods and beings in hell only experience the results of past karma (2.47). The same outward act becomes 'karma', 'akarma' or 'vikarma' according to the inner intent: done with desire it is karma; done without desire for fruit, 'mine' and attachment, purely for the good of others, it becomes akarma; done to harm someone it is vikarma (4.17). A person is not bound by action as such, but by action done for oneself (3.9). So giving up prescribed action is not the way out — action is better than inaction (3.8) — and it is to be done without attachment (3.19).",
+   "hi": "स्वामीजी बताते हैं कि प्रकृतिसे सम्बन्ध माननेवाला कोई भी मनुष्य क्षणमात्र भी कर्म किये बिना नहीं रह सकता (३।५)। नया कर्म करनेका अधिकार केवल मनुष्यको है; पशु-पक्षी, देवता और नारकीय जीव पुराने कर्मोंका फल भोगते हैं (२।४७)। एक ही क्रिया भावके अनुसार तीन तरहकी हो जाती है — सकामभावसे की गयी 'कर्म', फलेच्छा, ममता और आसक्तिसे रहित होकर केवल दूसरोंके हितके लिये की गयी 'अकर्म', और दूसरेका अहित करनेके भावसे की गयी 'विकर्म' (४।१७)। मनुष्य कर्म करनेसे नहीं, अपने लिये कर्म करनेसे बँधता है (३।९)। इसलिये कर्म छोड़ना उपाय नहीं है — कर्म न करनेसे कर्म करना श्रेष्ठ है (३।८), और उसे आसक्तिरहित होकर करना है (३।१९)।"
+  },
+  "quote": {
+   "hi": "सकामभावसे की गयी शास्त्रविहित क्रिया ‘कर्म’ बन जाती है। फलेच्छा, ममता और आसक्तिसे रहित होकर केवल दूसरोंके हितके लिये किया गया कर्म ‘अकर्म’ बन जाता है।",
+   "from": "4.17"
+  },
+  "verses": [
+   "2.47",
+   "3.5",
+   "3.8",
+   "3.9",
+   "3.19",
+   "4.17",
+   "4.18"
+  ],
+  "related": [
+   "phala",
+   "nishkama-karma",
+   "yajna",
+   "asakti",
+   "svadharma"
+  ],
+  "chapters": [
+   2,
+   3,
+   4
+  ]
+ },
+ {
+  "id": "phala",
+  "sa": "फल",
+  "iast": "phala",
+  "en": "Fruit of Action",
+  "hi": "कर्मफल",
+  "short": {
+   "en": "The result belongs to prarabdha; your part is the action.",
+   "hi": "फल प्रारब्धके अधीन है; आपका हिस्सा केवल कर्म है।"
+  },
+  "what": {
+   "en": "Phala is the result that comes from an action — success or failure, gain or loss, praise or blame. The Gita teaches that the result is not in our hands, and that it is the desire for it, not the result itself, that binds.",
+   "hi": "फल वह परिणाम है जो कर्मसे आता है — सफलता-असफलता, लाभ-हानि, प्रशंसा-निन्दा। गीता बताती है कि फल हमारे हाथमें नहीं है, और बाँधता फल नहीं, फलकी इच्छा है।"
+  },
+  "source": {
+   "en": "Swamiji describes two separate departments: action and result. Action is fresh effort and is in our hands; the result is the working out of past actions and is under prarabdha, so our right is only to the action (2.47). It is not the fruit that binds but attachment to it — 'phale sakto nibadhyate' (5.12). Renouncing the fruit really means renouncing the desire for it, because the fruit itself cannot be renounced — the body itself is a fruit of karma (18.11). Even wanting liberation as a result of one's practice is a subtle desire for fruit; the seeker should look at the practice, not at the result, and do it wholeheartedly (5.12). Whether the work gets completed or not, turns out favourable or not, one is to remain even (2.48).",
+   "hi": "स्वामीजी कहते हैं कि एक कर्म-विभाग है और एक फल-विभाग। कर्म नया पुरुषार्थ होनेसे मनुष्यके अधीन है और फल पूर्वकृत कर्मोंका भोग होनेसे प्रारब्धके अधीन है; इसलिये अधिकार केवल कर्ममें है (२।४७)। बाँधनेवाला फल नहीं, फलकी आसक्ति है — 'फले सक्तो निबध्यते' (५।१२)। कर्मफलके त्यागका अर्थ है फलकी इच्छाका त्याग, क्योंकि फलका त्याग तो हो ही नहीं सकता — शरीर भी कर्मफल ही है (१८।११)। मुक्तिके लिये साधन करना भी सूक्ष्म फलेच्छा है; साधकको फलको न देखकर अपने साधनको देखना चाहिये और तत्पर होकर करना चाहिये (५।१२)। कर्म पूरा हो या न हो, फल अनुकूल हो या प्रतिकूल — उसमें सम रहना है (२।४८)।"
+  },
+  "quote": {
+   "hi": "एक कर्म-विभाग है और एक फल-विभाग है। मनुष्यका कर्म-विभागमें ही अधिकार है, फल-विभागमें नहीं। कारण कि नया पुरुषार्थ होनेसे कर्म-विभाग (करना) मनुष्यके अधीन है और पूर्वकृत कर्मोंका भोग होनेसे फल-विभाग (होना) प्रारब्धके अधीन है।",
+   "from": "2.47"
+  },
+  "verses": [
+   "2.47",
+   "2.48",
+   "4.20",
+   "5.12",
+   "12.12",
+   "18.9",
+   "18.11"
+  ],
+  "related": [
+   "karma",
+   "nishkama-karma",
+   "tyaga",
+   "samatva",
+   "kama"
+  ],
+  "chapters": [
+   2,
+   4,
+   5,
+   12,
+   18
+  ]
+ },
+ {
+  "id": "nishkama-karma",
+  "sa": "निष्काम कर्म",
+  "iast": "niṣkāma karma",
+  "en": "Desireless Action",
+  "hi": "निष्काम कर्म",
+  "short": {
+   "en": "Doing your duty for the good of others, wanting nothing back for yourself.",
+   "hi": "दूसरोंके हितके लिये कर्तव्य करना, बदलेमें अपने लिये कुछ न चाहना।"
+  },
+  "what": {
+   "en": "Nishkama karma is action done without desire for any result for oneself. In Sadhak Sanjivani it is the heart of Karma Yoga: using everything we have received from the world in the service of the world.",
+   "hi": "निष्काम कर्म वह कर्म है जो अपने लिये किसी फलकी इच्छाके बिना किया जाय। साधक-संजीवनीमें यही कर्मयोगका सार है — संसारसे मिली हुई वस्तुओंको संसारकी ही सेवामें लगा देना।"
+  },
+  "source": {
+   "en": "Swamiji sums up the karma yogi's attitude: nothing is mine, nothing is to be done for myself, and I need nothing — when the doer becomes wholly desireless in this way, the desire for fruit falls away (5.12). The main point of Karma Yoga is to protect others' rights through one's duty and to give up one's own claim; serving others dissolves old attachment, and not wanting the fruit prevents new attachment (2.47). Actions done as yajna, for the good of others, do not bind; only actions done for oneself do (3.9). Body, ability, position and strength are all received and will be parted from, so they are meant for others' service — offering them costs us nothing (3.13). This is why Krishna says the one who acts without attachment reaches the Supreme (3.19), and that Karma Yoga is superior to renouncing action (5.2).",
+   "hi": "स्वामीजी कर्मयोगीका भाव इस प्रकार बताते हैं — अपना कुछ नहीं है, अपने लिये कुछ नहीं करना है और अपनेको कुछ नहीं चाहिये; ऐसे सर्वथा निष्काम होनेपर फलेच्छाका त्याग हो जाता है (५।१२)। कर्मयोगमें मुख्य बात है — अपने कर्तव्यके द्वारा दूसरेके अधिकारकी रक्षा करना और अपने अधिकारका त्याग करना; इससे पुराना राग मिटता है और नया राग पैदा नहीं होता (२।४७)। यज्ञार्थ अर्थात् दूसरोंके हितके लिये किये गये कर्म नहीं बाँधते, अपने लिये किये गये कर्म ही बाँधते हैं (३।९)। शरीर, योग्यता, पद, बल आदि सब मिले हुए और बिछुड़नेवाले हैं, इसलिये दूसरोंकी सेवाके लिये हैं — उन्हें सेवामें लगानेसे अपने घरका कुछ खर्च नहीं होता (३।१३)। इसीलिये भगवान् कहते हैं कि आसक्तिरहित होकर कर्म करनेवाला परमात्माको प्राप्त हो जाता है (३।१९), और कर्मयोग कर्मसंन्याससे श्रेष्ठ है (५।२)।"
+  },
+  "quote": {
+   "hi": "अपना कुछ नहीं है, अपने लिये कुछ नहीं करना है और अपनेको कुछ नहीं चाहिये—इस प्रकार कर्ताके सर्वथा निष्काम होनेपर कर्मफलकी इच्छाका त्याग हो जाता है।",
+   "from": "5.12"
+  },
+  "verses": [
+   "2.47",
+   "3.9",
+   "3.13",
+   "3.19",
+   "4.18",
+   "5.2",
+   "5.12",
+   "18.9"
+  ],
+  "related": [
+   "karma",
+   "phala",
+   "yajna",
+   "yoga",
+   "tyaga",
+   "asakti"
+  ],
+  "chapters": [
+   2,
+   3,
+   4,
+   5,
+   18
+  ]
+ },
+ {
+  "id": "dharma",
+  "sa": "धर्म",
+  "iast": "dharma",
+  "en": "Duty",
+  "hi": "धर्म (कर्तव्य)",
+  "short": {
+   "en": "In the Gita, dharma mostly means duty — what ought to be done.",
+   "hi": "गीतामें धर्मका मुख्य अर्थ है कर्तव्य — जो करना चाहिये।"
+  },
+  "what": {
+   "en": "Dharma in the Gita largely means kartavya — the duty that falls to us in our situation. Swamiji shows that the Gita uses the words 'karma' and 'dharma' almost interchangeably.",
+   "hi": "गीतामें धर्मका अर्थ प्राय: कर्तव्य है — अपनी परिस्थितिमें जो कर्म प्राप्त हो। स्वामीजी दिखाते हैं कि गीतामें 'कर्म' और 'धर्म' शब्द पर्यायवाची रूपमें आते हैं।"
+  },
+  "source": {
+   "en": "Swamiji notes that in the Gita 'dharma' stands for one's duty (kartavya-karma), so that 'karma' and 'dharma' become synonyms (2.31, 18.66). Arjuna feared sin from the war, but Krishna shows that sin comes not from the war but from partiality, desire, selfishness and ego; it is not doing one's duty, or doing what ought not be done, that brings sin (2.38). The Gita shows how to reach the highest while living and working in the world, without first having to leave everything (2.38). When dharma declines — when the good and the weak are oppressed and good conduct vanishes — God manifests himself; and the main cause of this decline is attraction towards perishable things (4.7). In Krishna's last teaching, 'giving up all dharmas' does not mean abandoning duties but giving up reliance on them and taking refuge in God alone (18.66).",
+   "hi": "स्वामीजी बताते हैं कि गीतामें 'धर्म' शब्द कर्तव्य-कर्मका वाचक है, इसलिये 'कर्म' और 'धर्म' पर्यायवाची सिद्ध होते हैं (२।३१, १८।६६)। अर्जुनको युद्धसे पाप लगनेका डर था, पर भगवान् बताते हैं कि पापका हेतु युद्ध नहीं, विषमता, कामना, स्वार्थ और अहंकार है; कर्तव्य न करनेसे और अकर्तव्य करनेसे ही पाप लगता है (२।३८)। गीता व्यवहारमें रहते हुए परमार्थकी कला बताती है, जिससे सब कुछ छोड़े बिना ही कल्याण हो सके (२।३८)। जब धर्मकी हानि होती है — सज्जन और निर्बल लोगोंपर अत्याचार बढ़ता है, सदाचार घटता है — तब भगवान् प्रकट होते हैं; इस ह्रासका मुख्य कारण नाशवान् पदार्थोंका आकर्षण है (४।७)। 'सर्वधर्मान्परित्यज्य'का अर्थ धर्मोंका स्वरूपसे त्याग नहीं, उनके आश्रयका त्याग करके केवल भगवान्की शरण लेना है (१८।६६)।"
+  },
+  "quote": {
+   "hi": "कारण कि पाप लगनेमें हेतु युद्ध नहीं है, प्रत्युत विषमता (पक्षपात), कामना, स्वार्थ, अहंकार है। युद्ध तो तेरा कर्तव्य (धर्म) है। कर्तव्य न करनेसे और अकर्तव्य करनेसे ही पाप लगता है।",
+   "from": "2.38"
+  },
+  "verses": [
+   "2.31",
+   "2.33",
+   "2.38",
+   "3.35",
+   "4.7",
+   "18.47",
+   "18.66"
+  ],
+  "related": [
+   "svadharma",
+   "karma",
+   "sharanagati",
+   "yajna"
+  ],
+  "chapters": [
+   2,
+   3,
+   4,
+   18
+  ]
+ },
+ {
+  "id": "svadharma",
+  "sa": "स्वधर्म",
+  "iast": "svadharma",
+  "en": "One's Own Duty",
+  "hi": "स्वधर्म",
+  "short": {
+   "en": "The duty that comes with whatever you take yourself to be.",
+   "hi": "अपनेको जो मानते हैं, उसका कर्तव्य।"
+  },
+  "what": {
+   "en": "Svadharma is the duty that belongs to one's own position — as a student, teacher, parent, child, employee or seeker. It is 'one's own' because it follows from what one considers oneself to be.",
+   "hi": "स्वधर्म वह कर्तव्य है जो अपनी स्थितिसे जुड़ा है — विद्यार्थी, अध्यापक, माता-पिता, पुत्र, नौकर या साधकके रूपमें। यह 'अपना' इसलिये है कि मनुष्य अपनेको जो मानता है, उसीका यह धर्म है।"
+  },
+  "source": {
+   "en": "Swamiji defines svadharma simply: whatever a person takes himself to be, the duty of that is his svadharma — if one considers oneself a teacher or a servant, a father or a son, carrying out those duties is svadharma (2.31, 18.47). Another's duty may look more attractive, easier, more pleasant and better rewarded, yet in the end it brings fear; one's own duty, even if it seems lacking and hard and the mind does not enjoy it, done without desire, leads to one's welfare (3.35). Theft, violence and anything done with the intent of harming others is never anyone's svadharma (3.35). Doing one's own duty, one does not incur sin, because sin comes from selfishness and pride, not from the act itself (18.47). Doing one's natural work with love and without selfishness is worship of God, through which one attains perfection (18.45, 18.46).",
+   "hi": "स्वामीजी कहते हैं — मनुष्य 'स्व' को अर्थात् अपनेको जो मानता है, उसका कर्तव्य उसका स्वधर्म है; अपनेको शिक्षक या नौकर, पिता या पुत्र मानता है तो उसके कर्तव्योंका पालन स्वधर्म है (२।३१, १८।४७)। परधर्म बाहरसे गुणसम्पन्न, सुगम, मन लगनेवाला और सुख-सुविधा देनेवाला दीखे, तो भी परिणाममें भय देनेवाला है; और स्वधर्म गुणोंकी कमीवाला, कठिन और मन न लगनेवाला हो, तो भी निष्कामभावसे पालन करनेपर कल्याण करनेवाला है (३।३५)। जिसमें दूसरेके अहितका भाव हो, ऐसे चोरी, हिंसा आदि कर्म किसीके भी स्वधर्म नहीं हैं (३।३५)। स्वधर्मरूप कर्म करनेसे पाप नहीं लगता, क्योंकि पाप क्रियासे नहीं, स्वार्थ और अभिमानसे लगता है (१८।४७)। अपने कर्मको प्रेमपूर्वक, नि:स्वार्थभावसे करना ही उसके द्वारा भगवान्का पूजन है, जिससे सिद्धि मिलती है (१८।४५, १८।४६)।"
+  },
+  "quote": {
+   "hi": "निष्कामभावसे दूसरेके हितके लिये कर्म करना (कर्मयोग) स्वधर्म है। स्वधर्मको ही गीतामें सहज कर्म, स्वकर्म और स्वभावज कर्म नामसे कहा गया है।",
+   "from": "3.35"
+  },
+  "verses": [
+   "2.31",
+   "3.35",
+   "18.45",
+   "18.46",
+   "18.47"
+  ],
+  "related": [
+   "dharma",
+   "karma",
+   "nishkama-karma",
+   "guna"
+  ],
+  "chapters": [
+   2,
+   3,
+   18
+  ]
+ },
+ {
+  "id": "yoga",
+  "sa": "योग",
+  "iast": "yoga",
+  "en": "Yoga",
+  "hi": "योग",
+  "short": {
+   "en": "Not a technique, but the ever-present union with God, found by dropping our false contact with the world.",
+   "hi": "कोई तकनीक नहीं, परमात्माके साथ नित्य सम्बन्ध — जो संसारसे माने हुए सम्बन्धको छोड़नेपर अनुभवमें आता है।"
+  },
+  "what": {
+   "en": "In the Gita, yoga means samata (equanimity), and more deeply the eternal union (nitya-yoga) with God that already exists. Karma Yoga, Jnana Yoga and Bhakti Yoga are paths to realise it.",
+   "hi": "गीतामें योगका अर्थ है समता, और गहराईसे — परमात्माके साथ वह नित्ययोग जो पहलेसे ही है। कर्मयोग, ज्ञानयोग और भक्तियोग उसकी अनुभूतिके मार्ग हैं।"
+  },
+  "source": {
+   "en": "Swamiji points out that the Gita defines yoga as equanimity — 'samatvaṃ yoga ucyate' (2.48) — and as the ending of our contact with sorrow (6.23). Our contact with the world and body is only assumed; ending this assumed contact reveals the union with our true nature that was always there (6.23). He puts it plainly: we are not really joined to the world, and never separated from God; taking the world as ours and God as far away is the biggest mistake (6.23). Unlike Patanjali's yoga of restraining mental activity, the Gita calls the natural state of evenness itself yoga, and every seeker of God is eligible for it (2.48). 'Yoga is skill in action' means that yoga turns actions, which naturally bind, into actions that free (2.50).",
+   "hi": "स्वामीजी बताते हैं कि गीता समताको योग कहती है — 'समत्वं योग उच्यते' (२।४८) — और दु:खोंके संयोगके वियोगको भी योग कहती है (६।२३)। संसार-शरीरसे हमारा सम्बन्ध केवल माना हुआ है; इस माने हुए सम्बन्धका वियोग करते ही स्वरूपके साथ जो नित्ययोग है, उसकी अनुभूति हो जाती है (६।२३)। संसारका योग नहीं है और परमात्माका वियोग नहीं है; संसारको मिला हुआ और परमात्माको अलग मानना ही सबसे बड़ी भूल है (६।२३)। पातंजलयोगदर्शन चित्तवृत्तिनिरोधको योग कहता है, पर गीता स्वत:सिद्ध सम-स्वरूपमें स्थितिको योग कहती है, जिसके सब भगवत्प्राप्ति चाहनेवाले अधिकारी हैं (२।४८)। 'योग: कर्मसु कौशलम्'का अर्थ है — जो कर्म स्वभावसे बाँधनेवाले हैं, वे ही मुक्ति देनेवाले हो जायँ (२।५०)।"
+  },
+  "quote": {
+   "hi": "संसारका योग नहीं है और परमात्माका वियोग नहीं है अर्थात् संसार हमें मिला हुआ नहीं है और परमात्मा हमारेसे अलग नहीं है।",
+   "from": "6.23"
+  },
+  "verses": [
+   "2.48",
+   "2.50",
+   "5.2",
+   "6.1",
+   "6.23"
+  ],
+  "related": [
+   "samatva",
+   "nishkama-karma",
+   "dhyana",
+   "bhakti",
+   "jnana"
+  ],
+  "chapters": [
+   2,
+   5,
+   6
+  ]
+ },
+ {
+  "id": "samatva",
+  "sa": "समत्व",
+  "iast": "samatva",
+  "en": "Equanimity",
+  "hi": "समता",
+  "short": {
+   "en": "Staying even in success and failure — and this evenness itself is yoga.",
+   "hi": "सिद्धि-असिद्धिमें सम रहना — यह समता ही योग है।"
+  },
+  "what": {
+   "en": "Samatva is evenness of mind in pairs like success and failure, gain and loss, pleasure and pain, honour and insult. For Swamiji, samata is not just a calm mood but the very nature of God, and the core of the Gita's practice.",
+   "hi": "समत्व है — सफलता-विफलता, लाभ-हानि, सुख-दु:ख, मान-अपमान जैसे द्वन्द्वोंमें समान रहना। स्वामीजीके अनुसार समता केवल शान्त मनकी दशा नहीं, परमात्माका स्वरूप है और गीताके साधनका केन्द्र है।"
+  },
+  "source": {
+   "en": "Krishna tells Arjuna to treat victory and defeat, gain and loss, pleasure and pain alike, and then fight; doing one's duty in equanimity, one incurs no sin (2.38). Whether the work is completed or not, the result favourable or not, whether it brings honour or insult — in all such success and failure one should stay even (2.48). Swamiji warns that it is not enough to become even once at the start, the way one worships Ganesha at the beginning of a task; one has to remain established in evenness throughout the work (2.48). Even the beginning of this evenness is never lost, and a little of it protects from the great fear of birth and death (2.40). One with equanimity lives in the world yet untouched by it, like a lotus leaf in water (2.50). The one whose mind rests in evenness has conquered the world here itself, because Brahman is flawless and even (5.19, cited in 2.48).",
+   "hi": "भगवान् अर्जुनसे कहते हैं कि जय-पराजय, लाभ-हानि और सुख-दु:खको समान करके युद्ध कर; समतापूर्वक कर्तव्य करनेसे पाप नहीं लगेगा (२।३८)। कर्म पूरा हो या न हो, फल अनुकूल हो या प्रतिकूल, आदर मिले या निरादर — इन सब सिद्धि-असिद्धिमें सम रहना चाहिये (२।४८)। स्वामीजी सावधान करते हैं कि जैसे कार्यके आरम्भमें गणेशपूजन करके फिर उसे साथ नहीं रखते, ऐसे समताको एक बार करके छोड़ नहीं देना है, हरदम समतामें स्थित रहते हुए कर्म करना है (२।४८)। इस समताके आरम्भका भी नाश नहीं होता और इसका थोड़ा-सा अनुष्ठान भी जन्म-मरणरूप महान् भयसे रक्षा करता है (२।४०)। समतायुक्त पुरुष कमलके पत्तेकी तरह संसारमें रहते हुए भी संसारसे निर्लिप्त रहता है (२।५०)। जिनका मन समतामें स्थित है, उन्होंने यहीं संसारको जीत लिया, क्योंकि ब्रह्म निर्दोष और सम है (५।१९, २।४८ में उद्धृत)।"
+  },
+  "quote": {
+   "hi": "समता ही योग है अर्थात् समता परमात्माका स्वरूप है। वह समता अन्त:करणमें निरन्तर बनी रहनी चाहिये।",
+   "from": "2.48"
+  },
+  "verses": [
+   "2.38",
+   "2.40",
+   "2.48",
+   "2.50",
+   "5.19",
+   "12.18"
+  ],
+  "related": [
+   "yoga",
+   "sthitaprajna",
+   "asakti",
+   "nishkama-karma",
+   "phala"
+  ],
+  "chapters": [
+   2,
+   5,
+   12
+  ]
+ },
+ {
+  "id": "jnana",
+  "sa": "ज्ञान",
+  "iast": "jñāna",
+  "en": "Knowledge",
+  "hi": "ज्ञान (तत्त्वज्ञान)",
+  "short": {
+   "en": "Knowing yourself as distinct from the body — not information, but realisation.",
+   "hi": "अपनेको शरीरसे अलग जानना — जानकारी नहीं, अनुभव।"
+  },
+  "what": {
+   "en": "In the Gita, jnana is not book learning but realising the truth: that the self is distinct from the body and the world. Swamiji separates this lived knowledge from 'verbal' knowledge that is only learned and repeated.",
+   "hi": "गीतामें ज्ञानका अर्थ पुस्तकीय जानकारी नहीं, तत्त्वका अनुभव है — कि स्वयं शरीर और संसारसे अलग है। स्वामीजी इस अनुभवरूप ज्ञानको केवल सीखे हुए 'वाचिक ज्ञान'से अलग बताते हैं।"
+  },
+  "source": {
+   "en": "Swamiji explains that taking one's own existence and the body as separate is 'jnana', and taking them as one is 'ajnana' (5.16). Ignorance is removed only by honouring this discernment, not by effort or labour, because labour keeps one's connection with the body alive (5.16). Nothing in this world purifies like this knowledge, because when the independent reality of the world falls away, all faults and sins end (4.38). One who has faith, is devoted to practice and has controlled senses gains this knowledge and at once attains supreme peace (4.39). Knowledge learned without practice only strengthens identification with the body (13.11), and merely verbal knowledge can take a person down further than action does (5.2).",
+   "hi": "स्वामीजी बताते हैं कि अपनी सत्ताको और शरीरको अलग-अलग मानना 'ज्ञान' है और एक मानना 'अज्ञान' है (५।१६)। अज्ञानका नाश विवेकसे होता है, उद्योग या परिश्रमसे नहीं, क्योंकि परिश्रममें शरीरसे सम्बन्ध बना रहता है (५।१६)। संसारमें ज्ञानके समान पवित्र करनेवाला कुछ नहीं है; तत्त्वज्ञान होनेपर संसारकी स्वतन्त्र सत्ता नहीं रहती और सब पाप नष्ट हो जाते हैं (४।३८)। श्रद्धावान्, साधन-परायण और जितेन्द्रिय मनुष्य ज्ञान पाकर तत्काल परम शान्तिको प्राप्त होता है (४।३९)। साधन किये बिना सीखा हुआ ज्ञान देहाभिमानको ही पुष्ट करता है (१३।११), और वाचिक ज्ञान कर्मसे भी अधिक पतन करा सकता है (५।२)।"
+  },
+  "quote": {
+   "hi": "अपनी सत्ताको और शरीरको अलग-अलग मानना ‘ज्ञान’ है और एक मानना ‘अज्ञान’ है।",
+   "from": "5.16"
+  },
+  "verses": [
+   "2.16",
+   "4.34",
+   "4.38",
+   "4.39",
+   "5.16",
+   "13.11"
+  ],
+  "related": [
+   "viveka",
+   "atma",
+   "shraddha",
+   "sannyasa",
+   "moksha"
+  ],
+  "chapters": [
+   2,
+   4,
+   5,
+   13
+  ]
+ },
+ {
+  "id": "viveka",
+  "sa": "विवेक",
+  "iast": "viveka",
+  "en": "Discernment",
+  "hi": "विवेक",
+  "short": {
+   "en": "The ability to tell the real from the unreal, the self from the body.",
+   "hi": "सत्-असत्, शरीर और शरीरीको अलग-अलग पहचाननेकी शक्ति।"
+  },
+  "what": {
+   "en": "Viveka is the discerning insight, given to every human being, that separates the changing from the unchanging — the body from the embodied, the unreal from the real. Swamiji treats respecting this viveka as a direct means to freedom.",
+   "hi": "विवेक वह विचार-शक्ति है, जो हर मनुष्यको मिली है और जो बदलनेवाले और न बदलनेवालेको — शरीर और शरीरीको, असत् और सत्को — अलग करती है। स्वामीजी इस विवेकके आदरको मुक्तिका सीधा साधन बताते हैं।"
+  },
+  "source": {
+   "en": "Swamiji says there are two departments, the body and the embodied, wholly unrelated and opposite in nature: one inert, perishable and changing, the other conscious, imperishable and unchanging (2.11). The Gita's teaching begins with this distinction, and one who knows it never grieves for the living or the dead (2.11). We clearly know that 'I' and 'mine' keep changing — once a child with toys, now an adult with family and wealth — while our own existence has not changed; this knowing is viveka (5.16). Brahma created human beings along with viveka, so that they could make good use of both favourable and unfavourable situations (3.10). Desire, the constant enemy of the discerning, covers this viveka (3.39). As prakriti and purusha are beginningless, so is the discernment between them (13.19).",
+   "hi": "स्वामीजी कहते हैं कि एक विभाग शरीरका है और एक शरीरीका; दोनों सर्वथा सम्बन्धरहित हैं — एक जड़, नाशवान् और परिवर्तनशील, दूसरा चेतन, अविनाशी और निर्विकार (२।११)। गीताका उपदेश इसी भेदसे आरम्भ होता है, और इस विभागको जाननेवाला विवेकी मनुष्य मृत या जीवित किसीके लिये शोक नहीं करता (२।११)। पहले मैं बालक था और खिलौने मेरे थे, अब युवा हूँ और परिवार-धन मेरे हैं — मैं-मेरापन बदलता दीखता है, पर अपनी सत्ता नहीं बदलती; यही ज्ञान विवेक है (५।१६)। ब्रह्माजीने अनुकूल-प्रतिकूल परिस्थितिका सदुपयोग करनेका विवेक साथ देकर ही मनुष्योंकी रचना की है (३।१०)। विवेकियोंका नित्य वैरी काम इस विवेकको ढक देता है (३।३९)। जैसे प्रकृति और पुरुष अनादि हैं, वैसे ही इनके भेदका ज्ञान — विवेक भी अनादि है (१३।१९)।"
+  },
+  "quote": {
+   "hi": "शरीर और शरीरीके इस विभागको जाननेवाले विवेकी मनुष्य मृत अथवा जीवित, किसी भी प्राणीके लिये कभी शोक नहीं करते।",
+   "from": "2.11"
+  },
+  "verses": [
+   "2.11",
+   "2.16",
+   "3.10",
+   "3.39",
+   "5.16",
+   "13.19",
+   "14.19"
+  ],
+  "related": [
+   "jnana",
+   "atma",
+   "sharira",
+   "prakriti",
+   "vairagya"
+  ],
+  "chapters": [
+   2,
+   3,
+   5,
+   13,
+   14
+  ]
+ },
+ {
+  "id": "bhakti",
+  "sa": "भक्ति",
+  "iast": "bhakti",
+  "en": "Devotion",
+  "hi": "भक्ति",
+  "short": {
+   "en": "Accepting 'I am God's, and God is mine' — and loving from there.",
+   "hi": "'मैं भगवान्का हूँ और भगवान् मेरे हैं' — यह स्वीकार करके प्रेम करना।"
+  },
+  "what": {
+   "en": "Bhakti is loving devotion to God. For Swamiji its root is a change in one's sense of 'I': accepting 'I am God's', from which love, remembrance and worship follow naturally.",
+   "hi": "भक्ति भगवान्के प्रति प्रेम है। स्वामीजीके अनुसार इसकी जड़ अहंताका परिवर्तन है — 'मैं भगवान्का हूँ' यह स्वीकार करना, जिससे प्रेम, स्मरण और पूजन स्वाभाविक हो जाते हैं।"
+  },
+  "source": {
+   "en": "Swamiji says the seeker should first change the sense of 'I': 'I am God's and God alone is mine; I am not the world's and the world is not mine' (18.65). Just as a disciple says 'I belong to my guru', or a bride takes her new home as her own, this change of 'I' makes spiritual practice easy and natural (18.65). What is one's own is naturally dear, and the mind goes where there is dearness — so the mind turns to God by itself (9.34, 18.65). God's worship needs no elaborate rules or special things, only love and belonging, as a child climbs into its mother's lap without any procedure (9.26). For those who worship Him with undivided devotion, God himself brings what they lack and protects what they have (9.22). Through undeviating devotion one even goes beyond the three gunas (14.26).",
+   "hi": "स्वामीजी कहते हैं कि साधकको सबसे पहले अपनी अहंता बदलनी चाहिये — 'मैं भगवान्का ही हूँ और भगवान् ही मेरे हैं; मैं संसारका नहीं हूँ और संसार मेरा नहीं है' (१८।६५)। जैसे शिष्य बननेपर व्यक्ति कहता है 'मैं गुरुका हूँ' या विवाह होनेपर कन्या ससुरालको अपना मानती है, वैसे ही अहंता बदलनेसे साधन सुगम और स्वाभाविक हो जाता है (१८।६५)। जो अपना होता है वह प्रिय लगता है और जहाँ प्रियता होती है वहाँ मन स्वत: लगता है (९।३४, १८।६५)। भगवान्की उपासनामें विधिकी नहीं, प्रेम और अपनेपनकी प्रधानता है — जैसे बालक बिना किसी विधिके माँकी गोदमें चला जाता है (९।२६)। अनन्य भक्तोंका योगक्षेम भगवान् स्वयं वहन करते हैं (९।२२)। अव्यभिचारी भक्तिसे मनुष्य गुणोंसे भी अतीत हो जाता है (१४।२६)।"
+  },
+  "quote": {
+   "hi": "भक्त ‘मैं भगवान्का हूँ’—इस प्रकार अपनी अहंताको बदलता है और खुदका सम्बन्ध भगवान्से जोड़ता है।",
+   "from": "9.34"
+  },
+  "verses": [
+   "9.22",
+   "9.26",
+   "9.34",
+   "12.8",
+   "12.13",
+   "14.26",
+   "18.54",
+   "18.65"
+  ],
+  "related": [
+   "sharanagati",
+   "ishvara",
+   "shraddha",
+   "jnana",
+   "guna"
+  ],
+  "chapters": [
+   9,
+   12,
+   14,
+   18
+  ]
+ },
+ {
+  "id": "sharanagati",
+  "sa": "शरणागति",
+  "iast": "śaraṇāgati",
+  "en": "Surrender",
+  "hi": "शरणागति",
+  "short": {
+   "en": "Taking refuge in God alone, and leaving the burden with Him.",
+   "hi": "केवल भगवान्की शरण लेना और सारा भार उन्हींपर छोड़ देना।"
+  },
+  "what": {
+   "en": "Sharanagati is taking refuge wholly in God — relying not on one's own strength, merit or methods, but on Him alone. Swamiji calls it the essence of all spiritual practices.",
+   "hi": "शरणागति है सर्वथा भगवान्की शरण लेना — अपने बल, योग्यता या साधनका नहीं, केवल भगवान्का आश्रय रखना। स्वामीजी इसे सम्पूर्ण साधनोंका सार कहते हैं।"
+  },
+  "source": {
+   "en": "Krishna's final word is: giving up reliance on all dharmas, take refuge in Me alone; I will free you from all sins, do not grieve (18.66). Swamiji explains that 'giving up all dharmas' means giving up reliance on them, not abandoning duty (18.66). Taking refuge in God is the essence of all practices; nothing is left for the surrendered one to do for himself (18.66). Even if one's faults remain after surrender, one is not to worry: the shortcoming now becomes God's to remove, and one's only task is to stay at His feet — fearless, free of grief, carefree and free of doubt (18.66). The maya made of the three gunas is hard to cross, but those who take refuge in God alone cross it (7.14). The one who relies on God attains the eternal abode by His grace even while doing all actions (18.56, 18.62).",
+   "hi": "भगवान्का अन्तिम वचन है — सम्पूर्ण धर्मोंका आश्रय छोड़कर केवल मेरी शरणमें आ जा; मैं तुझे सब पापोंसे मुक्त कर दूँगा, चिन्ता मत कर (१८।६६)। स्वामीजी बताते हैं कि 'सर्वधर्मान्परित्यज्य'का अर्थ धर्मोंका स्वरूपसे त्याग नहीं, उनके आश्रयका त्याग है (१८।६६)। भगवान्के शरणागत हो जाना सम्पूर्ण साधनोंका सार है; शरणागतके लिये अपने लिये कुछ करना शेष नहीं रहता (१८।६६)। शरण होनेके बाद भी अपनेमें कमी दीखे, तो भी चिन्ता या भय न करे — वह कमी अब भगवान्की है, उसे दूर करना उनका काम है; शरणागतका एक ही काम है — निर्भय, नि:शोक, निश्चिन्त और नि:शंक होकर भगवान्के चरणोंमें पड़े रहना (१८।६६)। गुणमयी माया दुरत्यय है, पर जो केवल भगवान्के शरण होते हैं वे इसे तर जाते हैं (७।१४)। भगवान्का आश्रय लेनेवाला सब कर्म करता हुआ भी उनकी कृपासे अविनाशी पदको पाता है (१८।५६, १८।६२)।"
+  },
+  "quote": {
+   "hi": "स्वयं भगवान्के शरणागत हो जाना—यह सम्पूर्ण साधनोंका सार है। इसमें शरणागत भक्तको अपने लिये कुछ भी करना शेष नहीं रहता",
+   "from": "18.66"
+  },
+  "verses": [
+   "2.7",
+   "7.14",
+   "9.34",
+   "18.56",
+   "18.62",
+   "18.65",
+   "18.66"
+  ],
+  "related": [
+   "bhakti",
+   "ishvara",
+   "maya",
+   "ahankara",
+   "moksha"
+  ],
+  "chapters": [
+   2,
+   7,
+   9,
+   18
+  ]
+ },
+ {
+  "id": "vairagya",
+  "sa": "वैराग्य",
+  "iast": "vairāgya",
+  "en": "Dispassion",
+  "hi": "वैराग्य",
+  "short": {
+   "en": "Losing the pull of sense pleasures, even while living an ordinary life.",
+   "hi": "साधारण जीवन जीते हुए भी विषयोंका खिंचाव न रहना।"
+  },
+  "what": {
+   "en": "Vairagya is freedom from attraction (raga) towards sense objects and worldly enjoyment. In the Gita it goes together with practice (abhyasa) as the means of steadying the mind.",
+   "hi": "वैराग्य है — इन्द्रियोंके विषयों और सांसारिक भोगोंके प्रति रागका न रहना। गीतामें यह अभ्यासके साथ मनको वशमें करनेका साधन बताया गया है।"
+  },
+  "source": {
+   "en": "Arjuna says the mind is restless and hard to hold; Krishna agrees, and says it is restrained by practice and dispassion (6.35). Swamiji explains vairagya as the senses not being drawn to objects — even while using objects for the needs of life, as scripture allows, the seeker should have no attachment or fondness for them (13.8). He suggests a reflection: great kings and rich people enjoyed a great deal, but in the end nothing of it remained with them (13.8). Merely keeping away from objects does not remove the inner relish (rasa) for them; that goes only on experiencing the Supreme (2.59). The desire for pleasure is the cause of all sorrow; when it goes, all sorrow ends (13.8). The deep-rooted tree of the world is to be cut with the firm weapon of non-attachment — which means ending one's relationship with it, not destroying it (15.3).",
+   "hi": "अर्जुन कहते हैं कि मन बड़ा चंचल है; भगवान् इसे स्वीकार करके कहते हैं कि अभ्यास और वैराग्यसे इसका निग्रह होता है (६।३५)। स्वामीजी बताते हैं कि विषयोंमें इन्द्रियोंका खिंचाव न होना वैराग्य है — शास्त्रानुसार जीवन-निर्वाहके लिये विषयोंका सेवन करते हुए भी उनमें राग, आसक्ति, प्रियता न हो (१३।८)। विचार करें कि बड़े-बड़े धनी और राजा-महाराजा हुए, बहुत भोग भोगे, पर अन्तमें उनका कुछ नहीं रहा — ऐसे विचारसे भी वैराग्य होता है (१३।८)। विषयोंसे इन्द्रियोंको हटा लेनेपर भी भीतरका रस नहीं जाता; वह परमात्मतत्त्वका अनुभव होनेपर ही निवृत्त होता है (२।५९)। सुखकी इच्छा ही सम्पूर्ण दु:खोंका कारण है; उसके मिटनेपर सब दु:ख मिट जाते हैं (१३।८)। संसार-वृक्षको दृढ़ असंगतारूप शस्त्रसे काटनेका अर्थ उसका नाश नहीं, उससे सम्बन्ध-विच्छेद करना है (१५।३)।"
+  },
+  "quote": {
+   "hi": "इन्द्रियोंका विषयोंके साथ सम्बन्ध होनेपर भी तथा शास्त्रके अनुसार जीवन-निर्वाहके लिये इन्द्रियोंद्वारा विषयोंका सेवन करते हुए भी साधकको विषयोंमें राग, आसक्ति, प्रियता नहीं होनी चाहिये।",
+   "from": "13.8"
+  },
+  "verses": [
+   "2.59",
+   "5.22",
+   "6.35",
+   "13.8",
+   "15.3"
+  ],
+  "related": [
+   "asakti",
+   "kama",
+   "dhyana",
+   "tyaga",
+   "viveka"
+  ],
+  "chapters": [
+   2,
+   5,
+   6,
+   13,
+   15
+  ]
+ },
+ {
+  "id": "asakti",
+  "sa": "आसक्ति",
+  "iast": "āsakti",
+  "en": "Attachment",
+  "hi": "आसक्ति (राग)",
+  "short": {
+   "en": "The pull towards perishable things — the real cause of bondage.",
+   "hi": "नाशवान् पदार्थोंकी ओर खिंचाव — बन्धनका असली कारण।"
+  },
+  "what": {
+   "en": "Asakti (also called sanga or raga) is attraction towards things alien to our true nature — objects, people, actions and their results. Swamiji stresses that it is attachment, not action, that makes us fall.",
+   "hi": "आसक्ति (संग या राग) है अपने स्वरूपसे विजातीय वस्तुओं, व्यक्तियों, क्रियाओं और उनके फलोंकी ओर खिंचाव। स्वामीजी जोर देकर कहते हैं कि पतन आसक्तिसे होता है, कर्मसे नहीं।"
+  },
+  "source": {
+   "en": "Swamiji defines attachment as the pull towards inert things that are alien to our own nature (3.19). It arises from believing 'I am the body' and 'the body is mine', which stamps the importance of perishable things onto the mind (3.19). It is attachment that causes the fall, not action (3.19). Dwelling on objects gives rise to attachment; from attachment comes desire, from blocked desire comes anger, then delusion, loss of memory, loss of discernment and downfall (2.62–63). If one clings to the action or its result, one cannot stay untouched, so Krishna says: act having given up attachment (2.48). Attachment to the gunas is the cause of birth in higher and lower wombs (13.21).",
+   "hi": "स्वामीजी बताते हैं कि अपने स्वरूपसे विजातीय जड़ पदार्थोंके प्रति आकर्षणको आसक्ति कहते हैं (३।१९)। 'मैं शरीर हूँ' और 'शरीर मेरा है' — ऐसा माननेसे नाशवान् पदार्थोंका महत्त्व अन्त:करणमें बैठ जाता है और उनमें आसक्ति हो जाती है (३।१९)। आसक्ति ही पतन करनेवाली है, कर्म नहीं (३।१९)। विषयोंके चिन्तनसे आसक्ति, आसक्तिसे कामना, कामनामें बाधा लगनेसे क्रोध, फिर मोह, स्मृतिभ्रंश, बुद्धिनाश और पतन होता है (२।६२–६३)। कर्म या फलमें चिपकनेसे निर्लिप्तता नहीं रहती, इसलिये भगवान् कहते हैं — संग छोड़कर कर्म कर (२।४८)। गुणोंका संग ही ऊँच-नीच योनियोंमें जन्मका कारण है (१३।२१)।"
+  },
+  "quote": {
+   "hi": "‘मैं शरीर हूँ’ और ‘शरीर मेरा है’—ऐसा माननेसे शरीरादि नाशवान् पदार्थोंका महत्त्व अन्त:करणमें अंकित हो जाता है। इसी कारण उन पदार्थोंमें आसक्ति हो जाती है। आसक्ति ही पतन करनेवाली है, कर्म नहीं।",
+   "from": "3.19"
+  },
+  "verses": [
+   "2.47",
+   "2.48",
+   "2.62",
+   "3.19",
+   "4.20",
+   "13.21",
+   "18.9"
+  ],
+  "related": [
+   "kama",
+   "krodha",
+   "vairagya",
+   "nishkama-karma",
+   "guna"
+  ],
+  "chapters": [
+   2,
+   3,
+   4,
+   13,
+   18
+  ]
+ },
+ {
+  "id": "kama",
+  "sa": "काम",
+  "iast": "kāma",
+  "en": "Desire",
+  "hi": "काम (कामना)",
+  "short": {
+   "en": "Wanting pleasure from things, people and actions — the root of every wrong.",
+   "hi": "वस्तु, व्यक्ति और क्रियासे सुख चाहना — सब पापोंका मूल।"
+  },
+  "what": {
+   "en": "Kama is desire: wanting happiness from objects, people and actions, and wanting things to go 'my way'. Krishna names it as the real enemy when Arjuna asks why people do wrong against their own will.",
+   "hi": "काम है कामना — वस्तु, व्यक्ति और क्रियासे सुख चाहना और 'मेरे मनकी हो' ऐसा चाहना। अर्जुनके पूछनेपर कि मनुष्य न चाहते हुए भी पाप क्यों करता है, भगवान् कामको ही वैरी बताते हैं।"
+  },
+  "source": {
+   "en": "When Arjuna asks why a person does wrong even unwillingly, Krishna names desire, born of rajas, as the enemy (3.37). Swamiji defines it simply: 'let what I want happen' is desire; wanting happiness from things, persons and actions is kama, and this one fault contains endless faults (3.37). Desire is never satisfied, like fire fed with ghee; getting a hundred rupees creates hunger for a thousand (3.39). Its seat is in the ego, and it covers even the viveka of the discerning (3.39, 3.43). Kama, anger and greed are the three gates of hell, and among them desire is the root (16.21). The one who gives up all desires and lives free of longing, 'mine' and 'I' attains peace (2.71).",
+   "hi": "अर्जुनके पूछनेपर कि मनुष्य न चाहता हुआ भी पाप क्यों करता है, भगवान् रजोगुणसे उत्पन्न कामको वैरी बताते हैं (३।३७)। स्वामीजी कहते हैं — 'मेरी मनचाही हो' यही काम है; वस्तु, व्यक्ति और क्रियासे सुख चाहनेका नाम काम है, और इस एक दोषमें अनन्त दोष भरे हैं (३।३७)। जैसे घीकी आहुतिसे अग्नि कभी तृप्त नहीं होती, वैसे कामना भी कभी पूरी नहीं होती; सौ रुपये मिलनेपर हजारकी भूख जगती है (३।३९)। काम अहम्में रहता है और विवेकियोंके विवेकको भी ढक देता है (३।३९, ३।४३)। काम, क्रोध और लोभ — ये नरकके तीन द्वार हैं, और इनमें काम ही मूल है (१६।२१)। सब कामनाओंको छोड़कर नि:स्पृह, निर्मम और निरहंकार होकर चलनेवाला शान्ति पाता है (२।७१)।"
+  },
+  "quote": {
+   "hi": "वस्तु, व्यक्ति और क्रियासे सुख चाहनेका नाम ‘काम’ है। इस काम-रूप एक दोषमें अनन्त दोष, अनन्त विकार, अनन्त पाप भरे हुए हैं।",
+   "from": "3.37"
+  },
+  "verses": [
+   "2.55",
+   "2.62",
+   "2.71",
+   "3.37",
+   "3.39",
+   "3.43",
+   "16.21"
+  ],
+  "related": [
+   "krodha",
+   "asakti",
+   "phala",
+   "sthitaprajna",
+   "vairagya"
+  ],
+  "chapters": [
+   2,
+   3,
+   16
+  ]
+ },
+ {
+  "id": "krodha",
+  "sa": "क्रोध",
+  "iast": "krodha",
+  "en": "Anger",
+  "hi": "क्रोध",
+  "short": {
+   "en": "Desire that has been blocked turns into anger.",
+   "hi": "कामनामें बाधा लगनेपर वही क्रोध बन जाती है।"
+  },
+  "what": {
+   "en": "Krodha is anger. The Gita does not treat it as a separate enemy: it is desire itself, turned hostile when something blocks it.",
+   "hi": "क्रोधको गीता अलग शत्रु नहीं मानती — यह कामना ही है, जो बाधा आनेपर क्रोधमें बदल जाती है।"
+  },
+  "source": {
+   "en": "Swamiji explains that when a desire seems about to be fulfilled and someone obstructs it, anger arises against that person (2.62). From anger comes delusion, then loss of memory, loss of discernment, and downfall (2.62–63). Krishna says 'this is kama, this is krodha' — when desire is obstructed, desire itself turns into anger (3.37). Enjoying is kama, hoarding is lobha (greed), and anger arises against whoever obstructs enjoyment and hoarding; these three are the roots of the demoniac nature and the gates of hell (16.21). The person of steady wisdom is free from attachment, fear and anger (2.56).",
+   "hi": "स्वामीजी बताते हैं कि कामनापूर्तिकी सम्भावना हो और उसमें कोई बाधा दे, तो उसपर क्रोध आता है (२।६२)। क्रोधसे सम्मोह, सम्मोहसे स्मृतिभ्रंश, फिर बुद्धिनाश और पतन होता है (२।६२–६३)। भगवान् कहते हैं 'काम एष क्रोध एष:' — कामनामें बाधा लगनेपर काम ही क्रोधमें परिणत हो जाता है (३।३७)। भोग भोगना काम है, संग्रह करना लोभ है, और भोग-संग्रहमें बाधा देनेवालेपर क्रोध आता है; ये तीनों आसुरी सम्पत्तिके मूल और नरकके द्वार हैं (१६।२१)। स्थितप्रज्ञ राग, भय और क्रोधसे सर्वथा रहित होता है (२।५६)।"
+  },
+  "quote": {
+   "hi": "भोग भोगना ‘काम’ है। संग्रह करना ‘लोभ’ है। भोग और संग्रहमें बाधा देनेवालेपर ‘क्रोध’ आता है। ये तीनों आसुरी-सम्पत्तिके मूल हैं।",
+   "from": "16.21"
+  },
+  "verses": [
+   "2.56",
+   "2.62",
+   "2.63",
+   "3.37",
+   "16.21"
+  ],
+  "related": [
+   "kama",
+   "asakti",
+   "sthitaprajna"
+  ],
+  "chapters": [
+   2,
+   3,
+   16
+  ]
+ },
+ {
+  "id": "ahankara",
+  "sa": "अहंकार",
+  "iast": "ahaṅkāra",
+  "en": "Ego",
+  "hi": "अहंकार (अहंता)",
+  "short": {
+   "en": "Taking the 'I' of body and mind as oneself — and so feeling 'I am the doer'.",
+   "hi": "शरीर-मनके 'मैं'को अपना स्वरूप मान लेना — और इसीसे 'मैं करता हूँ' ऐसा भाव।"
+  },
+  "what": {
+   "en": "Ahankara is the ego: the assumed identification of the self with 'aham' (the I-sense), which actually belongs to prakriti. From it come the feelings of being the doer and the enjoyer.",
+   "hi": "अहंकार है स्वयंका प्रकृतिके अंश 'अहम्'के साथ माना हुआ तादात्म्य। इसीसे कर्तापन और भोक्तापन पैदा होते हैं।"
+  },
+  "source": {
+   "en": "All actions are done by the qualities of prakriti, but one deluded by ego thinks 'I am the doer' (3.27). Swamiji explains that aham is part of the lower prakriti; taking it as one's own nature is identification, which is only assumed and never real (3.27). In 'I am', the 'I' is inert prakriti and the 'am' is consciousness; doership and enjoyership live in this knot (13.21). One who has no sense of 'I am doing' and whose intellect is not stained by selfish desire is not bound even by what he does (18.17). Everyone's experience of deep sleep shows the self exists even when the ego dissolves — so we can become free of ego (2.71). For the devotee, the way is to change the 'I' itself: 'I am God's' (9.34).",
+   "hi": "सम्पूर्ण कर्म प्रकृतिके गुणोंद्वारा होते हैं, पर अहंकारसे मोहित मनुष्य 'मैं कर्ता हूँ' ऐसा मान लेता है (३।२७)। स्वामीजी बताते हैं कि अहम् अपरा प्रकृतिका अंश है; उसे अपना स्वरूप मान लेना तादात्म्य है, जो माना हुआ है, वास्तवमें है नहीं (३।२७)। 'मैं हूँ'में 'मैं' जड़ प्रकृति है और 'हूँ' चेतन; इसी 'मैं हूँ'में कर्तापन और भोक्तापन रहता है (१३।२१)। जिसमें 'मैं करता हूँ' ऐसा भाव नहीं और जिसकी बुद्धि स्वार्थसे लिप्त नहीं, वह कर्म करके भी नहीं बँधता (१८।१७)। सुषुप्तिमें अहम्के अभाव और अपनी सत्ताके भावका अनुभव सबको होता है, इसलिये हम अहंकाररहित हो सकते हैं (२।७१)। भक्तके लिये उपाय है अहंताको ही बदल देना — 'मैं भगवान्का हूँ' (९।३४)।"
+  },
+  "quote": {
+   "hi": "सम्पूर्ण क्रियाएँ जड़-विभागमें ही होती हैं। चेतन-विभागमें कभी किंचिन्मात्र भी कोई क्रिया नहीं होती। अहंकारसे अन्त:करण मोहित होनेके कारण अज्ञानी मनुष्य ‘मैं कर्ता हूँ’—ऐसा मान लेता है।",
+   "from": "3.27"
+  },
+  "verses": [
+   "2.71",
+   "3.27",
+   "7.4",
+   "9.34",
+   "13.21",
+   "18.17"
+  ],
+  "related": [
+   "prakriti",
+   "sharira",
+   "karma",
+   "guna",
+   "sharanagati"
+  ],
+  "chapters": [
+   2,
+   3,
+   7,
+   9,
+   13,
+   18
+  ]
+ },
+ {
+  "id": "prakriti",
+  "sa": "प्रकृति",
+  "iast": "prakṛti",
+  "en": "Nature (Matter)",
+  "hi": "प्रकृति",
+  "short": {
+   "en": "Everything that changes — body, mind and world — is prakriti.",
+   "hi": "जो कुछ बदलता है — शरीर, मन और संसार — सब प्रकृति है।"
+  },
+  "what": {
+   "en": "Prakriti is the material nature from which the body, senses, mind, intellect, ego and the whole world arise. The Gita calls it God's 'lower nature' (apara), distinct from the jiva, His 'higher nature' (para).",
+   "hi": "प्रकृति वह जड़ स्वभाव है जिससे शरीर, इन्द्रियाँ, मन, बुद्धि, अहंकार और सम्पूर्ण संसार बनता है। गीता इसे भगवान्की 'अपरा प्रकृति' कहती है, जो जीवरूप 'परा प्रकृति'से भिन्न है।"
+  },
+  "source": {
+   "en": "God's lower prakriti has eight parts — earth, water, fire, air, space, mind, intellect and ego — and His higher prakriti is the jiva, by which the world is held (7.4–5). The lower is inert and always changing; the higher is conscious and unchanging (7.5). Prakriti and purusha are both beginningless, and all modifications and gunas are born of prakriti (13.19). Swamiji states that prakriti is unreal, inert and sorrowful, perishable and ever active, while purusha is real, conscious and blissful, and the two are wholly unrelated (13.19). All action happens only in prakriti (3.27, 3.5). The jiva is bound only because it takes what belongs to prakriti as its own (15.7).",
+   "hi": "पृथ्वी, जल, तेज, वायु, आकाश, मन, बुद्धि और अहंकार — यह भगवान्की आठ भेदोंवाली अपरा प्रकृति है, और जीवरूप परा प्रकृति है जिसने जगत्को धारण किया है (७।४–५)। अपरा जड़ और परिवर्तनशील है, परा चेतन और अपरिवर्तनशील (७।५)। प्रकृति और पुरुष दोनों अनादि हैं, और विकार तथा गुण प्रकृतिसे ही उत्पन्न होते हैं (१३।१९)। स्वामीजी कहते हैं — प्रकृति असत्, जड़, दु:खरूप, नाशवान् और क्रियाशील है; पुरुष सत्, चित्, आनन्दरूप, अविनाशी और अक्रिय है; दोनोंमें कोई सम्बन्ध नहीं (१३।१९)। सम्पूर्ण क्रियाएँ प्रकृतिमें ही होती हैं (३।२७, ३।५)। प्रकृतिके अंशको अपना माननेसे ही जीव बन्धनमें पड़ा है (१५।७)।"
+  },
+  "quote": {
+   "hi": "प्रकृति तो असत्, जड़ तथा दु:खरूप है और पुरुष सत्, चित् तथा आनन्दरूप है। प्रकृति नाशवान्, विकारी तथा क्रियाशील है और पुरुष अविनाशी, निर्विकार तथा अक्रिय है।",
+   "from": "13.19"
+  },
+  "verses": [
+   "3.5",
+   "3.27",
+   "7.4",
+   "7.5",
+   "13.19",
+   "13.21",
+   "14.5",
+   "15.7"
+  ],
+  "related": [
+   "purusha",
+   "guna",
+   "ahankara",
+   "maya",
+   "sharira"
+  ],
+  "chapters": [
+   3,
+   7,
+   13,
+   14,
+   15
+  ]
+ },
+ {
+  "id": "purusha",
+  "sa": "पुरुष",
+  "iast": "puruṣa",
+  "en": "The Conscious Self",
+  "hi": "पुरुष",
+  "short": {
+   "en": "The knower within — beginningless, beyond the gunas, untouched by action.",
+   "hi": "भीतरका ज्ञाता — अनादि, गुणोंसे परे, कर्मसे अलिप्त।"
+  },
+  "what": {
+   "en": "Purusha is the conscious principle — the knower of the field, the self. Chapter 13 examines it alongside prakriti, and chapter 15 speaks of the Supreme Person, Purushottama.",
+   "hi": "पुरुष चेतन तत्त्व है — क्षेत्रका ज्ञाता, स्वयं। तेरहवें अध्यायमें इसका प्रकृतिके साथ विवेचन है और पन्द्रहवें अध्यायमें पुरुषोत्तम परमात्माका वर्णन है।"
+  },
+  "source": {
+   "en": "Being beginningless and free of the gunas, purusha is the imperishable Supreme Self; though in the body, it neither acts nor is touched (13.31). Swamiji draws the contrast: purusha is beginningless, the body has a beginning; purusha is beyond the gunas, the body is made of them; purusha is imperishable, the body perishes (13.31). Purusha becomes the 'enjoyer' of the gunas only when it takes the body as 'I' and 'mine' — like a driver who alone is punished for an accident because he connected himself with the car (13.21). It seems that bondage is natural and liberation must be earned, but in truth liberation is natural and bondage is made (13.31). Beyond the perishable and the imperishable is the Supreme Person, God, who enters and sustains the three worlds (15.17).",
+   "hi": "अनादि और निर्गुण होनेसे यह पुरुष अविनाशी परमात्मस्वरूप ही है; शरीरमें रहता हुआ भी न करता है, न लिप्त होता है (१३।३१)। स्वामीजी अन्तर बताते हैं — पुरुष अनादि है, शरीर आदिवाला; पुरुष निर्गुण है, शरीर गुणमय; पुरुष अव्यय है, शरीर नाशवान् (१३।३१)। शरीरको 'मैं' और 'मेरा' माननेपर ही पुरुष गुणोंका भोक्ता बनता है — जैसे मोटर-दुर्घटनाका दण्ड मोटरसे सम्बन्ध जोड़नेवाले चालकको ही भोगना पड़ता है (१३।२१)। दीखता है कि बन्धन स्वाभाविक है और मुक्ति करनी पड़ती है, पर वास्तवमें मुक्ति स्वाभाविक है और बन्धन बनाया हुआ है (१३।३१)। क्षर और अक्षरसे उत्तम पुरुष परमात्मा है, जो तीनों लोकोंमें प्रविष्ट होकर सबका भरण-पोषण करता है (१५।१७)।"
+  },
+  "quote": {
+   "hi": "पुरुष अनादि है, पर शरीर आदिवाला है। पुरुष निर्गुण है, पर शरीर गुणमय है। पुरुष परमात्मा है, पर शरीर अनात्मा है। पुरुष अव्यय है, पर शरीर नाशवान् है।",
+   "from": "13.31"
+  },
+  "verses": [
+   "13.1",
+   "13.19",
+   "13.21",
+   "13.31",
+   "15.7",
+   "15.17"
+  ],
+  "related": [
+   "prakriti",
+   "atma",
+   "ishvara",
+   "guna",
+   "moksha"
+  ],
+  "chapters": [
+   13,
+   15
+  ]
+ },
+ {
+  "id": "guna",
+  "sa": "गुण",
+  "iast": "guṇa",
+  "en": "The Three Qualities",
+  "hi": "गुण (सत्त्व, रज, तम)",
+  "short": {
+   "en": "Sattva, rajas and tamas — they bind us only when we associate with them.",
+   "hi": "सत्त्व, रज और तम — ये तभी बाँधते हैं जब हम इनका संग करते हैं।"
+  },
+  "what": {
+   "en": "The gunas — sattva, rajas and tamas — are the three qualities born of prakriti, whose combinations make up all beings and activity. Chapter 14 explains how they bind and how one goes beyond them.",
+   "hi": "सत्त्व, रज और तम — ये प्रकृतिसे उत्पन्न तीन गुण हैं, जिनके मेलसे सब प्राणी और क्रियाएँ बनती हैं। चौदहवें अध्यायमें बताया गया है कि ये कैसे बाँधते हैं और इनसे पार कैसे हों।"
+  },
+  "source": {
+   "en": "Sattva, rajas and tamas, born of prakriti, bind the imperishable embodied one to the body (14.5). Swamiji clarifies that the gunas do not bind anyone by themselves; a person binds himself by associating with them — by taking their products, such as wealth, family, body, moods and situations, as his own (14.5). If the gunas bound by themselves, no one could ever become free while they remain (14.5). When one sees no doer other than the gunas and knows oneself as beyond them, one attains God's being (14.19). Association with the gunas is the cause of birth in higher and lower wombs (13.21). Through undeviating devotion too one goes beyond the gunas (14.26), and those who take refuge in God cross the guna-made maya (7.14).",
+   "hi": "प्रकृतिसे उत्पन्न सत्त्व, रज और तम — ये तीनों गुण अविनाशी देहीको देहमें बाँध देते हैं (१४।५)। स्वामीजी स्पष्ट करते हैं कि गुण अपनी ओरसे किसीको नहीं बाँधते, जीव ही उनका संग करके — धन, परिवार, शरीर, वृत्तियाँ, परिस्थितियाँ आदिको अपना मानकर — बँध जाता है (१४।५)। यदि गुण बाँधनेवाले होते तो गुणोंके रहते कोई मुक्त हो ही नहीं सकता (१४।५)। जब विवेकी मनुष्य गुणोंके सिवाय किसीको कर्ता नहीं देखता और अपनेको गुणोंसे पर अनुभव करता है, तब भगवान्के भावको प्राप्त होता है (१४।१९)। गुणोंका संग ही ऊँच-नीच योनियोंमें जन्मका कारण है (१३।२१)। अव्यभिचारी भक्तिसे भी गुणोंका अतिक्रमण होता है (१४।२६), और भगवान्की शरण लेनेवाले गुणमयी मायाको तर जाते हैं (७।१४)।"
+  },
+  "quote": {
+   "hi": "वास्तवमें गुण जीवको नहीं बाँधते, प्रत्युत जीव ही उनका संग करके बँध जाता है",
+   "from": "14.5"
+  },
+  "verses": [
+   "3.27",
+   "7.14",
+   "13.21",
+   "14.5",
+   "14.19",
+   "14.26",
+   "17.2"
+  ],
+  "related": [
+   "prakriti",
+   "maya",
+   "shraddha",
+   "bhakti",
+   "asakti"
+  ],
+  "chapters": [
+   3,
+   7,
+   13,
+   14,
+   17
+  ]
+ },
+ {
+  "id": "maya",
+  "sa": "माया",
+  "iast": "māyā",
+  "en": "Maya",
+  "hi": "माया",
+  "short": {
+   "en": "God's power made of the gunas — hard to cross only while we give it a reality of its own.",
+   "hi": "भगवान्की गुणमयी शक्ति — दुस्तर तभीतक, जबतक हम इसे अलग सत्ता देते हैं।"
+  },
+  "what": {
+   "en": "Maya is God's divine power, made of the three gunas, in which beings get entangled. Swamiji emphasises that it holds us only because we give it an existence and importance of its own, apart from God.",
+   "hi": "माया भगवान्की तीन गुणोंवाली दैवी शक्ति है, जिसमें जीव उलझे रहते हैं। स्वामीजी बताते हैं कि यह हमें तभी बाँधती है जब हम भगवान्से अलग इसकी सत्ता और महत्ता मानते हैं।"
+  },
+  "source": {
+   "en": "Krishna says His divine maya made of the gunas is very hard to cross, but those who take refuge in Him alone cross it (7.14). Swamiji explains that it is 'hard to cross' because people keep identifying with passing states — happy or sad, clever or confused, strong or weak — and remain bound by them (7.14). This maya becomes insurmountable only when the gunas are given an existence and importance of their own, apart from God (7.14). Taking refuge means merging one's own existence into God's, relying neither on the ego nor on maya; this needs no labour (7.14). God appears through His own yogamaya while remaining unborn and imperishable (4.6), and stays veiled by it from those who do not accept Him (7.25).",
+   "hi": "भगवान् कहते हैं कि मेरी यह गुणमयी दैवी माया दुरत्यय है, पर जो केवल मेरे शरण होते हैं वे इसे तर जाते हैं (७।१४)। स्वामीजी बताते हैं कि मनुष्य अपनेको कभी सुखी-कभी दु:खी, कभी समझदार-कभी बेसमझ, कभी बलवान्-कभी निर्बल मानकर इन आने-जानेवाले भावोंमें बँधे रहते हैं — यही इसका दुरत्ययपना है (७।१४)। यह माया तभी दुरत्यय होती है जब भगवान्के सिवाय गुणोंकी स्वतन्त्र सत्ता और महत्ता मानी जाय (७।१४)। शरणागतिका अर्थ है भगवान्की सत्तामें अपनी सत्ता मिला देना — न अहम्का आश्रय, न मायाका; इसमें कोई परिश्रम नहीं है (७।१४)। भगवान् अज और अविनाशी रहते हुए अपनी योगमायासे प्रकट होते हैं (४।६), और जो उन्हें नहीं मानते, उनके सामने योगमायासे ढके रहते हैं (७।२५)।"
+  },
+  "quote": {
+   "hi": "यह गुणमयी माया तभी दुरत्यय होती है; जब भगवान्के सिवाय गुणोंकी स्वतन्त्र सत्ता और महत्ता मानी जाय।",
+   "from": "7.14"
+  },
+  "verses": [
+   "4.6",
+   "7.14",
+   "7.25",
+   "18.61"
+  ],
+  "related": [
+   "guna",
+   "prakriti",
+   "sharanagati",
+   "ishvara"
+  ],
+  "chapters": [
+   4,
+   7,
+   18
+  ]
+ },
+ {
+  "id": "shraddha",
+  "sa": "श्रद्धा",
+  "iast": "śraddhā",
+  "en": "Faith",
+  "hi": "श्रद्धा",
+  "short": {
+   "en": "Reverent trust — and a person becomes what their faith is.",
+   "hi": "आदरपूर्वक विश्वास — और जैसी जिसकी श्रद्धा, वैसा उसका स्वरूप।"
+  },
+  "what": {
+   "en": "Shraddha is reverent faith: trusting God, great souls, dharma and the scriptures as firmly as what one sees directly. The Gita teaches that everyone has faith of some kind, shaped by their inner nature.",
+   "hi": "श्रद्धा है परमात्मा, महापुरुषों, धर्म और शास्त्रोंमें प्रत्यक्षकी तरह आदरपूर्वक विश्वास। गीता बताती है कि हर मनुष्यमें किसी-न-किसी प्रकारकी श्रद्धा होती है, जो उसके अन्त:करणके अनुसार होती है।"
+  },
+  "source": {
+   "en": "Swamiji defines shraddha as reverent belief in God, the great souls, dharma and the scriptures, as firm as direct perception (4.39). Because a person may think his faith is greater than it is, Krishna gives its signs: control of the senses and wholehearted devotion to practice (4.39). One with faith gains knowledge and at once attains supreme peace (4.39). Everyone's natural faith is of three kinds — sattvic, rajasic and tamasic (17.2) — and it follows the nature of one's inner being; a person is made of faith, and as one's faith is, so one is (17.3). Faith is a bhava: the one leading towards God is a good bhava, the one leading towards the world is not (17.3). God is not an object of argument but of faith and trust (15.17).",
+   "hi": "स्वामीजी बताते हैं कि परमात्मा, महापुरुषों, धर्म और शास्त्रोंमें प्रत्यक्षकी तरह आदरपूर्वक विश्वास होना श्रद्धा है (४।३९)। मनुष्य भूलसे अपनेको अधिक श्रद्धावान् मान सकता है, इसलिये भगवान् उसकी पहचान बताते हैं — संयतेन्द्रिय और तत्पर होना (४।३९)। श्रद्धावान् ज्ञानको पाकर तत्काल परम शान्तिको प्राप्त होता है (४।३९)। मनुष्योंकी स्वभावजा श्रद्धा सात्त्विकी, राजसी और तामसी — तीन तरहकी होती है (१७।२), और अन्त:करणके अनुरूप होती है; मनुष्य श्रद्धामय है, जैसी जिसकी श्रद्धा, वैसा उसका स्वरूप (१७।३)। श्रद्धा भाव है — जो परमात्माकी ओर ले जाय वह सद्भाव, जो संसारकी ओर ले जाय वह असद्भाव (१७।३)। परमात्मा विचारके नहीं, श्रद्धा-विश्वासके विषय हैं (१५।१७)।"
+  },
+  "quote": {
+   "hi": "परमात्मामें, महापुरुषोंमें, धर्ममें और शास्त्रोंमें प्रत्यक्षकी तरह आदरपूर्वक विश्वास होना ‘श्रद्धा’ कहलाती है।",
+   "from": "4.39"
+  },
+  "verses": [
+   "4.39",
+   "4.40",
+   "15.17",
+   "17.2",
+   "17.3"
+  ],
+  "related": [
+   "bhakti",
+   "jnana",
+   "guna",
+   "ishvara"
+  ],
+  "chapters": [
+   4,
+   15,
+   17
+  ]
+ },
+ {
+  "id": "tyaga",
+  "sa": "त्याग",
+  "iast": "tyāga",
+  "en": "Renunciation",
+  "hi": "त्याग",
+  "short": {
+   "en": "Real renunciation is inner — giving up the desire for the fruit, not the work.",
+   "hi": "वास्तविक त्याग भीतरका है — फलकी इच्छाका त्याग, कर्मका नहीं।"
+  },
+  "what": {
+   "en": "Tyaga means giving up. The Gita, as Swamiji explains it, insists that true tyaga is letting go of desire, 'mine' and attachment, while continuing to do one's duty.",
+   "hi": "त्यागका अर्थ है छोड़ना। स्वामीजीके अनुसार गीता कहती है कि कर्तव्य करते हुए कामना, ममता और आसक्तिको छोड़ना ही सच्चा त्याग है।"
+  },
+  "source": {
+   "en": "Of the views Krishna lists, one says tyaga is giving up the fruit of all actions — that is, doing one's duty without wanting its fruit (18.2). An embodied person cannot give up action completely, so the one who gives up the fruit of action is called the true renouncer (18.11). Swamiji explains this means giving up the desire for the fruit, since the fruit itself cannot be given up; outer renunciation is not really renunciation — inner renunciation is (18.11). Sattvic tyaga is doing prescribed action as mere duty, giving up attachment and fruit; this breaks one's connection with the action (18.9). Giving up the desire for the fruit of all actions brings peace at once — 'tyagat shantir anantaram' (12.12). Liberation comes not from giving up things but from giving up desire (12.12).",
+   "hi": "भगवान्ने जो मत बताये, उनमें एक यह है कि सब कर्मोंके फलकी इच्छाका त्याग करके कर्तव्य करते रहना त्याग है (१८।२)। देहधारीके लिये कर्मोंका सर्वथा त्याग सम्भव नहीं, इसलिये जो कर्मफलका त्यागी है वही त्यागी है (१८।११)। स्वामीजी बताते हैं कि यहाँ फलकी इच्छाका त्याग समझना चाहिये, क्योंकि फलका त्याग तो हो ही नहीं सकता; बाहरका त्याग वास्तवमें त्याग नहीं, भीतरका त्याग ही त्याग है (१८।११)। 'केवल कर्तव्यमात्र करना है' — ऐसा समझकर आसक्ति और फलेच्छा छोड़कर किया गया कर्म सात्त्विक त्याग है, जिससे कर्मसे सम्बन्ध-विच्छेद हो जाता है (१८।९)। कर्मफलकी इच्छाके त्यागसे तत्काल शान्ति मिलती है — 'त्यागाच्छान्तिरनन्तरम्' (१२।१२)। मुक्ति वस्तुके त्यागसे नहीं, इच्छाके त्यागसे होती है (१२।१२)।"
+  },
+  "quote": {
+   "hi": "बाहरका त्याग वास्तवमें त्याग नहीं है, प्रत्युत भीतरका त्याग ही त्याग है। अगर कोई बाहरसे त्याग करके एकान्तमें चला जाय तो भी संसारका बीज शरीर तो उसके साथ है ही।",
+   "from": "18.11"
+  },
+  "verses": [
+   "5.12",
+   "6.1",
+   "12.12",
+   "18.2",
+   "18.9",
+   "18.11"
+  ],
+  "related": [
+   "sannyasa",
+   "phala",
+   "nishkama-karma",
+   "vairagya",
+   "asakti"
+  ],
+  "chapters": [
+   5,
+   6,
+   12,
+   18
+  ]
+ },
+ {
+  "id": "sannyasa",
+  "sa": "संन्यास",
+  "iast": "sannyāsa",
+  "en": "Renunciation (Sankhya)",
+  "hi": "संन्यास (सांख्ययोग)",
+  "short": {
+   "en": "Not walking away from work, but being free of dependence on its fruit.",
+   "hi": "कर्म छोड़कर जाना नहीं, कर्मफलके आश्रयसे मुक्त होना।"
+  },
+  "what": {
+   "en": "Sannyasa usually means formally giving up action and household life. In the Gita, Swamiji explains, it mostly means Sankhya Yoga — the path of knowledge — which does not require giving up actions outwardly.",
+   "hi": "संन्यासका सामान्य अर्थ है कर्मों और गृहस्थका विधिपूर्वक त्याग। स्वामीजी बताते हैं कि गीतामें इसका अर्थ प्राय: सांख्ययोग (ज्ञानमार्ग) है, जिसमें कर्मोंका स्वरूपसे त्याग आवश्यक नहीं।"
+  },
+  "source": {
+   "en": "Swamiji explains that 'sannyasa' in 5.2 means Sankhya Yoga, not physically giving up actions; both it and Karma Yoga lead to the highest good, but Karma Yoga is superior (5.2). One who neither hates nor desires should be known as a constant sannyasi, even while working (5.3). One who does his duty without depending on its fruit is both a sannyasi and a yogi — not the one who merely gives up the sacred fire or activity (6.1). Swamiji adds that the one who gives up dependence on things, people and actions while doing the duty at hand is the true sannyasi and yogi (6.1). Without Karma Yoga, Sankhya Yoga is hard to attain, because attachment must first be removed by working for others (5.6). One whose intellect is unattached everywhere attains the highest perfection of actionlessness through sannyasa (18.49).",
+   "hi": "स्वामीजी बताते हैं कि ५।२ में 'संन्यास'का अर्थ सांख्ययोग है, कर्मोंका स्वरूपसे त्याग नहीं; सांख्ययोग और कर्मयोग दोनों कल्याण करनेवाले हैं, पर कर्मयोग श्रेष्ठ है (५।२)। जो न द्वेष करता है, न आकांक्षा — वह कर्म करते हुए भी सदा संन्यासी समझनेयोग्य है (५।३)। कर्मफलका आश्रय न लेकर कर्तव्य करनेवाला ही संन्यासी और योगी है, केवल अग्नि या क्रियाओंका त्याग करनेवाला नहीं (६।१)। वस्तु, व्यक्ति और क्रिया — तीनोंके आश्रयका त्याग करके प्राप्त कर्तव्यका पालन करनेवाला ही सच्चा संन्यासी और योगी है (६।१)। कर्मयोगके बिना सांख्ययोग सिद्ध होना कठिन है, क्योंकि पहले दूसरोंके हितके लिये कर्म करके राग मिटाना आवश्यक है (५।६)। जिसकी बुद्धि सर्वत्र आसक्तिरहित है, वह सांख्ययोगसे नैष्कर्म्यसिद्धिको प्राप्त होता है (१८।४९)।"
+  },
+  "quote": {
+   "hi": "जो वस्तु, व्यक्ति और क्रिया—तीनोंके आश्रयका त्याग करके प्राप्त कर्तव्यका पालन करता है, वही सच्चा संन्यासी तथा योगी है।",
+   "from": "6.1"
+  },
+  "verses": [
+   "5.2",
+   "5.3",
+   "5.6",
+   "6.1",
+   "18.1",
+   "18.2",
+   "18.49"
+  ],
+  "related": [
+   "tyaga",
+   "jnana",
+   "nishkama-karma",
+   "yoga"
+  ],
+  "chapters": [
+   5,
+   6,
+   18
+  ]
+ },
+ {
+  "id": "sthitaprajna",
+  "sa": "स्थितप्रज्ञ",
+  "iast": "sthitaprajña",
+  "en": "One of Steady Wisdom",
+  "hi": "स्थितप्रज्ञ (स्थिरबुद्धि)",
+  "short": {
+   "en": "One who has let go of all desires and is content in the Self.",
+   "hi": "जिसने सब कामनाओंको छोड़ दिया और जो अपने-आपमें सन्तुष्ट है।"
+  },
+  "what": {
+   "en": "A sthitaprajna is a person whose intellect is firmly settled. Arjuna asks about such a person in chapter 2, and Krishna describes him from verse 55 to the end of the chapter; in Swamiji's reading this is the perfected karma yogi.",
+   "hi": "स्थितप्रज्ञ वह है जिसकी बुद्धि स्थिर हो गयी है। दूसरे अध्यायमें अर्जुन उसके बारेमें पूछते हैं और भगवान् पचपनवें श्लोकसे अध्यायके अन्ततक उसका वर्णन करते हैं; स्वामीजीके अनुसार यह कर्मयोगसे सिद्ध पुरुषका वर्णन है।"
+  },
+  "source": {
+   "en": "One who gives up all the desires that arise in the mind and is content in the Self by the Self is called steady in wisdom (2.55). Swamiji notes that desire is neither in the self nor truly in the mind — it comes and goes, while the self remains (2.55). The Gita gives more weight to steadiness of the intellect, meaning firmness of aim, than to stillness of the mind (2.55). Such a person is not shaken in sorrow nor craving in pleasure, and is free of attachment, fear and anger (2.56). Enjoyments come to him as rivers enter the full ocean without disturbing it; he attains peace, not the one who desires enjoyments (2.70). Giving up all desires, free of longing, 'mine' and 'I', he attains peace (2.71).",
+   "hi": "जब साधक मनमें आयी सब कामनाओंको छोड़ देता है और अपने-आपसे अपने-आपमें सन्तुष्ट रहता है, तब वह स्थिरबुद्धि कहा जाता है (२।५५)। स्वामीजी कहते हैं कि कामना न स्वयंमें है, न मनमें — वह आने-जानेवाली है और स्वयं निरन्तर रहनेवाला है (२।५५)। गीता मनकी स्थिरतासे अधिक बुद्धिकी स्थिरता अर्थात् उद्देश्यकी दृढ़ताको महत्त्व देती है (२।५५)। ऐसा पुरुष दु:खमें उद्विग्न नहीं होता, सुखमें स्पृहा नहीं करता और राग, भय, क्रोधसे रहित होता है (२।५६)। जैसे नदियाँ परिपूर्ण समुद्रमें मिलती हैं पर वह अचल रहता है, वैसे भोग उसे विकार पैदा किये बिना प्राप्त होते हैं; वही शान्ति पाता है, भोगोंकी कामनावाला नहीं (२।७०)। सब कामनाओंको छोड़कर नि:स्पृह, निर्मम और निरहंकार होकर वह शान्तिको प्राप्त होता है (२।७१)।"
+  },
+  "quote": {
+   "hi": "जिस समय साधक सांसारिक रुचिका त्याग करके अपने स्वरूपमें स्थित रहता है, उस समय वह स्थिर बुद्धिवाला कहा जाता है।",
+   "from": "2.55"
+  },
+  "verses": [
+   "2.54",
+   "2.55",
+   "2.56",
+   "2.59",
+   "2.70",
+   "2.71"
+  ],
+  "related": [
+   "samatva",
+   "kama",
+   "asakti",
+   "vairagya",
+   "krodha"
+  ],
+  "chapters": [
+   2
+  ]
+ },
+ {
+  "id": "dhyana",
+  "sa": "ध्यान",
+  "iast": "dhyāna",
+  "en": "Meditation",
+  "hi": "ध्यान (ध्यानयोग)",
+  "short": {
+   "en": "Bringing the wandering mind back to God — again and again, with patience.",
+   "hi": "भटकते मनको बार-बार धैर्यपूर्वक परमात्मामें लगाना।"
+  },
+  "what": {
+   "en": "Dhyana Yoga is the practice of settling the mind on God, described in detail in chapter 6. Swamiji notes that, unlike Karma, Jnana and Bhakti Yoga, it depends on instruments such as the mind.",
+   "hi": "ध्यानयोग मनको परमात्मामें स्थिर करनेका साधन है, जिसका विस्तृत वर्णन छठे अध्यायमें है। स्वामीजी बताते हैं कि कर्मयोग, ज्ञानयोग और भक्तियोगकी तरह यह करणनिरपेक्ष नहीं, करणसापेक्ष साधन है।"
+  },
+  "source": {
+   "en": "Swamiji notes that Karma, Jnana and Bhakti Yoga do not depend on instruments, but Dhyana Yoga does (6.10). The meditator should not hoard things for pleasure, should be free of inner craving, and should sit alone in a quiet place (6.10). The disciplined mind is compared to a lamp in a windless place, whose flame does not flicker (6.19). Seekers often grow tired and discouraged; Krishna asks for patience — keep the same firmness in failure as in success, since there is no higher work than this (6.25). Wherever the restless mind wanders, from there bring it back and settle it on God, again and again (6.26). Swamiji adds that an excellent way is to see God wherever the mind goes (6.26); and the mind is controlled by practice and dispassion (6.35).",
+   "hi": "स्वामीजी बताते हैं कि कर्मयोग, ज्ञानयोग और भक्तियोग करणनिरपेक्ष हैं, पर ध्यानयोग करणसापेक्ष है (६।१०)। ध्यानयोगी भोगबुद्धिसे संग्रह न करे, भीतरकी इच्छासे रहित हो और अकेला एकान्तमें बैठे (६।१०)। वशमें किये हुए चित्तकी उपमा वायुरहित स्थानमें रखे दीपककी लौसे दी गयी है, जो हिलती नहीं (६।१९)। साधनमें प्राय: उकताहट और निराशा आती है; भगवान् धैर्य रखनेको कहते हैं — सफलताकी तरह विफलतामें भी वैसा ही धैर्य रहे, क्योंकि इससे बढ़कर कोई काम नहीं (६।२५)। चंचल मन जहाँ-जहाँ जाय, वहाँ-वहाँसे हटाकर बार-बार परमात्मामें लगाये (६।२६)। स्वामीजी कहते हैं कि एक श्रेष्ठ उपाय है — मन जहाँ जाय वहाँ परमात्माको ही देखे (६।२६); और मनका निग्रह अभ्यास तथा वैराग्यसे होता है (६।३५)।"
+  },
+  "quote": {
+   "hi": "इसलिये साधकको चाहिये कि यह मन जहाँ-जहाँ जाय, जिस-जिस कारणसे जाय, जैसे-जैसे जाय और जब-जब जाय, इसको वहाँ-वहाँसे, उस-उस कारणसे वैसे-वैसे और तब-तब हटाकर परमात्मामें लगाये।",
+   "from": "6.26"
+  },
+  "verses": [
+   "6.10",
+   "6.19",
+   "6.23",
+   "6.25",
+   "6.26",
+   "6.35",
+   "12.8"
+  ],
+  "related": [
+   "yoga",
+   "vairagya",
+   "bhakti",
+   "sthitaprajna"
+  ],
+  "chapters": [
+   6,
+   12
+  ]
+ },
+ {
+  "id": "moksha",
+  "sa": "मोक्ष",
+  "iast": "mokṣa",
+  "en": "Liberation",
+  "hi": "मोक्ष (मुक्ति)",
+  "short": {
+   "en": "Freedom from bondage — which is natural; the bondage is what we made.",
+   "hi": "बन्धनसे छुटकारा — जो स्वाभाविक है; बन्धन हमारा बनाया हुआ है।"
+  },
+  "what": {
+   "en": "Moksha is liberation: freedom from bondage to the world and from repeated birth and death. Swamiji's striking teaching is that liberation is our natural state, and bondage comes from our own assumed relationship with the body and the world.",
+   "hi": "मोक्ष है संसारके बन्धन और बार-बार जन्म-मरणसे मुक्ति। स्वामीजीकी विशेष बात यह है कि मुक्ति हमारी स्वाभाविक स्थिति है, और बन्धन शरीर-संसारसे माने हुए सम्बन्धसे है।"
+  },
+  "source": {
+   "en": "Swamiji says it looks as though bondage were natural and liberation had to be achieved, but in truth liberation is natural and bondage is made (13.31). The self is already free; only attachment keeps us from experiencing that freedom (6.1). Liberation does not come from giving up things but from giving up desire (12.12). Great souls who reach God do not return to rebirth, which is 'the home of sorrow' (8.15). The Gita's ways to it include knowledge (5.16), action without attachment (3.19) and, as the most secret teaching, surrender: 'I will free you from all sins' (18.66). Beyond liberation, Swamiji notes, lies love (prema) for God, which comes to the seeker who does not rest content with liberation (18.54).",
+   "hi": "स्वामीजी कहते हैं कि दीखता तो ऐसा है कि बन्धन स्वाभाविक है और मुक्ति कृतिसाध्य, पर वास्तवमें मुक्ति स्वाभाविक है और बन्धन कृतिसाध्य (१३।३१)। जीव स्वत: मुक्त है ही, केवल रागके कारण उस मुक्तिका अनुभव नहीं होता (६।१)। मुक्ति वस्तुके त्यागसे नहीं, इच्छाके त्यागसे होती है (१२।१२)। भगवान्को प्राप्त महात्मा दु:खालय पुनर्जन्मको प्राप्त नहीं होते (८।१५)। गीतामें इसके मार्ग हैं — ज्ञान (५।१६), आसक्तिरहित कर्म (३।१९), और सबसे गोपनीय — शरणागति: 'मैं तुझे सब पापोंसे मुक्त कर दूँगा' (१८।६६)। स्वामीजी बताते हैं कि जिस साधकको मुक्तिमें सन्तोष नहीं होता, उसे मुक्तिके बाद प्रेम (पराभक्ति) प्राप्त होता है (१८।५४)।"
+  },
+  "quote": {
+   "hi": "दीखता तो ऐसा ही है कि बन्धन स्वत:-स्वाभाविक है और मुक्ति कृतिसाध्य है, पर वास्तवमें मुक्ति स्वत:-स्वाभाविक है और बन्धन कृतिसाध्य है।",
+   "from": "13.31"
+  },
+  "verses": [
+   "3.19",
+   "5.24",
+   "6.1",
+   "8.15",
+   "12.12",
+   "13.31",
+   "18.54",
+   "18.66"
+  ],
+  "related": [
+   "jnana",
+   "bhakti",
+   "sharanagati",
+   "tyaga",
+   "atma"
+  ],
+  "chapters": [
+   3,
+   5,
+   6,
+   8,
+   12,
+   13,
+   18
+  ]
+ },
+ {
+  "id": "ishvara",
+  "sa": "ईश्वर",
+  "iast": "īśvara",
+  "en": "God, the Lord",
+  "hi": "ईश्वर (भगवान्)",
+  "short": {
+   "en": "The Supreme Person, present in every heart, who sustains all.",
+   "hi": "सबके हृदयमें रहनेवाले, सबका भरण-पोषण करनेवाले परमात्मा।"
+  },
+  "what": {
+   "en": "Ishvara is God — the Lord of all beings, dwelling in every heart. In the Gita, Krishna speaks as that God, who is both formless and with form.",
+   "hi": "ईश्वर भगवान् हैं — सब प्राणियोंके स्वामी, जो सबके हृदयमें रहते हैं। गीतामें श्रीकृष्ण उसी भगवान्के रूपमें बोलते हैं, जो साकार भी हैं और निराकार भी।"
+  },
+  "source": {
+   "en": "Though unborn, imperishable and the Lord of all beings, God manifests by His own yogamaya, keeping His prakriti under His control (4.6). The whole world is pervaded by His unmanifest form (9.4). Beyond the perishable and the imperishable is the Supreme Person, who enters the three worlds and sustains them (15.17). Swamiji notes that God is not an object of argument but of faith and trust, to which devotees, saints and scriptures bear witness (15.17). God dwells in the hearts of all and moves beings mounted on the machine of the body — like a train that carries whoever has boarded it (18.61). He prompts beings according to their nature but does not insist, and so Krishna says: take refuge in Him with all your being (18.61, 18.62).",
+   "hi": "अजन्मा, अविनाशी और सब प्राणियोंके ईश्वर होते हुए भी भगवान् अपनी प्रकृतिको अधीन करके योगमायासे प्रकट होते हैं (४।६)। यह सारा संसार उनके निराकार स्वरूपसे व्याप्त है (९।४)। क्षर और अक्षरसे उत्तम पुरुष परमात्मा हैं, जो तीनों लोकोंमें प्रविष्ट होकर सबका भरण-पोषण करते हैं (१५।१७)। स्वामीजी कहते हैं कि परमात्मा विचारके नहीं, श्रद्धा-विश्वासके विषय हैं; उनके होनेमें भक्त, सन्त, वेद और शास्त्र प्रमाण हैं (१५।१७)। ईश्वर सबके हृदयमें रहकर शरीररूपी यन्त्रपर आरूढ़ प्राणियोंको घुमाते हैं — जैसे रेलपर चढ़नेवालेको रेलके अनुसार जाना पड़ता है (१८।६१)। वे स्वभावके अनुसार प्रेरणा करते हैं पर आग्रह नहीं रखते; इसलिये भगवान् कहते हैं — सर्वभावसे उसी ईश्वरकी शरणमें जा (१८।६१, १८।६२)।"
+  },
+  "quote": {
+   "hi": "भगवान् प्राणियोंको उनके स्व-स्वभावके अनुसार कर्म करनेकी प्रेरणा तो करते हैं, पर उसमें अपना आग्रह नहीं रखते।",
+   "from": "18.61"
+  },
+  "verses": [
+   "4.6",
+   "9.4",
+   "13.27",
+   "15.17",
+   "18.61",
+   "18.62"
+  ],
+  "related": [
+   "bhakti",
+   "sharanagati",
+   "maya",
+   "purusha",
+   "shraddha"
+  ],
+  "chapters": [
+   4,
+   9,
+   13,
+   15,
+   18
+  ]
+ },
+ {
+  "id": "yajna",
+  "sa": "यज्ञ",
+  "iast": "yajña",
+  "en": "Sacrifice (Duty for Others)",
+  "hi": "यज्ञ",
+  "short": {
+   "en": "In the Gita, every duty done for the good of others is yajna.",
+   "hi": "गीताके अनुसार दूसरोंके हितके लिये किया गया हर कर्तव्य यज्ञ है।"
+  },
+  "what": {
+   "en": "Traditionally a yajna is a Vedic fire ritual. The Gita widens the word: Swamiji explains that all duty done for the welfare of others is yajna.",
+   "hi": "परम्परासे यज्ञ वैदिक अग्निहोत्र आदि कर्म है। गीता इसका अर्थ व्यापक करती है — स्वामीजी बताते हैं कि दूसरोंके हितके लिये किया गया प्रत्येक कर्तव्य यज्ञ है।"
+  },
+  "source": {
+   "en": "Swamiji states that in the Gita all duty is called 'yajna' — business, a job, studying and teaching done as duty are all yajna, and whatever is done to give happiness and do good to others is action for yajna (3.9). Actions done as yajna quickly dissolve attachment and do not bind, while actions done for oneself bind (3.9). At creation Brahma made human beings together with their duties, saying: by this you will prosper, and by supporting one another you will attain the highest good (3.10). What remains after such selfless work is yoga, equanimity — the 'remnant of sacrifice' that frees from all sins; those who cook only for themselves eat sin (3.13). The whole range of yajnas described in chapter four falls within Karma Yoga, and for the one who acts for yajna all karma dissolves (4.23, 4.24).",
+   "hi": "स्वामीजी बताते हैं कि गीताके अनुसार कर्तव्यमात्रका नाम यज्ञ है — कर्तव्य मानकर किये जानेवाले व्यापार, नौकरी, अध्ययन, अध्यापन भी यज्ञ हैं, और दूसरोंको सुख पहुँचाने तथा उनका हित करनेके लिये किये गये सब कर्म यज्ञार्थ कर्म हैं (३।९)। यज्ञार्थ कर्मसे आसक्ति जल्दी मिटती है और वे बाँधते नहीं, अपने लिये किये गये कर्म ही बाँधते हैं (३।९)। सृष्टिके आरम्भमें ब्रह्माजीने कर्तव्यसहित मनुष्योंकी रचना करके कहा कि इस कर्तव्यसे सबकी वृद्धि करो और एक-दूसरेको उन्नत करते हुए परम कल्याणको प्राप्त होओ (३।१०)। निष्कामभावसे कर्तव्य करनेपर यज्ञशेषके रूपमें योग (समता) बचता है, जो सब पापोंसे मुक्त करता है; जो केवल अपने लिये पकाते हैं वे पाप ही खाते हैं (३।१३)। चौथे अध्यायमें वर्णित सब यज्ञ कर्मयोगके अन्तर्गत हैं, और यज्ञके लिये कर्म करनेवालेके सब कर्म विलीन हो जाते हैं (४।२३, ४।२४)।"
+  },
+  "quote": {
+   "hi": "कर्तव्य मानकर किये जानेवाले व्यापार, नौकरी, अध्ययन, अध्यापन आदि सब शास्त्रविहित कर्मोंका नाम भी यज्ञ है। दूसरोंको सुख पहुँचाने तथा उनका हित करनेके लिये जो भी कर्म किये जाते हैं, वे सभी यज्ञार्थ कर्म हैं।",
+   "from": "3.9"
+  },
+  "verses": [
+   "3.9",
+   "3.10",
+   "3.13",
+   "4.23",
+   "4.24",
+   "18.46"
+  ],
+  "related": [
+   "karma",
+   "nishkama-karma",
+   "dharma",
+   "svadharma",
+   "samatva"
+  ],
+  "chapters": [
+   3,
+   4,
+   18
+  ]
+ }
+]

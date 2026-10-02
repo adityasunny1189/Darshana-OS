@@ -1,0 +1,35 @@
+{
+  "id": "valmiki",
+  "name": {
+    "en": "Valmiki",
+    "sa": "वाल्मीकि"
+  },
+  "traditions": [
+    "itihasa-purana"
+  ],
+  "period": "Legendary figure; the Valmiki Ramayana is placed by scholars roughly between the 5th century BCE and the early centuries CE, in layers.",
+  "context": "Valmiki is honoured in tradition as the adi-kavi, the 'first poet', and author of the Sanskrit Ramayana. What is known of him comes from the epic itself and later legend, including the well-known story that he was once a robber transformed through repetition of the divine Name; this story appears in later sources and is legendary. In the Ramayana's own frame he is a sage whose hermitage shelters Sita and who teaches the poem to her sons. Scholars regard the epic as having grown in stages, with the first and last books generally considered later additions.",
+  "coreIdeas": [
+    "Dharma embodied in character: Rama as the model of righteous conduct under pressure",
+    "Poetry arising from compassion: the frame story links the first verse to grief at the killing of a bird",
+    "The costs and tensions of duty, loyalty and kingship presented through narrative rather than argument",
+    "Traditionally also the narrator-sage of the Yoga Vasistha's frame, which teaches a strongly non-dual view"
+  ],
+  "works": [
+    "valmiki-ramayana",
+    "yoga-vasistha"
+  ],
+  "attributionNote": "The Valmiki Ramayana is traditionally his; scholars see it as layered. The Yoga Vasistha is traditionally attributed to Valmiki but is generally dated by scholars to roughly the 6th–14th centuries CE, far later than the epic.",
+  "influenced": [
+    "tulsidas"
+  ],
+  "relatedThinkers": [
+    "vyasa",
+    "tulsidas"
+  ],
+  "concepts": [
+    "dharma",
+    "svadharma",
+    "bhakti"
+  ]
+}

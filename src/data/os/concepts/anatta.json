@@ -1,0 +1,79 @@
+{
+  "id": "anatta",
+  "name": {
+    "en": "Anatta (Anatman)",
+    "sa": "अनात्मन्",
+    "iast": "anātman"
+  },
+  "short": "No-self: the Buddhist teaching that no permanent, independent self is found in experience.",
+  "beginner": "The Buddha taught that when you look carefully at body, feelings, perceptions, mental habits and awareness, you find no fixed, unchanging 'me' in any of them. Clinging to such a self is seen as a root of suffering.",
+  "what": "Anatta (Pali; Sanskrit anatman) is one of the three marks of existence with impermanence and unsatisfactoriness. The person is analysed into five aggregates (skandhas), none of which is permanent or under full control, so none qualifies as a self. The teaching targets the idea of an eternal, unchanging self (atman) of the kind held by several Brahmanical schools. Buddhist schools still affirm continuity of a person across lives through causal process, and they differ on how to describe that continuity.",
+  "scholar": "The Pudgalavada school posited a 'person' neither identical nor different from the aggregates, and was criticised by others. Abhidharma schools reduce persons to momentary dharmas; Madhyamaka extends the absence of self to all phenomena (dharma-nairatmya). Some modern scholars debate whether early texts deny any self or only refuse to identify one with the aggregates; traditional schools overwhelmingly read it as a denial of a permanent self.",
+  "perspectives": [
+    {
+      "tradition": "theravada",
+      "view": "No self is found in the five aggregates; seeing this directly, as impermanent and unsatisfactory, loosens craving and leads to nirvana."
+    },
+    {
+      "tradition": "madhyamaka",
+      "view": "Not only persons but all things lack intrinsic self-nature; no-self is extended to emptiness of all phenomena."
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Contrast: Vedanta agrees the body and mind are not the Self, but concludes there is a witnessing Self (atman) beyond them; this is a central point of Buddhist–Vedantic debate."
+    }
+  ],
+  "texts": [
+    "dhammapada",
+    "mulamadhyamakakarika"
+  ],
+  "traditions": [
+    "buddhism",
+    "theravada",
+    "madhyamaka"
+  ],
+  "relatedConcepts": [
+    "atma",
+    "anitya",
+    "dukkha",
+    "shunyata",
+    "pratityasamutpada",
+    "ahankara"
+  ],
+  "questions": [
+    "self",
+    "suffering"
+  ],
+  "follow": [
+    {
+      "kind": "thinker",
+      "id": "buddha",
+      "note": "The Buddha's analysis of the person into aggregates."
+    },
+    {
+      "kind": "concept",
+      "id": "anitya",
+      "note": "No-self is argued from impermanence."
+    },
+    {
+      "kind": "concept",
+      "id": "dukkha",
+      "note": "Clinging to self as a root of suffering."
+    },
+    {
+      "kind": "text",
+      "id": "mulamadhyamakakarika",
+      "note": "Nagarjuna extends no-self to all things."
+    },
+    {
+      "kind": "gita",
+      "id": "2.20",
+      "note": "Contrast: the Gita's teaching of an unborn, undying Self."
+    },
+    {
+      "kind": "concept",
+      "id": "atma",
+      "note": "Contrast in full: the Vedantic Self."
+    }
+  ]
+}

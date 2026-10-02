@@ -1,0 +1,103 @@
+{
+  "id": "nishkama-karma",
+  "name": {
+    "en": "Nishkama karma",
+    "sa": "निष्काम कर्म",
+    "iast": "niṣkāma karma"
+  },
+  "short": "Action performed without selfish desire for its results.",
+  "beginner": "Nishkama karma means doing what needs to be done, fully and well, without being driven by 'what's in it for me'. It is the heart of the Gita's karma yoga.",
+  "what": "The Gita rejects both giving up action and acting from craving. Its middle course is to act according to one's duty, with attention and skill, while offering the results and remaining even-minded in success and failure. This turns ordinary work into a spiritual discipline (karma yoga). Traditional commentators differ on its ultimate purpose: for Shankara it purifies the mind for knowledge, for Ramanuja and Madhva it is a form of worship, and Sadhak Sanjivani presents it as a complete path in itself.",
+  "scholar": "Key verses include 2.47–48, 3.9, 3.19 and 18.9. Tilak's modern reading (Gita Rahasya) made karma yoga the Gita's central teaching; Gandhi's reading similarly emphasised anasakti (non-attachment). The contrast with sannyasa (renunciation of action) is debated in Gita 5 and 18. Buddhist and Jain ethics offer parallels in wholesome intention and non-attachment, without the frame of duty and offering to God.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Desireless action purifies the mind and prepares it for knowledge of the Self; final liberation comes from knowledge, not action."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Action without desire, done as worship of God, is an integral part of the devotee's life and path."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Action offered to Vishnu, without desire for personal fruit, pleases God and supports devotion."
+    },
+    {
+      "tradition": "modern",
+      "view": "Modern expositions, such as Vivekananda's Karma Yoga, present unselfish work as a complete spiritual path open to everyone."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist ethics shares the emphasis on intention and non-clinging, but frames it without a doctrine of duty or divine offering."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "vivekananda-karma-yoga",
+    "shankara-gita-bhashya",
+    "ramanuja-gita-bhashya"
+  ],
+  "traditions": [
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "modern",
+    "buddhism"
+  ],
+  "relatedConcepts": [
+    "karma",
+    "phala",
+    "asakti",
+    "samatva",
+    "yajna",
+    "tyaga"
+  ],
+  "questions": [
+    "karma",
+    "failure",
+    "live"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.47",
+      "note": "The core instruction on action and fruit."
+    },
+    {
+      "kind": "gita",
+      "id": "2.48",
+      "note": "Evenness in success and failure is called yoga."
+    },
+    {
+      "kind": "gita",
+      "id": "3.19",
+      "note": "Acting without attachment leads to the highest."
+    },
+    {
+      "kind": "thinker",
+      "id": "ramsukhdas",
+      "note": "Sadhak Sanjivani's practical reading of karma yoga."
+    },
+    {
+      "kind": "text",
+      "id": "vivekananda-karma-yoga",
+      "note": "A modern exposition of unselfish work."
+    },
+    {
+      "kind": "concept",
+      "id": "sannyasa",
+      "note": "Contrast: the path of renouncing action."
+    }
+  ],
+  "gitaVerses": [
+    "2.47",
+    "3.9",
+    "3.13",
+    "3.19",
+    "4.18",
+    "5.2",
+    "5.12",
+    "18.9"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "nirvana-shatakam",
+  "title": {
+    "en": "Nirvana Shatakam",
+    "sa": "निर्वाणषट्कम्",
+    "iast": "Nirvāṇaṣaṭkam"
+  },
+  "category": "devotional",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita"
+  ],
+  "attribution": "Traditionally attributed to Shankara; authorship debated",
+  "author": null,
+  "period": "Traditionally 8th century CE; date uncertain",
+  "language": "Sanskrit",
+  "difficulty": "beginner",
+  "themes": [
+    "Self",
+    "Negation",
+    "Consciousness",
+    "Identity"
+  ],
+  "summary": "A six-verse hymn, also called Atma Shatakam, in which the speaker negates identification with mind, body, senses and roles, and affirms identity with Shiva as pure consciousness and bliss.",
+  "whyRead": "In six verses it gives a sung, first-person version of the 'not this, not this' method. It is widely recited and a gentle entry into Advaita's view of the Self.",
+  "story": "Tradition says the young Shankara composed it when his future teacher Govindapada asked him who he was; this is a traditional account.",
+  "questions": [
+    "Who am I, if not my body, mind or roles?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Negation of the non-Self",
+      "text": "Each verse denies that the Self is mind, intellect, ego, senses, elements, breath, merit, demerit, relationships or even the seeker's own practices."
+    },
+    {
+      "title": "Affirmation",
+      "text": "Each verse ends by affirming the Self as consciousness and bliss, named as Shiva, understood here as the non-dual Self."
+    }
+  ],
+  "structure": [
+    {
+      "label": "6 verses with a refrain"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "atma",
+    "neti-neti",
+    "non-duality",
+    "shiva",
+    "atma-vichara"
+  ],
+  "relatedTexts": [
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "Source of the 'neti neti' method it enacts"
+    },
+    {
+      "id": "bhaja-govindam",
+      "note": "Another short hymn attributed to Shankara"
+    },
+    {
+      "id": "who-am-i",
+      "note": "Ramana Maharshi's inquiry asks the same question"
+    }
+  ],
+  "thinkers": [
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

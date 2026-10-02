@@ -1,0 +1,116 @@
+{
+  "id": "non-duality",
+  "name": {
+    "en": "Non-duality (advaya / advaita)",
+    "sa": "अद्वैत / अद्वय",
+    "iast": "advaita / advaya"
+  },
+  "short": "The claim that reality is ultimately 'not two' — understood very differently across schools.",
+  "beginner": "Non-duality means 'not two'. Several traditions say that, at the deepest level, the self and ultimate reality, or subject and object, are not separate — but they explain this in quite different ways.",
+  "what": "Non-duality is the view that ultimate reality is without a second. In Advaita Vedanta it means that the individual Self is identical with Brahman and the world is an appearance. In Kashmir Shaivism it means that everything is the real self-expression of one dynamic consciousness. In Mahayana Buddhism, advaya refers to the non-duality of subject and object, or of samsara and nirvana, without positing a single underlying substance. Qualified non-dualism (Vishishtadvaita) holds that God and the world are one as a body is one with its soul, while remaining distinct.",
+  "scholar": "Gaudapada's Mandukya Karika and Shankara's commentaries are the classical sources of Advaita; the doctrine of vivarta (apparent transformation) is contrasted with parinama (real transformation). Madhyamaka and Yogacara use advaya with different metaphysics, and scholars debate the degree of mutual influence between Gaudapada and Buddhist thought. Kashmir Shaivism explicitly criticises Advaita's treatment of the world as illusory. Dvaita and Nyaya reject non-dualism outright.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Brahman alone is real; the individual self is Brahman, and multiplicity is an appearance due to ignorance (avidya) and maya."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Ramanuja holds a qualified non-dualism: Brahman is one, but it is internally differentiated, with souls and matter as its real body and modes."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Madhva rejects non-duality, holding that God, souls and matter are eternally and really distinct."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Everything is one consciousness, Shiva, whose power really manifests the world; non-duality includes rather than denies the world."
+    },
+    {
+      "tradition": "madhyamaka",
+      "view": "Madhyamaka speaks of non-duality as the absence of inherent existence in all things, so that dichotomies such as samsara and nirvana do not hold ultimately, without affirming a single substance."
+    },
+    {
+      "tradition": "yogacara",
+      "view": "Yogacara emphasises the non-duality of perceiver and perceived, since both arise within consciousness."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Sikh thought affirms one all-pervading Creator present in creation, while retaining a devotional relation between the soul and the One."
+    }
+  ],
+  "texts": [
+    "mandukya-upanishad",
+    "mandukya-karika",
+    "ashtavakra-gita",
+    "sri-bhashya",
+    "pratyabhijna-hridayam",
+    "mulamadhyamakakarika"
+  ],
+  "traditions": [
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "kashmir-shaivism",
+    "madhyamaka",
+    "yogacara",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "brahman",
+    "atma",
+    "maya",
+    "shunyata",
+    "pratyabhijna",
+    "neti-neti"
+  ],
+  "questions": [
+    "reality",
+    "self",
+    "god"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "chandogya-upanishad",
+      "note": "Uddalaka's teaching to Shvetaketu of the one underlying reality."
+    },
+    {
+      "kind": "gita",
+      "id": "6.29",
+      "note": "The yogi sees the Self in all beings and all beings in the Self."
+    },
+    {
+      "kind": "gita",
+      "id": "7.19",
+      "note": "The rare great soul who sees that all is Vasudeva."
+    },
+    {
+      "kind": "text",
+      "id": "mandukya-karika",
+      "note": "Gaudapada's early systematic non-dualism."
+    },
+    {
+      "kind": "thinker",
+      "id": "shankara",
+      "note": "Shankara's Advaita Vedanta."
+    },
+    {
+      "kind": "tradition",
+      "id": "kashmir-shaivism",
+      "note": "A non-dualism that affirms the world as real."
+    },
+    {
+      "kind": "tradition",
+      "id": "madhyamaka",
+      "note": "Buddhist non-duality without a single underlying substance."
+    }
+  ],
+  "gitaVerses": [
+    "6.29",
+    "6.30",
+    "7.19",
+    "13.27",
+    "18.20"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "vedanta",
+  "name": {
+    "en": "Vedanta",
+    "sa": "वेदान्त",
+    "iast": "Vedānta"
+  },
+  "family": "darshana",
+  "parent": null,
+  "tagline": "The family of schools that interpret the Upanishads, Brahma Sutras and Bhagavad Gita.",
+  "period": "The Brahma Sutras are generally placed by scholars somewhere between the last centuries BCE and the early centuries CE; the major Vedanta schools developed from roughly the 6th–8th centuries CE onward.",
+  "overview": "Vedanta, literally \"the end of the Veda\", names the schools that take the Upanishads as their key authority, read alongside the Brahma Sutras and the Bhagavad Gita (together called the prasthana-traya, the \"three foundations\"). All Vedanta schools agree that Brahman is the ultimate reality and that knowledge of it is central to liberation. They disagree sharply on how the individual self (jiva), the world and Brahman relate: Advaita holds they are non-different, Vishishtadvaita that the world and selves are real modes of Brahman, and Dvaita that God, selves and matter are eternally distinct. Other Vedanta schools, such as those of Nimbarka, Vallabha and the Gaudiya tradition, add further positions. Vedanta is therefore best understood as a shared set of sources and questions rather than a single doctrine.",
+  "beginner": "Vedanta is a group of schools that try to explain what the Upanishads really mean. They all agree there is one ultimate reality, Brahman, but they disagree about whether you and the world are the same as it, part of it, or separate from it.",
+  "coreQuestions": [
+    "What is Brahman?",
+    "How does the individual self relate to Brahman?",
+    "Is the world real, and how does it come from Brahman?",
+    "Is liberation attained by knowledge, devotion, or grace?"
+  ],
+  "coreConcepts": [
+    "brahman",
+    "atma",
+    "jiva",
+    "maya",
+    "avidya",
+    "moksha",
+    "jnana",
+    "bhakti",
+    "ishvara"
+  ],
+  "texts": [
+    "brahma-sutras",
+    "bhagavad-gita",
+    "katha-upanishad",
+    "mandukya-upanishad",
+    "chandogya-upanishad",
+    "brihadaranyaka-upanishad"
+  ],
+  "thinkers": [
+    "vyasa",
+    "gaudapada",
+    "shankara",
+    "ramanuja",
+    "madhva"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "advaita",
+      "note": "Non-dual Vedanta of Gaudapada and Shankara"
+    },
+    {
+      "id": "vishishtadvaita",
+      "note": "Qualified non-dualism of Ramanuja"
+    },
+    {
+      "id": "dvaita",
+      "note": "Dualist Vedanta of Madhva"
+    },
+    {
+      "id": "mimamsa",
+      "note": "Vedanta is sometimes called Uttara Mimamsa, the \"later inquiry\", complementing Purva Mimamsa"
+    },
+    {
+      "id": "sankhya",
+      "note": "The Brahma Sutras argue at length against Sankhya's non-conscious prakriti as the world's cause"
+    }
+  ],
+  "darshana": {
+    "problem": "How can a person know Brahman, the ultimate reality taught in the Upanishads, and so be freed from rebirth?",
+    "real": "All schools accept Brahman as ultimately real. They differ on the status of the world and individual selves: appearance (Advaita), real modes of Brahman (Vishishtadvaita), or real and distinct (Dvaita).",
+    "pramanas": "Commonly perception (pratyaksha), inference (anumana) and testimony (shabda), with scripture as decisive about Brahman; Advaita, following Mimamsa, accepts six pramanas.",
+    "self": "The atman or jiva: identical with Brahman in Advaita; an eternal, dependent part or mode of Brahman in Vishishtadvaita; eternally distinct from and dependent on God in Dvaita.",
+    "bondage": "Ignorance (avidya) about the Self and its relation to Brahman, together with karma, binds the self to rebirth. Schools differ on whether ignorance is a cosmic principle or the soul's contraction of knowledge.",
+    "liberation": "Freedom from rebirth: realisation of identity with Brahman (Advaita), or eternal blissful service and communion with God in his realm (Vishishtadvaita, Dvaita).",
+    "path": "Study of scripture, reflection and meditation, ethical discipline, devotion and, in theistic schools, God's grace. The relative weight of knowledge and devotion is a key point of difference."
+  },
+  "disagreements": [],
+  "scholar": "Principal schools include Advaita (Shankara), Bhedabheda (Bhaskara, Nimbarka), Vishishtadvaita (Ramanuja), Dvaita (Madhva), Shuddhadvaita (Vallabha) and Achintya-bhedabheda (Gaudiya). Each writes commentaries on the prasthana-traya; differences often turn on the grammar of key Upanishadic statements and on how to read Brahma Sutra 1.1.2 on Brahman as cause of the world.",
+  "difficulty": "intermediate"
+}

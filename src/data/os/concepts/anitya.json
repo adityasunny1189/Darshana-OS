@@ -1,0 +1,98 @@
+{
+  "id": "anitya",
+  "name": {
+    "en": "Anitya / Anicca — impermanence",
+    "sa": "अनित्य",
+    "iast": "anitya / anicca (Pali)"
+  },
+  "short": "Everything conditioned changes and passes away.",
+  "beginner": "Anitya means impermanent. Everything we experience — bodies, feelings, thoughts, situations — changes. Seeing this clearly is a key step in many Indian paths.",
+  "what": "Anitya (Pali anicca) is impermanence. In Buddhism it is one of the three marks of existence, with dukkha and anatta: whatever is conditioned arises and passes away, and clinging to it brings suffering. Hindu traditions also stress the impermanence of the body and world, but usually contrast it with a permanent reality (the Self or Brahman), which Buddhism does not posit. The Gita repeatedly calls the world transient and advises enduring passing experiences.",
+  "scholar": "Abhidharma and later Buddhist logicians (such as Dharmakirti) developed the doctrine of momentariness (kshanikavada): real things exist only for a moment. Nyaya and Mimamsa argued against momentariness, defending enduring substances and selves. In Vedanta the nitya/anitya viveka (discrimination between permanent and impermanent) is the first of the qualifications of the seeker.",
+  "perspectives": [
+    {
+      "tradition": "buddhism",
+      "view": "Impermanence is a mark of all conditioned phenomena; insight into it undermines craving and the sense of a lasting self."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita teaches discrimination between the eternal and the non-eternal: the world and body are impermanent, while the Self is permanent and unchanging."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "Nyaya accepts that composite things are impermanent but argues against Buddhist momentariness, defending enduring atoms, substances and selves."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jain thought holds that substances are permanent while their modes change, applying its many-sided method to permanence and change."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "The Guru Granth Sahib frequently reminds the listener of the passing nature of the world and wealth, contrasting it with the eternal Name."
+    }
+  ],
+  "texts": [
+    "dhammapada",
+    "bhagavad-gita",
+    "vivekachudamani",
+    "tattva-bodha",
+    "guru-granth-sahib"
+  ],
+  "traditions": [
+    "buddhism",
+    "advaita",
+    "nyaya",
+    "jainism",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "dukkha",
+    "anatta",
+    "viveka",
+    "vairagya",
+    "samsara"
+  ],
+  "questions": [
+    "reality",
+    "death",
+    "suffering"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.14",
+      "note": "Contacts giving heat and cold, pleasure and pain come and go; endure them."
+    },
+    {
+      "kind": "gita",
+      "id": "2.16",
+      "note": "The unreal has no being and the real never ceases: the Gita's contrast of changing and unchanging."
+    },
+    {
+      "kind": "tradition",
+      "id": "buddhism",
+      "note": "Impermanence as one of the three marks of existence."
+    },
+    {
+      "kind": "concept",
+      "id": "anatta",
+      "note": "From impermanence Buddhism infers the absence of a permanent self."
+    },
+    {
+      "kind": "text",
+      "id": "tattva-bodha",
+      "note": "Vedanta's discrimination between the eternal and the non-eternal."
+    },
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "note": "Jain view: substances endure while their modes change."
+    }
+  ],
+  "gitaVerses": [
+    "2.14",
+    "2.16",
+    "8.15",
+    "9.33"
+  ]
+}

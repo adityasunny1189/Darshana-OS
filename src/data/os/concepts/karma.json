@@ -1,0 +1,115 @@
+{
+  "id": "karma",
+  "name": {
+    "en": "Karma",
+    "sa": "कर्म",
+    "iast": "karma"
+  },
+  "short": "Action — and the way actions shape future experience.",
+  "beginner": "Karma first means simply 'action'. It also names the idea that what we do, with what intention, leaves traces that shape what we later experience. Traditions agree karma matters but disagree strongly about how it works.",
+  "what": "In the Vedic ritual context, karma meant sacrificial action and its prescribed results. The Upanishads widened it into a moral principle tied to rebirth, and it became common ground for Hindu, Jain and Buddhist thought, each explaining it differently: as unseen potency, as intention, as physical karmic matter, or as governed by God. The Gita's distinctive move is to separate action from attachment to its fruits, so that action itself need not bind.",
+  "scholar": "Mimamsa posits apurva, an unseen potency connecting ritual act and delayed result. Nyaya-Vaisheshika speak of adrishta (unseen merit and demerit) inhering in the self, directed by Ishvara. Vedanta distinguishes sanchita (accumulated), prarabdha (begun, now bearing fruit) and agami/kriyamana (being made now) karma. Buddhism defines karma as cetana (intention). Jainism gives the most elaborate taxonomy: eight types of karmic matter binding the soul.",
+  "perspectives": [
+    {
+      "tradition": "mimamsa",
+      "view": "Karma is above all Vedic ritual duty; correctly performed rites produce results through an unseen potency (apurva), without need of a God to dispense them."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Action, however good, cannot produce liberation, because liberation is not a product; right action purifies the mind so that knowledge of the Self can arise."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Karma operates within God's will; action done as worship of the Lord, without selfish motive, becomes a means to devotion and liberation."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Karma is subtle matter that adheres to the soul when it acts with passion; it must be stopped (samvara) and shed (nirjara) through discipline and austerity."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Karma is intention (cetana) and the actions that flow from it; it conditions future experience without any permanent self to carry it."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Karma shapes the body one receives, but liberation comes by divine grace (nadar) through remembrance of the Name and living by the divine order (hukam)."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "mimamsa-sutras",
+    "brihadaranyaka-upanishad",
+    "tattvartha-sutra",
+    "dhammapada",
+    "guru-granth-sahib"
+  ],
+  "traditions": [
+    "mimamsa",
+    "vedanta",
+    "advaita",
+    "vishishtadvaita",
+    "jainism",
+    "buddhism",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "phala",
+    "nishkama-karma",
+    "samsara",
+    "dharma",
+    "yajna",
+    "svadharma"
+  ],
+  "questions": [
+    "karma",
+    "failure",
+    "live",
+    "suffering"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "mimamsa",
+      "note": "Where karma starts: Vedic ritual action and its unseen results."
+    },
+    {
+      "kind": "text",
+      "id": "brihadaranyaka-upanishad",
+      "note": "Among the earliest texts linking action and desire to rebirth."
+    },
+    {
+      "kind": "gita",
+      "id": "3.5",
+      "note": "No one can remain without action even for a moment."
+    },
+    {
+      "kind": "gita",
+      "id": "2.47",
+      "note": "The Gita's key move: your concern is with the action, never its fruits."
+    },
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "note": "Karma as subtle matter clinging to the soul."
+    },
+    {
+      "kind": "tradition",
+      "id": "buddhism",
+      "note": "Karma as intention, without a permanent self."
+    },
+    {
+      "kind": "concept",
+      "id": "nishkama-karma",
+      "note": "The Gita's answer: action without desire for its fruit."
+    }
+  ],
+  "gitaVerses": [
+    "2.47",
+    "3.5",
+    "3.8",
+    "3.9",
+    "3.19",
+    "4.17",
+    "4.18"
+  ]
+}

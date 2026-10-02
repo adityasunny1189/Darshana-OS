@@ -1,0 +1,105 @@
+{
+  "id": "tattva",
+  "name": {
+    "en": "Tattva — principle of reality",
+    "sa": "तत्त्व",
+    "iast": "tattva"
+  },
+  "short": "'Thatness' — a basic category or principle of reality, counted differently by different schools.",
+  "beginner": "Tattva means 'what something really is'. Philosophers used it for the basic building blocks of reality. Sankhya lists 25; Kashmir Shaivism lists 36; others count differently.",
+  "what": "Tattva (literally 'thatness') means the true nature of something and, by extension, a fundamental principle of reality. Sankhya enumerates 25 tattvas: purusha, prakriti, and 23 evolutes including intellect (buddhi), ego (ahankara), mind (manas), ten senses, five subtle elements and five gross elements. Yoga adopts this scheme. Shaiva traditions add higher tattvas above purusha and prakriti, totalling 36. Jainism lists seven (or nine) tattvas describing the soul, karma and liberation. The Gita uses the word both for 'reality' and for lists close to Sankhya's.",
+  "scholar": "Sankhya Karika 3 and 22 give the basic evolutionary scheme (satkaryavada underlies it). Shaiva Siddhanta and Kashmir Shaivism add five pure tattvas (Shiva, Shakti, Sadashiva, Ishvara, Shuddhavidya) and the kanchukas (limiting coverings). Jain tattvas (Tattvartha Sutra 1.4): jiva, ajiva, asrava, bandha, samvara, nirjara, moksha, often with punya and papa added. Vaishnava 'tattva-traya' refers to three realities: cit, acit and Ishvara. Gita 13.5–6 lists the field in terms close to Sankhya's categories.",
+  "perspectives": [
+    {
+      "tradition": "sankhya",
+      "view": "Sankhya counts 25 tattvas: purusha, prakriti, and 23 products of prakriti, whose evolution explains mind and world."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Yoga accepts the Sankhya tattvas and adds Ishvara as a special purusha."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Kashmir Shaivism counts 36 tattvas, from Shiva and Shakti down to earth, describing how one consciousness contracts into limited experience."
+    },
+    {
+      "tradition": "shaiva-siddhanta",
+      "view": "Shaiva Siddhanta also counts 36 tattvas, but treats them as evolutes of maya distinct from Shiva and souls."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism lists seven tattvas: soul, non-soul, influx of karma, bondage, stopping, shedding and liberation, forming a map of the path."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Sri Vaishnavism speaks of three tattvas: conscious souls, non-conscious matter and Ishvara."
+    }
+  ],
+  "texts": [
+    "sankhya-karika",
+    "bhagavad-gita",
+    "yoga-sutras",
+    "tattvartha-sutra",
+    "tattva-bodha",
+    "shiva-sutras"
+  ],
+  "traditions": [
+    "sankhya",
+    "yoga",
+    "kashmir-shaivism",
+    "shaiva-siddhanta",
+    "jainism",
+    "vishishtadvaita"
+  ],
+  "relatedConcepts": [
+    "prakriti",
+    "purusha",
+    "guna",
+    "buddhi",
+    "ahankara",
+    "manas"
+  ],
+  "questions": [
+    "reality",
+    "mind"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "note": "The classic enumeration of 25 principles."
+    },
+    {
+      "kind": "text",
+      "id": "sankhya-karika",
+      "note": "Ishvarakrishna's concise statement of the scheme."
+    },
+    {
+      "kind": "gita",
+      "id": "13.5",
+      "note": "The Gita's list of the field closely follows Sankhya categories."
+    },
+    {
+      "kind": "gita",
+      "id": "7.4",
+      "note": "Krishna's eightfold lower prakriti."
+    },
+    {
+      "kind": "tradition",
+      "id": "kashmir-shaivism",
+      "note": "The 36 tattvas of Shaiva thought."
+    },
+    {
+      "kind": "text",
+      "id": "tattvartha-sutra",
+      "note": "The Jain seven tattvas as a map of bondage and liberation."
+    }
+  ],
+  "gitaVerses": [
+    "7.4",
+    "7.5",
+    "13.5",
+    "13.6",
+    "13.19"
+  ]
+}

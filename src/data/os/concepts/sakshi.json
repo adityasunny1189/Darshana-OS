@@ -1,0 +1,98 @@
+{
+  "id": "sakshi",
+  "name": {
+    "en": "Sakshi — the witness",
+    "sa": "साक्षी",
+    "iast": "sākṣī"
+  },
+  "short": "The Self as the silent witness of the mind's changing states.",
+  "beginner": "Sakshi means witness. The idea is that there is something in you that is aware of your thoughts and moods but is not itself one of them — like the screen on which a film plays.",
+  "what": "The sakshi is consciousness as the witness of all experience. Thoughts, feelings, sensations, even the ego and the states of waking, dream and deep sleep are observed, while the observing awareness itself does not change. Advaita Vedanta uses the idea to distinguish the Self from the mind; Sankhya and Yoga describe purusha as a witness of prakriti's activity. The Gita calls the supreme Purusha in the body the witness (upadrashta).",
+  "scholar": "Advaita texts develop the drig-drishya viveka (discrimination of seer and seen) and the sakshi-chaitanya concept, used to explain how ignorance and deep sleep are known. Vidyaranya's Panchadashi and the Drg-drishya-viveka are standard sources. Sankhya Karika 19 lists witnessing among purusha's characteristics. Buddhist traditions resist a permanent witness, and some Buddhist meditation instructions use a similar 'observing' stance without reifying an observer.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "The witness is the Self, pure consciousness, which illumines the mind and its states without being affected by them; recognising oneself as the witness is a key step toward non-dual knowledge."
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Purusha is the inactive witness, while all activity belongs to prakriti; bondage is failing to distinguish them."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Patanjali describes the seer as abiding in its own nature when the fluctuations of the mind are stilled."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist schools generally do not posit a permanent witness; awareness itself is analysed as conditioned and momentary."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Kashmir Shaivism accepts awareness as the ground of experience but holds that it is not merely passive: it knows itself and acts."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sankhya-karika",
+    "yoga-sutras",
+    "mandukya-upanishad",
+    "vivekachudamani",
+    "ashtavakra-gita"
+  ],
+  "traditions": [
+    "advaita",
+    "sankhya",
+    "yoga",
+    "buddhism",
+    "kashmir-shaivism"
+  ],
+  "relatedConcepts": [
+    "atma",
+    "purusha",
+    "atma-vichara",
+    "prakriti",
+    "chitta"
+  ],
+  "questions": [
+    "self",
+    "mind"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "13.22",
+      "note": "The supreme Purusha in the body is called the witness."
+    },
+    {
+      "kind": "gita",
+      "id": "13.29",
+      "note": "One who sees all actions done by prakriti and the self as non-doer truly sees."
+    },
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "note": "Purusha as the inactive witness of prakriti."
+    },
+    {
+      "kind": "text",
+      "id": "mandukya-upanishad",
+      "note": "Awareness as the ground of waking, dream and deep sleep."
+    },
+    {
+      "kind": "text",
+      "id": "ashtavakra-gita",
+      "note": "An advanced Advaita text centred on the witness, traditionally attributed to the sage Ashtavakra."
+    },
+    {
+      "kind": "concept",
+      "id": "anatta",
+      "note": "Contrast: the Buddhist refusal to posit a permanent witness."
+    }
+  ],
+  "gitaVerses": [
+    "9.18",
+    "13.22",
+    "13.29",
+    "13.31"
+  ]
+}

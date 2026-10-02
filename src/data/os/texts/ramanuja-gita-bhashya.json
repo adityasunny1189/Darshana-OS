@@ -1,0 +1,97 @@
+{
+  "id": "ramanuja-gita-bhashya",
+  "title": {
+    "en": "Gita Bhashya (Ramanuja)",
+    "sa": "गीताभाष्य",
+    "iast": "Gītā Bhāṣya"
+  },
+  "category": "bhashya",
+  "sourceType": "traditional-commentary",
+  "traditions": [
+    "vishishtadvaita",
+    "vedanta",
+    "bhakti"
+  ],
+  "attribution": "Ramanujacharya",
+  "author": "ramanuja",
+  "period": "Traditionally 11th–12th century CE",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Devotion",
+    "Surrender",
+    "Self",
+    "Action"
+  ],
+  "summary": "Ramanuja's commentary on the Bhagavad Gita, reading it as teaching devotion to a personal God, supported by knowledge and action.",
+  "whyRead": "This commentary shows how the Gita reads when bhakti, not knowledge alone, is taken to be its culmination. It is central to the Sri Vaishnava tradition and a natural counterpart to Shankara's commentary.",
+  "questions": [
+    "Is devotion the Gita's final teaching?",
+    "How do knowledge, action and devotion relate?",
+    "What does surrender mean?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Bhakti as the goal",
+      "text": "Knowledge and action are treated as disciplines that lead to and support devotion, which is the direct means to God."
+    },
+    {
+      "title": "Self-knowledge as a step",
+      "text": "Knowing the self as distinct from the body is an important step, but not the end; the self is then known as belonging to God."
+    },
+    {
+      "title": "Surrender",
+      "text": "His comments on the Gita's closing teaching became important for the Sri Vaishnava theology of refuge (prapatti)."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Introduction and verse-by-verse commentary"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "On 18.66",
+      "about": "The call to take refuge in Krishna",
+      "gita": [
+        "18.66"
+      ]
+    }
+  ],
+  "concepts": [
+    "bhakti",
+    "prapatti",
+    "sharanagati",
+    "ishvara",
+    "jiva",
+    "karma",
+    "jnana"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavad-gita",
+      "note": "The root text"
+    },
+    {
+      "id": "shankara-gita-bhashya",
+      "note": "The Advaita reading"
+    },
+    {
+      "id": "gita-tatparya",
+      "note": "Madhva's Dvaita reading"
+    },
+    {
+      "id": "sri-bhashya",
+      "note": "Ramanuja's main systematic work"
+    },
+    {
+      "id": "sadhak-sanjivani",
+      "note": "A modern commentary that also gives surrender a central place"
+    }
+  ],
+  "thinkers": [
+    "ramanuja"
+  ],
+  "advanced": false,
+  "ingested": false
+}

@@ -1,0 +1,110 @@
+{
+  "id": "mulamadhyamakakarika",
+  "title": {
+    "en": "Mulamadhyamakakarika",
+    "sa": "मूलमध्यमककारिका",
+    "iast": "Mūlamadhyamakakārikā"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "buddhism",
+    "madhyamaka"
+  ],
+  "attribution": "Nagarjuna",
+  "author": "nagarjuna",
+  "period": "Commonly placed around the 2nd century CE; dates are uncertain",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Emptiness",
+    "Dependent origination",
+    "Two truths",
+    "Critique of essence"
+  ],
+  "summary": "Nagarjuna's foundational verses of the Madhyamaka (\"Middle Way\") school, arguing that all things are empty of intrinsic nature.",
+  "whyRead": "It is among the most influential works of Buddhist philosophy, shaping Mahayana thought across India, Tibet and East Asia. Its arguments against fixed essences are rigorous and still debated by philosophers.",
+  "questions": [
+    "Do things have an intrinsic nature of their own?",
+    "How can there be causation, motion or selfhood without fixed essences?",
+    "How do conventional and ultimate truth relate?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Emptiness of intrinsic nature",
+      "text": "Nagarjuna argues that nothing has svabhava, an intrinsic, independent nature. Everything is empty (shunya) of such existence."
+    },
+    {
+      "title": "Emptiness is dependent origination",
+      "text": "Emptiness is not a nothingness: it is identified with dependent origination (pratityasamutpada). Things exist dependently, which is why they lack independent essence."
+    },
+    {
+      "title": "The two truths",
+      "text": "The Buddha's teaching is said to rest on two truths: conventional truth and ultimate truth. The ultimate is taught by relying on the conventional."
+    },
+    {
+      "title": "Critique by consequences",
+      "text": "Chapter by chapter, Nagarjuna examines causation, motion, the self, time and even nirvana, showing that treating them as having fixed essences leads to contradiction."
+    },
+    {
+      "title": "Samsara and nirvana",
+      "text": "In a much-discussed verse he states that there is not the slightest difference between samsara and nirvana, understood in terms of emptiness."
+    },
+    {
+      "title": "Within Buddhist diversity",
+      "text": "Madhyamaka is one Mahayana school; Theravada, Abhidharma schools and Yogacara offer different analyses, and Madhyamaka itself divided into later sub-schools."
+    }
+  ],
+  "structure": [
+    {
+      "label": "27 chapters, about 450 verses",
+      "note": "The last two chapters address the twelve links of dependent origination and philosophical views"
+    },
+    {
+      "label": "Commentaries",
+      "note": "Including those of Buddhapalita, Bhaviveka and Chandrakirti"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Mulamadhyamakakarika 24.8",
+      "about": "The teaching rests on two truths"
+    },
+    {
+      "ref": "Mulamadhyamakakarika 24.18",
+      "about": "Dependent origination identified with emptiness"
+    },
+    {
+      "ref": "Mulamadhyamakakarika 25.19",
+      "about": "No difference between samsara and nirvana"
+    }
+  ],
+  "concepts": [
+    "shunyata",
+    "pratityasamutpada",
+    "anatta",
+    "nirvana",
+    "samsara",
+    "non-duality",
+    "pramana"
+  ],
+  "relatedTexts": [
+    {
+      "id": "dhammapada",
+      "note": "An early Pali collection preserved in Theravada"
+    },
+    {
+      "id": "nyaya-sutras",
+      "note": "Nagarjuna and the Naiyayikas debated the pramanas"
+    },
+    {
+      "id": "mandukya-karika",
+      "note": "Gaudapada's Advaita shows possible engagement with Madhyamaka ideas"
+    }
+  ],
+  "thinkers": [
+    "nagarjuna"
+  ],
+  "advanced": false,
+  "ingested": false
+}

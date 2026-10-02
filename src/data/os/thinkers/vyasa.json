@@ -1,0 +1,49 @@
+{
+  "id": "vyasa",
+  "name": {
+    "en": "Vyasa (Veda Vyasa)",
+    "sa": "व्यास"
+  },
+  "traditions": [
+    "itihasa-purana",
+    "vedic",
+    "vedanta"
+  ],
+  "period": "Legendary figure; tradition places him at the end of the Dvapara age. No historical dating is possible.",
+  "context": "Vyasa is a figure of tradition rather than a historically documented person. Hindu tradition credits him with arranging the Veda into its four collections (hence the title Veda Vyasa, 'arranger of the Veda'), composing the Mahabharata, in which he also appears as a character and as grandfather of the Kuru princes, and composing the Puranas. Tradition also identifies him with Badarayana, the author of the Brahma Sutras, though scholars generally treat this identification as traditional rather than historical. Modern scholarship sees the texts credited to him as the work of many hands over many centuries.",
+  "coreIdeas": [
+    "In tradition, the one who arranges and transmits sacred knowledge, making the Veda accessible across ages",
+    "Credited authorship of the Mahabharata, which frames the Bhagavad Gita as a dialogue within the epic",
+    "Credited authorship of the Puranas, which present dharma and devotion through narrative",
+    "Traditionally identified with Badarayana, so the Brahma Sutras, the root text of every Vedanta school, are also linked to his name"
+  ],
+  "works": [
+    "mahabharata",
+    "bhagavad-gita",
+    "bhagavata-purana",
+    "devi-bhagavata-purana",
+    "brahma-sutras"
+  ],
+  "otherWorks": [
+    "The other Puranas (traditionally attributed)",
+    "Yoga Bhashya on the Yoga Sutras (attributed to a 'Vyasa'; scholars generally regard its author as a different, much later figure)"
+  ],
+  "attributionNote": "All attributions to Vyasa are traditional. Scholars regard the Mahabharata and Puranas as composite works that grew over centuries, and the identification of Vyasa with Badarayana, author of the Brahma Sutras, is traditional and not historically established.",
+  "influenced": [
+    "shankara",
+    "ramanuja",
+    "madhva",
+    "tulsidas"
+  ],
+  "relatedThinkers": [
+    "valmiki",
+    "jaimini"
+  ],
+  "concepts": [
+    "dharma",
+    "bhakti",
+    "karma",
+    "moksha",
+    "lila"
+  ]
+}

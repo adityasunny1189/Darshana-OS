@@ -1,0 +1,99 @@
+{
+  "id": "prema",
+  "name": {
+    "en": "Prema — divine love",
+    "sa": "प्रेम",
+    "iast": "prema"
+  },
+  "short": "Pure, selfless love for God — for many bhakti traditions the highest goal, beyond even liberation.",
+  "beginner": "Prema means deep, selfless love. In devotional traditions, it is the love of the soul for God that asks for nothing in return — not even freedom.",
+  "what": "Prema is the mature form of devotion: love for God that is unconditional, free of desire for reward, and experienced as intense longing and joy. The Narada Bhakti Sutra describes devotion as supreme love for God, and the Bhagavata Purana presents the love of the gopis for Krishna as its model. Several Vaishnava schools, especially the Gaudiya tradition of Chaitanya, regard prema as the highest human goal, even above moksha. Sikh scripture also speaks of loving devotion to the One.",
+  "scholar": "Gaudiya theology (Rupa Gosvami's Bhaktirasamritasindhu) analyses prema through the aesthetics of rasa, distinguishing relationships such as servitude, friendship, parental love and conjugal love. Swami Ramsukhdas describes prema as an ever-increasing love that is the fulfilment of all paths. Scholars note that the Gita's own vocabulary is primarily bhakti and priti rather than prema.",
+  "perspectives": [
+    {
+      "tradition": "bhakti",
+      "view": "For many devotional traditions, love of God is the end rather than the means; liberation is secondary to the joy of loving service."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Ramanuja describes bhakti as continuous loving remembrance of the Lord, which in its highest form is itself the experience of the Lord's presence."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita values love of God as purifying and as a path, while holding that its culmination is non-dual knowledge; some Advaitins, such as Madhusudana Sarasvati, gave devotion a very high place."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "The Guru Granth Sahib speaks of the soul's loving longing for the One, often in bridal imagery, as central to spiritual life."
+    },
+    {
+      "tradition": "itihasa-purana",
+      "view": "The Bhagavata Purana's stories of the gopis present love for Krishna as the model of devotion."
+    }
+  ],
+  "texts": [
+    "narada-bhakti-sutra",
+    "bhagavata-purana",
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "guru-granth-sahib",
+    "ramcharitmanas"
+  ],
+  "traditions": [
+    "bhakti",
+    "vishishtadvaita",
+    "advaita",
+    "sikhism",
+    "itihasa-purana"
+  ],
+  "relatedConcepts": [
+    "bhakti",
+    "sharanagati",
+    "lila",
+    "naam",
+    "anugraha"
+  ],
+  "questions": [
+    "bhakti",
+    "god"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "9.26",
+      "note": "Even a leaf, flower, fruit or water offered with devotion is accepted."
+    },
+    {
+      "kind": "gita",
+      "id": "10.9",
+      "note": "Devotees who speak of the Lord to one another find joy and contentment."
+    },
+    {
+      "kind": "text",
+      "id": "narada-bhakti-sutra",
+      "note": "Defines devotion as supreme love for God."
+    },
+    {
+      "kind": "text",
+      "id": "bhagavata-purana",
+      "note": "The gopis' love for Krishna as the model."
+    },
+    {
+      "kind": "thinker",
+      "id": "ramsukhdas",
+      "note": "Swami Ramsukhdas on love as the culmination of every path."
+    },
+    {
+      "kind": "tradition",
+      "id": "sikhism",
+      "note": "Loving devotion to the One in Sikh thought."
+    }
+  ],
+  "gitaVerses": [
+    "9.26",
+    "9.29",
+    "10.9",
+    "10.10",
+    "12.13"
+  ]
+}

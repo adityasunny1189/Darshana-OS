@@ -1,0 +1,80 @@
+{
+  "id": "shunyata",
+  "name": {
+    "en": "Shunyata",
+    "sa": "शून्यता",
+    "iast": "śūnyatā"
+  },
+  "short": "Emptiness: the absence of independent, intrinsic existence in all things.",
+  "beginner": "Shunyata means emptiness. It does not mean that nothing exists; it means nothing exists on its own, independently. Everything depends on causes, parts and the mind that labels it.",
+  "what": "In Mahayana Buddhism, especially Nagarjuna's Madhyamaka, all phenomena are empty of svabhava, a fixed inherent nature. Because things arise dependently, they cannot have independent being; emptiness and dependent origination are two ways of describing the same fact. Emptiness is itself empty: it is not a hidden absolute substance. Yogacara reads emptiness partly through the mind, as the absence of the subject-object duality in experience.",
+  "scholar": "Mulamadhyamakakarika argues by reductio (prasanga) against the coherence of intrinsic existence in causation, motion, self and nirvana, and distinguishes conventional (samvriti) and ultimate (paramartha) truth. Later Madhyamaka splits into Svatantrika and Prasangika lines. Advaita critics (and some modern scholars) compare shunyata with Brahman and Gaudapada's non-origination (ajati), while Buddhist authors reject any identification with an eternal self.",
+  "perspectives": [
+    {
+      "tradition": "madhyamaka",
+      "view": "All things lack intrinsic existence because they arise dependently; this is the middle way between eternalism and nihilism, and even emptiness is not a thing to cling to."
+    },
+    {
+      "tradition": "yogacara",
+      "view": "Emptiness is the absence of the imagined split between grasping subject and grasped object in the flow of consciousness."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita agrees the world lacks independent reality but holds that there is an unchanging ground, Brahman, which is not empty; this is a key point of disagreement with Madhyamaka."
+    }
+  ],
+  "texts": [
+    "mulamadhyamakakarika",
+    "mandukya-karika"
+  ],
+  "traditions": [
+    "madhyamaka",
+    "yogacara",
+    "buddhism",
+    "advaita"
+  ],
+  "relatedConcepts": [
+    "pratityasamutpada",
+    "anatta",
+    "anitya",
+    "nirvana",
+    "non-duality",
+    "maya"
+  ],
+  "questions": [
+    "reality",
+    "self"
+  ],
+  "follow": [
+    {
+      "kind": "concept",
+      "id": "pratityasamutpada",
+      "note": "Emptiness follows from dependent origination."
+    },
+    {
+      "kind": "thinker",
+      "id": "nagarjuna",
+      "note": "The philosopher most associated with emptiness."
+    },
+    {
+      "kind": "text",
+      "id": "mulamadhyamakakarika",
+      "note": "Nagarjuna's central work."
+    },
+    {
+      "kind": "tradition",
+      "id": "yogacara",
+      "note": "A second Mahayana reading of emptiness."
+    },
+    {
+      "kind": "text",
+      "id": "mandukya-karika",
+      "note": "Gaudapada's non-dual work, often compared with Madhyamaka."
+    },
+    {
+      "kind": "concept",
+      "id": "brahman",
+      "note": "Contrast: the Vedantic affirmation of a non-empty ground."
+    }
+  ]
+}

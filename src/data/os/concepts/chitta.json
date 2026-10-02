@@ -1,0 +1,90 @@
+{
+  "id": "chitta",
+  "name": {
+    "en": "Chitta — mind-field",
+    "sa": "चित्त",
+    "iast": "citta"
+  },
+  "short": "The whole field of mind, with its thoughts, memories and latent impressions.",
+  "beginner": "Chitta is the whole 'mind-stuff' — thoughts, feelings, memories and deep habits. Yoga's aim is to let this field become still and clear, like a lake without waves.",
+  "what": "Patanjali defines yoga as the stilling of the fluctuations (vritti) of chitta. For Yoga, chitta comprises intellect, ego and mind together, and holds latent impressions (samskaras) that give rise to new thoughts and habits. Vedanta sometimes uses chitta more narrowly for memory. The Gita's image of a lamp in a windless place describes a steadied mind.",
+  "scholar": "The five vrittis (valid cognition, error, conceptualisation, sleep, memory) and the five levels of the mind (scattered, dull, distracted, one-pointed, restrained) in Vyasa's commentary are central. In Buddhist usage citta is mind or heart generally, with cetasikas (mental factors). Yogacara speaks of mind-only (cittamatra).",
+  "perspectives": [
+    {
+      "tradition": "yoga",
+      "view": "Chitta is the mind-field whose fluctuations are to be stilled; its purification allows the seer to shine alone."
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Chitta is one function of the inner instrument, often associated with memory and recollection."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Citta is mind itself, arising moment by moment with mental factors; its cultivation is the aim of meditation."
+    },
+    {
+      "tradition": "yogacara",
+      "view": "The world as experienced is structured by mind (cittamatra); a storehouse consciousness carries karmic seeds."
+    }
+  ],
+  "texts": [
+    "yoga-sutras",
+    "bhagavad-gita",
+    "dhammapada",
+    "vivekananda-raja-yoga"
+  ],
+  "traditions": [
+    "yoga",
+    "vedanta",
+    "buddhism",
+    "yogacara"
+  ],
+  "relatedConcepts": [
+    "manas",
+    "buddhi",
+    "samadhi",
+    "dhyana",
+    "ahankara"
+  ],
+  "questions": [
+    "mind"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "Yoga as the stilling of the mind-field's fluctuations."
+    },
+    {
+      "kind": "gita",
+      "id": "6.18",
+      "note": "When the controlled mind rests in the Self alone."
+    },
+    {
+      "kind": "gita",
+      "id": "6.19",
+      "note": "The lamp in a windless place."
+    },
+    {
+      "kind": "gita",
+      "id": "6.20",
+      "note": "The mind stilled by practice sees the Self."
+    },
+    {
+      "kind": "tradition",
+      "id": "yogacara",
+      "note": "A Buddhist account of mind and its seeds."
+    },
+    {
+      "kind": "concept",
+      "id": "samadhi",
+      "note": "Where a still mind leads."
+    }
+  ],
+  "gitaVerses": [
+    "6.18",
+    "6.19",
+    "6.20",
+    "12.9"
+  ]
+}

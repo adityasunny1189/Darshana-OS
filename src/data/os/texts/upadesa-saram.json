@@ -1,0 +1,79 @@
+{
+  "id": "upadesa-saram",
+  "title": {
+    "en": "Upadesa Saram",
+    "sa": "उपदेशसारम्",
+    "iast": "Upadeśasāram"
+  },
+  "category": "modern-exposition",
+  "sourceType": "modern-exposition",
+  "traditions": [
+    "modern",
+    "advaita"
+  ],
+  "attribution": "Ramana Maharshi",
+  "author": "ramana-maharshi",
+  "period": "Composed in 1927 in Tamil (as Upadesa Undiyar); Ramana also rendered it into Sanskrit and other languages",
+  "language": "Tamil and Sanskrit",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "Paths",
+    "Action",
+    "Devotion",
+    "Self-inquiry"
+  ],
+  "summary": "Thirty verses by Ramana Maharshi that grade the spiritual paths, from action and worship to self-inquiry.",
+  "whyRead": "It is a compact map of how action, devotion, breath control and meditation relate to self-inquiry in Ramana's teaching, written by him in verse.",
+  "story": "The verses were written at the request of the poet-devotee Muruganar for a poem about the sages of the Daruka forest, who believed ritual action alone could bring the highest fruit. Shiva's instruction to them became the frame for Ramana's verses.",
+  "questions": [
+    "Can action alone bring liberation?",
+    "How do the different paths relate to one another?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Action purifies but does not liberate",
+      "text": "Action yields results that pass away; done without desire and as an offering to God, it purifies the mind and prepares it."
+    },
+    {
+      "title": "A graded sequence",
+      "text": "Worship, repetition of the name and meditation are ranked, each subtler than the last, leading toward stillness of mind."
+    },
+    {
+      "title": "Breath and mind",
+      "text": "Breath regulation is described as a support for stilling the mind, since mind and breath share a common source."
+    },
+    {
+      "title": "Inquiry into the source of I",
+      "text": "The culmination is turning attention to the source of the I, where the mind subsides and the Self shines."
+    }
+  ],
+  "structure": [
+    {
+      "label": "30 verses"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "atma-vichara",
+    "nishkama-karma",
+    "bhakti",
+    "pranayama",
+    "dhyana",
+    "atma"
+  ],
+  "relatedTexts": [
+    {
+      "id": "who-am-i",
+      "note": "Ramana's prose teaching on self-inquiry"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "The Gita also relates action, devotion and knowledge"
+    }
+  ],
+  "thinkers": [
+    "ramana-maharshi"
+  ],
+  "advanced": false,
+  "ingested": false
+}

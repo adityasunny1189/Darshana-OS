@@ -1,0 +1,101 @@
+{
+  "id": "advaita",
+  "name": {
+    "en": "Advaita Vedanta",
+    "sa": "अद्वैत वेदान्त",
+    "iast": "Advaita Vedānta"
+  },
+  "family": "vedanta-school",
+  "parent": "vedanta",
+  "tagline": "Non-dual Vedanta: the Self is Brahman, and the world of many things is appearance.",
+  "period": "Traditionally traced to Gaudapada and Shankara, whom scholars commonly place around the 6th–8th centuries CE (dates debated); developed by many later teachers.",
+  "overview": "Advaita (\"not-two\") Vedanta holds that Brahman — pure, undivided consciousness — is the only ultimate reality, and that the individual Self (atman) is identical with it. The experienced world of many distinct things and persons is maya: not simply unreal, but not ultimately real either, arising through beginningless ignorance (avidya). Bondage consists in mistaking oneself for the body and mind; liberation (moksha) is the direct recognition of what one already is, and can be attained while living (jivanmukti). Knowledge (jnana) through hearing, reflecting on and contemplating the Upanishadic teaching is held to be the direct means, with ethical discipline, detachment and devotion as preparation. Advaita distinguishes a conventional level of truth, at which God, the world and ritual are real, from the ultimate level at which only Brahman is.",
+  "beginner": "Advaita says there is only one real thing — pure consciousness — and that you are that. The feeling of being a separate, limited person comes from not knowing your true nature, and freedom is simply waking up to it.",
+  "coreQuestions": [
+    "What am I, if not the body and mind?",
+    "If only Brahman is real, what is the status of the world?",
+    "How can knowledge alone liberate?",
+    "What does it mean to be liberated while alive?"
+  ],
+  "coreConcepts": [
+    "brahman",
+    "atma",
+    "maya",
+    "avidya",
+    "non-duality",
+    "sakshi",
+    "neti-neti",
+    "viveka",
+    "jnana",
+    "atma-vichara",
+    "moksha"
+  ],
+  "texts": [
+    "mandukya-karika",
+    "shankara-brahma-sutra-bhashya",
+    "shankara-gita-bhashya",
+    "upadesha-sahasri",
+    "vivekachudamani",
+    "atma-bodha",
+    "tattva-bodha",
+    "aparokshanubhuti",
+    "ashtavakra-gita",
+    "yoga-vasistha"
+  ],
+  "thinkers": [
+    "gaudapada",
+    "shankara",
+    "ramana-maharshi",
+    "vivekananda"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "vedanta",
+      "note": "One of the principal Vedanta schools"
+    },
+    {
+      "id": "vishishtadvaita",
+      "note": "Agrees Brahman is one, but Ramanuja holds world and selves are real attributes of Brahman"
+    },
+    {
+      "id": "dvaita",
+      "note": "Madhva's school is Advaita's most direct critic"
+    },
+    {
+      "id": "madhyamaka",
+      "note": "Critics, both classical and modern, have compared Gaudapada's thought with Madhyamaka; the relation is debated"
+    },
+    {
+      "id": "modern",
+      "note": "Vivekananda and Ramana Maharshi presented Advaita to modern audiences"
+    }
+  ],
+  "darshana": {
+    "problem": "Why do we experience ourselves as limited, suffering beings when, according to the Upanishads, the Self is Brahman — and how is that error removed?",
+    "real": "Only Brahman, pure consciousness-existence, is ultimately real. The world is real at the conventional (vyavaharika) level but is an appearance (maya) from the ultimate (paramarthika) standpoint.",
+    "pramanas": "Six pramanas, largely following Kumarila's Mimamsa: perception, inference, testimony, comparison (upamana), postulation (arthapatti) and non-apprehension (anupalabdhi). Scripture is the only means for knowing Brahman.",
+    "self": "The Self is pure, witnessing consciousness (sakshi), never an object, identical with Brahman; the individual jiva is that consciousness as if limited by body and mind.",
+    "bondage": "Beginningless ignorance (avidya), which superimposes the non-self onto the Self — as a rope is mistaken for a snake — and gives rise to desire, action and rebirth.",
+    "liberation": "Moksha is the removal of ignorance: direct knowledge that one is Brahman. It is not produced, since it is one's nature, and can be realised in this life.",
+    "path": "Discernment (viveka), dispassion (vairagya), inner disciplines, and longing for freedom as preparation; then hearing (shravana), reflection (manana) and deep contemplation (nididhyasana) of the Upanishadic teaching under a teacher."
+  },
+  "disagreements": [
+    {
+      "with": "vishishtadvaita",
+      "topic": "status of the world and selves",
+      "note": "Ramanuja rejects maya as indeterminable ignorance and holds that world and selves are real, forming Brahman's body."
+    },
+    {
+      "with": "dvaita",
+      "topic": "identity of self and God",
+      "note": "Madhva holds that the difference between God and souls is real and eternal, and reads the key Upanishadic statements accordingly."
+    },
+    {
+      "with": "nyaya",
+      "topic": "nature of the self",
+      "note": "Nyaya holds the self is a substance that only acquires consciousness when joined to a mind; Advaita holds consciousness is the Self's very nature."
+    }
+  ],
+  "scholar": "Post-Shankara Advaita divides into the Bhamati school (Vachaspati Mishra) and the Vivarana school (Prakashatman), differing on the locus of avidya and the role of meditation. Key technical terms include adhyasa (superimposition), anirvachaniya (indeterminable), and the levels of reality. The authorship of several works traditionally attributed to Shankara, such as Vivekachudamani, is debated.",
+  "difficulty": "intermediate"
+}

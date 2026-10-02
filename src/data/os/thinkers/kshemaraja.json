@@ -1,0 +1,45 @@
+{
+  "id": "kshemaraja",
+  "name": {
+    "en": "Kshemaraja",
+    "sa": "क्षेमराज"
+  },
+  "traditions": [
+    "kashmir-shaivism",
+    "shaivism",
+    "tantra"
+  ],
+  "period": "Late 10th to 11th century CE.",
+  "context": "Kshemaraja was the foremost disciple of Abhinavagupta and a prolific commentator. He wrote commentaries on the Shiva Sutras and the Spanda Karikas, as well as on major Shaiva tantras, and composed the Pratyabhijna Hridayam, a concise introduction to the philosophy of recognition. His works did much to transmit Kashmir Shaiva ideas in accessible form.",
+  "coreIdeas": [
+    "Consciousness, entirely free, is the cause of the universe",
+    "The universe unfolds within consciousness as on a screen that is consciousness itself",
+    "The individual is universal consciousness in contracted form",
+    "Liberation is recognising one's own nature as Shiva, a recognition possible in the midst of ordinary experience",
+    "Shiva's five acts: creation, maintenance, dissolution, concealment and grace"
+  ],
+  "works": [
+    "pratyabhijna-hridayam"
+  ],
+  "otherWorks": [
+    "Shiva Sutra Vimarshini (commentary on the Shiva Sutras)",
+    "Spanda Nirnaya and Spanda Sandoha",
+    "Commentaries on the Netra Tantra and Svacchanda Tantra"
+  ],
+  "influences": [
+    "abhinavagupta",
+    "vasugupta"
+  ],
+  "relatedThinkers": [
+    "abhinavagupta",
+    "vasugupta"
+  ],
+  "concepts": [
+    "pratyabhijna",
+    "shiva",
+    "shakti",
+    "spanda",
+    "anugraha",
+    "chitta"
+  ]
+}

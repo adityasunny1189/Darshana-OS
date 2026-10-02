@@ -1,0 +1,85 @@
+{
+  "id": "neti-neti",
+  "name": {
+    "en": "Neti neti — not this, not this",
+    "sa": "नेति नेति",
+    "iast": "neti neti"
+  },
+  "short": "The Upanishadic method of describing the ultimate by negating every limited description.",
+  "beginner": "Neti neti means 'not this, not this'. Since the deepest reality cannot be captured in words, one can approach it by setting aside everything it is not — every object, thought or label.",
+  "what": "Neti neti is a phrase from the Brihadaranyaka Upanishad used to point to Brahman or the Self by denying every finite characterisation. Whatever can be seen, named or defined is an object, and the Self, being the knower, is not an object. Advaita Vedanta uses it as a method of inquiry: body, senses, mind and ego are successively recognised as 'not the Self'. Other schools read the negations differently.",
+  "scholar": "The formula occurs in the Brihadaranyaka Upanishad in Yajnavalkya's teachings (commonly cited at 2.3.6 and in book 4). Shankara (Brahma Sutra 3.2.22) interprets it as negating superimposed forms, not Brahman itself. Ramanuja reads the negation as denying that Brahman is limited to the forms previously mentioned, not as denying all attributes. The method is sometimes compared with apophatic theology elsewhere and with Madhyamaka negation, though aims differ.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Neti neti removes all superimposed attributes, revealing the attributeless (nirguna) Brahman that is identical with the Self."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Ramanuja reads the negation as saying that Brahman is not exhausted by any finite description, while affirming that Brahman possesses infinite auspicious qualities."
+    },
+    {
+      "tradition": "madhyamaka",
+      "view": "Madhyamaka also proceeds by negation, refuting every view about inherent existence, but does not arrive at a positive absolute."
+    }
+  ],
+  "texts": [
+    "brihadaranyaka-upanishad",
+    "vivekachudamani",
+    "nirvana-shatakam",
+    "shankara-brahma-sutra-bhashya",
+    "who-am-i"
+  ],
+  "traditions": [
+    "advaita",
+    "vishishtadvaita",
+    "madhyamaka"
+  ],
+  "relatedConcepts": [
+    "atma",
+    "brahman",
+    "atma-vichara",
+    "viveka",
+    "non-duality"
+  ],
+  "questions": [
+    "self",
+    "reality"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "brihadaranyaka-upanishad",
+      "note": "Yajnavalkya's 'not this, not this'."
+    },
+    {
+      "kind": "gita",
+      "id": "13.12",
+      "note": "Brahman is said to be neither being nor non-being."
+    },
+    {
+      "kind": "thinker",
+      "id": "shankara",
+      "note": "Shankara's reading: negation of superimposed forms."
+    },
+    {
+      "kind": "text",
+      "id": "nirvana-shatakam",
+      "note": "A hymn traditionally attributed to Shankara that negates each identification in turn."
+    },
+    {
+      "kind": "thinker",
+      "id": "ramana-maharshi",
+      "note": "Ramana's inquiry as a practical form of negating the non-self."
+    },
+    {
+      "kind": "thinker",
+      "id": "nagarjuna",
+      "note": "Compare Madhyamaka's method of negation."
+    }
+  ],
+  "gitaVerses": [
+    "13.12",
+    "2.25"
+  ]
+}

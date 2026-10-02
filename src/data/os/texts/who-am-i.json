@@ -1,0 +1,87 @@
+{
+  "id": "who-am-i",
+  "title": {
+    "en": "Who Am I? (Nan Yar)",
+    "sa": "नान् यार्",
+    "iast": "Nāṉ Yār"
+  },
+  "category": "modern-exposition",
+  "sourceType": "modern-exposition",
+  "traditions": [
+    "modern",
+    "advaita"
+  ],
+  "attribution": "Ramana Maharshi; his answers to questions put by his early devotee Sivaprakasam Pillai, later arranged in prose",
+  "author": "ramana-maharshi",
+  "period": "Answers given around 1901–1902; published in various forms from the 1920s onward",
+  "language": "Tamil",
+  "difficulty": "beginner",
+  "themes": [
+    "Self-inquiry",
+    "Mind",
+    "Self",
+    "Liberation"
+  ],
+  "summary": "Ramana Maharshi's short classic on self-inquiry: tracing the sense of \"I\" back to its source.",
+  "whyRead": "It is perhaps the most direct modern introduction to self-inquiry (atma-vichara). In a few pages it explains what the mind is, where thoughts come from and how to turn attention back to the Self.",
+  "story": "A young devotee, Sivaprakasam Pillai, put questions to Ramana, who at that time was largely silent and often answered in writing. The answers were later edited into the question-and-answer and essay forms now in print.",
+  "questions": [
+    "Who am I?",
+    "What is the mind, and how can it be quietened?",
+    "Is liberation something to be gained?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Not the body, not the mind",
+      "text": "The text begins by setting aside the body, senses and mind as objects, in the manner of neti neti, pointing to awareness as what remains."
+    },
+    {
+      "title": "The I-thought",
+      "text": "The mind is a bundle of thoughts, and the root of all thoughts is the I-thought. When one inquires into its source, the I-thought subsides."
+    },
+    {
+      "title": "Self-inquiry as practice",
+      "text": "Whenever thoughts arise, one asks to whom they arise and returns attention to the sense of I. Ramana presents this as the most direct method."
+    },
+    {
+      "title": "Surrender as equivalent",
+      "text": "Complete surrender to God is presented as another route to the same end, since both dissolve the ego."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Short prose text",
+      "note": "Circulates in a question-and-answer version and an essay version; the number of questions differs between editions"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "atma-vichara",
+    "atma",
+    "manas",
+    "ahankara",
+    "sakshi",
+    "neti-neti",
+    "sharanagati",
+    "moksha"
+  ],
+  "relatedTexts": [
+    {
+      "id": "upadesa-saram",
+      "note": "Ramana's thirty-verse summary of the paths"
+    },
+    {
+      "id": "vivekachudamani",
+      "note": "A classical Advaita text Ramana is known to have rendered into Tamil"
+    },
+    {
+      "id": "mandukya-upanishad",
+      "note": "Upanishadic analysis of states of consciousness"
+    }
+  ],
+  "thinkers": [
+    "ramana-maharshi"
+  ],
+  "advanced": false,
+  "ingested": false
+}

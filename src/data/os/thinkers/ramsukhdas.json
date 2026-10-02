@@ -1,0 +1,42 @@
+{
+  "id": "ramsukhdas",
+  "name": {
+    "en": "Swami Ramsukhdas",
+    "sa": "स्वामी रामसुखदास"
+  },
+  "traditions": [
+    "modern",
+    "bhakti",
+    "vedanta"
+  ],
+  "period": "20th century; c. 1904–2005 CE (birth date reported variously).",
+  "context": "Swami Ramsukhdas was a Hindi-speaking renunciate teacher from Rajasthan, closely associated with the Gita Press of Gorakhpur and the circle of Jayadayal Goyandka and Hanuman Prasad Poddar. For decades he gave discourses across North India, focused on the Bhagavad Gita and practical spiritual life for householders. His major work, Sadhak Sanjivani, is a detailed Hindi commentary on the Gita written for practitioners (sadhakas). He was known for discouraging personal veneration and for avoiding founding an organisation around himself.",
+  "coreIdeas": [
+    "The self is an eternal part of God and is essentially distinct from the body, which is always changing",
+    "Disidentification from body and possessions, and use of them in service of others, as the basis of karma yoga",
+    "Surrender (sharanagati) to God as the easiest and highest means, open to everyone",
+    "Performing one's own duty without desire for its fruit leads to equanimity",
+    "Knowledge, action and devotion are all valid paths, and the Gita addresses each"
+  ],
+  "works": [
+    "sadhak-sanjivani"
+  ],
+  "otherWorks": [
+    "Gita Prabodhani (a shorter Gita commentary)",
+    "Numerous Hindi discourses and booklets published by the Gita Press"
+  ],
+  "relatedThinkers": [
+    "vyasa"
+  ],
+  "concepts": [
+    "sharanagati",
+    "nishkama-karma",
+    "svadharma",
+    "samatva",
+    "viveka",
+    "tyaga",
+    "atma",
+    "sharira",
+    "bhakti"
+  ]
+}

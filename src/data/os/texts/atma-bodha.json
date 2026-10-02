@@ -1,0 +1,81 @@
+{
+  "id": "atma-bodha",
+  "title": {
+    "en": "Atma Bodha",
+    "sa": "आत्मबोध",
+    "iast": "Ātmabodha"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita",
+    "vedanta"
+  ],
+  "attribution": "Traditionally attributed to Shankara; authorship debated by scholars",
+  "author": null,
+  "period": "Traditionally 8th century CE; date uncertain",
+  "language": "Sanskrit",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "Self-knowledge",
+    "Discernment",
+    "Witness",
+    "Liberation"
+  ],
+  "summary": "A short verse work on knowledge of the Self, using everyday images to show how the Self is distinguished from body and mind.",
+  "whyRead": "Atma Bodha uses simple analogies, a crystal appearing coloured, the sun behind clouds, to explain Advaita's central ideas in a few dozen verses. It is often studied right after Tattva Bodha.",
+  "questions": [
+    "Why does knowledge, rather than action, liberate?",
+    "How does the Self appear to be bound?",
+    "What is the witness?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Knowledge alone removes ignorance",
+      "text": "Just as only light removes darkness, the text argues, only knowledge removes ignorance; action cannot, since it is not opposed to ignorance."
+    },
+    {
+      "title": "Apparent limitation",
+      "text": "The Self appears to take on the qualities of body and mind, as a clear crystal seems coloured by what is placed near it."
+    },
+    {
+      "title": "The witness",
+      "text": "The Self is presented as the witness of the activities of body, senses and mind, itself unaffected by them."
+    }
+  ],
+  "structure": [
+    {
+      "label": "About 68 verses",
+      "note": "Count varies slightly by edition"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "atma",
+    "jnana",
+    "avidya",
+    "sakshi",
+    "viveka",
+    "brahman",
+    "moksha"
+  ],
+  "relatedTexts": [
+    {
+      "id": "tattva-bodha",
+      "note": "Usually studied just before it"
+    },
+    {
+      "id": "vivekachudamani",
+      "note": "A longer work in the same tradition"
+    },
+    {
+      "id": "aparokshanubhuti",
+      "note": "Another short Advaita manual"
+    }
+  ],
+  "thinkers": [
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

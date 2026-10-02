@@ -1,0 +1,110 @@
+{
+  "id": "pramana",
+  "name": {
+    "en": "Pramana — means of valid knowledge",
+    "sa": "प्रमाण",
+    "iast": "pramāṇa"
+  },
+  "short": "The accepted sources of valid knowledge, such as perception, inference and testimony.",
+  "beginner": "Pramana means a reliable way of knowing. Indian philosophers argued about how many there are: some accept only perception, others add reasoning, reliable words, comparison and more.",
+  "what": "A pramana is a means of acquiring valid knowledge (prama). Every Indian school had to state which pramanas it accepts, because this determines what can be known and argued. Charvaka accepts perception alone; Buddhist logicians accept perception and inference; Sankhya and Yoga add testimony; Nyaya adds comparison; Mimamsa and Vedanta add postulation and non-cognition. For Vedic schools, scripture (shabda) is the decisive source on matters beyond the senses.",
+  "scholar": "Nyaya Sutra 1.1.3 lists perception (pratyaksha), inference (anumana), comparison (upamana) and testimony (shabda). Prabhakara Mimamsa adds arthapatti (postulation); Kumarila and Advaita add anupalabdhi (non-cognition), giving six. Debates concern svatah-pramanya (intrinsic validity, Mimamsa) versus paratah-pramanya (extrinsic validity, Nyaya), the structure of inference (the five-membered syllogism, vyapti), and whether scripture is authorless (apaurusheya) or authored by God.",
+  "perspectives": [
+    {
+      "tradition": "nyaya",
+      "view": "Nyaya accepts four pramanas and developed the classical theory of inference; it holds that knowledge is validated by its fit with successful action."
+    },
+    {
+      "tradition": "mimamsa",
+      "view": "Mimamsa holds knowledge to be intrinsically valid unless defeated, and treats the authorless Veda as the sole source for dharma; Kumarila accepts six pramanas, Prabhakara five."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita accepts six pramanas for worldly knowledge and holds that the Upanishads alone reveal Brahman, while noting that ultimately the Self is self-evident rather than an object of any pramana."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist epistemologists such as Dignaga and Dharmakirti accept only perception and inference, and reject scripture as an independent pramana."
+    },
+    {
+      "tradition": "charvaka",
+      "view": "Charvaka accepts only perception, questioning whether inference can ever be certain, and so rejects unseen realities such as rebirth."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jain thought divides knowledge into direct and indirect kinds, and pairs pramana with nayas (partial standpoints)."
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Sankhya and Yoga accept perception, inference and reliable testimony."
+    }
+  ],
+  "texts": [
+    "nyaya-sutras",
+    "mimamsa-sutras",
+    "yoga-sutras",
+    "sankhya-karika",
+    "tattvartha-sutra",
+    "bhagavad-gita"
+  ],
+  "traditions": [
+    "nyaya",
+    "mimamsa",
+    "advaita",
+    "buddhism",
+    "charvaka",
+    "jainism",
+    "sankhya"
+  ],
+  "relatedConcepts": [
+    "jnana",
+    "viveka",
+    "anekantavada",
+    "avidya"
+  ],
+  "questions": [
+    "knowledge",
+    "reality"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "nyaya",
+      "note": "Nyaya's classical list of four means of knowing."
+    },
+    {
+      "kind": "text",
+      "id": "nyaya-sutras",
+      "note": "The foundational text of Indian logic and epistemology."
+    },
+    {
+      "kind": "tradition",
+      "id": "charvaka",
+      "note": "The minimal position: perception alone."
+    },
+    {
+      "kind": "tradition",
+      "id": "buddhism",
+      "note": "Buddhist epistemology: perception and inference only."
+    },
+    {
+      "kind": "tradition",
+      "id": "mimamsa",
+      "note": "Mimamsa's defence of scripture and the intrinsic validity of knowledge."
+    },
+    {
+      "kind": "gita",
+      "id": "16.24",
+      "note": "The Gita names scripture as the authority for what ought and ought not to be done."
+    },
+    {
+      "kind": "concept",
+      "id": "anekantavada",
+      "note": "Jain many-sidedness adds a theory of partial standpoints."
+    }
+  ],
+  "gitaVerses": [
+    "16.24",
+    "13.11"
+  ]
+}

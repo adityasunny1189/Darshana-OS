@@ -1,0 +1,79 @@
+{
+  "id": "jainism",
+  "name": {
+    "en": "Jain philosophy",
+    "sa": "जैन दर्शन",
+    "iast": "Jaina darśana"
+  },
+  "family": "shramana",
+  "parent": null,
+  "tagline": "A shramana tradition of non-violence, many-sided reality and the soul's liberation from karmic matter.",
+  "period": "Jains regard their tradition as eternal and taught by a series of twenty-four Tirthankaras; Mahavira, the twenty-fourth, is generally placed around the 6th–5th century BCE, a contemporary of the Buddha. Parshva, the twenty-third, is widely considered historical.",
+  "overview": "Jain philosophy holds that reality consists of living souls (jiva) and non-living substances (ajiva), including matter, space, time and the media of motion and rest. Each soul is eternal and by nature possesses infinite knowledge, perception, bliss and energy, but is obscured by karma, which Jainism understands as a subtle form of matter that adheres to the soul through passions and activity. Liberation (moksha or kevala) is the complete shedding of karma, after which the soul rises to the summit of the universe. Non-violence (ahimsa) is central to ethics, extending to all living beings. Jain epistemology is known for anekantavada, the doctrine that reality is many-sided and that any claim is true only from a particular standpoint. Jainism does not accept a creator God; the Tirthankaras are liberated souls revered as teachers. It has two major communities, Digambara and Shvetambara.",
+  "beginner": "Jainism teaches that every living being has a soul that is naturally pure and all-knowing, but covered by karma like dust. Living with deep non-violence, truthfulness and self-discipline removes this karma and frees the soul.",
+  "coreQuestions": [
+    "What is the soul, and what covers its nature?",
+    "How does karma bind the soul?",
+    "Can any single viewpoint capture the whole truth?",
+    "How should one live so as to harm no being?"
+  ],
+  "coreConcepts": [
+    "jiva",
+    "karma",
+    "ahimsa",
+    "anekantavada",
+    "moksha",
+    "samsara",
+    "tyaga",
+    "sannyasa"
+  ],
+  "texts": [
+    "tattvartha-sutra"
+  ],
+  "thinkers": [
+    "mahavira",
+    "umasvati"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "buddhism",
+      "note": "A fellow shramana tradition; both reject Vedic authority but differ over the soul"
+    },
+    {
+      "id": "sankhya",
+      "note": "Both affirm many eternal conscious souls"
+    },
+    {
+      "id": "vaisheshika",
+      "note": "Both develop atomic theories of matter"
+    }
+  ],
+  "darshana": {
+    "problem": "How can the soul, bound by karma through countless births, be freed so that its innate knowledge and bliss shine fully?",
+    "real": "Six eternal substances (dravyas): souls (jiva), matter (pudgala), the medium of motion (dharma), the medium of rest (adharma), space (akasha) and time (kala). Reality is permanent in substance and changing in its modes.",
+    "pramanas": "Two broad kinds: direct (pratyaksha) and indirect (paroksha) knowledge; Umasvati lists five types of knowledge, including sensory, scriptural and the omniscience (kevala-jnana) of the liberated. Anekantavada, nayavada (standpoints) and syadvada (conditional predication) qualify all claims.",
+    "self": "The soul (jiva) is eternal, conscious, the knower and agent, of body-size in its embodied state, with an intrinsic nature of infinite knowledge, perception, bliss and energy.",
+    "bondage": "The influx (asrava) and binding (bandha) of karmic matter to the soul, caused by wrong belief, lack of restraint, carelessness, passions (kashaya) and activity.",
+    "liberation": "Moksha: the soul, free of all karma, attains omniscience and rises to the top of the universe (siddhashila), existing eternally in its pure nature.",
+    "path": "The three jewels: right faith, right knowledge and right conduct; stopping the influx of karma (samvara) and shedding it (nirjara) through vows, especially non-violence, and austerity (tapas)."
+  },
+  "disagreements": [
+    {
+      "with": "buddhism",
+      "topic": "the soul",
+      "note": "Jainism affirms an eternal soul; Buddhism denies one. Both reject a creator God and Vedic authority."
+    },
+    {
+      "with": "advaita",
+      "topic": "one Self or many",
+      "note": "Jainism holds there are infinitely many real souls and a real world; Advaita holds the Self is one and the world ultimately appearance."
+    },
+    {
+      "with": "nyaya",
+      "topic": "God",
+      "note": "Jain thinkers argue against Nyaya proofs of a creator God."
+    }
+  ],
+  "scholar": "Digambara and Shvetambara differ on monastic nudity, whether women can attain liberation in their present birth, and which scriptures are authoritative. The seven tattvas (jiva, ajiva, asrava, bandha, samvara, nirjara, moksha) structure the Tattvartha Sutra, accepted by both communities. The saptabhangi (sevenfold predication) is the formal expression of syadvada.",
+  "difficulty": "intermediate"
+}

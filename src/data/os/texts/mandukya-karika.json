@@ -1,0 +1,94 @@
+{
+  "id": "mandukya-karika",
+  "title": {
+    "en": "Mandukya Karika",
+    "sa": "माण्डूक्यकारिका",
+    "iast": "Māṇḍūkya Kārikā"
+  },
+  "category": "prakarana",
+  "sourceType": "traditional-commentary",
+  "traditions": [
+    "advaita",
+    "vedanta"
+  ],
+  "attribution": "Traditionally attributed to Gaudapada, described in the tradition as the teacher of Shankara's teacher Govinda",
+  "author": "gaudapada",
+  "period": "Commonly placed around the 6th–7th centuries CE; dating is debated",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Non-origination",
+    "Dream and waking",
+    "Non-duality",
+    "Consciousness"
+  ],
+  "summary": "A verse treatise on the Mandukya Upanishad and the earliest surviving systematic work of Advaita, arguing that nothing has ever truly come into being.",
+  "whyRead": "The Karika is where Advaita's boldest claims first appear in systematic form: waking is compared to dream, and the doctrine of non-origination (ajativada) holds that the world of multiplicity never really arose. Its vocabulary shows striking overlaps with Mahayana Buddhist thought, a relationship scholars still debate.",
+  "questions": [
+    "Is the waking world more real than a dream?",
+    "Can anything truly come into existence?",
+    "What remains when all duality is negated?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Commentary on the Mandukya",
+      "text": "The first chapter expounds the Mandukya's scheme of Om and the four states, placing the fourth (turiya) beyond all duality."
+    },
+    {
+      "title": "Waking as like dreaming",
+      "text": "The second chapter argues that objects of waking experience share key features with dream objects, and so are not ultimately real."
+    },
+    {
+      "title": "Non-origination",
+      "text": "The central doctrine (ajativada) holds that from the ultimate standpoint nothing is born; there is no dissolution, origination, bondage or seeker of liberation."
+    },
+    {
+      "title": "The firebrand",
+      "text": "The fourth chapter compares apparent multiplicity to the patterns made by a whirling firebrand: movement of consciousness appears as forms that have no separate existence."
+    }
+  ],
+  "structure": [
+    {
+      "label": "4 chapters (prakaranas)",
+      "note": "Agama, Vaitathya, Advaita and Alatashanti; about 215 verses"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "2.32",
+      "about": "From the highest standpoint there is no dissolution, origination, bondage or liberation"
+    }
+  ],
+  "concepts": [
+    "non-duality",
+    "maya",
+    "atma",
+    "brahman",
+    "avidya",
+    "moksha"
+  ],
+  "relatedTexts": [
+    {
+      "id": "mandukya-upanishad",
+      "note": "The Upanishad on which it comments"
+    },
+    {
+      "id": "shankara-brahma-sutra-bhashya",
+      "note": "Shankara, who commented on the Karika, develops Advaita more fully"
+    },
+    {
+      "id": "mulamadhyamakakarika",
+      "note": "Scholars compare its reasoning on non-origination with Nagarjuna's Madhyamaka"
+    },
+    {
+      "id": "yoga-vasistha",
+      "note": "Shares its dream-like view of the world"
+    }
+  ],
+  "thinkers": [
+    "gaudapada",
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

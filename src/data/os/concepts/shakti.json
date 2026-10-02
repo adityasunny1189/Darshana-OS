@@ -1,0 +1,97 @@
+{
+  "id": "shakti",
+  "name": {
+    "en": "Shakti",
+    "sa": "शक्ति",
+    "iast": "śakti"
+  },
+  "short": "Power, energy; in Shakta and Shaiva thought, the dynamic aspect of the divine, often worshipped as the Goddess.",
+  "beginner": "Shakti means power. In many traditions it is the living energy of the divine, the part that creates and moves the world, and it is often worshipped as the Goddess (Devi).",
+  "what": "Shakti is the capacity to act, create and manifest. Shakta traditions treat the Goddess as the supreme reality itself, not merely a consort. In Kashmir Shaivism, Shiva and Shakti are two aspects of one consciousness: awareness and its self-expressive power. Vedantic writers often relate shakti to maya, the power by which Brahman or Ishvara appears as the world, though schools differ on whether that power is real or only apparent.",
+  "scholar": "The Devi Mahatmya (within the Markandeya Purana) is a foundational Shakta text presenting the Goddess as ultimate. Trika distinguishes shaktis such as cit, ananda, iccha, jnana and kriya. Shri Vidya and Kaula lineages differ on ritual (samayachara vs kaulachara). Advaita's maya-shakti is described as neither real nor unreal (anirvachaniya), whereas Shakta and Trika authors insist the power is real as consciousness itself.",
+  "perspectives": [
+    {
+      "tradition": "shaktism",
+      "view": "The Goddess is the supreme reality; Shakti is not subordinate to a male deity but is the ground, power and form of everything."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Shakti is Shiva's own freedom (svatantrya) to manifest; the world is real as the self-expression of consciousness, not an illusion."
+    },
+    {
+      "tradition": "tantra",
+      "view": "Tantric ritual and contemplation work with Shakti in mantra, breath, body and deity visualisation, understood as ways of participating in divine power."
+    },
+    {
+      "tradition": "advaita",
+      "view": "The power of Ishvara to project the world is identified with maya; from the absolute standpoint Brahman alone is real and the power has no independent existence."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "The world and souls are real modes of God; God's powers are real attributes, and the Goddess Lakshmi (Shri) is inseparable from Vishnu."
+    }
+  ],
+  "texts": [
+    "devi-mahatmya",
+    "devi-bhagavata-purana",
+    "kularnava-tantra",
+    "vijnana-bhairava",
+    "pratyabhijna-hridayam"
+  ],
+  "traditions": [
+    "shaktism",
+    "kashmir-shaivism",
+    "tantra",
+    "advaita",
+    "vishishtadvaita"
+  ],
+  "relatedConcepts": [
+    "shiva",
+    "maya",
+    "prakriti",
+    "spanda",
+    "lila"
+  ],
+  "questions": [
+    "god",
+    "reality"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "7.5",
+      "note": "Krishna speaks of a lower and a higher nature (prakriti) of his own, a starting point for thinking about divine power."
+    },
+    {
+      "kind": "tradition",
+      "id": "shaktism",
+      "note": "The traditions that see the Goddess as supreme."
+    },
+    {
+      "kind": "text",
+      "id": "devi-mahatmya",
+      "note": "The central narrative and hymn of Goddess-supremacy."
+    },
+    {
+      "kind": "tradition",
+      "id": "kashmir-shaivism",
+      "note": "Shiva and Shakti as two aspects of one consciousness."
+    },
+    {
+      "kind": "concept",
+      "id": "spanda",
+      "note": "Shakti as the pulse of consciousness."
+    },
+    {
+      "kind": "concept",
+      "id": "maya",
+      "note": "Contrast: Advaita's reading of divine power as maya."
+    }
+  ],
+  "gitaVerses": [
+    "7.4",
+    "7.5",
+    "9.8",
+    "10.41"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "vivekachudamani",
+  "title": {
+    "en": "Vivekachudamani",
+    "sa": "विवेकचूडामणि",
+    "iast": "Vivekacūḍāmaṇi"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita",
+    "vedanta"
+  ],
+  "attribution": "Traditionally attributed to Shankara; authorship debated by scholars, many of whom consider it a later Advaita work",
+  "author": null,
+  "period": "Traditionally 8th century CE; scholars who doubt Shankara's authorship place it later, possibly well into the second millennium",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Discernment",
+    "Qualifications of the seeker",
+    "Self and non-Self",
+    "Liberation"
+  ],
+  "summary": "A long verse dialogue between a teacher and a disciple, laying out the Advaita path from qualifications of the seeker to liberation.",
+  "whyRead": "The 'crest-jewel of discernment' is among the most popular introductions to Advaita, combining doctrine with devotional warmth and vivid images. It is a good bridge between beginner primers and the classical commentaries.",
+  "story": "A disciple, tormented by the suffering of worldly existence, approaches a teacher and asks how to be freed. The teacher praises the question and unfolds the teaching over several hundred verses, ending with the disciple's expression of realisation and gratitude.",
+  "questions": [
+    "What qualifies someone for liberation?",
+    "How is the Self distinguished from the body and mind?",
+    "What is the liberated person like?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The fourfold qualification",
+      "text": "The seeker needs discernment between the eternal and non-eternal, dispassion, six virtues beginning with calm and self-control, and a longing for liberation (sadhana chatushtaya)."
+    },
+    {
+      "title": "Self is not the sheaths",
+      "text": "The text works through the body, breath, mind, intellect and bliss sheaths, showing each to be non-Self."
+    },
+    {
+      "title": "Discernment as the key",
+      "text": "Viveka, discrimination between Self and non-Self, is the jewel of the title; liberation follows from it, not from ritual or learning alone."
+    },
+    {
+      "title": "The liberated while living",
+      "text": "Later verses describe the jivanmukta, one liberated while still embodied."
+    }
+  ],
+  "structure": [
+    {
+      "label": "About 580 verses",
+      "note": "Verse count varies by edition"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "viveka",
+    "vairagya",
+    "atma",
+    "brahman",
+    "maya",
+    "moksha",
+    "sharira",
+    "jnana",
+    "avidya"
+  ],
+  "relatedTexts": [
+    {
+      "id": "tattva-bodha",
+      "note": "A simpler primer covering much of the same ground"
+    },
+    {
+      "id": "atma-bodha",
+      "note": "A shorter work in the same tradition"
+    },
+    {
+      "id": "taittiriya-upanishad",
+      "note": "Source of the five-sheaths scheme"
+    },
+    {
+      "id": "upadesha-sahasri",
+      "note": "An Advaita teaching manual whose Shankara authorship is widely accepted"
+    }
+  ],
+  "thinkers": [
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

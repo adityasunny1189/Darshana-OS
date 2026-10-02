@@ -1,0 +1,122 @@
+{
+  "id": "taittiriya-upanishad",
+  "title": {
+    "en": "Taittiriya Upanishad",
+    "sa": "तैत्तिरीयोपनिषद्",
+    "iast": "Taittirīya Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta"
+  ],
+  "attribution": "Krishna Yajurveda (Taittiriya Aranyaka); author unknown",
+  "author": null,
+  "period": "Generally placed among the earlier Upanishads, in the mid-first millennium BCE; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Brahman as bliss",
+    "Five sheaths",
+    "Education",
+    "Ethics",
+    "Inquiry"
+  ],
+  "summary": "An Upanishad in three sections covering recitation and student ethics, Brahman as truth, knowledge and bliss, and the five 'sheaths' of the person.",
+  "whyRead": "Taittiriya gives the classic 'five sheaths' (koshas) model of the person, moving from body to breath, mind, understanding and bliss, still used in yoga and Vedanta today. Its third section shows inquiry as a step-by-step discovery rather than a transmitted doctrine.",
+  "story": "In the third section Bhrigu asks his father Varuna to teach him Brahman. Rather than answer, Varuna gives a definition and tells him to find out through austerity and reflection. Bhrigu successively concludes that Brahman is food, breath, mind and understanding, each time returning to be sent back, until he realises that Brahman is bliss.",
+  "questions": [
+    "What is a human being made of?",
+    "What is the relation between Brahman and bliss?",
+    "How should a student live?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Truth, knowledge, infinity",
+      "text": "The second section opens by characterising Brahman as truth (satya), knowledge or consciousness (jnana) and the infinite (ananta). Advaita treats this as a definition of Brahman's essential nature."
+    },
+    {
+      "title": "The five sheaths",
+      "text": "The person is described as layered sheaths made of food, breath, mind, understanding and bliss. Later Vedanta uses the scheme to guide attention inward to the Self beyond them."
+    },
+    {
+      "title": "Bliss as the nature of Brahman",
+      "text": "The text ranks degrees of joy and presents Brahman as a bliss beyond words and thought."
+    },
+    {
+      "title": "Learning through inquiry",
+      "text": "Bhrigu is not given the answer but led to discover it, which many teachers take as a model for spiritual education."
+    },
+    {
+      "title": "Ethics of the graduating student",
+      "text": "The first section closes with advice to the departing student: speak truth, follow dharma, honour mother, father, teacher and guest."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Shiksha Valli",
+      "note": "Phonetics, meditations and student ethics"
+    },
+    {
+      "label": "Brahmananda Valli",
+      "note": "Brahman, the five sheaths and bliss"
+    },
+    {
+      "label": "Bhrigu Valli",
+      "note": "Bhrigu's inquiry"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "1.11",
+      "about": "The teacher's instruction to the graduating student"
+    },
+    {
+      "ref": "2.1",
+      "about": "Brahman as truth, knowledge and the infinite"
+    },
+    {
+      "ref": "2.2–2.5",
+      "about": "The five sheaths (koshas)"
+    },
+    {
+      "ref": "2.7",
+      "about": "Brahman described as essence or flavour (rasa)"
+    },
+    {
+      "ref": "3.1",
+      "about": "Bhrigu asks Varuna to teach him Brahman"
+    }
+  ],
+  "concepts": [
+    "brahman",
+    "atma",
+    "sharira",
+    "dharma",
+    "jnana",
+    "manas",
+    "buddhi"
+  ],
+  "relatedTexts": [
+    {
+      "id": "tattva-bodha",
+      "note": "Later Vedanta primers adopt the five-sheaths scheme"
+    },
+    {
+      "id": "katha-upanishad",
+      "note": "Also from the Krishna Yajurveda"
+    },
+    {
+      "id": "brahma-sutras",
+      "note": "The sutras discuss the 'blissful' (anandamaya) passage at length"
+    }
+  ],
+  "thinkers": [
+    "shankara",
+    "ramanuja",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

@@ -1,0 +1,100 @@
+{
+  "id": "mimamsa-sutras",
+  "title": {
+    "en": "Mimamsa Sutras",
+    "sa": "मीमांसासूत्र",
+    "iast": "Mīmāṃsāsūtra"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "mimamsa",
+    "vedic"
+  ],
+  "attribution": "Traditionally attributed to Jaimini",
+  "author": "jaimini",
+  "period": "Commonly placed between roughly the 3rd and 1st centuries BCE; dates are debated",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Dharma",
+    "Ritual",
+    "Interpretation",
+    "Language",
+    "Authority"
+  ],
+  "summary": "The founding text of Purva Mimamsa: a systematic method for interpreting Vedic injunctions and defining dharma.",
+  "whyRead": "Mimamsa developed the rules of interpretation that shaped Indian law, grammar and Vedanta itself. Its account of why the Veda is authoritative and how injunctions work is foundational for understanding dharma.",
+  "questions": [
+    "What is dharma, and how is it known?",
+    "What makes a scripture authoritative?",
+    "How should a text be interpreted when its statements seem to conflict?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The inquiry into dharma",
+      "text": "The text opens by announcing an inquiry into dharma and defines it as a good known through Vedic injunction (codana). Dharma is known from the Veda rather than from perception or inference."
+    },
+    {
+      "title": "Authority of the Veda",
+      "text": "Mimamsa holds that the Veda is authorless (apaurusheya) and that the relation between word and meaning is eternal. On this view, Vedic statements are free of the faults that affect human testimony."
+    },
+    {
+      "title": "Injunctions and ritual",
+      "text": "The heart of the Veda, for Mimamsa, lies in injunctions (vidhi) to act, especially to perform sacrifice (yajna). Descriptive passages are read as supporting these injunctions."
+    },
+    {
+      "title": "Rules of interpretation",
+      "text": "Most of the text is a detailed method for resolving ambiguity: how to relate main and subsidiary rites, when a rule transfers from one ritual to another, and how to rank different kinds of evidence."
+    },
+    {
+      "title": "Later schools",
+      "text": "Commentators split into two main schools: that of Kumarila Bhatta and that of Prabhakara. They differ on the number of pramanas, on how sentences convey meaning, and on the nature of error, among other questions."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Twelve books (adhyayas)",
+      "note": "Subdivided into sections (padas) and topics (adhikaranas)"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Mimamsa Sutra 1.1.1",
+      "about": "The announcement of the inquiry into dharma"
+    },
+    {
+      "ref": "Mimamsa Sutra 1.1.2",
+      "about": "Dharma defined by reference to Vedic injunction"
+    }
+  ],
+  "concepts": [
+    "dharma",
+    "yajna",
+    "karma",
+    "pramana",
+    "phala",
+    "rta"
+  ],
+  "relatedTexts": [
+    {
+      "id": "brahma-sutras",
+      "note": "Uttara Mimamsa (Vedanta) takes up the inquiry into Brahman in parallel form"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "The Gita reinterprets ritual action and sacrifice, for example in chapter 3"
+    },
+    {
+      "id": "nyaya-sutras",
+      "note": "Nyaya and Mimamsa disagree about whether the Veda is authorless"
+    }
+  ],
+  "thinkers": [
+    "jaimini",
+    "kumarila",
+    "prabhakara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

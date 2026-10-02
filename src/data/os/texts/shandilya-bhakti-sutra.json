@@ -1,0 +1,70 @@
+{
+  "id": "shandilya-bhakti-sutra",
+  "title": {
+    "en": "Shandilya Bhakti Sutra",
+    "sa": "शाण्डिल्यभक्तिसूत्र",
+    "iast": "Śāṇḍilyabhaktisūtra"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "bhakti",
+    "vedanta"
+  ],
+  "attribution": "Traditionally attributed to the sage Shandilya; actual author unknown",
+  "author": null,
+  "period": "Date uncertain; generally considered a late text, perhaps from the second millennium CE",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Devotion",
+    "Knowledge",
+    "God"
+  ],
+  "summary": "A sutra text of about a hundred aphorisms defining bhakti as supreme attachment to God and arguing for its primacy over knowledge.",
+  "whyRead": "It treats devotion in the analytic manner of the philosophical sutras, engaging Vedanta directly. It complements the more lyrical Narada Bhakti Sutra.",
+  "questions": [
+    "Is devotion a kind of knowledge, or something beyond it?",
+    "Can bhakti be argued for philosophically?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Bhakti as supreme attachment to God",
+      "text": "The text defines devotion as supreme attachment (anurakti) to Ishvara, placing it at the centre of the spiritual life."
+    },
+    {
+      "title": "Devotion and knowledge",
+      "text": "It argues that knowledge is subordinate to devotion, a point of contrast with schools that make knowledge alone liberating."
+    },
+    {
+      "title": "Engagement with Vedanta",
+      "text": "The sutras discuss the self, the Lord and the world in Vedantic terms, showing bhakti as a philosophical position and not only a practice."
+    }
+  ],
+  "structure": [
+    {
+      "label": "About 100 sutras in three chapters",
+      "note": "Counts and divisions vary between editions"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "bhakti",
+    "jnana",
+    "ishvara",
+    "prema"
+  ],
+  "relatedTexts": [
+    {
+      "id": "narada-bhakti-sutra",
+      "note": "The shorter and more widely read companion text"
+    },
+    {
+      "id": "brahma-sutras",
+      "note": "Its form and some debates echo the Vedanta sutras"
+    }
+  ],
+  "thinkers": [],
+  "advanced": false,
+  "ingested": false
+}

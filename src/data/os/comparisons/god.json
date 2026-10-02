@@ -1,0 +1,146 @@
+{
+  "id": "god",
+  "topic": "Is there a God, and what is God?",
+  "concept": "ishvara",
+  "intro": "Answers range from a personal creator to an impersonal absolute, to no creator at all. Several traditions that deny a creator still have rich religious lives.",
+  "rows": [
+    {
+      "tradition": "advaita",
+      "claim": "Ishvara is Brahman as seen through maya; ultimately, Brahman alone is.",
+      "detail": "At the conventional level, Ishvara is the real creator, sustainer and object of devotion. At the ultimate level, Brahman is beyond all qualities and distinctions.",
+      "sources": [
+        {
+          "text": "shankara-brahma-sutra-bhashya"
+        }
+      ],
+      "concepts": [
+        "ishvara",
+        "brahman",
+        "maya"
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "claim": "God is Vishnu-Narayana, possessing infinite auspicious qualities.",
+      "detail": "Brahman is a personal God, the inner controller of all selves and matter, who is both material and efficient cause of the world and grants grace.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        }
+      ],
+      "concepts": [
+        "ishvara",
+        "brahman",
+        "anugraha"
+      ]
+    },
+    {
+      "tradition": "dvaita",
+      "claim": "God (Vishnu) is the one independent reality, supreme over all.",
+      "detail": "God is utterly distinct from souls and matter, which depend on him. God is the efficient cause of the world; matter is its material cause.",
+      "sources": [
+        {
+          "text": "madhva-brahma-sutra-bhashya"
+        }
+      ],
+      "concepts": [
+        "ishvara"
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "claim": "Ishvara is a special purusha, untouched by affliction and karma.",
+      "detail": "Ishvara is not a creator in classical Yoga but an eternally free consciousness and a support for meditation through devotion.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ],
+      "concepts": [
+        "ishvara",
+        "purusha"
+      ]
+    },
+    {
+      "tradition": "nyaya",
+      "claim": "God is the efficient cause of the world, provable by inference.",
+      "detail": "God arranges atoms and administers karma but did not create souls or atoms. Udayana offered classic arguments for God's existence.",
+      "sources": [
+        {
+          "text": "nyaya-sutras"
+        }
+      ],
+      "concepts": [
+        "ishvara"
+      ]
+    },
+    {
+      "tradition": "mimamsa",
+      "claim": "No creator God is needed; the Veda is authorless and eternal.",
+      "detail": "Classical Mimamsa holds the world has no beginning and ritual works through its own potency; the deities of ritual are addressees of offerings.",
+      "sources": [
+        {
+          "text": "mimamsa-sutras"
+        }
+      ],
+      "concepts": [
+        "yajna",
+        "dharma"
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "claim": "No creator God; buddhas are awakened beings, not creators.",
+      "detail": "Buddhist thinkers argued against a creator. Mahayana schools develop rich ideas of buddhas and bodhisattvas, which they distinguish from a creator God.",
+      "sources": [],
+      "concepts": [
+        "pratityasamutpada"
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "claim": "No creator God; liberated souls are revered as perfected teachers.",
+      "detail": "The universe is eternal and uncreated. Tirthankaras and siddhas are souls that attained omniscience and are models, not creators.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ],
+      "concepts": [
+        "jiva",
+        "moksha"
+      ]
+    },
+    {
+      "tradition": "shaiva-siddhanta",
+      "claim": "Shiva is the Lord (pati) who acts out of grace to free souls.",
+      "detail": "Shiva performs five acts — creation, maintenance, dissolution, concealment and grace — and remains distinct from souls and bonds.",
+      "sources": [
+        {
+          "text": "shiva-jnana-bodham"
+        }
+      ],
+      "concepts": [
+        "shiva",
+        "pati-pashu-pasha",
+        "anugraha"
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "claim": "One formless Creator, both transcendent and immanent, known through the Guru.",
+      "detail": "God is nirankar, without form, the source of hukam, the divine order, and approached through remembrance of the Name and grace.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ],
+      "concepts": [
+        "naam",
+        "hukam",
+        "ishvara"
+      ]
+    }
+  ],
+  "note": "The disagreement concerns whether God is personal or impersonal, creator or not, identical with or distinct from souls, and whether God's existence can be known by reason or only by scripture."
+}

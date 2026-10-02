@@ -1,0 +1,95 @@
+{
+  "id": "viveka",
+  "name": {
+    "en": "Viveka",
+    "sa": "विवेक",
+    "iast": "viveka"
+  },
+  "short": "Discernment between the real and the unreal, the Self and the not-Self.",
+  "beginner": "Viveka is the ability to tell apart what lasts from what does not, and who you are from what you merely experience. Many traditions see it as the first step of the spiritual path.",
+  "what": "In Vedanta viveka is the discrimination between the eternal and the non-eternal (nitya-anitya-vastu-viveka), the first of four qualifications of a seeker. In Sankhya and Yoga, the liberating insight is discrimination (viveka-khyati) between pure consciousness (purusha) and nature (prakriti). The Gita opens its teaching with this discernment between the undying Self and the changing body. Sadhak Sanjivani gives great weight to viveka, describing it as a God-given capacity every human has.",
+  "scholar": "Vivekachudamani ('crest-jewel of discrimination') is traditionally attributed to Shankara. Yoga Sutra 2.26 names unwavering discriminative discernment as the means of ending ignorance. Buddhist prajna (wisdom) functions analogously, but discriminates phenomena as impermanent and not-self rather than separating a Self from them.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Discrimination between the eternal and non-eternal is the first qualification for inquiry, maturing into knowledge that the Self alone is real."
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Liberating knowledge is the discrimination that purusha is entirely distinct from prakriti and its products."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Unwavering discriminative discernment is the remedy for ignorance and the gateway to isolation (kaivalya) of the seer."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Wisdom (prajna) discerns the three marks in all phenomena rather than isolating a permanent self from them."
+    }
+  ],
+  "texts": [
+    "vivekachudamani",
+    "tattva-bodha",
+    "sankhya-karika",
+    "yoga-sutras",
+    "bhagavad-gita"
+  ],
+  "traditions": [
+    "advaita",
+    "sankhya",
+    "yoga",
+    "buddhism"
+  ],
+  "relatedConcepts": [
+    "jnana",
+    "vairagya",
+    "avidya",
+    "atma",
+    "sakshi"
+  ],
+  "questions": [
+    "self",
+    "knowledge",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.11",
+      "note": "Krishna's teaching begins by discerning what should and should not be grieved for."
+    },
+    {
+      "kind": "gita",
+      "id": "2.16",
+      "note": "The unreal has no being; the real never ceases."
+    },
+    {
+      "kind": "text",
+      "id": "tattva-bodha",
+      "note": "Viveka as the first of the four qualifications."
+    },
+    {
+      "kind": "text",
+      "id": "vivekachudamani",
+      "note": "A classic on discrimination, traditionally attributed to Shankara."
+    },
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "note": "Discrimination between purusha and prakriti."
+    },
+    {
+      "kind": "concept",
+      "id": "vairagya",
+      "note": "Discernment naturally ripens into dispassion."
+    }
+  ],
+  "gitaVerses": [
+    "2.11",
+    "2.16",
+    "3.39",
+    "5.16",
+    "13.19",
+    "14.19"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "ahimsa",
+  "name": {
+    "en": "Ahimsa — non-harm",
+    "sa": "अहिंसा",
+    "iast": "ahiṃsā"
+  },
+  "short": "Not harming living beings, in deed, word or thought.",
+  "beginner": "Ahimsa means not causing harm to any living being. It is a shared ethical ideal across Jain, Buddhist and Hindu traditions, but they differ on how strictly and how widely it applies.",
+  "what": "Ahimsa is the first of Yoga's restraints (yamas) and the central principle of Jain ethics. In Jainism it is extended with great rigour to all life, including insects and plants, shaping diet, occupation and monastic practice. Buddhism places non-harm in its first precept. The Gita lists non-violence among divine qualities while also urging Arjuna to fight — a tension that commentators and modern readers, including Gandhi, interpret in different ways.",
+  "scholar": "Jain ethics distinguishes great vows (mahavrata) for monastics and lesser vows (anuvrata) for laity. Debates on the Gita's stance include allegorical readings (the battle as inner struggle) and readings that distinguish personal non-harm from the duty of protection. Mimamsa's treatment of ritual animal sacrifice as exempt from the general prohibition was contested by Jains, Buddhists and later Hindu reformers.",
+  "perspectives": [
+    {
+      "tradition": "jainism",
+      "view": "Ahimsa is the supreme principle: harming any living being binds karmic matter to the soul, so conduct is ordered around minimising harm to all forms of life."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Abstaining from killing is the first precept; harm rooted in hatred is unwholesome and brings suffering, and compassion is actively cultivated."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Non-harm is the first yama and the foundation of the other disciplines."
+    },
+    {
+      "tradition": "itihasa-purana",
+      "view": "The epics praise non-harm as the highest dharma while also depicting just war and protection as duty, holding the two in tension."
+    },
+    {
+      "tradition": "tamil-ethics",
+      "view": "The Tirukkural strongly commends non-killing and compassion as marks of virtue."
+    }
+  ],
+  "texts": [
+    "tattvartha-sutra",
+    "yoga-sutras",
+    "dhammapada",
+    "bhagavad-gita",
+    "mahabharata",
+    "tirukkural"
+  ],
+  "traditions": [
+    "jainism",
+    "buddhism",
+    "yoga",
+    "itihasa-purana",
+    "tamil-ethics"
+  ],
+  "relatedConcepts": [
+    "dharma",
+    "karma",
+    "anekantavada",
+    "seva"
+  ],
+  "questions": [
+    "live",
+    "dharma"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "note": "The tradition that places non-harm at the very centre."
+    },
+    {
+      "kind": "text",
+      "id": "tattvartha-sutra",
+      "note": "The classic summary of Jain doctrine, including the vows."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "Non-harm as the first restraint."
+    },
+    {
+      "kind": "gita",
+      "id": "16.2",
+      "note": "Non-violence among the divine qualities."
+    },
+    {
+      "kind": "gita",
+      "id": "13.7",
+      "note": "Non-violence as a mark of knowledge."
+    },
+    {
+      "kind": "text",
+      "id": "mahabharata",
+      "note": "The epic's tension between non-harm and the duty to fight."
+    }
+  ],
+  "gitaVerses": [
+    "10.5",
+    "13.7",
+    "16.2",
+    "17.14"
+  ]
+}

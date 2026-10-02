@@ -1,0 +1,81 @@
+{
+  "id": "pratityasamutpada",
+  "name": {
+    "en": "Pratityasamutpada — dependent origination",
+    "sa": "प्रतीत्यसमुत्पाद",
+    "iast": "pratītyasamutpāda"
+  },
+  "short": "The Buddhist teaching that everything arises in dependence on conditions, with no independent, self-caused existence.",
+  "beginner": "Dependent origination means nothing exists on its own: everything comes into being because of other things. Buddhism uses this to explain how suffering arises and how it can stop.",
+  "what": "Pratityasamutpada ('arising in dependence') is the Buddhist account of causality. In its classic form it is a chain of twelve links, from ignorance through formations, consciousness, name-and-form, the senses, contact, feeling, craving, clinging, becoming and birth to ageing and death. Seeing this chain explains the arising of suffering without positing a permanent self, and reversing it describes the path to cessation. Later schools interpret it differently.",
+  "scholar": "Early texts state the principle as: when this is, that is; from the arising of this, that arises. Abhidharma schools analyse it in terms of momentary dharmas. Nagarjuna's Mulamadhyamakakarika identifies dependent origination with emptiness (shunyata): because things arise dependently they lack svabhava (own-being). Yogacara reads it through consciousness and its seeds. Hindu critics, especially Nyaya and Vedanta, argue that such a chain requires a lasting subject or ground.",
+  "perspectives": [
+    {
+      "tradition": "theravada",
+      "view": "Theravada presents the twelve links as a description of how rebirth and suffering continue across lives and moment to moment, and meditative insight into it as liberating."
+    },
+    {
+      "tradition": "madhyamaka",
+      "view": "For Nagarjuna, whatever arises dependently is empty of own-being; dependent origination and emptiness are two ways of saying the same thing."
+    },
+    {
+      "tradition": "yogacara",
+      "view": "Yogacara explains the chain through the storehouse consciousness (alaya-vijnana), in which karmic seeds ripen as experience."
+    }
+  ],
+  "texts": [
+    "mulamadhyamakakarika",
+    "dhammapada"
+  ],
+  "traditions": [
+    "buddhism",
+    "theravada",
+    "madhyamaka",
+    "yogacara"
+  ],
+  "relatedConcepts": [
+    "shunyata",
+    "anatta",
+    "anitya",
+    "dukkha",
+    "karma",
+    "avidya"
+  ],
+  "questions": [
+    "reality",
+    "suffering",
+    "karma"
+  ],
+  "follow": [
+    {
+      "kind": "thinker",
+      "id": "buddha",
+      "note": "The Buddha's teaching on the conditioned arising of suffering."
+    },
+    {
+      "kind": "concept",
+      "id": "dukkha",
+      "note": "The chain explains how dukkha arises and ceases."
+    },
+    {
+      "kind": "concept",
+      "id": "anatta",
+      "note": "Dependent origination explains continuity without a permanent self."
+    },
+    {
+      "kind": "thinker",
+      "id": "nagarjuna",
+      "note": "Nagarjuna equates dependent origination with emptiness."
+    },
+    {
+      "kind": "text",
+      "id": "mulamadhyamakakarika",
+      "note": "The foundational Madhyamaka text on this equation."
+    },
+    {
+      "kind": "tradition",
+      "id": "nyaya",
+      "note": "Contrast: Nyaya argues for an enduring self as the substrate of experience."
+    }
+  ]
+}

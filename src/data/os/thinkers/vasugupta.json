@@ -1,0 +1,42 @@
+{
+  "id": "vasugupta",
+  "name": {
+    "en": "Vasugupta",
+    "sa": "वसुगुप्त"
+  },
+  "traditions": [
+    "kashmir-shaivism",
+    "shaivism"
+  ],
+  "period": "Traditionally placed in the 9th century CE.",
+  "context": "Vasugupta is honoured in Kashmir Shaivism as the one to whom the Shiva Sutras were revealed. Tradition relates that the sutras were disclosed to him in a dream by Shiva and found inscribed on a rock on Mahadeva mountain; this account is legendary. The Shiva Sutras became a foundational text of the non-dual Shaiva traditions of Kashmir. The Spanda Karikas, which develop the idea of consciousness as dynamic vibration, are attributed either to him or to his disciple Kallata.",
+  "coreIdeas": [
+    "Consciousness is the Self, and the Self is Shiva",
+    "The world arises as the free expression of Shiva's consciousness and power (shakti)",
+    "Bondage is a limitation of knowledge that contracts universal consciousness into the individual",
+    "Liberation is realised through different means (upayas), from effortless insight to disciplined practice",
+    "Consciousness is inherently dynamic (spanda), not inert"
+  ],
+  "works": [
+    "shiva-sutras"
+  ],
+  "otherWorks": [
+    "Spanda Karikas (attributed either to Vasugupta or to his disciple Kallata)"
+  ],
+  "attributionNote": "The Shiva Sutras are considered revealed, with Vasugupta as recipient. Authorship of the Spanda Karikas is debated between Vasugupta and Kallata.",
+  "influenced": [
+    "kshemaraja",
+    "abhinavagupta"
+  ],
+  "relatedThinkers": [
+    "abhinavagupta",
+    "kshemaraja"
+  ],
+  "concepts": [
+    "shiva",
+    "shakti",
+    "spanda",
+    "non-duality",
+    "moksha"
+  ]
+}

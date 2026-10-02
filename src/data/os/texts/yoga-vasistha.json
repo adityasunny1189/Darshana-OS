@@ -1,0 +1,93 @@
+{
+  "id": "yoga-vasistha",
+  "title": {
+    "en": "Yoga Vasistha",
+    "sa": "योगवासिष्ठ",
+    "iast": "Yogavāsiṣṭha"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita",
+    "vedanta",
+    "itihasa-purana"
+  ],
+  "attribution": "Traditionally attributed to Valmiki; authorship debated by scholars",
+  "author": null,
+  "period": "Scholars date it variously between about the 6th and 14th centuries CE, often placing its present form late in the first millennium or later; possibly composed in Kashmir",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Mind",
+    "Consciousness",
+    "Reality",
+    "Maya",
+    "Liberation"
+  ],
+  "summary": "A vast work in which the sage Vasistha teaches the young prince Rama, through many nested stories, that the world is a projection of mind and consciousness.",
+  "whyRead": "The Yoga Vasistha is unusual in teaching philosophy almost entirely through stories within stories, in which dreams, time and worlds dissolve into one another. It presents an idealist, strongly non-dual view that the world is a creation of mind, and it values effort alongside insight.",
+  "story": "The young prince Rama returns from a pilgrimage deeply disillusioned with worldly life. At his father's court, the sage Vasistha teaches him over many days, illustrating each point with stories such as those of Lila and of Gadhi, in which lifetimes and worlds turn out to be appearances within consciousness.",
+  "questions": [
+    "Is the world created by the mind?",
+    "What is the relation of dream and waking?",
+    "Is liberation compatible with active life?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The world as mind",
+      "text": "The text repeatedly presents the world as a projection of mind; as the mind is, so the world appears."
+    },
+    {
+      "title": "Consciousness alone",
+      "text": "Beneath mind lies pure consciousness, the only reality; the multiplicity of worlds arises within it like images in a dream."
+    },
+    {
+      "title": "Effort matters",
+      "text": "Unusually for a strongly non-dual text, it stresses human effort (paurusha) over fate."
+    },
+    {
+      "title": "Liberation while living",
+      "text": "The liberated person continues to act in the world, as Rama is expected to, free of inner attachment."
+    }
+  ],
+  "structure": [
+    {
+      "label": "6 books (prakaranas)",
+      "note": "Vairagya, Mumukshu, Utpatti, Sthiti, Upashama and Nirvana"
+    },
+    {
+      "label": "Very long",
+      "note": "Traditionally some 32,000 verses; shorter versions such as the Laghu Yoga Vasistha circulate"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "manas",
+    "maya",
+    "moksha",
+    "non-duality",
+    "chitta",
+    "vairagya",
+    "atma",
+    "brahman"
+  ],
+  "relatedTexts": [
+    {
+      "id": "valmiki-ramayana",
+      "note": "Its frame is set in Rama's life, and tradition links it to Valmiki"
+    },
+    {
+      "id": "mandukya-karika",
+      "note": "Shares the comparison of waking and dream"
+    },
+    {
+      "id": "ashtavakra-gita",
+      "note": "Another advanced non-dual dialogue with a royal student"
+    }
+  ],
+  "thinkers": [
+    "valmiki"
+  ],
+  "advanced": true,
+  "ingested": false
+}

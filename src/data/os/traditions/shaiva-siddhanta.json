@@ -1,0 +1,78 @@
+{
+  "id": "shaiva-siddhanta",
+  "name": {
+    "en": "Shaiva Siddhanta",
+    "sa": "शैव सिद्धान्त",
+    "iast": "Śaiva Siddhānta"
+  },
+  "family": "shaiva",
+  "parent": "shaivism",
+  "tagline": "The Agamic Shaiva system of Lord, soul and bond.",
+  "period": "Early Siddhanta scriptures and commentators (e.g. Sadyojyoti, Ramakantha) flourished in north India and Kashmir from roughly the 7th–11th centuries CE; the Tamil Siddhanta synthesis begins with Meykandar's Shiva Jnana Bodham, generally dated to the 13th century.",
+  "overview": "Shaiva Siddhanta is the ritual and philosophical tradition based on the Shaiva Agamas. It analyses reality into three eternal categories: pati (the Lord, Shiva), pashu (souls, likened to bound animals) and pasha (the bonds). The bonds include the root impurity (anava mala) that limits the soul, karma, and maya as the material from which bodies and worlds arise. Shiva, out of grace, acts through his power to mature souls and release them. Liberation, attained through initiation, ritual, devotion and knowledge culminating in grace, makes the soul equal to Shiva in its consciousness but, in the classical view, not identical with him. In south India the tradition joined the devotional hymns of the Tamil Nayanars and remains a living temple tradition.",
+  "beginner": "Shaiva Siddhanta says there are three eternal things: God (Shiva), souls, and the bonds that hold souls back. Through ritual, devotion and above all Shiva's grace, the soul is freed and becomes like Shiva.",
+  "coreQuestions": [
+    "What binds the soul?",
+    "How does Shiva's grace work?",
+    "Does the liberated soul become Shiva or remain distinct?",
+    "How do ritual and knowledge relate?"
+  ],
+  "coreConcepts": [
+    "pati-pashu-pasha",
+    "shiva",
+    "anugraha",
+    "karma",
+    "maya",
+    "bhakti",
+    "moksha",
+    "tattva"
+  ],
+  "texts": [
+    "agamas",
+    "shiva-jnana-bodham"
+  ],
+  "thinkers": [
+    "meykandar"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "shaivism",
+      "note": "A major branch of Shaivism"
+    },
+    {
+      "id": "kashmir-shaivism",
+      "note": "The non-dual Shaiva alternative"
+    },
+    {
+      "id": "bhakti",
+      "note": "Tamil Siddhanta integrates the Nayanar hymns"
+    },
+    {
+      "id": "nyaya",
+      "note": "Classical Siddhanta arguments for God and the soul resemble and engage Nyaya realism"
+    }
+  ],
+  "darshana": {
+    "problem": "How can souls, bound by beginningless impurity, be released, and what is the role of Shiva in their release?",
+    "real": "Three eternal realities: the Lord (pati), souls (pashu) and bonds (pasha). The world, made from maya, is real.",
+    "pramanas": "Perception, inference and scripture (the Agamas and Vedas), with scripture decisive on the Lord and liberation.",
+    "self": "The soul is eternal, conscious and all-pervading in nature, but its powers of knowing and acting are veiled by anava mala.",
+    "bondage": "The three bonds: anava (root impurity), karma and maya, with Shiva's concealing power allowing them to work until the soul is ripe.",
+    "liberation": "Release from the bonds through Shiva's grace; the soul realises its Shiva-like consciousness while remaining distinct from Shiva. Tamil Siddhanta sometimes expresses this as a relation of \"non-duality\" in union.",
+    "path": "Initiation (diksha), ritual worship, conduct, yoga and knowledge; Tamil Siddhanta speaks of four stages: carya, kriya, yoga and jnana — culminating in grace."
+  },
+  "disagreements": [
+    {
+      "with": "kashmir-shaivism",
+      "topic": "identity with Shiva",
+      "note": "Siddhanta holds souls and Shiva remain distinct even in liberation; non-dual Shaivas hold the soul is Shiva."
+    },
+    {
+      "with": "advaita",
+      "topic": "nature of bondage",
+      "note": "Siddhanta holds anava mala is a real substance removable only by ritual action and grace, not by knowledge alone."
+    }
+  ],
+  "scholar": "The early (Sanskrit) Siddhanta is clearly dualist; the Tamil Meykandar school describes the Shiva–soul relation as advaita in a qualified sense, which has been interpreted in various ways. The Agamas are traditionally twenty-eight.",
+  "difficulty": "advanced"
+}

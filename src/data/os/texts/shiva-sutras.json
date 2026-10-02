@@ -1,0 +1,105 @@
+{
+  "id": "shiva-sutras",
+  "title": {
+    "en": "Shiva Sutras",
+    "sa": "शिवसूत्र",
+    "iast": "Śivasūtra"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "kashmir-shaivism",
+    "shaivism",
+    "tantra"
+  ],
+  "attribution": "Revealed to Vasugupta according to tradition, which holds that he found them inscribed on a rock or received them in a dream",
+  "author": "vasugupta",
+  "period": "Commonly dated to the 9th century CE",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Consciousness",
+    "Recognition",
+    "Liberation",
+    "Means of realisation"
+  ],
+  "summary": "A set of 77 terse aphorisms at the root of Kashmir Shaivism, describing consciousness as the Self and the means of realising it.",
+  "whyRead": "It is the foundational scripture of the non-dual Shaiva traditions of Kashmir. Its classification of means (upayas) remains a key framework for Trika thought and practice.",
+  "questions": [
+    "What is the Self?",
+    "What binds consciousness, and how is it freed?",
+    "Are there different paths for different temperaments?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Consciousness is the Self",
+      "text": "The first sutra identifies the Self with consciousness (chaitanya), understood as dynamic and free, not merely a passive witness."
+    },
+    {
+      "title": "Bondage as limited knowing",
+      "text": "Bondage is traced to limited or contracted knowledge and to the powers that veil consciousness from itself."
+    },
+    {
+      "title": "Three means (upayas)",
+      "text": "The sutras are divided according to three means: the divine means (shambhavopaya) of sudden recognition, the empowered means (shaktopaya) of refined awareness, and the individual means (anavopaya) using breath, body and concentration."
+    },
+    {
+      "title": "Effort as Bhairava",
+      "text": "An early sutra identifies the upsurge of awareness (udyama) with Bhairava, the supreme Shiva, suggesting that realisation arises in a flash of awakened attention."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Section 1: Shambhavopaya",
+      "note": "22 sutras"
+    },
+    {
+      "label": "Section 2: Shaktopaya",
+      "note": "10 sutras"
+    },
+    {
+      "label": "Section 3: Anavopaya",
+      "note": "45 sutras"
+    },
+    {
+      "label": "Commentaries",
+      "note": "Notably the Vimarshini of Kshemaraja"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Shiva Sutra 1.1",
+      "about": "Consciousness is the Self"
+    },
+    {
+      "ref": "Shiva Sutra 1.5",
+      "about": "The upsurge of awareness identified with Bhairava"
+    }
+  ],
+  "concepts": [
+    "shiva",
+    "shakti",
+    "pratyabhijna",
+    "spanda",
+    "atma",
+    "moksha",
+    "non-duality"
+  ],
+  "relatedTexts": [
+    {
+      "id": "pratyabhijna-hridayam",
+      "note": "Kshemaraja's short primer on the recognition doctrine"
+    },
+    {
+      "id": "vijnana-bhairava",
+      "note": "A contemplative Tantra of the same broad tradition"
+    }
+  ],
+  "thinkers": [
+    "vasugupta",
+    "kshemaraja",
+    "abhinavagupta"
+  ],
+  "advanced": true,
+  "ingested": false
+}

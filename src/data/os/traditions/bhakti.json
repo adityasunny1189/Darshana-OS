@@ -1,0 +1,81 @@
+{
+  "id": "bhakti",
+  "name": {
+    "en": "Bhakti traditions",
+    "sa": "भक्ति",
+    "iast": "Bhakti"
+  },
+  "family": "bhakti",
+  "parent": null,
+  "tagline": "Movements of loving devotion to a personal God, across Vaishnava, Shaiva, Shakta and other streams.",
+  "period": "Devotion is taught in the Bhagavad Gita and Shvetashvatara Upanishad; the Tamil Alvars and Nayanars (roughly 6th–9th centuries CE) began a wave of vernacular devotional poetry that spread across India over the following millennium.",
+  "overview": "Bhakti (\"participation\", \"devotion\") names both a path to liberation and a set of movements centred on a loving relationship with a personal God. Bhakti traditions are plural: Vaishnava (devoted to Vishnu, Krishna or Rama), Shaiva, Shakta, and sant traditions of devotion to a God beyond form (nirguna). Many were carried by poet-saints writing in regional languages — the Alvars and Nayanars in Tamil, Basava and the Haridasas in Kannada, Jnaneshvar and Tukaram in Marathi, Mirabai, Surdas, Tulsidas and Kabir in the north, Chaitanya and his followers in Bengal — and often questioned caste and ritual hierarchy. Theologies range from the qualified non-dualism of Ramanuja and the dualism of Madhva to Gaudiya \"inconceivable difference-in-identity\". Common themes include divine grace, surrender, the Name, love (prema) and the company of devotees.",
+  "beginner": "Bhakti is the path of love for God. Instead of complicated rituals or philosophy, it says what matters most is sincere, heartfelt devotion — and God responds to that love with grace.",
+  "coreQuestions": [
+    "What is love for God?",
+    "Is God with form or beyond form?",
+    "Does grace or effort bring liberation?",
+    "Can devotion overcome caste and ritual barriers?"
+  ],
+  "coreConcepts": [
+    "bhakti",
+    "prema",
+    "sharanagati",
+    "prapatti",
+    "anugraha",
+    "lila",
+    "ishvara",
+    "shraddha",
+    "naam"
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "bhagavata-purana",
+    "narada-bhakti-sutra",
+    "shandilya-bhakti-sutra",
+    "ramcharitmanas",
+    "uddhava-gita",
+    "adhyatma-ramayana"
+  ],
+  "thinkers": [
+    "ramanuja",
+    "madhva",
+    "tulsidas"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "vishishtadvaita",
+      "note": "Ramanuja gave systematic theological form to Shri Vaishnava devotion"
+    },
+    {
+      "id": "dvaita",
+      "note": "Madhva's school is closely tied to devotional practice"
+    },
+    {
+      "id": "shaivism",
+      "note": "Shaiva bhakti includes the Nayanars and Virashaivas"
+    },
+    {
+      "id": "sikhism",
+      "note": "Sikh scripture includes hymns of several north Indian sants, but Sikhism is a distinct tradition"
+    },
+    {
+      "id": "itihasa-purana",
+      "note": "The Bhagavata Purana is a central bhakti scripture"
+    }
+  ],
+  "disagreements": [
+    {
+      "with": "advaita",
+      "topic": "the final goal",
+      "note": "Many bhakti theologians hold that loving service to God is higher than merging into a featureless absolute; Advaita treats devotion as a means to knowledge."
+    },
+    {
+      "with": "mimamsa",
+      "topic": "ritual",
+      "note": "Bhakti poets often criticised mechanical ritualism as empty without love."
+    }
+  ],
+  "scholar": "Distinctions include saguna (God with attributes) and nirguna (beyond attributes) bhakti; vaidhi (rule-governed) and raganuga (spontaneous) bhakti in Gaudiya thought; and the \"cat\" and \"monkey\" analogies for grace in the Shri Vaishnava schools.",
+  "difficulty": "beginner"
+}

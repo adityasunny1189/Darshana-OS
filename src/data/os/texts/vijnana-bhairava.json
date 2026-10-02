@@ -1,0 +1,81 @@
+{
+  "id": "vijnana-bhairava",
+  "title": {
+    "en": "Vijnana Bhairava Tantra",
+    "sa": "विज्ञानभैरवतन्त्र",
+    "iast": "Vijñānabhairavatantra"
+  },
+  "category": "agama-tantra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "kashmir-shaivism",
+    "tantra",
+    "shaivism"
+  ],
+  "attribution": "Author unknown; presented as a dialogue between Bhairava and the Goddess, and traditionally said to belong to the Rudrayamala Tantra",
+  "author": null,
+  "period": "Scholars generally place it between roughly the 7th and 9th centuries CE; dates are uncertain",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Contemplation",
+    "Awareness",
+    "Breath",
+    "Non-duality"
+  ],
+  "summary": "A Shaiva contemplative text in which Bhairava answers the Goddess with a long series of meditative methods (dharanas), widely counted as 112.",
+  "whyRead": "It is one of the most practice-centred texts of the Shaiva Tantras. Its methods use breath, sensation, emotion, sound, space and ordinary moments as doorways into awareness, grounded in a non-dual view of consciousness.",
+  "story": "The Goddess asks Bhairava about the true nature of reality and of Bhairava himself. He answers that it cannot be captured in doctrine and instead teaches a series of contemplative practices through which it can be realised.",
+  "questions": [
+    "Can ordinary experience become a doorway to awareness?",
+    "What is the nature of the ultimate reality, Bhairava?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Beyond doctrinal description",
+      "text": "The frame dialogue sets aside ritual and conceptual accounts of the divine as preparatory, pointing instead to direct experience."
+    },
+    {
+      "title": "A range of contemplations",
+      "text": "The methods, widely counted as 112, include attention to the pause between breaths, to sound as it fades, to open space, to intense emotion and to moments of wonder."
+    },
+    {
+      "title": "Contemplation within a non-dual frame",
+      "text": "The practices assume that consciousness and its power (shakti) are one, so any experience, rightly attended to, can reveal its source."
+    },
+    {
+      "title": "Within a ritual tradition",
+      "text": "Although it downplays external worship, the text belongs to the Bhairava Tantras and their ritual and theological world; later Kashmiri authors such as Kshemaraja commented on it."
+    }
+  ],
+  "structure": [
+    {
+      "label": "About 160 verses in the common text",
+      "note": "Frame dialogue, then the dharanas; the count of 112 is traditional and depends on how methods are grouped"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "dhyana",
+    "shakti",
+    "shiva",
+    "pranayama",
+    "spanda",
+    "non-duality"
+  ],
+  "relatedTexts": [
+    {
+      "id": "shiva-sutras",
+      "note": "Root scripture of the same Kashmiri non-dual tradition"
+    },
+    {
+      "id": "yoga-sutras",
+      "note": "A different classical account of meditative concentration"
+    }
+  ],
+  "thinkers": [
+    "kshemaraja"
+  ],
+  "advanced": true,
+  "ingested": false
+}

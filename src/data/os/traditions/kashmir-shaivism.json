@@ -1,0 +1,90 @@
+{
+  "id": "kashmir-shaivism",
+  "name": {
+    "en": "Kashmir Shaivism (Pratyabhijna / Trika)",
+    "sa": "प्रत्यभिज्ञा / त्रिक",
+    "iast": "Pratyabhijñā / Trika"
+  },
+  "family": "shaiva",
+  "parent": "shaivism",
+  "tagline": "Non-dual Shaivism: all reality is Shiva's free, self-aware consciousness.",
+  "period": "Developed in Kashmir from roughly the 9th century CE: Vasugupta (traditionally credited with receiving the Shiva Sutras), Somananda and Utpaladeva, and culminating in Abhinavagupta (c. 10th–11th century) and Kshemaraja.",
+  "overview": "\"Kashmir Shaivism\" is a modern umbrella term for several non-dual Shaiva traditions of Kashmir, especially the Pratyabhijna (\"recognition\") philosophy and the Trika tantric system. They hold that ultimate reality is Shiva, understood as consciousness that is not only luminous (prakasha) but also self-reflective and free (vimarsha, svatantrya); Shakti is this dynamic power inseparable from Shiva. The world is not illusory but Shiva's real self-manifestation, unfolded through thirty-six principles (tattvas). The individual self is Shiva having freely contracted himself through three impurities (malas); liberation is the recognition (pratyabhijna) of one's identity with Shiva, a recognition that includes rather than negates the world. Paths range from effortless grace to meditative, ritual and bodily practices, and the tradition has an important aesthetic theory.",
+  "beginner": "Kashmir Shaivism says that everything is the play of one consciousness, Shiva, which freely appears as the world and as you. Liberation is recognising — like suddenly recognising a friend — that you already are that consciousness.",
+  "coreQuestions": [
+    "If consciousness is one, why does it appear as many?",
+    "Is the world real or illusory?",
+    "What is recognition, and how does it liberate?",
+    "How can ordinary experience, including the senses and emotions, be a doorway to the absolute?"
+  ],
+  "coreConcepts": [
+    "shiva",
+    "shakti",
+    "spanda",
+    "pratyabhijna",
+    "tattva",
+    "anugraha",
+    "non-duality",
+    "moksha"
+  ],
+  "texts": [
+    "shiva-sutras",
+    "pratyabhijna-hridayam",
+    "vijnana-bhairava"
+  ],
+  "thinkers": [
+    "vasugupta",
+    "abhinavagupta",
+    "kshemaraja"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "shaivism",
+      "note": "A non-dual branch of Shaivism"
+    },
+    {
+      "id": "shaiva-siddhanta",
+      "note": "Shares the Agamic and tantric background but holds a dualist view"
+    },
+    {
+      "id": "advaita",
+      "note": "Both are non-dual, but they differ on whether consciousness is dynamic and whether the world is real"
+    },
+    {
+      "id": "tantra",
+      "note": "Trika and Kaula practice is tantric in scripture and ritual"
+    },
+    {
+      "id": "yogacara",
+      "note": "Utpaladeva and Abhinavagupta engage closely with Buddhist theories of consciousness"
+    }
+  ],
+  "darshana": {
+    "problem": "How does one consciousness appear as bound individuals, and how can the individual recognise itself as that consciousness?",
+    "real": "Only Shiva-consciousness is ultimately real, but the world is its real self-expression, unfolded through thirty-six tattvas, not an illusion.",
+    "pramanas": "Perception, inference and scripture (agama) are accepted; all are grounded in the self-luminous, self-aware consciousness which alone makes knowing possible.",
+    "self": "The Self is Shiva: consciousness endowed with freedom (svatantrya), knowing and acting. The limited individual is Shiva contracted.",
+    "bondage": "Three impurities (malas): the sense of being finite (anava), of differentiation (mayiya) and of limited agency (karma), through which Shiva freely conceals himself.",
+    "liberation": "Recognition (pratyabhijna) of one's identity with Shiva, which can be lived while embodied, experiencing the world as one's own expression.",
+    "path": "Four \"means\" (upayas): the non-means of pure grace, the divine means of sudden insight, the empowered means of purifying thought, and the individual means of meditation, breath and ritual; the guru's grace (shaktipat) is central."
+  },
+  "disagreements": [
+    {
+      "with": "advaita",
+      "topic": "static vs dynamic consciousness",
+      "note": "Pratyabhijna holds consciousness is inherently self-reflective and free; it sees Advaita's Brahman as lacking vimarsha."
+    },
+    {
+      "with": "shaiva-siddhanta",
+      "topic": "identity of soul and Shiva",
+      "note": "Siddhanta holds souls remain distinct from Shiva even in liberation."
+    },
+    {
+      "with": "buddhism",
+      "topic": "the self",
+      "note": "Utpaladeva argues against Buddhist no-self that memory and recognition require a unified, enduring subject."
+    }
+  ],
+  "scholar": "Key strands: Spanda (Vasugupta, Kallata), Pratyabhijna (Somananda, Utpaladeva) and the Trika/Kaula ritual synthesis in Abhinavagupta's Tantraloka. The Krama tradition also contributes. Abhinavagupta's aesthetics (rasa theory) is widely studied.",
+  "difficulty": "advanced"
+}

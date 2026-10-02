@@ -1,0 +1,152 @@
+{
+  "id": "brahma-sutras",
+  "title": {
+    "en": "Brahma Sutras",
+    "sa": "ब्रह्मसूत्र",
+    "iast": "Brahma Sūtra"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedanta",
+    "vedic"
+  ],
+  "attribution": "Traditionally attributed to Badarayana, whom tradition often identifies with Vyasa",
+  "author": null,
+  "period": "Scholars place its compilation roughly between the 2nd century BCE and the 5th century CE; dating is debated",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Brahman",
+    "Interpretation of the Upanishads",
+    "Causation",
+    "Debate",
+    "Liberation"
+  ],
+  "summary": "A collection of terse aphorisms that systematises the teaching of the Upanishads about Brahman and defends it against rival schools.",
+  "whyRead": "The Brahma Sutras are the systematic backbone of Vedanta: every major Vedanta school established itself by writing a commentary on them. The sutras are so brief that they are nearly unreadable alone, which is exactly why comparing how Shankara, Ramanuja and Madhva read them is so illuminating.",
+  "questions": [
+    "What is Brahman, and how is it known?",
+    "Is Brahman the cause of the world?",
+    "How should apparently conflicting Upanishadic passages be reconciled?",
+    "What is the state of the liberated?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The inquiry into Brahman",
+      "text": "The work opens by announcing an inquiry into Brahman, and next defines Brahman as that from which the origin, sustenance and dissolution of the world proceed."
+    },
+    {
+      "title": "Scripture as the source",
+      "text": "Brahman is said to be known through scripture, and the Upanishads are shown to agree in teaching it. Reason is used to defend, not replace, this source."
+    },
+    {
+      "title": "Refuting rivals",
+      "text": "The second chapter answers objections and critiques other systems, including Sankhya, Vaisheshika, Buddhist and Jain views, as well as some theistic schools."
+    },
+    {
+      "title": "Creation as play",
+      "text": "One sutra says Brahman's creating is like play (lila) in the world, done without need, answering the objection that a complete being would have no motive to create."
+    },
+    {
+      "title": "Means and fruit",
+      "text": "The later chapters discuss rebirth, meditations and the path, and the final chapter the fruit of knowledge and the state of the liberated, closing with the statement that there is no return."
+    }
+  ],
+  "structure": [
+    {
+      "label": "4 chapters (adhyayas), each of 4 quarters (padas)",
+      "note": "Roughly 550 sutras; the count varies slightly between commentators"
+    },
+    {
+      "label": "1 Samanvaya",
+      "note": "Harmony: all Upanishads teach Brahman"
+    },
+    {
+      "label": "2 Avirodha",
+      "note": "Non-contradiction: answering objections and other schools"
+    },
+    {
+      "label": "3 Sadhana",
+      "note": "Means: rebirth, meditations, qualifications"
+    },
+    {
+      "label": "4 Phala",
+      "note": "Fruit: liberation"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "1.1.1",
+      "about": "Now, therefore, the inquiry into Brahman"
+    },
+    {
+      "ref": "1.1.2",
+      "about": "Brahman as the source of the world's origin, sustenance and dissolution"
+    },
+    {
+      "ref": "1.1.3",
+      "about": "Scripture as the source of knowledge of Brahman"
+    },
+    {
+      "ref": "1.1.4",
+      "about": "The Upanishads harmoniously teach Brahman"
+    },
+    {
+      "ref": "2.1.33",
+      "about": "Creation compared to play (lila)"
+    },
+    {
+      "ref": "4.4.22",
+      "about": "The final sutra: no return for the liberated"
+    }
+  ],
+  "concepts": [
+    "brahman",
+    "atma",
+    "jiva",
+    "ishvara",
+    "moksha",
+    "pramana",
+    "lila",
+    "maya"
+  ],
+  "relatedTexts": [
+    {
+      "id": "chandogya-upanishad",
+      "note": "Many sutras interpret Chandogya passages"
+    },
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "Another major source interpreted by the sutras"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "Together with the Upanishads and the Gita, forms the prasthana-traya, the three sources of Vedanta"
+    },
+    {
+      "id": "shankara-brahma-sutra-bhashya",
+      "note": "The Advaita commentary"
+    },
+    {
+      "id": "sri-bhashya",
+      "note": "The Vishishtadvaita commentary"
+    },
+    {
+      "id": "madhva-brahma-sutra-bhashya",
+      "note": "The Dvaita commentary"
+    },
+    {
+      "id": "mimamsa-sutras",
+      "note": "The sister work on ritual interpretation; Vedanta is sometimes called Uttara Mimamsa"
+    }
+  ],
+  "thinkers": [
+    "vyasa",
+    "shankara",
+    "ramanuja",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

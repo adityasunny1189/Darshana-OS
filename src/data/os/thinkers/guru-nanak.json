@@ -1,0 +1,34 @@
+{
+  "id": "guru-nanak",
+  "name": {
+    "en": "Guru Nanak",
+    "sa": "गुरु नानक"
+  },
+  "traditions": [
+    "sikhism"
+  ],
+  "period": "1469–1539 CE.",
+  "context": "Guru Nanak is the founder of the Sikh tradition and the first of its ten Gurus. Born at Talwandi (now Nankana Sahib, Pakistan), he is said to have received a transforming revelation at Sultanpur Lodhi, travelled widely, and later settled at Kartarpur, where he established a community of householders. The janamsakhis, later biographical narratives, contain much hagiographical material. His hymns, preserved in the Guru Granth Sahib, are the foundation of Sikh thought, which is its own tradition and not a school of Hinduism or Islam.",
+  "coreIdeas": [
+    "One Creator, beyond form and yet present in all creation",
+    "Remembrance of the divine Name (naam) as the heart of spiritual life",
+    "Living in accordance with the divine order (hukam) and overcoming self-centredness (haumai)",
+    "Rejection of caste hierarchy, empty ritualism and renunciation of the world in favour of a disciplined householder life",
+    "Honest work, sharing with others and selfless service (seva)"
+  ],
+  "works": [
+    "guru-granth-sahib"
+  ],
+  "otherWorks": [
+    "Japji Sahib and many other hymns, all preserved in the Guru Granth Sahib"
+  ],
+  "attributionNote": "The Guru Granth Sahib was compiled by the fifth Guru, Guru Arjan, in 1604 and contains compositions of several Gurus and of other saints; Guru Nanak's hymns are one part of it.",
+  "concepts": [
+    "naam",
+    "hukam",
+    "seva",
+    "ishvara",
+    "bhakti",
+    "anugraha"
+  ]
+}

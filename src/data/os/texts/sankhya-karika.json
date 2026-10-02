@@ -1,0 +1,117 @@
+{
+  "id": "sankhya-karika",
+  "title": {
+    "en": "Sankhya Karika",
+    "sa": "साङ्ख्यकारिका",
+    "iast": "Sāṅkhyakārikā"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "sankhya"
+  ],
+  "attribution": "Ishvarakrishna",
+  "author": "ishvarakrishna",
+  "period": "Commonly placed around the 4th–5th century CE; dates are approximate",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Consciousness",
+    "Matter",
+    "Suffering",
+    "Liberation",
+    "Cosmology"
+  ],
+  "summary": "The earliest surviving systematic text of Sankhya: about seventy verses on purusha, prakriti, the three gunas and the 25 principles.",
+  "whyRead": "Sankhya supplies the vocabulary of gunas, prakriti and purusha that runs through the Gita, Yoga and the Puranas. This short text is the clearest classical statement of that dualist system.",
+  "questions": [
+    "What is the relation of consciousness to matter?",
+    "Why do we suffer, and can suffering end for good?",
+    "What are the basic principles (tattvas) of reality?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The problem of threefold suffering",
+      "text": "The text begins from suffering in three forms, from oneself, from other beings and from natural or cosmic forces, and seeks a remedy more lasting than ordinary or ritual means."
+    },
+    {
+      "title": "Purusha and prakriti",
+      "text": "Reality has two irreducible kinds: many conscious but inactive purushas, and a single, unconscious but active prakriti (primal nature). Experience arises from their proximity."
+    },
+    {
+      "title": "The three gunas",
+      "text": "Prakriti consists of three gunas: sattva (clarity, lightness), rajas (activity, passion) and tamas (inertia, heaviness). Their balance and imbalance explain the variety of the world and of minds."
+    },
+    {
+      "title": "The 25 tattvas",
+      "text": "From prakriti evolve intellect (buddhi or mahat), the I-maker (ahankara), mind (manas), five senses of knowing, five organs of action, five subtle elements and five gross elements. With purusha these make 25 principles."
+    },
+    {
+      "title": "Effects pre-exist in their cause",
+      "text": "Sankhya holds satkaryavada: an effect already exists in potential form in its material cause. This underwrites its account of the world as an unfolding of prakriti."
+    },
+    {
+      "title": "Bondage and liberation through discrimination",
+      "text": "Bondage is the failure to distinguish purusha from prakriti. Liberation (kaivalya) comes through discriminating knowledge of their difference, after which prakriti ceases to act for that purusha."
+    }
+  ],
+  "structure": [
+    {
+      "label": "About 72 verses (karikas)",
+      "note": "The count in the received text is around 72; the final verses describe the transmission of the teaching"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Sankhya Karika 1",
+      "about": "The threefold suffering and the inquiry into its removal"
+    },
+    {
+      "ref": "Sankhya Karika 9",
+      "about": "Arguments that the effect pre-exists in its cause (satkaryavada)"
+    },
+    {
+      "ref": "Sankhya Karika 21",
+      "about": "The analogy of the lame and the blind for the cooperation of purusha and prakriti"
+    },
+    {
+      "ref": "Sankhya Karika 59",
+      "about": "The analogy of the dancer who withdraws after being seen",
+      "gita": [
+        "13.19"
+      ]
+    }
+  ],
+  "concepts": [
+    "purusha",
+    "prakriti",
+    "guna",
+    "tattva",
+    "buddhi",
+    "ahankara",
+    "manas",
+    "dukkha",
+    "viveka",
+    "moksha"
+  ],
+  "relatedTexts": [
+    {
+      "id": "yoga-sutras",
+      "note": "Yoga adopts Sankhya metaphysics and adds Ishvara and a meditative method"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "The Gita uses Sankhya terms, for instance the gunas in chapter 14 and prakriti and purusha in chapter 13"
+    },
+    {
+      "id": "brahma-sutras",
+      "note": "Vedanta commentators argue against Sankhya's independent prakriti"
+    }
+  ],
+  "thinkers": [
+    "ishvarakrishna",
+    "kapila"
+  ],
+  "advanced": false,
+  "ingested": false
+}

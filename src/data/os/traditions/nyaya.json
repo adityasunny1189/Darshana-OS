@@ -1,0 +1,78 @@
+{
+  "id": "nyaya",
+  "name": {
+    "en": "Nyaya",
+    "sa": "न्याय",
+    "iast": "Nyāya"
+  },
+  "family": "darshana",
+  "parent": null,
+  "tagline": "The school of logic and epistemology: right reasoning as a path to liberation.",
+  "period": "The Nyaya Sutras, attributed to Gautama (Akshapada), are generally placed by scholars in the early centuries CE; the school developed through Vatsyayana, Uddyotakara, Udayana and later the Navya-Nyaya of Gangesha (c. 14th century).",
+  "overview": "Nyaya (\"method\" or \"rule of reasoning\") is the classical Indian school of logic and theory of knowledge. It analyses the pramanas, the valid means of knowing, and the structure of sound argument and debate, including a five-membered form of inference. It holds a realist view: the world of substances, qualities and relations exists independently of the mind and can be known. Nyaya holds that the self is an eternal substance distinct from body and mind, which becomes conscious only when connected with a mind and body. Suffering arises from false knowledge, and liberation is the self's permanent release from pain and from all experience. Nyaya merged with Vaisheshika into a combined school, and later Nyaya developed influential arguments for the existence of God.",
+  "beginner": "Nyaya is the Indian school of logic. It asks: how do we really know something is true? It believes that clear thinking and correct knowledge of how things are can free us from suffering.",
+  "coreQuestions": [
+    "How do we know something is true?",
+    "What makes an argument valid?",
+    "Does the world exist independently of our minds?",
+    "Can the existence of God be proven?"
+  ],
+  "coreConcepts": [
+    "pramana",
+    "atma",
+    "ishvara",
+    "jnana",
+    "avidya",
+    "moksha",
+    "dukkha"
+  ],
+  "texts": [
+    "nyaya-sutras",
+    "vaisheshika-sutras"
+  ],
+  "thinkers": [
+    "gautama-akshapada"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "vaisheshika",
+      "note": "Nyaya and Vaisheshika merged into a single Nyaya-Vaisheshika system"
+    },
+    {
+      "id": "buddhism",
+      "note": "Nyaya developed in long debate with Buddhist logicians such as Dignaga and Dharmakirti"
+    },
+    {
+      "id": "mimamsa",
+      "note": "Shares realism, but disagrees about the authorship and self-validity of the Veda"
+    }
+  ],
+  "darshana": {
+    "problem": "How can we attain the right knowledge that ends suffering, and how can true knowledge be distinguished from error?",
+    "real": "A plurality of real entities, organised (with Vaisheshika) into categories such as substance, quality and action; many eternal selves; atoms; and God as an efficient cause.",
+    "pramanas": "Four: perception (pratyaksha), inference (anumana), comparison or analogy (upamana) and testimony (shabda). The validity of knowledge is established by external checks (paratah pramanya).",
+    "self": "The self is an eternal, all-pervading substance, distinct from body, senses and mind; consciousness, pleasure and pain are qualities it acquires only in connection with a mind.",
+    "bondage": "False knowledge (mithya-jnana), which produces faults such as desire and aversion, which produce activity, birth and suffering — a chain set out in the Nyaya Sutras.",
+    "liberation": "Apavarga: absolute freedom from suffering, in which the self exists without pain — and, on the classical view, without consciousness or pleasure.",
+    "path": "Right knowledge of the categories of reality, gained through the pramanas and disciplined reasoning, supported by ethical discipline and meditation."
+  },
+  "disagreements": [
+    {
+      "with": "buddhism",
+      "topic": "the self and enduring substances",
+      "note": "Buddhist logicians deny an enduring self and substances; Nyaya defends both at length."
+    },
+    {
+      "with": "advaita",
+      "topic": "consciousness and the self",
+      "note": "Advaita holds consciousness is the Self's nature; Nyaya holds it is an adventitious quality."
+    },
+    {
+      "with": "mimamsa",
+      "topic": "God and the Veda",
+      "note": "Nyaya holds the Veda is authored by God and valid for that reason; Mimamsa holds it is authorless."
+    }
+  ],
+  "scholar": "Navya-Nyaya (\"new logic\"), inaugurated by Gangesha's Tattvachintamani, developed a precise technical language of limitors and relations that shaped scholarly discourse across disciplines. Udayana's Nyayakusumanjali is a classic of theistic argument.",
+  "difficulty": "advanced"
+}

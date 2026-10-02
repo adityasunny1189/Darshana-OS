@@ -1,0 +1,63 @@
+{
+  "id": "hukam",
+  "name": {
+    "en": "Hukam",
+    "sa": "हुक्म",
+    "iast": "hukam"
+  },
+  "short": "The divine order or will by which all things come into being and move.",
+  "beginner": "Hukam means command or order. Sikh teaching says everything happens within the Divine's order, and peace comes from living in harmony with it instead of fighting it from ego.",
+  "what": "In Guru Nanak's teaching, the whole of creation arises and functions within Hukam. The self-centred person (manmukh) lives by ego (haumai) and feels separate from this order; the Guru-oriented person (gurmukh) recognises and accepts it. Accepting Hukam is not fatalism: Sikh ethics insists on effort, honest work, service and justice, while acknowledging that all happens within the Divine order.",
+  "scholar": "Hukam is introduced prominently in the opening composition of the Guru Granth Sahib (Japji). Scholars compare it with the Vedic rta and with the Islamic notion of amr, while emphasising its distinct place in Gurmat. The relation between Hukam, grace (nadar) and human effort is a live topic in Sikh theology.",
+  "perspectives": [
+    {
+      "tradition": "sikhism",
+      "view": "All creation and events are within the Divine order; recognising Hukam dissolves ego, and living by it is joined with active, ethical effort."
+    }
+  ],
+  "texts": [
+    "guru-granth-sahib"
+  ],
+  "traditions": [
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "naam",
+    "rta",
+    "ahankara",
+    "anugraha",
+    "sharanagati"
+  ],
+  "questions": [
+    "god",
+    "live",
+    "suffering"
+  ],
+  "follow": [
+    {
+      "kind": "thinker",
+      "id": "guru-nanak",
+      "note": "Hukam is central to Guru Nanak's hymns."
+    },
+    {
+      "kind": "text",
+      "id": "guru-granth-sahib",
+      "note": "The scripture opens with this theme."
+    },
+    {
+      "kind": "concept",
+      "id": "naam",
+      "note": "Remembrance as the way to attune to Hukam."
+    },
+    {
+      "kind": "concept",
+      "id": "rta",
+      "note": "Compare: the Vedic idea of cosmic order."
+    },
+    {
+      "kind": "gita",
+      "id": "18.61",
+      "note": "Compare: the Gita's image of the Lord in the heart moving all beings."
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "karma",
+  "topic": "How does karma work?",
+  "concept": "karma",
+  "intro": "Karma (\"action\") and its results are accepted by most Indian traditions, but they explain very differently what carries the results and how they are finally ended.",
+  "rows": [
+    {
+      "tradition": "mimamsa",
+      "claim": "Ritual action produces an unseen potency (apurva) that later yields its fruit.",
+      "detail": "Karma is first of all the ritual action enjoined by the Veda. Its result, such as heaven, arrives later through apurva, without the need for a God to dispense it.",
+      "sources": [
+        {
+          "text": "mimamsa-sutras"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "yajna",
+        "phala"
+      ]
+    },
+    {
+      "tradition": "nyaya",
+      "claim": "Actions leave merit and demerit, which God administers.",
+      "detail": "Merit and demerit (adrishta) inhere in the self; later Nyaya argues that an intelligent God is needed to match them to their fruits.",
+      "sources": [
+        {
+          "text": "nyaya-sutras"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "ishvara",
+        "phala"
+      ]
+    },
+    {
+      "tradition": "advaita",
+      "claim": "Karma binds only the ignorant; knowledge ends the sense of agency.",
+      "detail": "Action cannot produce liberation, since liberation is not produced. Selfless action purifies the mind for knowledge; for the knower, accumulated karma is destroyed and only what has begun to bear fruit plays out.",
+      "sources": [
+        {
+          "text": "shankara-gita-bhashya"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "nishkama-karma",
+        "jnana"
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "claim": "God dispenses the fruits of karma; action offered to God supports devotion.",
+      "detail": "Karma is real and binding, but God as inner controller governs its fruits, and action without attachment, offered to him, becomes part of the path.",
+      "sources": [
+        {
+          "text": "ramanuja-gita-bhashya"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "ishvara",
+        "bhakti"
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "claim": "Afflicted action leaves impressions that ripen as birth, lifespan and experience.",
+      "detail": "Karmic residues (samskaras, vasanas) rooted in the afflictions ripen over lives. The practitioner's action is described as neither white nor black.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "chitta",
+        "avidya"
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "claim": "Karma is intention (chetana); its results arise without a permanent self.",
+      "detail": "The moral quality of intentional action conditions future experience within the dependently arising stream of a person. Schools explain continuity differently, for example Yogacara's storehouse consciousness.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "pratityasamutpada",
+        "anatta"
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "claim": "Karma is subtle matter that physically binds to the soul.",
+      "detail": "Passions and activity attract karmic particles, classified into eight types that obscure knowledge, perception, bliss and energy. Austerity burns them off.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "jiva",
+        "ahimsa"
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "claim": "Karma shapes birth, but grace and hukam are decisive.",
+      "detail": "Actions have consequences, yet liberation comes through God's grace and living by the Name, not by accumulating good deeds alone.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ],
+      "concepts": [
+        "karma",
+        "hukam",
+        "anugraha"
+      ]
+    },
+    {
+      "tradition": "charvaka",
+      "claim": "There is no karma carried into another life.",
+      "detail": "With no soul surviving death, the idea of moral results ripening in future births is rejected; actions have only visible consequences.",
+      "sources": [],
+      "concepts": [
+        "karma"
+      ]
+    }
+  ],
+  "note": "The disagreement is about mechanism — unseen potency, God's administration, mental impressions, intention or literal matter — and about whether action can ever lead to liberation or only to further birth."
+}

@@ -1,0 +1,104 @@
+{
+  "id": "jnana",
+  "name": {
+    "en": "Jnana — knowledge",
+    "sa": "ज्ञान",
+    "iast": "jñāna"
+  },
+  "short": "Liberating knowledge — seeing reality and the Self as they are.",
+  "beginner": "Jnana means knowledge, but in spiritual contexts it means direct, transforming understanding — not information about the Self, but knowing it. Some traditions say this knowledge alone frees us.",
+  "what": "Jnana ranges from ordinary cognition to liberating insight. The Upanishads prize knowledge of the Self as the way beyond death. In Advaita, jnana is the only direct means of liberation, since bondage is ignorance. The Gita calls knowledge the greatest purifier, compares it to a fire that burns actions to ashes, and lists humility, non-violence and steadiness as marks of knowledge. Theistic traditions tie jnana to devotion.",
+  "scholar": "Advaita's sadhana chatushtaya (fourfold qualification) and the triad shravana–manana–nididhyasana (hearing, reflection, contemplation) structure jnana yoga. Theories of knowledge (pramana) differ across schools and are separate from salvific jnana. Ramanuja argues that the knowledge the Upanishads prescribe is itself meditation of the nature of devotion.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Knowledge of oneself as Brahman is the sole direct means to liberation; action and devotion prepare the ground."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Liberating knowledge is continuous meditation on God, and ripens into devotion; knowledge alone, detached from bhakti, is not enough."
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Discriminating knowledge of purusha and prakriti ends bondage."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "True knowledge of the sixteen categories removes false cognition, leading step by step to release from pain."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Right knowledge is one of the three jewels, together with right faith and right conduct; the liberated soul is omniscient (kevala jnana)."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "mundaka-upanishad",
+    "vivekachudamani",
+    "atma-bodha",
+    "upadesha-sahasri",
+    "vivekananda-jnana-yoga",
+    "tattvartha-sutra"
+  ],
+  "traditions": [
+    "advaita",
+    "vishishtadvaita",
+    "sankhya",
+    "nyaya",
+    "jainism",
+    "vedanta"
+  ],
+  "relatedConcepts": [
+    "viveka",
+    "avidya",
+    "atma-vichara",
+    "pramana",
+    "moksha",
+    "vairagya"
+  ],
+  "questions": [
+    "knowledge",
+    "freedom",
+    "self"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "mundaka-upanishad",
+      "note": "Higher and lower knowledge distinguished."
+    },
+    {
+      "kind": "gita",
+      "id": "4.34",
+      "note": "Learn by humble approach, questioning and service to those who know."
+    },
+    {
+      "kind": "gita",
+      "id": "4.38",
+      "note": "Nothing purifies like knowledge."
+    },
+    {
+      "kind": "gita",
+      "id": "13.11",
+      "note": "The Gita's list of what counts as knowledge."
+    },
+    {
+      "kind": "text",
+      "id": "atma-bodha",
+      "note": "A short Advaita text on knowledge of the Self (traditionally attributed to Shankara)."
+    },
+    {
+      "kind": "concept",
+      "id": "pramana",
+      "note": "How the schools analyse valid knowledge in general."
+    }
+  ],
+  "gitaVerses": [
+    "2.16",
+    "4.34",
+    "4.38",
+    "4.39",
+    "5.16",
+    "13.11"
+  ]
+}

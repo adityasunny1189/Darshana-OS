@@ -1,0 +1,447 @@
+[
+ {
+  "id": "new",
+  "title": {
+   "en": "I am new to the Gita",
+   "hi": "मैं गीतामें नया हूँ"
+  },
+  "description": {
+   "en": "Nine short steps through the heart of the Gita as Sadhak Sanjivani explains it — from Arjuna's confusion to the teaching of liberation.",
+   "hi": "साधक-संजीवनीके अनुसार गीताके सारमें नौ छोटे कदम — अर्जुनकी उलझनसे मुक्तिके उपदेशतक।"
+  },
+  "steps": [
+   {
+    "title": {
+     "en": "Why is Arjuna confused?",
+     "hi": "अर्जुन उलझनमें क्यों हैं?"
+    },
+    "summary": {
+     "en": "Seeing his own family on both sides, Arjuna is overcome; Swamiji traces his grief to 'mine-ness' (mamata) towards his kin, from which grief, worry and fear arise. Unable to decide what is right, he becomes Krishna's disciple and asks for what is truly good (2.7).",
+     "hi": "दोनों ओर स्वजनोंको देखकर अर्जुन व्याकुल हो जाते हैं; स्वामीजी बताते हैं कि इस शोकका कारण कुटुम्बियोंमें ममता है, जिससे शोक, चिन्ता, भय पैदा होते हैं। क्या उचित है, यह तय न कर पानेपर वे भगवान्के शिष्य बनकर निश्चित कल्याणकी बात पूछते हैं (२।७)।"
+    },
+    "verses": [
+     "1.28",
+     "1.31",
+     "2.7",
+     "2.11"
+    ],
+    "concepts": [
+     "asakti",
+     "dharma"
+    ]
+   },
+   {
+    "title": {
+     "en": "Who am I?",
+     "hi": "मैं कौन हूँ?"
+    },
+    "summary": {
+     "en": "Krishna's teaching begins with the difference between the body and the one who has the body. The body keeps changing and passes away; the self is never born, never dies and remains the same.",
+     "hi": "भगवान्का उपदेश शरीर और शरीरीके भेदसे आरम्भ होता है। शरीर निरन्तर बदलता और नष्ट होता है; स्वयं न जन्मता है, न मरता है और सदा वही रहता है।"
+    },
+    "verses": [
+     "2.11",
+     "2.13",
+     "2.16",
+     "2.20",
+     "15.7"
+    ],
+    "concepts": [
+     "atma",
+     "sharira",
+     "viveka"
+    ]
+   },
+   {
+    "title": {
+     "en": "What is my duty?",
+     "hi": "मेरा कर्तव्य क्या है?"
+    },
+    "summary": {
+     "en": "In the Gita, dharma means duty. Swamiji explains that whatever you take yourself to be — student, worker, parent, seeker — its duty is your svadharma, and doing it without desire is better than another's duty, however attractive.",
+     "hi": "गीतामें धर्मका अर्थ कर्तव्य है। स्वामीजी बताते हैं कि आप अपनेको जो मानते हैं — विद्यार्थी, नौकर, माता-पिता, साधक — उसका कर्तव्य आपका स्वधर्म है, और निष्कामभावसे उसका पालन परधर्मसे श्रेष्ठ है।"
+    },
+    "verses": [
+     "2.31",
+     "3.35",
+     "18.47"
+    ],
+    "concepts": [
+     "dharma",
+     "svadharma"
+    ]
+   },
+   {
+    "title": {
+     "en": "How should I act?",
+     "hi": "मुझे कर्म कैसे करना चाहिये?"
+    },
+    "summary": {
+     "en": "Your right is to the action, not its fruit; the result is under prarabdha. Action binds only when done for oneself — done as yajna, for the good of others and without attachment, it leads to the Supreme.",
+     "hi": "अधिकार कर्ममें है, फलमें नहीं; फल प्रारब्धके अधीन है। अपने लिये किया गया कर्म ही बाँधता है — दूसरोंके हितके लिये, आसक्तिरहित होकर यज्ञरूपसे किया गया कर्म परमात्माकी प्राप्ति कराता है।"
+    },
+    "verses": [
+     "2.47",
+     "3.8",
+     "3.9",
+     "3.19"
+    ],
+    "concepts": [
+     "karma",
+     "phala",
+     "nishkama-karma",
+     "yajna"
+    ]
+   },
+   {
+    "title": {
+     "en": "Why does attachment cause suffering?",
+     "hi": "आसक्ति दु:ख क्यों देती है?"
+    },
+    "summary": {
+     "en": "Taking 'I am the body' and 'the body is mine' makes perishable things seem important, and attachment follows. Dwelling on objects leads to attachment, desire, anger, delusion and loss of discernment; desire is never satisfied, like fire fed with ghee.",
+     "hi": "'मैं शरीर हूँ' और 'शरीर मेरा है' — ऐसा माननेसे नाशवान् पदार्थोंका महत्त्व बैठता है और आसक्ति होती है। विषयचिन्तनसे आसक्ति, कामना, क्रोध, मोह और विवेकनाश होता है; कामना घी डाली हुई अग्निकी तरह कभी तृप्त नहीं होती।"
+    },
+    "verses": [
+     "2.62",
+     "2.63",
+     "3.19",
+     "3.37",
+     "3.39"
+    ],
+    "concepts": [
+     "asakti",
+     "kama",
+     "krodha"
+    ]
+   },
+   {
+    "title": {
+     "en": "What is equanimity?",
+     "hi": "समता क्या है?"
+    },
+    "summary": {
+     "en": "Remaining even in success and failure, gain and loss, honour and insult — this samata is yoga. Swamiji says it must be kept throughout the work, not just at its start, and even a little of it protects from great fear.",
+     "hi": "सिद्धि-असिद्धि, लाभ-हानि, मान-अपमानमें सम रहना — यह समता ही योग है। स्वामीजी कहते हैं कि इसे केवल आरम्भमें नहीं, पूरे कर्ममें हरदम रखना है, और इसका थोड़ा-सा पालन भी महान् भयसे रक्षा करता है।"
+    },
+    "verses": [
+     "2.38",
+     "2.40",
+     "2.48",
+     "2.50"
+    ],
+    "concepts": [
+     "samatva",
+     "yoga"
+    ]
+   },
+   {
+    "title": {
+     "en": "What is knowledge?",
+     "hi": "ज्ञान क्या है?"
+    },
+    "summary": {
+     "en": "Swamiji defines knowledge simply: seeing your own existence as separate from the body; seeing them as one is ignorance. Nothing purifies like this knowledge, and the one with faith who attains it gains supreme peace at once.",
+     "hi": "स्वामीजी ज्ञानकी सरल परिभाषा देते हैं — अपनी सत्ताको और शरीरको अलग-अलग मानना ज्ञान है, एक मानना अज्ञान। ज्ञानके समान पवित्र करनेवाला कुछ नहीं, और श्रद्धावान् उसे पाकर तत्काल परम शान्ति पाता है।"
+    },
+    "verses": [
+     "4.38",
+     "4.39",
+     "5.16",
+     "13.11"
+    ],
+    "concepts": [
+     "jnana",
+     "viveka",
+     "shraddha"
+    ]
+   },
+   {
+    "title": {
+     "en": "What is devotion?",
+     "hi": "भक्ति क्या है?"
+    },
+    "summary": {
+     "en": "Devotion begins by changing one's sense of 'I': 'I am God's and God is mine.' What is one's own becomes dear and the mind turns to it naturally; God looks for love, not ritual, and accepts even a leaf offered with love.",
+     "hi": "भक्ति अहंता बदलनेसे शुरू होती है — 'मैं भगवान्का हूँ और भगवान् मेरे हैं'। जो अपना होता है वह प्रिय लगता है और मन स्वत: उसमें लगता है; भगवान् विधि नहीं, प्रेम देखते हैं और प्रेमसे दिया पत्र भी स्वीकार करते हैं।"
+    },
+    "verses": [
+     "9.26",
+     "9.34",
+     "12.8",
+     "18.65"
+    ],
+    "concepts": [
+     "bhakti",
+     "ishvara"
+    ]
+   },
+   {
+    "title": {
+     "en": "What is liberation?",
+     "hi": "मुक्ति क्या है?"
+    },
+    "summary": {
+     "en": "Swamiji teaches that liberation is natural and bondage is made — it comes not from giving up things but from giving up desire. Krishna's last teaching is to take refuge in Him alone: 'I will free you from all sins; do not grieve.'",
+     "hi": "स्वामीजी बताते हैं कि मुक्ति स्वाभाविक है और बन्धन बनाया हुआ — मुक्ति वस्तुके त्यागसे नहीं, इच्छाके त्यागसे होती है। भगवान्का अन्तिम उपदेश है — केवल मेरी शरणमें आ जा, मैं तुझे सब पापोंसे मुक्त कर दूँगा, चिन्ता मत कर।"
+    },
+    "verses": [
+     "12.12",
+     "13.31",
+     "18.66"
+    ],
+    "concepts": [
+     "moksha",
+     "sharanagati",
+     "tyaga"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "karma-yoga",
+  "title": {
+   "en": "The path of Karma Yoga",
+   "hi": "कर्मयोगका मार्ग"
+  },
+  "description": {
+   "en": "How ordinary work — a job, studies, family duties — becomes a path to freedom, step by step as Swamiji explains it.",
+   "hi": "रोज़का काम — नौकरी, पढ़ाई, पारिवारिक कर्तव्य — कैसे मुक्तिका मार्ग बनता है, स्वामीजीकी व्याख्याके अनुसार क्रमसे।"
+  },
+  "steps": [
+   {
+    "title": {
+     "en": "Action cannot be avoided",
+     "hi": "कर्मसे बचा नहीं जा सकता"
+    },
+    "summary": {
+     "en": "No one can remain without action even for a moment, and giving up duty does not bring perfection. So action is better than inaction.",
+     "hi": "कोई भी क्षणमात्र कर्म किये बिना नहीं रह सकता, और कर्तव्य छोड़नेसे सिद्धि नहीं मिलती। इसलिये कर्म न करनेसे कर्म करना श्रेष्ठ है।"
+    },
+    "verses": [
+     "3.4",
+     "3.5",
+     "3.8"
+    ],
+    "concepts": [
+     "karma"
+    ]
+   },
+   {
+    "title": {
+     "en": "Action is yours, the fruit is not",
+     "hi": "कर्म आपका, फल नहीं"
+    },
+    "summary": {
+     "en": "The department of action is in our hands; the department of results is under prarabdha. Protect others' rights through your duty and give up your own claim.",
+     "hi": "कर्म-विभाग हमारे अधीन है, फल-विभाग प्रारब्धके अधीन। अपने कर्तव्यसे दूसरोंके अधिकारकी रक्षा करो और अपने अधिकारका त्याग करो।"
+    },
+    "verses": [
+     "2.47",
+     "18.9"
+    ],
+    "concepts": [
+     "phala",
+     "nishkama-karma"
+    ]
+   },
+   {
+    "title": {
+     "en": "Work for others is yajna",
+     "hi": "दूसरोंके लिये कर्म ही यज्ञ है"
+    },
+    "summary": {
+     "en": "All duty done for others' good is yajna and does not bind; only action done for oneself binds. Everything we have is received, and is meant for the service of others.",
+     "hi": "दूसरोंके हितके लिये किया गया हर कर्तव्य यज्ञ है और बाँधता नहीं; अपने लिये किया गया कर्म ही बाँधता है। हमारे पास जो कुछ है, वह मिला हुआ है और दूसरोंकी सेवाके लिये है।"
+    },
+    "verses": [
+     "3.9",
+     "3.10",
+     "3.13"
+    ],
+    "concepts": [
+     "yajna",
+     "karma"
+    ]
+   },
+   {
+    "title": {
+     "en": "Stay even",
+     "hi": "सम रहो"
+    },
+    "summary": {
+     "en": "Act established in yoga, giving up attachment, even in success and failure. Yoga turns binding actions into freeing ones.",
+     "hi": "आसक्ति छोड़कर, सिद्धि-असिद्धिमें सम रहकर, योगमें स्थित होकर कर्म करो। योग बाँधनेवाले कर्मोंको मुक्ति देनेवाला बना देता है।"
+    },
+    "verses": [
+     "2.48",
+     "2.50"
+    ],
+    "concepts": [
+     "samatva",
+     "yoga"
+    ]
+   },
+   {
+    "title": {
+     "en": "Action becomes akarma",
+     "hi": "कर्म अकर्म बन जाता है"
+    },
+    "summary": {
+     "en": "Done without desire, 'mine' and attachment, purely for others, action becomes akarma: one acts fully yet remains untouched.",
+     "hi": "फलेच्छा, ममता और आसक्तिसे रहित होकर केवल दूसरोंके लिये किया गया कर्म अकर्म बन जाता है — पूरा कर्म करते हुए भी निर्लिप्तता रहती है।"
+    },
+    "verses": [
+     "4.17",
+     "4.18",
+     "4.20"
+    ],
+    "concepts": [
+     "nishkama-karma",
+     "asakti"
+    ]
+   },
+   {
+    "title": {
+     "en": "The fruit of karma yoga: peace",
+     "hi": "कर्मयोगका फल: शान्ति"
+    },
+    "summary": {
+     "en": "Giving up the desire for the fruit, the karma yogi attains lasting peace; giving up desire, 'mine' and 'I', one attains peace.",
+     "hi": "कर्मफलकी इच्छाका त्याग करके कर्मयोगी नैष्ठिकी शान्ति पाता है; कामना, ममता और अहंताको छोड़कर मनुष्य शान्तिको प्राप्त होता है।"
+    },
+    "verses": [
+     "5.12",
+     "2.71",
+     "12.12"
+    ],
+    "concepts": [
+     "tyaga",
+     "sthitaprajna"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bhakti",
+  "title": {
+   "en": "The path of devotion",
+   "hi": "भक्तिका मार्ग"
+  },
+  "description": {
+   "en": "From accepting 'I am God's' to complete surrender — the way of devotion as Sadhak Sanjivani presents it.",
+   "hi": "'मैं भगवान्का हूँ' यह स्वीकार करनेसे पूर्ण शरणागतितक — साधक-संजीवनीके अनुसार भक्तिका मार्ग।"
+  },
+  "steps": [
+   {
+    "title": {
+     "en": "I am God's",
+     "hi": "मैं भगवान्का हूँ"
+    },
+    "summary": {
+     "en": "The first step is to change one's sense of 'I': 'I am God's and God is mine; I am not the world's.' When this changes, practice becomes easy and natural.",
+     "hi": "पहला कदम है अहंता बदलना — 'मैं भगवान्का हूँ और भगवान् मेरे हैं; मैं संसारका नहीं हूँ'। अहंता बदलनेपर साधन सुगम और स्वाभाविक हो जाता है।"
+    },
+    "verses": [
+     "9.34",
+     "18.65"
+    ],
+    "concepts": [
+     "bhakti",
+     "ahankara"
+    ]
+   },
+   {
+    "title": {
+     "en": "Love, not ritual",
+     "hi": "विधि नहीं, प्रेम"
+    },
+    "summary": {
+     "en": "God's worship needs no special rules or things — only love and belonging. Even a leaf, flower, fruit or water offered with love, He accepts.",
+     "hi": "भगवान्की उपासनामें विशेष विधि या वस्तुकी नहीं, प्रेम और अपनेपनकी आवश्यकता है। प्रेमसे अर्पित पत्र, पुष्प, फल, जल भी वे स्वीकार करते हैं।"
+    },
+    "verses": [
+     "9.26",
+     "9.27"
+    ],
+    "concepts": [
+     "bhakti",
+     "shraddha"
+    ]
+   },
+   {
+    "title": {
+     "en": "God carries the load",
+     "hi": "भगवान् भार उठाते हैं"
+    },
+    "summary": {
+     "en": "For those devoted to Him alone, God himself provides what they need and protects what they have.",
+     "hi": "जो केवल भगवान्में लगे रहते हैं, उनके आवश्यक साधन भगवान् स्वयं जुटाते हैं और प्राप्तकी रक्षा करते हैं।"
+    },
+    "verses": [
+     "9.22",
+     "18.56"
+    ],
+    "concepts": [
+     "ishvara",
+     "sharanagati"
+    ]
+   },
+   {
+    "title": {
+     "en": "Every situation is His dispensation",
+     "hi": "हर परिस्थिति उनका विधान"
+    },
+    "summary": {
+     "en": "The devotee sees kindness in favourable situations and grace in unfavourable ones, and stays even in both, seeing everything as God's merciful dispensation.",
+     "hi": "भक्त अनुकूलतामें भगवान्की दया और प्रतिकूलतामें उनकी कृपा देखता है, और हर परिस्थितिको मंगलमय विधान मानकर दोनोंमें सम रहता है।"
+    },
+    "verses": [
+     "9.28",
+     "12.13",
+     "12.18"
+    ],
+    "concepts": [
+     "samatva",
+     "bhakti"
+    ]
+   },
+   {
+    "title": {
+     "en": "Beyond the gunas and maya",
+     "hi": "गुणों और मायासे पार"
+    },
+    "summary": {
+     "en": "Through undeviating devotion one goes beyond the three gunas, and those who take refuge in God alone cross His hard-to-cross maya.",
+     "hi": "अव्यभिचारी भक्तिसे मनुष्य तीनों गुणोंसे अतीत हो जाता है, और केवल भगवान्की शरण लेनेवाले दुस्तर मायाको तर जाते हैं।"
+    },
+    "verses": [
+     "7.14",
+     "14.26"
+    ],
+    "concepts": [
+     "guna",
+     "maya"
+    ]
+   },
+   {
+    "title": {
+     "en": "Complete surrender",
+     "hi": "पूर्ण शरणागति"
+    },
+    "summary": {
+     "en": "Giving up reliance on everything else, take refuge in God alone and be free of worry — Swamiji calls this the essence of all practices.",
+     "hi": "सब आश्रय छोड़कर केवल भगवान्की शरण लो और निश्चिन्त हो जाओ — स्वामीजी इसे सम्पूर्ण साधनोंका सार कहते हैं।"
+    },
+    "verses": [
+     "18.62",
+     "18.66"
+    ],
+    "concepts": [
+     "sharanagati",
+     "moksha"
+    ]
+   }
+  ]
+ }
+]

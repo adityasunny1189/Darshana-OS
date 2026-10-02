@@ -1,0 +1,121 @@
+{
+  "id": "moksha",
+  "name": {
+    "en": "Moksha — liberation",
+    "sa": "मोक्ष",
+    "iast": "mokṣa"
+  },
+  "short": "Final freedom from bondage and the cycle of rebirth.",
+  "beginner": "Moksha means release: freedom from the cycle of birth and death and from the suffering it involves. Almost every Indian tradition aims at some form of liberation, but they describe it very differently.",
+  "what": "Moksha is the highest human goal in most Indian systems, beyond the pursuits of pleasure, wealth and duty. Some traditions describe it as the realisation of what one already is (Advaita), others as eternal loving service of God (Vishishtadvaita, Dvaita), others as isolation of consciousness from matter (Sankhya-Yoga) or the soul's rise, freed from karmic matter, to the summit of the universe (Jainism). Buddhism's corresponding goal is nirvana. Traditions also debate whether liberation is possible while living (jivanmukti).",
+  "scholar": "Terms vary by school: kaivalya (Sankhya, Yoga, Jainism), apavarga (Nyaya), mukti, nirvana. Nyaya's liberation is the cessation of all qualities including pleasure, criticised by Vedantins. Advaita defends jivanmukti; Vishishtadvaita largely denies it, holding that liberation follows death. Madhva holds that bliss in liberation differs between souls according to intrinsic nature.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Liberation is not attained but recognised: knowing oneself as Brahman removes ignorance, and one may be liberated while still living."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Liberation is reaching Vaikuntha after death and enjoying communion with and service of the Lord, with full knowledge, while remaining distinct."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "The liberated soul enjoys bliss according to its own nature in God's presence; difference from God remains eternally."
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Liberation is kaivalya — isolation of purusha from prakriti once their difference is fully discerned."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "Liberation (apavarga) is the absolute cessation of pain, achieved through true knowledge of the categories of reality."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Freed of all karmic matter, the soul rises to the top of the universe and abides in infinite knowledge, perception, bliss and energy."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Mukti is union with the divine through grace and remembrance of the Name, attainable while living as a householder (jivan mukat)."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "mundaka-upanishad",
+    "brahma-sutras",
+    "sankhya-karika",
+    "tattvartha-sutra",
+    "vivekachudamani",
+    "guru-granth-sahib"
+  ],
+  "traditions": [
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "sankhya",
+    "nyaya",
+    "jainism",
+    "sikhism",
+    "buddhism"
+  ],
+  "relatedConcepts": [
+    "samsara",
+    "nirvana",
+    "jnana",
+    "bhakti",
+    "sthitaprajna",
+    "avidya"
+  ],
+  "questions": [
+    "freedom",
+    "death",
+    "self"
+  ],
+  "follow": [
+    {
+      "kind": "concept",
+      "id": "samsara",
+      "note": "What one is liberated from: the cycle of rebirth."
+    },
+    {
+      "kind": "text",
+      "id": "mundaka-upanishad",
+      "note": "Contrasts lower (ritual) knowledge with the higher knowledge that frees."
+    },
+    {
+      "kind": "gita",
+      "id": "5.24",
+      "note": "The one whose happiness is within attains the freedom of Brahman (brahma-nirvana)."
+    },
+    {
+      "kind": "gita",
+      "id": "18.66",
+      "note": "The Gita's final promise of release to the one who takes refuge."
+    },
+    {
+      "kind": "tradition",
+      "id": "advaita",
+      "note": "Liberation as recognising what you already are."
+    },
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "note": "Liberation as the soul freed from karmic matter."
+    },
+    {
+      "kind": "concept",
+      "id": "nirvana",
+      "note": "The Buddhist parallel and its differences."
+    }
+  ],
+  "gitaVerses": [
+    "3.19",
+    "5.24",
+    "6.1",
+    "8.15",
+    "12.12",
+    "13.31",
+    "18.54",
+    "18.66"
+  ]
+}

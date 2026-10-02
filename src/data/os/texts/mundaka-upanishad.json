@@ -1,0 +1,114 @@
+{
+  "id": "mundaka-upanishad",
+  "title": {
+    "en": "Mundaka Upanishad",
+    "sa": "मुण्डकोपनिषद्",
+    "iast": "Muṇḍaka Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta"
+  ],
+  "attribution": "Atharvaveda; author unknown",
+  "author": null,
+  "period": "Usually placed among the later verse Upanishads, in the later centuries BCE; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Higher and lower knowledge",
+    "Brahman",
+    "Renunciation",
+    "Self",
+    "Truth"
+  ],
+  "summary": "A verse Upanishad that distinguishes 'lower' knowledge of the Vedas and sciences from the 'higher' knowledge by which the imperishable is known.",
+  "whyRead": "Mundaka states with unusual clarity the Upanishadic claim that ritual and learning are not enough, and its image of two birds on one tree became a classic picture of the individual self and the Lord. India's national motto also comes from this text.",
+  "story": "The householder Shaunaka approaches the sage Angiras and asks what it is by knowing which all this becomes known. Angiras answers by distinguishing two kinds of knowledge, and the rest of the Upanishad unfolds his teaching.",
+  "questions": [
+    "Is there knowledge beyond all ordinary learning?",
+    "What is the relation between the individual and the Lord?",
+    "Why is ritual alone insufficient?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Two kinds of knowledge",
+      "text": "Lower knowledge (apara vidya) includes the Vedas and their auxiliary sciences; higher knowledge (para vidya) is that by which the imperishable is grasped. The distinction became central to Vedanta."
+    },
+    {
+      "title": "The limits of ritual",
+      "text": "Sacrificial rites are compared to unsteady boats; those who trust them alone are said to return again and again to birth and death."
+    },
+    {
+      "title": "Two birds on one tree",
+      "text": "Two birds sit on the same tree: one eats the fruit, the other only watches. Advaita reads this as the empirical self and the witness; Vishishtadvaita and Dvaita read it as the individual soul and God, who remain distinct."
+    },
+    {
+      "title": "Truth alone prevails",
+      "text": "The text declares that truth alone conquers, not untruth, a line adopted as India's national motto."
+    }
+  ],
+  "structure": [
+    {
+      "label": "3 mundakas, each of 2 sections (khandas)"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "1.1.3",
+      "about": "Shaunaka's question: what is it by knowing which all is known?"
+    },
+    {
+      "ref": "1.1.4–5",
+      "about": "Higher and lower knowledge"
+    },
+    {
+      "ref": "3.1.1",
+      "about": "Two birds on one tree"
+    },
+    {
+      "ref": "3.1.6",
+      "about": "Truth alone prevails"
+    },
+    {
+      "ref": "3.2.3",
+      "about": "The Self is not gained by instruction or learning, but by the one it chooses"
+    }
+  ],
+  "concepts": [
+    "brahman",
+    "atma",
+    "jnana",
+    "jiva",
+    "ishvara",
+    "sakshi",
+    "sannyasa",
+    "vairagya"
+  ],
+  "relatedTexts": [
+    {
+      "id": "katha-upanishad",
+      "note": "Mundaka 3.2.3 repeats Katha 1.2.23"
+    },
+    {
+      "id": "shvetashvatara-upanishad",
+      "note": "Repeats the two-birds verse (Shvetashvatara 4.6)"
+    },
+    {
+      "id": "prashna-upanishad",
+      "note": "Companion Atharvaveda Upanishad"
+    },
+    {
+      "id": "brahma-sutras",
+      "note": "Mundaka passages are among those the sutras interpret"
+    }
+  ],
+  "thinkers": [
+    "shankara",
+    "ramanuja",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

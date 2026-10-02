@@ -1,0 +1,91 @@
+{
+  "id": "tattvartha-sutra",
+  "title": {
+    "en": "Tattvartha Sutra",
+    "sa": "तत्त्वार्थसूत्र",
+    "iast": "Tattvārthasūtra"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "jainism"
+  ],
+  "attribution": "Umasvati (called Umasvami by Digambaras)",
+  "author": "umasvati",
+  "period": "Scholars place it between roughly the 2nd and 5th centuries CE",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Soul",
+    "Karma",
+    "Liberation",
+    "Ethics",
+    "Knowledge"
+  ],
+  "summary": "The first systematic Jain text in Sanskrit, accepted by both Shvetambara and Digambara Jains, covering the whole of Jain doctrine.",
+  "whyRead": "It is the one text all major Jain traditions accept. In ten short chapters it sets out the Jain view of the soul, karma as subtle matter, ethics and the path to liberation.",
+  "questions": [
+    "What is the soul, and how is it bound?",
+    "How can karma be stopped and shed?",
+    "What is right faith, knowledge and conduct?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The three jewels",
+      "text": "The opening sutra states that right faith (samyag darshana), right knowledge and right conduct together form the path to liberation."
+    },
+    {
+      "title": "Seven tattvas",
+      "text": "Reality is analysed into seven principles: soul (jiva), non-soul (ajiva), influx of karma (asrava), bondage (bandha), stopping of influx (samvara), shedding of karma (nirjara) and liberation (moksha)."
+    },
+    {
+      "title": "Karma as matter",
+      "text": "Karma is subtle matter that adheres to the soul through passions and activity, obscuring its innate knowledge and bliss."
+    },
+    {
+      "title": "Non-harm and vows",
+      "text": "The ethical chapters set out vows centred on non-harm (ahimsa), truthfulness, non-stealing, chastity and non-possession, with graded forms for monastics and laypeople."
+    },
+    {
+      "title": "Standpoints of knowledge",
+      "text": "It discusses kinds of knowledge and standpoints (naya), an early source for the Jain emphasis on many-sidedness."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Ten chapters",
+      "note": "About 350 sutras; Shvetambara and Digambara versions differ slightly"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Tattvartha Sutra 1.1",
+      "about": "Right faith, knowledge and conduct as the path to liberation"
+    }
+  ],
+  "concepts": [
+    "jiva",
+    "karma",
+    "ahimsa",
+    "moksha",
+    "anekantavada",
+    "tattva",
+    "samsara"
+  ],
+  "relatedTexts": [
+    {
+      "id": "dhammapada",
+      "note": "Another shramana tradition's ethical teaching"
+    },
+    {
+      "id": "sankhya-karika",
+      "note": "Both hold a plurality of souls distinct from matter"
+    }
+  ],
+  "thinkers": [
+    "umasvati",
+    "mahavira"
+  ],
+  "advanced": false,
+  "ingested": false
+}

@@ -1,0 +1,102 @@
+{
+  "id": "samsara",
+  "name": {
+    "en": "Samsara — the cycle of rebirth",
+    "sa": "संसार",
+    "iast": "saṃsāra"
+  },
+  "short": "The round of birth, death and rebirth driven by action and ignorance.",
+  "beginner": "Samsara means 'wandering on': the idea that beings are born, die and are born again, again and again, shaped by their actions. Most Indian traditions see this cycle as something to be understood and finally left behind.",
+  "what": "Samsara is the continuous flow of lives in which beings experience the results of their actions. Its engine is described differently — ignorance, desire, karmic matter, craving — but traditions broadly agree that it is marked by impermanence and suffering, and that liberation ends it. The Gita compares rebirth to changing worn-out clothes and describes the world as an upside-down tree to be cut down with non-attachment.",
+  "scholar": "The doctrine appears clearly in the Brihadaranyaka and Chandogya Upanishads (e.g. the 'five fires' and the paths of the gods and ancestors). Buddhist accounts explain rebirth without a transmigrating self, via dependent origination. Charvaka rejected rebirth entirely. Advaita treats samsara as empirically real but ultimately superimposed on the Self.",
+  "perspectives": [
+    {
+      "tradition": "vedic",
+      "view": "The Upanishads describe beings returning according to their knowledge and deeds, and a path of no return for those who know."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Samsara is real at the empirical level but rests on ignorance of the Self; when the Self is known, one sees one was never bound."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Rebirth happens without a self passing over: a causal continuity of processes, driven by craving and ignorance, as set out in dependent origination."
+    },
+    {
+      "tradition": "jainism",
+      "view": "The soul transmigrates through heavenly, human, animal and hell realms according to the karmic matter it carries."
+    },
+    {
+      "tradition": "charvaka",
+      "view": "The materialists denied rebirth: consciousness arises from the body and ends with it."
+    }
+  ],
+  "texts": [
+    "brihadaranyaka-upanishad",
+    "chandogya-upanishad",
+    "katha-upanishad",
+    "bhagavad-gita",
+    "dhammapada",
+    "tattvartha-sutra"
+  ],
+  "traditions": [
+    "vedic",
+    "advaita",
+    "buddhism",
+    "jainism",
+    "charvaka"
+  ],
+  "relatedConcepts": [
+    "karma",
+    "moksha",
+    "avidya",
+    "dukkha",
+    "pratityasamutpada",
+    "jiva"
+  ],
+  "questions": [
+    "death",
+    "suffering",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "katha-upanishad",
+      "note": "Nachiketa asks what happens after death."
+    },
+    {
+      "kind": "gita",
+      "id": "2.22",
+      "note": "Rebirth likened to discarding old clothes for new."
+    },
+    {
+      "kind": "gita",
+      "id": "8.16",
+      "note": "All worlds are subject to return; on reaching the Lord there is no rebirth."
+    },
+    {
+      "kind": "gita",
+      "id": "15.3",
+      "note": "The world-tree whose roots are cut with the weapon of non-attachment."
+    },
+    {
+      "kind": "concept",
+      "id": "pratityasamutpada",
+      "note": "The Buddhist explanation of rebirth without a self."
+    },
+    {
+      "kind": "tradition",
+      "id": "charvaka",
+      "note": "The dissenting view: no rebirth at all."
+    }
+  ],
+  "gitaVerses": [
+    "2.22",
+    "2.27",
+    "8.16",
+    "9.21",
+    "15.1",
+    "15.3"
+  ]
+}

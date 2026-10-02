@@ -1,0 +1,38 @@
+{
+  "id": "kanada",
+  "name": {
+    "en": "Kanada",
+    "sa": "कणाद"
+  },
+  "traditions": [
+    "vaisheshika"
+  ],
+  "period": "Dates are highly uncertain; scholars' estimates for the Vaisheshika Sutras range from several centuries BCE to the early centuries CE.",
+  "context": "Kanada is traditionally the author of the Vaisheshika Sutras, the root text of the Vaisheshika school. His name is often explained as 'atom-eater' or 'grain-gatherer', and the stories told about him are legendary. Vaisheshika developed an analysis of reality into categories and an atomic theory of matter. It later merged with Nyaya into a combined school, and Prashastapada's commentary (around the 6th century CE) became its classic exposition.",
+  "coreIdeas": [
+    "Reality can be analysed into categories (padarthas): substance, quality, action, universal, particularity and inherence, with absence added later",
+    "Material things are composed of eternal, indivisible atoms",
+    "Nine substances, including the self (atman) and mind (manas), are recognised",
+    "Dharma is presented as that which leads to worldly welfare and the highest good",
+    "Knowledge of the categories contributes to liberation"
+  ],
+  "works": [
+    "vaisheshika-sutras"
+  ],
+  "disagreements": [
+    {
+      "with": "buddhism",
+      "note": "Vaisheshika's enduring substances, real wholes and universals, and enduring self stand against Buddhist doctrines of momentariness and no-self, and were long debated between the schools."
+    }
+  ],
+  "relatedThinkers": [
+    "gautama-akshapada"
+  ],
+  "concepts": [
+    "tattva",
+    "atma",
+    "manas",
+    "dharma",
+    "moksha"
+  ]
+}

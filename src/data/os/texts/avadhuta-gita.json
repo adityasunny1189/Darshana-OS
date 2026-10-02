@@ -1,0 +1,72 @@
+{
+  "id": "avadhuta-gita",
+  "title": {
+    "en": "Avadhuta Gita",
+    "sa": "अवधूतगीता",
+    "iast": "Avadhūta Gītā"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita"
+  ],
+  "attribution": "Traditionally attributed to Dattatreya; author and date unknown",
+  "author": null,
+  "period": "Date uncertain; often placed in the second millennium CE",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Non-duality",
+    "Freedom",
+    "Transcendence of convention",
+    "Self"
+  ],
+  "summary": "A song of the 'avadhuta', one who has shaken off all worldly and religious conventions, proclaiming the non-dual Self beyond all categories.",
+  "whyRead": "The Avadhuta Gita expresses non-duality in ecstatic, sometimes paradoxical verse, denying even the categories of teacher, practice and liberation. It is valued in renunciant circles but is not an introductory text.",
+  "questions": [
+    "What remains when all categories are dropped?",
+    "Can non-duality be spoken of at all?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Everything is the Self",
+      "text": "The song repeatedly affirms that there is only the one Self, without division."
+    },
+    {
+      "title": "Beyond all pairs",
+      "text": "It denies that the Self can be described as bound or free, pure or impure, one or many, since all such categories presuppose duality."
+    },
+    {
+      "title": "The free renunciant",
+      "text": "The avadhuta is pictured as free of all social and ritual obligations, a figure for inner freedom."
+    }
+  ],
+  "structure": [
+    {
+      "label": "8 chapters",
+      "note": "Scholars often regard the last chapter as a later addition"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "non-duality",
+    "atma",
+    "brahman",
+    "sannyasa",
+    "moksha",
+    "neti-neti"
+  ],
+  "relatedTexts": [
+    {
+      "id": "ashtavakra-gita",
+      "note": "A similarly radical non-dual work"
+    },
+    {
+      "id": "mandukya-karika",
+      "note": "Shares the negation of bondage and liberation from the highest standpoint"
+    }
+  ],
+  "thinkers": [],
+  "advanced": true,
+  "ingested": false
+}

@@ -1,0 +1,149 @@
+{
+  "id": "katha-upanishad",
+  "title": {
+    "en": "Katha Upanishad",
+    "sa": "कठोपनिषद्",
+    "iast": "Kaṭha Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta"
+  ],
+  "attribution": "Krishna Yajurveda (Katha school); author unknown",
+  "author": null,
+  "period": "Scholars commonly place it in the second half of the first millennium BCE, after the oldest prose Upanishads; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "Death",
+    "Self",
+    "Immortality",
+    "Discernment",
+    "Liberation"
+  ],
+  "summary": "A dialogue in which the boy Nachiketa, sent to the realm of Death, asks Yama what happens after death and learns about the undying Self.",
+  "whyRead": "Katha is the most story-driven of the principal Upanishads and one of the most quoted. Its image of the self as a chariot's rider, its choice between the good and the pleasant, and its verses on the undying Self reappear almost word for word in the Bhagavad Gita.",
+  "story": "Nachiketa's father performs a sacrifice in which he gives away everything, yet offers only worn-out cows. When the boy persists in asking to whom he himself will be given, the father angrily says, 'to Death'. Nachiketa goes to Yama's house and waits three nights unfed, so Yama grants him three boons. The third is to know whether a person exists after death; Yama tries to dissuade him with offers of wealth and long life, but Nachiketa refuses them all, and Yama teaches him about the Self.",
+  "questions": [
+    "What happens after death?",
+    "Why choose the good over the pleasant?",
+    "How are mind, senses and Self related?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The good and the pleasant",
+      "text": "Yama distinguishes shreyas, what is truly good, from preyas, what is merely pleasant. The wise choose the good; Nachiketa's refusal of Yama's gifts shows this choice."
+    },
+    {
+      "title": "The Self is unborn and undying",
+      "text": "The Self is not born and does not die; it is not slain when the body is slain. These verses are closely paralleled in Gita 2.19–20."
+    },
+    {
+      "title": "The chariot image",
+      "text": "The Self is the rider, the body the chariot, the intellect (buddhi) the charioteer, the mind the reins and the senses the horses. Freedom depends on a discerning intellect guiding a controlled mind."
+    },
+    {
+      "title": "Not reached by learning alone",
+      "text": "The Self is said not to be attained by instruction, intellect or much learning, but by the one whom it chooses, a verse also found in the Mundaka Upanishad."
+    },
+    {
+      "title": "The inverted tree",
+      "text": "The world is pictured as an eternal asvattha tree with roots above and branches below, an image taken up in Gita 15.1."
+    }
+  ],
+  "structure": [
+    {
+      "label": "2 chapters (adhyayas), each of 3 sections (vallis)",
+      "note": "Six vallis in total"
+    },
+    {
+      "label": "1.1",
+      "note": "Frame story and the three boons"
+    },
+    {
+      "label": "1.2–2.3",
+      "note": "Yama's teaching"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "1.2.2",
+      "about": "The choice between the good (shreyas) and the pleasant (preyas)"
+    },
+    {
+      "ref": "1.2.15",
+      "about": "The word that all the Vedas proclaim: Om",
+      "gita": [
+        "8.11"
+      ]
+    },
+    {
+      "ref": "1.2.18–19",
+      "about": "The Self is unborn and undying; it neither slays nor is slain",
+      "gita": [
+        "2.19",
+        "2.20"
+      ]
+    },
+    {
+      "ref": "1.2.23",
+      "about": "The Self is not gained by instruction or learning, but by the one it chooses"
+    },
+    {
+      "ref": "1.3.3–4",
+      "about": "The chariot image of Self, body, intellect, mind and senses"
+    },
+    {
+      "ref": "2.2.15",
+      "about": "There the sun does not shine; by its light all this shines",
+      "gita": [
+        "15.6"
+      ]
+    },
+    {
+      "ref": "2.3.1",
+      "about": "The eternal asvattha tree with roots above",
+      "gita": [
+        "15.1"
+      ]
+    }
+  ],
+  "concepts": [
+    "atma",
+    "brahman",
+    "moksha",
+    "samsara",
+    "viveka",
+    "buddhi",
+    "manas",
+    "vairagya",
+    "yoga"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavad-gita",
+      "note": "Gita 2.19–20 closely parallels Katha 1.2.18–19; Gita 15.1 and 15.6 echo Katha 2.3.1 and 2.2.15"
+    },
+    {
+      "id": "mundaka-upanishad",
+      "note": "Shares the verse on the Self being gained only by the one it chooses"
+    },
+    {
+      "id": "shvetashvatara-upanishad",
+      "note": "Like Katha, belongs to the Krishna Yajurveda and uses early Yoga vocabulary"
+    },
+    {
+      "id": "mahabharata",
+      "note": "The epic's reflections on death and duty resonate with Nachiketa's questions"
+    }
+  ],
+  "thinkers": [
+    "shankara",
+    "ramanuja",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

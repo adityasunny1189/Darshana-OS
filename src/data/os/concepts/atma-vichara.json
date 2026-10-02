@@ -1,0 +1,90 @@
+{
+  "id": "atma-vichara",
+  "name": {
+    "en": "Atma-vichara — self-inquiry",
+    "sa": "आत्मविचार",
+    "iast": "ātma-vicāra"
+  },
+  "short": "Inquiring into the nature of the 'I' until its source is recognised.",
+  "beginner": "Self-inquiry means turning attention back on yourself and asking 'Who am I?' — not as a puzzle to solve with thoughts, but as a way of looking for the one who is aware of thoughts.",
+  "what": "Atma-vichara is the practice of investigating the nature of the Self. In Advaita Vedanta, inquiry (vichara) is a sustained reflection on scripture and experience that distinguishes the Self from body, mind and ego. Ramana Maharshi made a direct form of it central: tracing the 'I'-thought back to its source rather than analysing ideas about the self. Related approaches include the neti-neti method of the Upanishads and the discrimination between seer and seen.",
+  "scholar": "Shankara's tradition speaks of shravana (hearing), manana (reflection) and nididhyasana (contemplation) as the process of knowledge. Texts traditionally attributed to Shankara, such as Vivekachudamani and Aparokshanubhuti, and later works like Drg-drshya-viveka, elaborate vichara. Ramana Maharshi's Nan Yar (Who Am I?) and Upadesa Saram present inquiry as attending to the 'I'-sense until it subsides in its source; scholars note both continuity with and distinctness from classical Advaita.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Advaita holds that liberation comes through knowledge, and self-inquiry, guided by scripture and a teacher, removes the superimposition of the non-self on the Self."
+    },
+    {
+      "tradition": "modern",
+      "view": "Ramana Maharshi taught a direct inquiry into the source of the 'I'-thought, presented as open to anyone regardless of background; this is a twentieth-century teaching."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Pratyabhijna offers a related but distinct approach: recognising that one's own awareness is Shiva, understood as dynamic and self-reflective rather than inactive."
+    }
+  ],
+  "texts": [
+    "who-am-i",
+    "upadesa-saram",
+    "vivekachudamani",
+    "aparokshanubhuti",
+    "ashtavakra-gita",
+    "brihadaranyaka-upanishad"
+  ],
+  "traditions": [
+    "advaita",
+    "modern",
+    "kashmir-shaivism"
+  ],
+  "relatedConcepts": [
+    "atma",
+    "viveka",
+    "neti-neti",
+    "sakshi",
+    "jnana",
+    "ahankara"
+  ],
+  "questions": [
+    "self",
+    "mind",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "13.1",
+      "note": "The body is the 'field'; the one who knows it is the knower of the field."
+    },
+    {
+      "kind": "concept",
+      "id": "neti-neti",
+      "note": "The Upanishadic method of negating what the Self is not."
+    },
+    {
+      "kind": "text",
+      "id": "vivekachudamani",
+      "note": "A classic Advaita text on discrimination, traditionally attributed to Shankara."
+    },
+    {
+      "kind": "thinker",
+      "id": "ramana-maharshi",
+      "note": "Ramana Maharshi's direct inquiry into the source of the 'I'."
+    },
+    {
+      "kind": "text",
+      "id": "who-am-i",
+      "note": "His short dialogue 'Who Am I?'."
+    },
+    {
+      "kind": "concept",
+      "id": "anatta",
+      "note": "Contrast with the Buddhist investigation that finds no permanent self."
+    }
+  ],
+  "gitaVerses": [
+    "13.1",
+    "13.2",
+    "2.16",
+    "6.20"
+  ]
+}

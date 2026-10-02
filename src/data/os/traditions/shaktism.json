@@ -1,0 +1,62 @@
+{
+  "id": "shaktism",
+  "name": {
+    "en": "Shaktism",
+    "sa": "शाक्त",
+    "iast": "Śākta"
+  },
+  "family": "shakta",
+  "parent": null,
+  "tagline": "Traditions that worship the Goddess (Devi) as the supreme power and reality.",
+  "period": "Goddess worship has ancient roots; the Devi Mahatmya, often placed around the 5th–6th century CE, is the classic text of the Goddess as supreme. Shakta tantric traditions flourished from roughly the 7th century CE onward.",
+  "overview": "Shaktism names the traditions for which the Goddess, Devi — under names such as Durga, Kali, Lalita Tripurasundari and many regional goddesses — is the supreme reality. Shakti means power: the Goddess is the dynamic energy through which the universe arises, is sustained and is dissolved, and in many Shakta theologies she is also pure consciousness itself. Shakta thought ranges from devotional and Puranic forms to highly philosophical tantric systems such as Shri Vidya, which share much with non-dual Shaivism. The Goddess is typically understood as both transcendent and fully present in the world, in the body and in women, and as both fierce and benevolent. Worship includes devotion, festivals, recitation, mantra, yantra and, in tantric lineages, esoteric ritual and meditation.",
+  "beginner": "Shaktism is the worship of the Divine as the Mother Goddess. She is the power behind everything — creating, protecting and destroying — and devotion to her leads both to well-being and to liberation.",
+  "coreQuestions": [
+    "Why is the ultimate reality understood as feminine power?",
+    "How do the fierce and gentle forms of the Goddess relate?",
+    "What is the relation of Shakti to consciousness?",
+    "How are devotion and tantric practice combined?"
+  ],
+  "coreConcepts": [
+    "shakti",
+    "shiva",
+    "bhakti",
+    "maya",
+    "lila",
+    "non-duality",
+    "anugraha"
+  ],
+  "texts": [
+    "devi-mahatmya",
+    "devi-bhagavata-purana",
+    "kularnava-tantra"
+  ],
+  "thinkers": [],
+  "relatedTraditions": [
+    {
+      "id": "tantra",
+      "note": "Many Shakta lineages are tantric"
+    },
+    {
+      "id": "kashmir-shaivism",
+      "note": "Shri Vidya and Kaula traditions share much with non-dual Shaivism"
+    },
+    {
+      "id": "itihasa-purana",
+      "note": "The Devi Mahatmya is part of the Markandeya Purana"
+    },
+    {
+      "id": "bhakti",
+      "note": "Devotional Shakta poetry, e.g. in Bengal, is a major bhakti literature"
+    }
+  ],
+  "disagreements": [
+    {
+      "with": "advaita",
+      "topic": "maya",
+      "note": "Many Shakta theologians identify maya with the Goddess's real power, not with an illusion to be dispelled."
+    }
+  ],
+  "scholar": "Scholars distinguish Kalikula (Kali-centred) and Shrikula (Tripurasundari-centred) streams. Shri Vidya has both tantric and Advaita-influenced (Shankara-matha) forms. The Lalita Sahasranama and Saundaryalahari (traditionally attributed to Shankara) are important texts not yet in this library.",
+  "difficulty": "intermediate"
+}

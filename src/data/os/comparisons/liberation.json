@@ -1,0 +1,157 @@
+{
+  "id": "liberation",
+  "topic": "What is liberation?",
+  "concept": "moksha",
+  "intro": "Nearly every tradition names a final freedom, but describes it very differently: as identity, communion, isolation, cessation or recognition.",
+  "rows": [
+    {
+      "tradition": "advaita",
+      "claim": "Realising that one is, and always was, Brahman.",
+      "detail": "Moksha is not a new state but the removal of ignorance. It can be realised while living (jivanmukti).",
+      "sources": [
+        {
+          "text": "vivekachudamani"
+        },
+        {
+          "text": "upadesha-sahasri"
+        }
+      ],
+      "concepts": [
+        "moksha",
+        "brahman",
+        "jnana"
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "claim": "Eternal communion with and service to God, as a distinct self.",
+      "detail": "The liberated self regains its full knowledge and bliss and enjoys God in Vaikuntha, sharing his bliss but not his cosmic functions.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        }
+      ],
+      "concepts": [
+        "moksha",
+        "bhakti",
+        "prapatti"
+      ]
+    },
+    {
+      "tradition": "dvaita",
+      "claim": "Innate bliss in God's presence, granted by grace; difference remains.",
+      "detail": "Liberated souls experience their own inherent bliss, which Madhva holds differs in degree among souls.",
+      "sources": [
+        {
+          "text": "madhva-brahma-sutra-bhashya"
+        }
+      ],
+      "concepts": [
+        "moksha",
+        "anugraha"
+      ]
+    },
+    {
+      "tradition": "sankhya",
+      "claim": "Kaivalya: purusha's isolation from prakriti.",
+      "detail": "Once discrimination is complete, prakriti ceases its activity for that purusha, and suffering permanently ends.",
+      "sources": [
+        {
+          "text": "sankhya-karika"
+        }
+      ],
+      "concepts": [
+        "purusha",
+        "moksha"
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "claim": "Kaivalya: the seer abiding in its own nature.",
+      "detail": "When the mind-field is fully stilled and the gunas have fulfilled their purpose, consciousness stands alone.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ],
+      "concepts": [
+        "samadhi",
+        "purusha"
+      ]
+    },
+    {
+      "tradition": "nyaya",
+      "claim": "Apavarga: absolute and permanent freedom from pain.",
+      "detail": "The self persists but, on the classical view, without pain, pleasure or consciousness, which require embodiment.",
+      "sources": [
+        {
+          "text": "nyaya-sutras"
+        }
+      ],
+      "concepts": [
+        "moksha",
+        "dukkha"
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "claim": "Nirvana: the cessation of craving, suffering and rebirth.",
+      "detail": "Early sources describe it as the \"blowing out\" of greed, hatred and delusion. Mahayana adds the goal of full Buddhahood for all beings; schools interpret nirvana's nature differently.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ],
+      "concepts": [
+        "nirvana",
+        "dukkha"
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "claim": "The soul, free of all karma, attains omniscience and eternal bliss.",
+      "detail": "The liberated soul rises to the summit of the universe and abides there in its pure nature, distinct from other liberated souls.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ],
+      "concepts": [
+        "moksha",
+        "jiva"
+      ]
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "claim": "Recognition of oneself as Shiva, embracing rather than negating the world.",
+      "detail": "Liberation can be lived while embodied, experiencing everything as one's own free consciousness.",
+      "sources": [
+        {
+          "text": "pratyabhijna-hridayam"
+        },
+        {
+          "text": "shiva-sutras"
+        }
+      ],
+      "concepts": [
+        "pratyabhijna",
+        "shiva"
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "claim": "Mukti: union with God through grace, lived in the world.",
+      "detail": "Liberation is freedom from ego and the cycle of rebirth, attained by grace and remembrance of the Name, compatible with householder life.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ],
+      "concepts": [
+        "naam",
+        "anugraha"
+      ]
+    }
+  ],
+  "note": "The disagreement concerns whether the liberated self retains individuality, whether liberation is a state of consciousness or beyond it, whether it is possible while alive, and whether it is achieved or given."
+}

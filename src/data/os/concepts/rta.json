@@ -1,0 +1,88 @@
+{
+  "id": "rta",
+  "name": {
+    "en": "Rta — cosmic order",
+    "sa": "ऋत",
+    "iast": "ṛta"
+  },
+  "short": "The Vedic principle of cosmic, ritual and moral order — a forerunner of dharma.",
+  "beginner": "Rta is an early Vedic word for the order of the universe: the regular path of the sun, the seasons, truth and right ritual all follow rta. Later, the idea of dharma took over much of its meaning.",
+  "what": "Rta is the Rigvedic concept of the order that governs the cosmos, the ritual and human conduct. Natural regularities, the correct performance of sacrifice and truthful action are all aligned with rta, and deities such as Varuna and Mitra are described as its guardians. In later literature the term becomes less prominent as dharma, karma and yajna take over its functions. Scholars trace a line from rta through the Gita's cycle of sacrifice to later ideas of cosmic and moral order.",
+  "scholar": "Rta is paired with satya (truth) and contrasted with anrta (disorder, falsehood) in the Rigveda. Its Indo-Iranian cognate is the Avestan asha. The Gita does not use the term prominently, but 3.14–16 presents a cycle of yajna sustaining the world that many readers connect with the older idea. Sikh hukam and Tamil aram are sometimes compared with rta, though they arise in different contexts.",
+  "perspectives": [
+    {
+      "tradition": "vedic",
+      "view": "In the Rigveda, rta is the cosmic, ritual and moral order upheld by the gods, especially Varuna, and embodied in truth and correct sacrifice."
+    },
+    {
+      "tradition": "mimamsa",
+      "view": "Mimamsa does not centre on rta by name, but its focus on the eternal Veda and precise ritual continues the concern for order through correct action."
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Vedanta generally subsumes cosmic order under Ishvara's governance and the law of karma."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Some readers compare rta with the Sikh concept of hukam, the divine order, while noting that hukam is the command of a personal Creator."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "chandogya-upanishad",
+    "mimamsa-sutras"
+  ],
+  "traditions": [
+    "vedic",
+    "mimamsa",
+    "vedanta",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "dharma",
+    "yajna",
+    "karma",
+    "hukam"
+  ],
+  "questions": [
+    "dharma",
+    "reality"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "vedic",
+      "note": "Rta in the Vedic hymns: cosmic, ritual and moral order."
+    },
+    {
+      "kind": "concept",
+      "id": "yajna",
+      "note": "Sacrifice as the means of upholding order."
+    },
+    {
+      "kind": "gita",
+      "id": "3.14",
+      "note": "The Gita's cycle of food, rain and sacrifice."
+    },
+    {
+      "kind": "gita",
+      "id": "3.16",
+      "note": "One who does not follow this cycle lives in vain."
+    },
+    {
+      "kind": "concept",
+      "id": "dharma",
+      "note": "Dharma as the later heir of rta."
+    },
+    {
+      "kind": "concept",
+      "id": "hukam",
+      "note": "Compare the Sikh idea of divine order."
+    }
+  ],
+  "gitaVerses": [
+    "3.14",
+    "3.15",
+    "3.16"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "knowledge",
+  "q": "How do we know something is true?",
+  "motif": "lamp",
+  "quickAnswer": "Indian philosophy developed a sophisticated theory of knowledge around pramanas, the valid means of knowing. Schools accept different lists: Charvaka only perception; Buddhists perception and inference; Sankhya and Yoga add testimony; Nyaya adds comparison; Mimamsa and Vedanta add postulation and non-perception. Debates concern whether scripture counts as independent knowledge, whether knowledge is self-validating, and how error arises.",
+  "concepts": [
+    "pramana",
+    "jnana",
+    "viveka",
+    "anekantavada",
+    "avidya"
+  ],
+  "traditions": [
+    "nyaya",
+    "charvaka",
+    "buddhism",
+    "sankhya",
+    "mimamsa",
+    "advaita",
+    "jainism"
+  ],
+  "perspectives": [
+    {
+      "tradition": "nyaya",
+      "view": "Nyaya accepts four pramanas — perception, inference, comparison and testimony — and developed a detailed logic of inference and debate.",
+      "sources": [
+        {
+          "text": "nyaya-sutras",
+          "ref": "1.1.3"
+        }
+      ]
+    },
+    {
+      "tradition": "charvaka",
+      "view": "The Charvaka materialists accepted only perception, arguing that inference cannot be guaranteed and so claims about unseen realities are unwarranted."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist epistemologists such as Dignaga and Dharmakirti accepted only perception and inference, treating testimony as a form of inference."
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Sankhya accepts perception, inference and reliable testimony, and uses inference to establish realities not directly perceived, such as unmanifest nature.",
+      "sources": [
+        {
+          "text": "sankhya-karika"
+        }
+      ]
+    },
+    {
+      "tradition": "mimamsa",
+      "view": "Mimamsa holds that knowledge is intrinsically valid unless defeated, and that the Veda, being authorless, is a self-standing source of knowledge about dharma.",
+      "sources": [
+        {
+          "text": "mimamsa-sutras"
+        }
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism frames knowledge through many-sidedness: claims are qualified by standpoint (naya) and conditional assertion (syadvada).",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "tool",
+    "id": "pramana",
+    "note": "An interactive introduction to the Nyaya means of knowledge."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "4.34",
+      "note": "Learn by approaching the wise with humility, questions and service."
+    },
+    {
+      "kind": "gita",
+      "id": "18.20",
+      "note": "The Gita classifies knowledge by the gunas."
+    },
+    {
+      "kind": "text",
+      "id": "nyaya-sutras",
+      "note": "The foundational text of Indian logic."
+    },
+    {
+      "kind": "tool",
+      "id": "anekanta",
+      "note": "Try the Jain approach of multiple standpoints."
+    },
+    {
+      "kind": "concept",
+      "id": "viveka",
+      "note": "Discernment between the real and the unreal."
+    }
+  ],
+  "gitaQuestions": [],
+  "related": [
+    "reality",
+    "self"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "devi-bhagavata-purana",
+  "title": {
+    "en": "Devi Bhagavata Purana",
+    "sa": "देवीभागवतपुराण",
+    "iast": "Devībhāgavatapurāṇa"
+  },
+  "category": "purana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "shaktism",
+    "itihasa-purana",
+    "vedanta"
+  ],
+  "attribution": "Traditionally attributed to Vyasa; composite authorship",
+  "author": "vyasa",
+  "period": "Scholars commonly place it between roughly the 9th and 14th centuries CE; dates are debated",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "The Goddess",
+    "Devotion",
+    "Knowledge",
+    "Cosmology"
+  ],
+  "summary": "A large Shakta Purana presenting the Goddess as supreme reality, including the philosophical Devi Gita.",
+  "whyRead": "It is the most extensive Puranic statement of Goddess-centred theology, joining myth and ritual with Vedantic philosophy. Its Devi Gita is a Goddess-centred counterpart to the Bhagavad Gita.",
+  "questions": [
+    "How can the supreme be understood as feminine?",
+    "How does the Goddess relate to Brahman?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The Goddess as Brahman",
+      "text": "The Devi is identified with Brahman, the ground of all, and the male gods act through her power."
+    },
+    {
+      "title": "The Devi Gita",
+      "text": "In the seventh canto the Goddess teaches the mountain king Himalaya about the Self, yoga and devotion, drawing on Upanishadic and Vedantic ideas."
+    },
+    {
+      "title": "Retold myths",
+      "text": "Many familiar stories are retold so that the Goddess is the decisive agent."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Twelve cantos (skandhas)",
+      "note": "Traditionally about 18,000 verses"
+    },
+    {
+      "label": "Devi Gita",
+      "note": "Canto 7, commonly counted as chapters 31–40"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "shakti",
+    "brahman",
+    "maya",
+    "bhakti",
+    "yoga",
+    "jnana"
+  ],
+  "relatedTexts": [
+    {
+      "id": "devi-mahatmya",
+      "note": "The earlier core text of Goddess theology"
+    },
+    {
+      "id": "bhagavata-purana",
+      "note": "Its structure and title parallel the Vaishnava Bhagavata"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "The Devi Gita is modelled in part on the Bhagavad Gita"
+    }
+  ],
+  "thinkers": [
+    "vyasa"
+  ],
+  "advanced": false,
+  "ingested": false
+}

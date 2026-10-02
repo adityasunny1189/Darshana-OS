@@ -1,0 +1,86 @@
+{
+  "id": "ramcharitmanas",
+  "title": {
+    "en": "Ramcharitmanas",
+    "sa": "रामचरितमानस",
+    "iast": "Rāmacaritamānasa"
+  },
+  "category": "devotional",
+  "sourceType": "primary-text",
+  "traditions": [
+    "bhakti",
+    "itihasa-purana"
+  ],
+  "attribution": "Goswami Tulsidas",
+  "author": "tulsidas",
+  "period": "16th century CE; traditionally begun in 1574 CE",
+  "language": "Awadhi",
+  "difficulty": "beginner-intermediate",
+  "themes": [
+    "Devotion",
+    "Duty",
+    "Name of God",
+    "Relationships",
+    "Kingship"
+  ],
+  "summary": "Tulsidas's Awadhi retelling of the Rama story, in which the whole narrative is an expression of devotion to Rama.",
+  "whyRead": "It is among the most widely recited texts in North India, and its verses are part of everyday religious and cultural life. It shows the bhakti reshaping of the epic in a vernacular language.",
+  "story": "The poem retells Rama's life within several nested narrations, including Shiva telling it to Parvati and the crow Kakbhushundi telling it to Garuda. Its outline follows the older epic but its tone is devotional throughout.",
+  "questions": [
+    "What is the power of the divine Name?",
+    "How should one live one's relationships in the light of devotion?",
+    "Why is devotion open to everyone?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Devotion to Rama",
+      "text": "Bhakti to Rama is presented as the essence of all paths and as open to people of every background. Rama is both the supreme Brahman and a personal, loving presence."
+    },
+    {
+      "title": "The power of the Name",
+      "text": "Tulsidas gives great weight to repeating the name of Rama, sometimes ranking the Name even above the form of God."
+    },
+    {
+      "title": "Ideal relationships",
+      "text": "The poem presents Rama, Sita, Lakshmana, Bharata and Hanuman as ideals of son, spouse, brother and servant, and has served as a guide to household ethics."
+    },
+    {
+      "title": "Humility and grace",
+      "text": "The poet repeatedly describes his own unworthiness and relies on Rama's grace, a hallmark of the bhakti voice."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Seven books (kandas)",
+      "note": "Bala, Ayodhya, Aranya, Kishkindha, Sundar, Lanka, Uttar"
+    },
+    {
+      "label": "Metre",
+      "note": "Mainly chaupai quatrains punctuated by doha and soratha couplets"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "bhakti",
+    "naam",
+    "sharanagati",
+    "anugraha",
+    "dharma",
+    "lila"
+  ],
+  "relatedTexts": [
+    {
+      "id": "valmiki-ramayana",
+      "note": "The Sanskrit epic it retells"
+    },
+    {
+      "id": "adhyatma-ramayana",
+      "note": "An earlier devotional Sanskrit retelling that influenced it"
+    }
+  ],
+  "thinkers": [
+    "tulsidas"
+  ],
+  "advanced": false,
+  "ingested": false
+}

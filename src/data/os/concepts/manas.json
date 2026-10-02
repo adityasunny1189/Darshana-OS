@@ -1,0 +1,100 @@
+{
+  "id": "manas",
+  "name": {
+    "en": "Manas — mind",
+    "sa": "मनस्",
+    "iast": "manas"
+  },
+  "short": "The mind that receives, coordinates and desires — restless by nature.",
+  "beginner": "Manas is the everyday thinking-feeling mind: it takes in what the senses report, wants things and wavers. Indian philosophy treats it as an instrument we have, not as who we are.",
+  "what": "In Sankhya and Vedanta, manas is one of the inner instruments (antahkarana), alongside intellect (buddhi) and ego (ahankara); it coordinates the senses and generates doubt and desire. In Nyaya-Vaisheshika, manas is an atomic substance whose contact with the self and senses makes cognition possible one at a time. The Gita's Arjuna calls the mind as hard to control as the wind; Krishna answers that practice and dispassion restrain it.",
+  "scholar": "Classic analyses: manas as 'samkalpa-vikalpa' (proposing and doubting) function; the Nyaya argument for atomic manas from the non-simultaneity of cognitions. Buddhist Abhidharma treats mano as the sixth sense base; Yogacara adds manas as the defiled mind that grasps at self. The Katha Upanishad's chariot image makes the mind the reins.",
+  "perspectives": [
+    {
+      "tradition": "sankhya",
+      "view": "Manas is an evolute of prakriti — material, not conscious — coordinating the senses and forming intentions."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "The mind is an atomic, eternal substance; because it can join only one sense at a time, we have one cognition at a time."
+    },
+    {
+      "tradition": "advaita",
+      "view": "The mind is part of the subtle body and an object of awareness; it is not the Self, whose light it borrows."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Mind is the sixth sense base; in Yogacara a distinct defiled mind (manas) constantly grasps at a self."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "The mind (man) is restless and ego-driven, but when attuned to the Name it can itself become a place of divine light."
+    }
+  ],
+  "texts": [
+    "katha-upanishad",
+    "bhagavad-gita",
+    "sankhya-karika",
+    "nyaya-sutras",
+    "yoga-sutras",
+    "dhammapada"
+  ],
+  "traditions": [
+    "sankhya",
+    "nyaya",
+    "advaita",
+    "buddhism",
+    "yogacara",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "buddhi",
+    "chitta",
+    "ahankara",
+    "dhyana",
+    "vairagya",
+    "kama"
+  ],
+  "questions": [
+    "mind"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "katha-upanishad",
+      "note": "The chariot image: the mind as the reins of the senses."
+    },
+    {
+      "kind": "gita",
+      "id": "6.34",
+      "note": "Arjuna: the mind is as hard to control as the wind."
+    },
+    {
+      "kind": "gita",
+      "id": "6.35",
+      "note": "Krishna: practice and dispassion."
+    },
+    {
+      "kind": "gita",
+      "id": "6.26",
+      "note": "Wherever the mind wanders, bring it back."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "A systematic account of the mind's fluctuations."
+    },
+    {
+      "kind": "tradition",
+      "id": "yogacara",
+      "note": "A Buddhist analysis of mind's layers."
+    }
+  ],
+  "gitaVerses": [
+    "3.42",
+    "6.26",
+    "6.34",
+    "6.35",
+    "15.9"
+  ]
+}

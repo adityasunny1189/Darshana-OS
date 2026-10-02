@@ -1,0 +1,60 @@
+{
+  "id": "nagarjuna",
+  "name": {
+    "en": "Nagarjuna",
+    "sa": "नागार्जुन"
+  },
+  "traditions": [
+    "madhyamaka",
+    "buddhism"
+  ],
+  "period": "Scholars generally place him around the 2nd century CE (roughly 150–250 CE).",
+  "context": "Nagarjuna is the founder of the Madhyamaka ('Middle Way') school of Mahayana Buddhism and one of the most influential philosophers in Asia. Traditional biographies, preserved in Chinese and Tibetan, are largely legendary, and the name was also borne by later figures, including a tantric adept and alchemist, which complicates attribution. His core work, the Mulamadhyamakakarika, analyses concepts such as causation, motion, time and the self to show that nothing possesses independent intrinsic nature. His thought was developed by commentators such as Aryadeva, Buddhapalita, Bhaviveka and Chandrakirti, and shaped Tibetan and East Asian Buddhism.",
+  "coreIdeas": [
+    "Emptiness (shunyata): nothing has svabhava, an intrinsic, independent nature",
+    "Emptiness is identified with dependent origination, so it is not nothingness",
+    "Two truths: conventional truth, within which ordinary practice operates, and ultimate truth",
+    "Emptiness is itself empty and is not a further metaphysical position",
+    "Arguments that show every fixed view about existence and non-existence leads to contradiction"
+  ],
+  "works": [
+    "mulamadhyamakakarika"
+  ],
+  "otherWorks": [
+    "Vigrahavyavartani",
+    "Shunyatasaptati",
+    "Yuktishashtika",
+    "Vaidalyaprakarana",
+    "Ratnavali (attribution generally accepted)"
+  ],
+  "attributionNote": "The Mulamadhyamakakarika is securely his. Many other works carry his name; scholars accept a core group and doubt others, partly because later authors shared the name.",
+  "influences": [
+    "buddha"
+  ],
+  "disagreements": [
+    {
+      "with": "buddhism",
+      "note": "Nagarjuna's main opponents include Buddhist Abhidharma schools, especially Sarvastivada, which held that the basic elements of existence (dharmas) have their own intrinsic nature; he argues that this contradicts dependent origination."
+    },
+    {
+      "with": "nyaya",
+      "note": "In the Vigrahavyavartani he challenges how the means of valid knowledge can be established without an infinite regress, a critique usually read as aimed at Nyaya epistemology; later Nyaya authors responded."
+    },
+    {
+      "with": "gautama-akshapada",
+      "note": "Nyaya's realism about substances, the self and the pramanas stands directly opposed to Nagarjuna's claim that all things lack intrinsic nature."
+    }
+  ],
+  "relatedThinkers": [
+    "buddha",
+    "gaudapada",
+    "gautama-akshapada"
+  ],
+  "concepts": [
+    "shunyata",
+    "pratityasamutpada",
+    "anatta",
+    "nirvana",
+    "non-duality"
+  ]
+}

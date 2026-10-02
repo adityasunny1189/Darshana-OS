@@ -1,0 +1,106 @@
+{
+  "id": "sannyasa",
+  "name": {
+    "en": "Sannyasa — renunciation",
+    "sa": "संन्यास",
+    "iast": "saṃnyāsa"
+  },
+  "short": "Renunciation — as a formal stage of life, and as an inner attitude of letting go.",
+  "beginner": "Sannyasa means renunciation. It can mean becoming a monk who leaves home, or it can mean an inner letting go that anyone can practise while still living and working.",
+  "what": "Sannyasa (literally 'laying down completely') refers both to the fourth ashrama, the formal life of a renunciate who gives up household ritual and property, and to an inner renunciation of desire and agency. The Gita repeatedly asks whether renouncing action or performing it is better, and redefines the true renunciate as one who neither hates nor desires. Different traditions weigh outward and inner renunciation differently.",
+  "scholar": "Classical Dharmashastra treats sannyasa as the last ashrama; debates concern whether it may be taken directly from studenthood. Shankara defended a strong link between sannyasa and the pursuit of knowledge, and the Dashanami orders trace themselves to him. In the Gita, sannyasa sometimes names the path of knowledge (sankhya-yoga), as in 5.2 and 18.49. Vaishnava orders also have sannyasa lineages; Sikh and many bhakti poets criticise withdrawal from family life.",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Shankara holds that knowledge of the Self is incompatible with the sense of being a doer, and regards formal renunciation as the natural setting for sustained inquiry, while accepting that knowledge itself is what liberates."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Ramanuja reads the Gita as favouring karma yoga for most people, with renunciation understood mainly as giving up agency, ownership and fruit to the Lord."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jain monastic life is a rigorous form of renunciation, with the great vows (mahavratas) including non-harm and non-possession; Digambara and Shvetambara traditions differ on matters such as clothing."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist traditions centre on the monastic sangha, 'going forth' from home into homelessness, while also recognising the practice of lay followers."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "The Sikh Gurus generally criticised ascetic withdrawal and taught detachment within householder life, work and service."
+    },
+    {
+      "tradition": "modern",
+      "view": "Vivekananda's Ramakrishna Mission joined monastic renunciation with active service, a modern reinterpretation of the renunciate ideal."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "vivekachudamani",
+    "bhaja-govindam",
+    "guru-granth-sahib"
+  ],
+  "traditions": [
+    "vedanta",
+    "advaita",
+    "vishishtadvaita",
+    "jainism",
+    "buddhism",
+    "sikhism",
+    "modern"
+  ],
+  "relatedConcepts": [
+    "tyaga",
+    "vairagya",
+    "jnana",
+    "nishkama-karma",
+    "moksha"
+  ],
+  "questions": [
+    "freedom",
+    "live"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "5.2",
+      "note": "Arjuna asks which is better, renunciation or action; Krishna says both lead to the highest good, and action is the easier of the two."
+    },
+    {
+      "kind": "gita",
+      "id": "5.3",
+      "note": "The 'ever-renounced' person is defined by the absence of hatred and desire, not by outer robes."
+    },
+    {
+      "kind": "gita",
+      "id": "6.1",
+      "note": "One who does duty without depending on its fruit is both renunciate and yogi."
+    },
+    {
+      "kind": "thinker",
+      "id": "shankara",
+      "note": "Shankara's defence of formal renunciation as the setting for knowledge."
+    },
+    {
+      "kind": "text",
+      "id": "bhaja-govindam",
+      "note": "A short hymn traditionally attributed to Shankara, urging dispassion and devotion."
+    },
+    {
+      "kind": "tradition",
+      "id": "sikhism",
+      "note": "Contrast: the Sikh ideal of detachment while living as a householder."
+    }
+  ],
+  "gitaVerses": [
+    "5.2",
+    "5.3",
+    "5.6",
+    "6.1",
+    "18.1",
+    "18.2",
+    "18.49"
+  ]
+}

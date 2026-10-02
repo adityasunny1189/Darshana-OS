@@ -1,0 +1,76 @@
+{
+  "id": "kularnava-tantra",
+  "title": {
+    "en": "Kularnava Tantra",
+    "sa": "कुलार्णवतन्त्र",
+    "iast": "Kulārṇavatantra"
+  },
+  "category": "agama-tantra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "tantra",
+    "shaktism",
+    "shaivism"
+  ],
+  "attribution": "Author unknown; presented as a dialogue between Shiva and the Goddess",
+  "author": null,
+  "period": "Generally placed in the early to middle second millennium CE; dates are uncertain",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Guru",
+    "Initiation",
+    "Ritual",
+    "Kaula path"
+  ],
+  "summary": "A major scripture of the Kaula tantric tradition, covering the guru, initiation, ritual and the philosophy behind Kaula practice.",
+  "whyRead": "It is an important source for Kaula Tantra, and especially for the tantric doctrine of the guru. It shows Tantra as an integrated system of theology, ethics, ritual and contemplation, not a collection of techniques.",
+  "questions": [
+    "What is the role of the guru?",
+    "How can worldly experience become part of a liberating path?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The Kaula path",
+      "text": "The text presents the Kaula path as the highest, one that aims at both enjoyment (bhukti) and liberation (mukti) rather than opposing them."
+    },
+    {
+      "title": "The guru",
+      "text": "Several chapters treat the guru as a form of Shiva and set out the qualities of a true teacher and disciple."
+    },
+    {
+      "title": "Initiation and ritual",
+      "text": "Initiation, mantra and worship, including rites involving substances normally prohibited, are to be undertaken only within a qualified lineage and with ethical discipline; the text warns against their misuse."
+    },
+    {
+      "title": "Rarity of human birth",
+      "text": "It opens by stressing the value of human birth as an opportunity for liberation."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Seventeen chapters (ullasas) in the common edition"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "shakti",
+    "shiva",
+    "anugraha",
+    "moksha",
+    "yajna"
+  ],
+  "relatedTexts": [
+    {
+      "id": "agamas",
+      "note": "The broader Shaiva scriptural corpus"
+    },
+    {
+      "id": "vijnana-bhairava",
+      "note": "A more contemplative Tantra of the Bhairava tradition"
+    }
+  ],
+  "thinkers": [],
+  "advanced": true,
+  "ingested": false
+}

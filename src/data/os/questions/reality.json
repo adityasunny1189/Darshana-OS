@@ -1,0 +1,135 @@
+{
+  "id": "reality",
+  "q": "What is reality?",
+  "motif": "cosmos",
+  "quickAnswer": "Indian philosophy offers many carefully argued answers. Advaita holds that only Brahman is ultimately real and the world is an appearance (maya); Vishishtadvaita and Dvaita treat the world as fully real, either as God's body or as eternally distinct from God. Sankhya counts two realities, consciousness and nature; Nyaya-Vaisheshika lists categories of real things; Buddhist schools speak of impermanence, dependent origination and emptiness; Jainism insists reality is many-sided. Each answer is tied to a theory of how we know.",
+  "concepts": [
+    "brahman",
+    "maya",
+    "prakriti",
+    "shunyata",
+    "tattva",
+    "anekantavada",
+    "non-duality"
+  ],
+  "traditions": [
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "sankhya",
+    "vaisheshika",
+    "madhyamaka",
+    "yogacara",
+    "jainism",
+    "kashmir-shaivism"
+  ],
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Advaita holds that Brahman, pure being-consciousness, alone is ultimately real; the world of many things is neither simply real nor simply unreal but an appearance (maya) superimposed on Brahman.",
+      "sources": [
+        {
+          "text": "mandukya-karika"
+        },
+        {
+          "text": "vivekachudamani"
+        }
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Ramanuja holds that the world and selves are real and form the body of Brahman; reality is one, but internally differentiated.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        }
+      ]
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Sankhya describes two fundamental realities: many conscious purushas and a single unconscious prakriti whose evolutes make up mind and matter.",
+      "sources": [
+        {
+          "text": "sankhya-karika"
+        }
+      ]
+    },
+    {
+      "tradition": "vaisheshika",
+      "view": "Vaisheshika analyses reality into categories (padarthas) such as substance, quality and action, with atoms as the ultimate constituents of material things.",
+      "sources": [
+        {
+          "text": "vaisheshika-sutras"
+        }
+      ]
+    },
+    {
+      "tradition": "madhyamaka",
+      "view": "Nagarjuna argues that all things are empty (shunya) of independent existence because they arise dependently; emptiness is not a hidden substance but the absence of intrinsic nature.",
+      "sources": [
+        {
+          "text": "mulamadhyamakakarika",
+          "ref": "24.18"
+        }
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism holds that reality is complex and many-sided (anekanta): any statement captures only some aspects, so claims should be qualified by standpoint.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ]
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Kashmir Shaivism treats the world as the real, self-expression of consciousness (Shiva) through its own power (Shakti), not as illusion.",
+      "sources": [
+        {
+          "text": "pratyabhijna-hridayam"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "2.16",
+    "note": "The Gita's compressed criterion: what is unreal has no being, and what is real never ceases to be."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "7.4",
+      "note": "Krishna's two natures: the lower eightfold prakriti and the higher conscious nature."
+    },
+    {
+      "kind": "gita",
+      "id": "13.1",
+      "note": "The field and the knower of the field."
+    },
+    {
+      "kind": "tool",
+      "id": "tattvas",
+      "note": "Explore the 25 principles of Sankhya."
+    },
+    {
+      "kind": "tool",
+      "id": "anekanta",
+      "note": "See how a claim looks from several standpoints."
+    },
+    {
+      "kind": "concept",
+      "id": "shunyata",
+      "note": "The Madhyamaka alternative to substance-based views."
+    }
+  ],
+  "gitaQuestions": [
+    "who-am-i"
+  ],
+  "related": [
+    "knowledge",
+    "self",
+    "god"
+  ]
+}

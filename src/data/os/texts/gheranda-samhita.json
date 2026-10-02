@@ -1,0 +1,73 @@
+{
+  "id": "gheranda-samhita",
+  "title": {
+    "en": "Gheranda Samhita",
+    "sa": "घेरण्डसंहिता",
+    "iast": "Gheraṇḍasaṃhitā"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "yoga",
+    "tantra"
+  ],
+  "attribution": "Framed as the teaching of the sage Gheranda to his student Chanda Kapali; actual author unknown",
+  "author": null,
+  "period": "Generally placed in the late 17th or 18th century CE; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Body",
+    "Purification",
+    "Breath",
+    "Meditation"
+  ],
+  "summary": "A late hatha yoga manual that organises practice into seven limbs, from bodily purification to samadhi.",
+  "whyRead": "It is one of the most systematic hatha manuals, with detailed lists of cleansing practices, postures and seals. Comparing its seven limbs with Patanjali's eight shows how yoga was reshaped over time.",
+  "story": "The text is framed as a dialogue in which the sage Gheranda teaches Chanda Kapali, who asks about the yoga of the body (ghata, the \"vessel\").",
+  "questions": [
+    "What does it mean to treat the body as a vessel to be purified?",
+    "How does a sevenfold yoga differ from the eightfold scheme?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The body as a vessel",
+      "text": "The text calls its discipline ghatastha yoga, yoga of the \"vessel\". The body is to be refined like unfired clay, so that it can hold the higher stages of practice."
+    },
+    {
+      "title": "Seven limbs",
+      "text": "It lists seven means: purification (shodhana through shatkarma), strengthening through asana, steadiness through mudra, calm through pratyahara, lightness through pranayama, perception of the self through dhyana, and detachment through samadhi."
+    },
+    {
+      "title": "Kinds of meditation and samadhi",
+      "text": "Meditation is divided into gross, luminous and subtle forms, and samadhi is described through several methods, reflecting an inclusive, practice-oriented approach."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Seven chapters (upadeshas)",
+      "note": "Roughly one for each of the seven limbs"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "yoga",
+    "pranayama",
+    "dhyana",
+    "samadhi",
+    "sharira"
+  ],
+  "relatedTexts": [
+    {
+      "id": "hatha-yoga-pradipika",
+      "note": "Earlier and more widely cited hatha manual"
+    },
+    {
+      "id": "yoga-sutras",
+      "note": "The classical eightfold scheme that the sevenfold one departs from"
+    }
+  ],
+  "thinkers": [],
+  "advanced": false,
+  "ingested": false
+}

@@ -1,0 +1,266 @@
+{
+  "id": "bhagavad-gita",
+  "title": {
+    "en": "Bhagavad Gita",
+    "sa": "श्रीमद्भगवद्गीता",
+    "iast": "Śrīmad Bhagavad Gītā"
+  },
+  "category": "itihasa",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedanta",
+    "itihasa-purana",
+    "bhakti",
+    "yoga",
+    "sankhya"
+  ],
+  "attribution": "Part of the Mahabharata (Bhishma Parva); traditionally attributed to Vyasa",
+  "author": "vyasa",
+  "period": "Scholars commonly place its composition between roughly the 5th and 2nd centuries BCE, with some proposing later layers; traditionally set at the start of the Kurukshetra war",
+  "language": "Sanskrit",
+  "difficulty": "beginner",
+  "themes": [
+    "Duty",
+    "Action",
+    "Self",
+    "Devotion",
+    "Knowledge",
+    "Equanimity",
+    "Liberation",
+    "God"
+  ],
+  "summary": "A 700-verse dialogue in which Krishna counsels the warrior Arjuna, who has collapsed in despair on the battlefield, on action, the Self and devotion.",
+  "whyRead": "The Gita is one of the most widely read and commented-on texts in Indian thought, and it brings together threads from the Upanishads, Sankhya, Yoga and devotional religion in a single conversation. It is also the one primary source fully available in this app: all 700 verses with Swami Ramsukhdas's Sadhak Sanjivani commentary, so you can read any verse cited elsewhere.",
+  "story": "On the eve of the Kurukshetra war, Arjuna asks his charioteer Krishna to drive between the two armies. Seeing teachers, relatives and friends on the opposing side, he refuses to fight. Krishna's response, spread over eighteen chapters, moves from the immortality of the Self to disciplined action, meditation, the nature of God, a vision of Krishna's cosmic form, and finally surrender; at the end Arjuna says his confusion is gone. The dialogue is framed as Sanjaya's report to the blind king Dhritarashtra.",
+  "questions": [
+    "How should I act when every choice seems to cause harm?",
+    "What in me does not die?",
+    "Can one act without being bound by the results?",
+    "What is the relation between knowledge, action and devotion?",
+    "Who or what is God?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The Self is not born and does not die",
+      "text": "Krishna begins by distinguishing the unchanging Self from the changing body. Grief over death, the text argues, comes from identifying with what is perishable."
+    },
+    {
+      "title": "Act without attachment to results",
+      "text": "A central teaching is that one has a claim on action but not on its fruits. Action done as duty and offering, without craving for outcomes, is said not to bind."
+    },
+    {
+      "title": "Equanimity is itself yoga",
+      "text": "The Gita repeatedly defines yoga as evenness of mind in success and failure, pleasure and pain. Its portrait of the person of steady wisdom (sthitaprajna) is a model of this."
+    },
+    {
+      "title": "Several paths, one goal",
+      "text": "The text discusses the disciplines of action (karma), knowledge (jnana), meditation (dhyana) and devotion (bhakti). Commentators disagree about how these relate: Shankara emphasises knowledge, Ramanuja devotion, and many modern readers see an integration."
+    },
+    {
+      "title": "The three gunas",
+      "text": "Drawing on Sankhya, the Gita analyses nature (prakriti) into three qualities, sattva, rajas and tamas, and uses them to classify food, faith, charity, knowledge and character."
+    },
+    {
+      "title": "Surrender to God",
+      "text": "In its closing teaching Krishna invites Arjuna to take refuge in him alone. Devotional traditions treat this as the culmination of the text."
+    }
+  ],
+  "structure": [
+    {
+      "label": "18 chapters, 700 verses",
+      "note": "Set in the Bhishma Parva of the Mahabharata"
+    },
+    {
+      "label": "Chapters 1–6",
+      "note": "Often read as emphasising action and self-discipline"
+    },
+    {
+      "label": "Chapters 7–12",
+      "note": "Often read as emphasising God and devotion; includes the cosmic vision of chapter 11"
+    },
+    {
+      "label": "Chapters 13–18",
+      "note": "Often read as emphasising knowledge: field and knower, the gunas, and the final synthesis"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "2.13",
+      "about": "The embodied Self passes through childhood, youth and age, and likewise to another body",
+      "gita": [
+        "2.13"
+      ]
+    },
+    {
+      "ref": "2.20",
+      "about": "The Self is never born and never dies",
+      "gita": [
+        "2.20"
+      ]
+    },
+    {
+      "ref": "2.47",
+      "about": "One's claim is on action alone, never on its fruits",
+      "gita": [
+        "2.47"
+      ]
+    },
+    {
+      "ref": "2.48",
+      "about": "Yoga defined as equanimity",
+      "gita": [
+        "2.48"
+      ]
+    },
+    {
+      "ref": "2.55",
+      "about": "Beginning of the description of the person of steady wisdom",
+      "gita": [
+        "2.55"
+      ]
+    },
+    {
+      "ref": "3.35",
+      "about": "Better one's own duty, even imperfectly done, than another's",
+      "gita": [
+        "3.35"
+      ]
+    },
+    {
+      "ref": "4.7–4.8",
+      "about": "The divine descends whenever dharma declines",
+      "gita": [
+        "4.7",
+        "4.8"
+      ]
+    },
+    {
+      "ref": "6.5",
+      "about": "One should lift oneself by oneself; the mind is friend or enemy",
+      "gita": [
+        "6.5"
+      ]
+    },
+    {
+      "ref": "9.26",
+      "about": "Even a leaf, flower, fruit or water offered with devotion is accepted",
+      "gita": [
+        "9.26"
+      ]
+    },
+    {
+      "ref": "13.1",
+      "about": "The body is called the field, and its knower the knower of the field",
+      "gita": [
+        "13.1"
+      ]
+    },
+    {
+      "ref": "14.5",
+      "about": "Sattva, rajas and tamas bind the embodied being",
+      "gita": [
+        "14.5"
+      ]
+    },
+    {
+      "ref": "15.7",
+      "about": "The individual self as an eternal portion of the divine",
+      "gita": [
+        "15.7"
+      ]
+    },
+    {
+      "ref": "18.66",
+      "about": "The call to relinquish all dharmas and take refuge in Krishna",
+      "gita": [
+        "18.66"
+      ]
+    }
+  ],
+  "concepts": [
+    "atma",
+    "dharma",
+    "karma",
+    "nishkama-karma",
+    "svadharma",
+    "yoga",
+    "bhakti",
+    "jnana",
+    "guna",
+    "samatva",
+    "sthitaprajna",
+    "sharanagati",
+    "prakriti",
+    "purusha",
+    "moksha",
+    "yajna",
+    "tyaga",
+    "sannyasa",
+    "ishvara",
+    "brahman"
+  ],
+  "relatedTexts": [
+    {
+      "id": "mahabharata",
+      "note": "The Gita is chapters of the Bhishma Parva, and its crisis only makes sense within the epic's story"
+    },
+    {
+      "id": "katha-upanishad",
+      "note": "Gita 2.19–20 closely parallels Katha 1.2.18–19 on the undying Self; the asvattha tree of Gita 15.1 also echoes Katha 2.3.1"
+    },
+    {
+      "id": "isha-upanishad",
+      "note": "The idea of seeing all beings in the Self and the Self in all beings (Isha 6) is echoed in Gita 6.29"
+    },
+    {
+      "id": "shvetashvatara-upanishad",
+      "note": "Shares the Gita's blend of Upanishadic monism, Sankhya-Yoga vocabulary and a personal Lord"
+    },
+    {
+      "id": "brahma-sutras",
+      "note": "With the Upanishads, one of the three foundational sources (prasthana-traya) on which Vedanta teachers wrote commentaries"
+    },
+    {
+      "id": "sankhya-karika",
+      "note": "Classical statement of the Sankhya system whose categories (purusha, prakriti, gunas) the Gita uses in its own way"
+    },
+    {
+      "id": "yoga-sutras",
+      "note": "Chapter 6's meditation teaching overlaps with, but is not identical to, Patanjali's yoga"
+    },
+    {
+      "id": "bhagavata-purana",
+      "note": "Develops the Gita's devotion to Krishna into a full theology of bhakti"
+    },
+    {
+      "id": "uddhava-gita",
+      "note": "Krishna's later teaching to Uddhava, often read as a companion to the Gita"
+    },
+    {
+      "id": "sadhak-sanjivani",
+      "note": "The Hindi commentary by Swami Ramsukhdas included with every verse in this app"
+    },
+    {
+      "id": "shankara-gita-bhashya",
+      "note": "Oldest surviving full commentary; reads the Gita through Advaita"
+    },
+    {
+      "id": "ramanuja-gita-bhashya",
+      "note": "Reads the Gita as teaching devotion to a personal God within Vishishtadvaita"
+    },
+    {
+      "id": "gita-tatparya",
+      "note": "Madhva's Dvaita reading of the Gita"
+    }
+  ],
+  "thinkers": [
+    "vyasa",
+    "shankara",
+    "ramanuja",
+    "madhva",
+    "ramsukhdas",
+    "vivekananda"
+  ],
+  "advanced": false,
+  "ingested": true
+}

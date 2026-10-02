@@ -1,0 +1,46 @@
+{
+  "id": "mahavira",
+  "name": {
+    "en": "Mahavira",
+    "sa": "महावीर"
+  },
+  "traditions": [
+    "jainism"
+  ],
+  "period": "Traditionally 599–527 BCE; many scholars place him later, as a contemporary of the Buddha in the 5th century BCE.",
+  "context": "Vardhamana Mahavira is, for Jains, the twenty-fourth and last Tirthankara ('ford-maker') of the present age, not the founder of Jainism; his predecessor Parshvanatha is widely accepted by scholars as a historical figure too. He is historical, although accounts of his life include legendary elements, and they differ between the Shvetambara and Digambara traditions. Tradition holds that he renounced household life, practised years of austerity, attained omniscience (kevala jnana), taught for decades and attained liberation at Pava. His teachings were preserved orally and later compiled in the Jain Agamas, whose canon the two main Jain traditions view differently.",
+  "coreIdeas": [
+    "Non-harm (ahimsa) toward all living beings as the central ethical principle",
+    "Five great vows: non-harm, truthfulness, non-stealing, chastity and non-possession",
+    "Countless eternal souls (jivas) exist, bound by karma understood as subtle matter that adheres to the soul",
+    "Liberation through right faith, right knowledge and right conduct, and the shedding of karma through restraint and austerity",
+    "Reality is many-sided, an idea later systematised as anekantavada"
+  ],
+  "works": [],
+  "otherWorks": [
+    "Teachings preserved in the Jain Agamas (Shvetambaras accept a surviving canon; Digambaras hold the original canon was lost)"
+  ],
+  "attributionNote": "Mahavira wrote nothing himself; his teachings were compiled by later disciples.",
+  "influenced": [
+    "umasvati"
+  ],
+  "disagreements": [
+    {
+      "with": "buddha",
+      "note": "Both taught renunciation, non-harm and freedom from rebirth, but Mahavira affirmed real, eternal souls and a strict practice of austerity, while the Buddha taught no-self and a middle way."
+    }
+  ],
+  "relatedThinkers": [
+    "buddha",
+    "umasvati"
+  ],
+  "concepts": [
+    "ahimsa",
+    "anekantavada",
+    "jiva",
+    "karma",
+    "samsara",
+    "moksha",
+    "vairagya"
+  ]
+}

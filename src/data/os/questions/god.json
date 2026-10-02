@@ -1,0 +1,126 @@
+{
+  "id": "god",
+  "q": "What is God?",
+  "motif": "sun",
+  "quickAnswer": "Indian traditions hold a remarkable range of views about God. Some speak of a personal Lord (Ishvara) who creates, sustains and graces the world — Vishnu, Shiva or the Goddess; some of an impersonal absolute (Brahman) beyond all qualities; some of both, as different levels of one truth. Classical Sankhya, Mimamsa, Jainism and Buddhism do not accept a creator God, while Sikh thought affirms one formless God known through the Name. The Gita presents Krishna as both the personal Lord and the ground of all being.",
+  "concepts": [
+    "ishvara",
+    "brahman",
+    "shiva",
+    "shakti",
+    "lila",
+    "anugraha",
+    "hukam"
+  ],
+  "traditions": [
+    "advaita",
+    "vishishtadvaita",
+    "dvaita",
+    "shaivism",
+    "shaktism",
+    "nyaya",
+    "sikhism",
+    "jainism",
+    "buddhism"
+  ],
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "Advaita holds that Brahman without qualities (nirguna) is the ultimate reality; Ishvara is Brahman as seen through maya, real at the level of the world but not the final truth.",
+      "sources": [
+        {
+          "text": "shankara-brahma-sutra-bhashya"
+        }
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "For Ramanuja, Brahman is the personal God Narayana, possessed of infinite auspicious qualities, with the world and selves as his body.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        }
+      ]
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Madhva holds that Vishnu is supreme and fully independent, eternally distinct from souls and matter, which depend on him entirely.",
+      "sources": [
+        {
+          "text": "madhva-brahma-sutra-bhashya"
+        }
+      ]
+    },
+    {
+      "tradition": "shaktism",
+      "view": "Shakta traditions worship the Goddess as the supreme power who creates, sustains and dissolves the world, and who is both fierce and compassionate.",
+      "sources": [
+        {
+          "text": "devi-mahatmya"
+        }
+      ]
+    },
+    {
+      "tradition": "nyaya",
+      "view": "Later Nyaya thinkers offered arguments that the world, as an effect, requires an intelligent maker, and defended Ishvara by reasoning."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism rejects a creator God; the universe is uncreated, and liberated souls (siddhas) are revered as perfected beings rather than creators.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Sikh thought affirms one God, formless, timeless and beyond birth, who is also immanent in creation and known through the Name and grace.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "7.7",
+    "note": "Everything is strung on the Divine like pearls on a thread."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "9.4",
+      "note": "All beings are in Me, yet I am not in them — God as both immanent and transcendent."
+    },
+    {
+      "kind": "gita",
+      "id": "10.20",
+      "note": "The Divine as the Self in the heart of all beings."
+    },
+    {
+      "kind": "gita",
+      "id": "15.17",
+      "note": "The Supreme Person beyond the perishable and the imperishable."
+    },
+    {
+      "kind": "concept",
+      "id": "ishvara",
+      "note": "How the schools debate a personal God."
+    },
+    {
+      "kind": "concept",
+      "id": "brahman",
+      "note": "The absolute of the Upanishads."
+    }
+  ],
+  "gitaQuestions": [
+    "surrender"
+  ],
+  "related": [
+    "bhakti",
+    "reality",
+    "self"
+  ]
+}

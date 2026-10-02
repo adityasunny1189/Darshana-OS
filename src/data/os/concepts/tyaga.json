@@ -1,0 +1,101 @@
+{
+  "id": "tyaga",
+  "name": {
+    "en": "Tyaga — relinquishment",
+    "sa": "त्याग",
+    "iast": "tyāga"
+  },
+  "short": "Letting go of attachment to action and its fruit, rather than of action itself.",
+  "beginner": "Tyaga means giving something up. In the Gita it mostly means giving up clinging to results and the feeling of 'this is mine', while still doing what needs to be done.",
+  "what": "Tyaga (relinquishment) names the inner giving-up of attachment, ownership and desire for results. The Gita's eighteenth chapter distinguishes it from sannyasa, the outward renunciation of actions, and classifies relinquishment by the three gunas: giving up duty out of confusion, giving it up because it is painful, and doing duty while relinquishing attachment and fruit. Only the last is presented as the relinquishment the text recommends. The idea links karma yoga, bhakti (offering actions to God) and the renunciate ideal.",
+  "scholar": "Gita 18.1–12 frames a debate between those who say action itself should be abandoned (a position associated with some renunciate and Sankhya-leaning views) and those who hold that sacrifice, gift and austerity should not be given up. The classifications tamasa, rajasa and sattvika tyaga (18.7–9) are central. Commentators differ on whether tyaga is a preparatory discipline (Shankara, for whom full renunciation suits the knower) or the fulfilment of the path itself (Ramanuja, and Swami Ramsukhdas, who stresses giving up the sense of 'mine' as immediately available to anyone).",
+  "perspectives": [
+    {
+      "tradition": "advaita",
+      "view": "In Shankara's reading, relinquishing the fruits of action purifies the mind; for the one established in knowledge, the notion of being a doer is itself relinquished, which is the deepest tyaga."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Ramanuja reads tyaga as giving up the sense of agency, ownership and fruit by recognising that the Lord is the true agent and owner, so that action becomes worship."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Devotional traditions treat relinquishment as offering: whatever is done, eaten or given is handed over to God, so that nothing is held as one's own."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jain ethics values tyaga concretely as renunciation of possessions and indulgences, culminating in the vows of the ascetic, as a means of stopping the inflow of karmic matter."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Sikh thought generally prefers inner detachment while living as a householder over outward renunciation of family and work."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "vivekachudamani",
+    "guru-granth-sahib"
+  ],
+  "traditions": [
+    "vedanta",
+    "advaita",
+    "vishishtadvaita",
+    "bhakti",
+    "jainism",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "sannyasa",
+    "phala",
+    "nishkama-karma",
+    "asakti",
+    "vairagya",
+    "sharanagati"
+  ],
+  "questions": [
+    "freedom",
+    "live",
+    "failure"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "18.2",
+      "note": "The Gita separates renouncing actions (sannyasa) from relinquishing their fruit (tyaga)."
+    },
+    {
+      "kind": "gita",
+      "id": "18.9",
+      "note": "Sattvika relinquishment: doing what ought to be done, without attachment or desire for fruit."
+    },
+    {
+      "kind": "gita",
+      "id": "18.11",
+      "note": "No embodied being can give up action entirely, so relinquishing fruit is what makes one a relinquisher."
+    },
+    {
+      "kind": "concept",
+      "id": "sannyasa",
+      "note": "Compare the outward renunciate ideal with this inner relinquishment."
+    },
+    {
+      "kind": "thinker",
+      "id": "ramsukhdas",
+      "note": "Swami Ramsukhdas presents giving up 'mine-ness' as the heart of tyaga for householders."
+    },
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "note": "Contrast with Jain renunciation, where giving up possessions is concrete and graded by vows."
+    }
+  ],
+  "gitaVerses": [
+    "5.12",
+    "6.1",
+    "12.12",
+    "18.2",
+    "18.9",
+    "18.11"
+  ]
+}

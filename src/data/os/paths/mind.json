@@ -1,0 +1,80 @@
+{
+  "id": "mind",
+  "title": "Understanding the mind",
+  "level": "intermediate",
+  "description": "How Indian traditions map the mind and train it, from the Gita's practice and dispassion to Sankhya's model, Patanjali's Yoga, Hatha Yoga's breath and body, and Buddhist meditation. It shows both shared techniques and different views of what lies beyond the mind.",
+  "steps": [
+    {
+      "kind": "gita",
+      "id": "6.34",
+      "title": "The mind is like the wind",
+      "note": "Arjuna voices the universal complaint: the mind is restless and stubborn."
+    },
+    {
+      "kind": "gita",
+      "id": "6.35",
+      "title": "Practice and dispassion",
+      "note": "Krishna's answer names the two supports that Patanjali also uses."
+    },
+    {
+      "kind": "gita",
+      "id": "6.19",
+      "title": "A lamp in a windless place",
+      "note": "The image of a steady, meditative mind."
+    },
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "title": "Sankhya's map",
+      "note": "Mind, intellect and ego belong to nature, not to consciousness."
+    },
+    {
+      "kind": "concept",
+      "id": "buddhi",
+      "title": "Buddhi, manas, ahankara",
+      "note": "The inner instrument in its parts."
+    },
+    {
+      "kind": "tool",
+      "id": "tattvas",
+      "title": "The 25 principles",
+      "note": "See where the mind sits among Sankhya's evolutes."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "title": "Yoga Sutras",
+      "note": "Yoga as stilling the fluctuations of the mind-field."
+    },
+    {
+      "kind": "concept",
+      "id": "chitta",
+      "title": "Chitta and its vrittis",
+      "note": "Five kinds of mental fluctuation and how they are quietened."
+    },
+    {
+      "kind": "concept",
+      "id": "samadhi",
+      "title": "Samadhi",
+      "note": "The stages of absorption described by Patanjali."
+    },
+    {
+      "kind": "text",
+      "id": "hatha-yoga-pradipika",
+      "title": "Hatha Yoga Pradipika",
+      "note": "Body, breath and energy as means of steadying the mind."
+    },
+    {
+      "kind": "concept",
+      "id": "pranayama",
+      "title": "Pranayama",
+      "note": "Breath regulation and its relation to mental steadiness."
+    },
+    {
+      "kind": "tradition",
+      "id": "buddhism",
+      "title": "Buddhist approaches",
+      "note": "Mindfulness and insight that see mental events as impermanent and not-self."
+    }
+  ]
+}

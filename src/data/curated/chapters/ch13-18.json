@@ -1,0 +1,4281 @@
+{
+ "chapters": [
+  {
+   "chapter": 13,
+   "nameSa": "क्षेत्रक्षेत्रज्ञविभागयोग",
+   "nameIast": "Kṣetra-Kṣetrajña-Vibhāga Yoga",
+   "nameEn": "The Yoga of Distinguishing the Field and its Knower",
+   "subtitle": {
+    "en": "The Field and its Knower",
+    "hi": "क्षेत्र और क्षेत्रज्ञ"
+   },
+   "tagline": {
+    "en": "The body is what you see; you are the one who sees it.",
+    "hi": "शरीर दीखनेवाला है; आप उसे देखनेवाले हैं।"
+   },
+   "overview": {
+    "en": "In chapter 12 Krishna said that those who worship the formless also reach Him, but find it harder because they identify with the body. Chapter 13 takes up the formless path in detail and first removes that main obstacle, body-identification. Krishna separates the field (the body: twenty-four elements and their changes) from its knower, lists twenty qualities he calls ‘knowledge’ because they dissolve identification with the body, and describes the Supreme that is to be known. He then explains prakriti and purusha: why the self seems to enjoy pleasure and pain and is born again. The chapter ends here: whoever sees the difference between the field and its knower with the eye of knowledge attains the Supreme.",
+    "hi": "बारहवें अध्यायमें भगवान्ने कहा कि अव्यक्तके उपासक भी मुझे ही प्राप्त होते हैं, पर देहाभिमानके कारण उन्हें कठिनता अधिक होती है। तेरहवें अध्यायमें भगवान् निर्गुण-उपासनाका विस्तारसे वर्णन करते हैं और सबसे पहले उसकी मुख्य बाधा देहाभिमानको दूर करते हैं। वे क्षेत्र (चौबीस तत्त्वों और विकारोंवाला शरीर) और क्षेत्रज्ञको अलग करके बताते हैं, शरीरसे तादात्म्य मिटानेवाले बीस साधनोंको ‘ज्ञान’ कहते हैं और जाननेयोग्य परमात्माका वर्णन करते हैं। फिर प्रकृति-पुरुषका विवेचन करते हैं कि पुरुष सुख-दु:खका भोक्ता क्यों बनता है और बार-बार जन्म क्यों लेता है। अन्तमें बताते हैं कि ज्ञानरूपी नेत्रसे क्षेत्र-क्षेत्रज्ञके विभागको जाननेवाले परमात्माको प्राप्त हो जाते हैं।"
+   },
+   "whyHere": {
+    "en": "Swamiji’s introduction: chapter 12 described worship of the personal form at length and said worship of the unmanifest is harder because of body-pride. So chapter 13 begins the detailed treatment of that worship, and the first thing it does is remove body-pride through the discernment of field and knower.",
+    "hi": "अवतरणिकाके अनुसार बारहवें अध्यायमें सगुण-साकारकी उपासनाका विस्तारसे वर्णन हुआ और बताया गया कि देहाभिमानके कारण अव्यक्तकी उपासनामें कठिनता अधिक है। इसलिये अव्यक्त अक्षरकी उपासनाका वर्णन करने और उसकी मुख्य बाधा देहाभिमानको दूर करनेके लिये भगवान् सबसे पहले क्षेत्र-क्षेत्रज्ञके विवेकका प्रकरण आरम्भ करते हैं।"
+   },
+   "theme": {
+    "en": "Discerning the body from the self",
+    "hi": "शरीर और शरीरीका विवेक"
+   },
+   "keyConcepts": [
+    "sharira",
+    "atma",
+    "prakriti",
+    "purusha",
+    "viveka",
+    "jnana"
+   ],
+   "questions": [
+    {
+     "en": "What is the field, and who is its knower?",
+     "hi": "क्षेत्र क्या है और क्षेत्रज्ञ कौन है?"
+    },
+    {
+     "en": "What is real knowledge, and what is to be known?",
+     "hi": "वास्तविक ज्ञान क्या है और जाननेयोग्य क्या है?"
+    },
+    {
+     "en": "Who experiences pleasure and pain, and why is one born again and again?",
+     "hi": "सुख-दु:खका भोक्ता कौन बनता है और बार-बार जन्म क्यों होता है?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 2,
+     "title": {
+      "en": "The field and its knower",
+      "hi": "क्षेत्र और क्षेत्रज्ञ"
+     },
+     "summary": {
+      "en": "The body is the field, seen as ‘this’; the knower in every field is one with Krishna, and knowing this is true knowledge.",
+      "hi": "शरीर ‘यह’-रूपसे दीखनेवाला क्षेत्र है; सब क्षेत्रोंमें क्षेत्रज्ञ भगवान्से अभिन्न है—यही ज्ञान है।"
+     }
+    },
+    {
+     "from": 3,
+     "to": 6,
+     "title": {
+      "en": "What the field is made of",
+      "hi": "क्षेत्रका स्वरूप और विकार"
+     },
+     "summary": {
+      "en": "Krishna gives the field’s twenty-four elements and its changes such as desire, aversion, pleasure and pain.",
+      "hi": "चौबीस तत्त्वोंवाला क्षेत्र और इच्छा, द्वेष, सुख, दु:ख आदि उसके विकार बताये गये हैं।"
+     }
+    },
+    {
+     "from": 7,
+     "to": 11,
+     "title": {
+      "en": "Twenty means called ‘knowledge’",
+      "hi": "ज्ञानके बीस साधन"
+     },
+     "summary": {
+      "en": "Humility, non-violence, dispassion, devotion to Krishna and the rest: the qualities that remove identification with the body.",
+      "hi": "अमानित्व, अहिंसा, वैराग्य, अनन्य भक्ति आदि बीस साधन, जो शरीरसे तादात्म्य मिटाते हैं, ‘ज्ञान’ कहे गये हैं।"
+     }
+    },
+    {
+     "from": 12,
+     "to": 18,
+     "title": {
+      "en": "That which is to be known",
+      "hi": "ज्ञेय परमात्मा"
+     },
+     "summary": {
+      "en": "The Supreme is described as formless, then as all-pervading with qualities, as the support and as the light of all lights, dwelling in every heart.",
+      "hi": "ज्ञेय तत्त्वका निर्गुण-निराकार, सगुण-निराकार, आधार और प्रकाशकरूपसे वर्णन; वह सबके हृदयमें विराजमान है।"
+     }
+    },
+    {
+     "from": 19,
+     "to": 23,
+     "title": {
+      "en": "Prakriti and purusha",
+      "hi": "प्रकृति और पुरुष"
+     },
+     "summary": {
+      "en": "Prakriti produces all action; the purusha seated in it becomes the enjoyer, and attachment to the gunas causes rebirth. Knowing both as distinct ends rebirth.",
+      "hi": "क्रियाएँ प्रकृतिसे होती हैं; प्रकृतिस्थ पुरुष भोक्ता बनता है और गुणसंग जन्मका कारण है। दोनोंको अलग जाननेसे फिर जन्म नहीं होता।"
+     }
+    },
+    {
+     "from": 24,
+     "to": 28,
+     "title": {
+      "en": "Paths, the cause of birth, and right seeing",
+      "hi": "साधन, जन्मका कारण और सही देखना"
+     },
+     "summary": {
+      "en": "Meditation, Sankhya, karma yoga and hearing from others all lead across death. Beings are born from the union of field and knower; one who sees the imperishable Lord equally in all sees truly.",
+      "hi": "ध्यान, सांख्य, कर्मयोग और सुनकर उपासना—सभी मृत्युसे तारते हैं। क्षेत्र-क्षेत्रज्ञके संयोगसे प्राणी पैदा होते हैं; सबमें अविनाशी परमेश्वरको सम देखनेवाला ही सही देखता है।"
+     }
+    },
+    {
+     "from": 29,
+     "to": 34,
+     "title": {
+      "en": "The self does not act",
+      "hi": "आत्मा अकर्ता और निर्लिप्त"
+     },
+     "summary": {
+      "en": "Prakriti does all actions; the self, beginningless and beyond the gunas, neither acts nor is touched, like space and like the sun. Seeing this distinction, one attains the Supreme.",
+      "hi": "सब क्रियाएँ प्रकृति करती है; अनादि और निर्गुण आत्मा आकाश और सूर्यकी तरह न करता है, न लिप्त होता है। यह विभाग जाननेवाले परमात्माको प्राप्त होते हैं।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "13.1",
+    "13.2",
+    "13.21",
+    "13.27",
+    "13.29"
+   ],
+   "motif": "eye"
+  },
+  {
+   "chapter": 14,
+   "nameSa": "गुणत्रयविभागयोग",
+   "nameIast": "Guṇatraya-Vibhāga Yoga",
+   "nameEn": "The Yoga of the Division of the Three Gunas",
+   "subtitle": {
+    "en": "Beyond the Three Gunas",
+    "hi": "तीनों गुणोंसे परे"
+   },
+   "tagline": {
+    "en": "How sattva, rajas and tamas bind us, and how one goes beyond them.",
+    "hi": "सत्त्व, रज और तम कैसे बाँधते हैं और उनसे अतीत कैसे हुआ जाय।"
+   },
+   "overview": {
+    "en": "Chapter 13 ended by saying that one who sees the field and its knower as distinct attains the Supreme. Now come the questions: what is that knowledge, how great is it, and what is the easy way to it? Bondage comes from prakriti and from its products, the gunas; chapter 13 freed us from the first, and chapter 14 addresses the second. Krishna praises this knowledge, shows prakriti as the mother and Himself as the father of all bodies, and explains how each guna binds, how it overpowers the others, its signs, and where it leads at death. Arjuna then asks the marks, conduct and means of one who is beyond the gunas, and Krishna gives unswerving devotion as the means.",
+    "hi": "तेरहवें अध्यायके अन्तमें कहा गया कि क्षेत्र-क्षेत्रज्ञके भेदको देखनेवाला परमात्माको प्राप्त हो जाता है। अब प्रश्न होता है कि वह ज्ञान क्या है, उसकी महिमा क्या है और उसकी प्राप्तिका सरल उपाय क्या है? बन्धन दोसे होता है—प्रकृतिसे और प्रकृतिके कार्य गुणोंसे। प्रकृतिके बन्धनसे छूटनेके लिये तेरहवाँ अध्याय कहा गया, अब गुणोंके बन्धनसे छूटनेके लिये चौदहवाँ अध्याय आरम्भ होता है। भगवान् ज्ञानकी महिमा, प्रकृतिको माता और अपनेको पिता बताकर तीनों गुणोंका बाँधना, बढ़ना, उनके लक्षण और गतियाँ बताते हैं। फिर अर्जुनके पूछनेपर गुणातीतके लक्षण, आचरण और अव्यभिचारिणी भक्तिको गुणातीत होनेका उपाय बताते हैं।"
+   },
+   "whyHere": {
+    "en": "Swamiji’s introduction: bondage has two sources, prakriti and its products the gunas. Chapter 13 dealt with release from prakriti; chapter 14 now deals with release from the gunas, starting with the glory of this knowledge.",
+    "hi": "अवतरणिकाके अनुसार बन्धन प्रकृति और उसके कार्य गुणोंसे होता है। प्रकृतिके बन्धनसे छूटनेके लिये तेरहवें अध्यायका विषय कहा गया; अब गुणोंके बन्धनसे छूटनेके लिये भगवान् चौदहवाँ अध्याय आरम्भ करते हुए पहले ज्ञानकी महिमा बताते हैं।"
+   },
+   "theme": {
+    "en": "Freedom from the three gunas",
+    "hi": "तीनों गुणोंसे अतीत होना"
+   },
+   "keyConcepts": [
+    "guna",
+    "prakriti",
+    "bhakti",
+    "samatva",
+    "viveka"
+   ],
+   "questions": [
+    {
+     "en": "By what marks is one who has gone beyond the three gunas known?",
+     "hi": "तीनों गुणोंसे अतीत मनुष्य किन लक्षणोंसे युक्त होता है?"
+    },
+    {
+     "en": "How does such a person conduct himself?",
+     "hi": "उसके आचरण कैसे होते हैं?"
+    },
+    {
+     "en": "How can one go beyond these three gunas?",
+     "hi": "इन तीनों गुणोंका अतिक्रमण कैसे किया जा सकता है?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 4,
+     "title": {
+      "en": "The highest knowledge and the origin of beings",
+      "hi": "उत्तम ज्ञान और सृष्टिका क्रम"
+     },
+     "summary": {
+      "en": "Krishna praises the knowledge that freed the sages, and shows prakriti as the womb and Himself as the father who places the seed.",
+      "hi": "मुनियोंको मुक्त करनेवाले ज्ञानकी महिमा; मूल प्रकृति माता है और भगवान् बीज देनेवाले पिता हैं।"
+     }
+    },
+    {
+     "from": 5,
+     "to": 8,
+     "title": {
+      "en": "How the gunas bind",
+      "hi": "गुण कैसे बाँधते हैं"
+     },
+     "summary": {
+      "en": "Sattva binds through attachment to happiness and knowledge, rajas through attachment to action, tamas through heedlessness, laziness and sleep.",
+      "hi": "सत्त्व सुख और ज्ञानकी आसक्तिसे, रज कर्मकी आसक्तिसे और तम प्रमाद, आलस्य और निद्रासे बाँधता है।"
+     }
+    },
+    {
+     "from": 9,
+     "to": 13,
+     "title": {
+      "en": "How each guna prevails and shows itself",
+      "hi": "गुणोंका बढ़ना और लक्षण"
+     },
+     "summary": {
+      "en": "Each guna grows by suppressing the other two; its rise shows as clarity, as greed and restlessness, or as darkness and delusion.",
+      "hi": "एक गुण दोको दबाकर बढ़ता है; बढ़े हुए गुणके लक्षण प्रकाश, लोभ-अशान्ति या अप्रकाश-मोहके रूपमें दीखते हैं।"
+     }
+    },
+    {
+     "from": 14,
+     "to": 18,
+     "title": {
+      "en": "Where the gunas lead",
+      "hi": "गुणोंके अनुसार गति"
+     },
+     "summary": {
+      "en": "The guna prevailing at death, and the guna dominant through life, decide one’s destination: higher worlds, the human world, or lower births.",
+      "hi": "मृत्युके समय बढ़े हुए और जीवनमें प्रधान गुणके अनुसार ऊर्ध्वलोक, मनुष्यलोक या अधोगति होती है।"
+     }
+    },
+    {
+     "from": 19,
+     "to": 20,
+     "title": {
+      "en": "Seeing beyond the gunas",
+      "hi": "गुणोंसे परे अनुभव"
+     },
+     "summary": {
+      "en": "One who sees no doer but the gunas and knows himself beyond them attains Krishna’s being and immortality.",
+      "hi": "गुणोंके सिवाय किसीको कर्ता न देखकर अपनेको गुणोंसे पर जाननेवाला भगवद्भाव और अमरताको प्राप्त होता है।"
+     }
+    },
+    {
+     "from": 21,
+     "to": 25,
+     "title": {
+      "en": "The one beyond the gunas",
+      "hi": "गुणातीतके लक्षण और आचरण"
+     },
+     "summary": {
+      "en": "Arjuna asks three questions. Krishna gives the marks and conduct: no aversion or craving towards the gunas’ workings, and evenness in pleasure and pain, praise and blame, honour and insult.",
+      "hi": "अर्जुनके तीन प्रश्न; गुणातीत गुणोंकी वृत्तियोंसे राग-द्वेष नहीं करता और सुख-दु:ख, निन्दा-स्तुति, मान-अपमानमें सम रहता है।"
+     }
+    },
+    {
+     "from": 26,
+     "to": 27,
+     "title": {
+      "en": "The way: unswerving devotion",
+      "hi": "उपाय: अव्यभिचारिणी भक्ति"
+     },
+     "summary": {
+      "en": "Serving Krishna with unswerving devotion takes one beyond the gunas, because He is the ground of Brahman, immortality, eternal dharma and absolute joy.",
+      "hi": "अव्यभिचारी भक्तियोगसे भगवान्का सेवन करनेवाला गुणातीत हो जाता है; क्योंकि ब्रह्म, अमृत, शाश्वत धर्म और ऐकान्तिक सुखकी प्रतिष्ठा भगवान् ही हैं।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "14.5",
+    "14.19",
+    "14.22",
+    "14.26",
+    "14.27"
+   ],
+   "motif": "wheel"
+  },
+  {
+   "chapter": 15,
+   "nameSa": "पुरुषोत्तमयोग",
+   "nameIast": "Puruṣottama Yoga",
+   "nameEn": "The Yoga of the Supreme Person",
+   "subtitle": {
+    "en": "The Tree and its Root",
+    "hi": "संसार-वृक्ष और उसका मूल"
+   },
+   "tagline": {
+    "en": "The world, the soul and the Supreme, and why the Supreme alone is to be loved.",
+    "hi": "संसार, जीव और परमात्मा—और क्यों केवल परमात्मा ही भजनीय हैं।"
+   },
+   "overview": {
+    "en": "In 14.26 Krishna named unswerving devotion as the way beyond the gunas. In that verse, the words for devotion free of the world’s support, the word ‘who’ (the jiva) and the word ‘Me’ (God) point briefly to three subjects: the world, the jiva and God. Chapter 15 explains all three in detail. The world is an upside-down peepal tree, rooted in God, which is to be cut with the weapon of non-attachment. The jiva is God’s eternal part that takes the mind and senses as its own. God’s glory is seen in the sun, the moon, the earth, digestion and every heart. Finally Krishna names the perishable, the imperishable and the Supreme Person beyond both, and says that whoever knows Him as Purushottama worships Him with his whole being.",
+    "hi": "चौदहवें अध्यायके छब्बीसवें श्लोकमें भगवान्ने अव्यभिचारी भक्तियोगको गुणातीत होनेका उपाय बताया। उस श्लोकमें ‘अव्यभिचारेण भक्तियोगेन’ पदोंसे संसारके आश्रयसे रहित भक्तिका, ‘य:’ पदसे जीवका और ‘माम्’ पदसे परमात्माका सूक्ष्मरूपसे वर्णन हुआ। इन्हीं तीनों—संसार, जीव और परमात्माका विस्तृत विवेचन पन्द्रहवें अध्यायमें है। संसार ऊपर मूलवाला अश्वत्थ-वृक्ष है, जिसे असंगतारूप शस्त्रसे काटना है; जीव भगवान्का सनातन अंश है, जो मन-इन्द्रियोंको अपना मान लेता है; सूर्य, चन्द्र, पृथ्वी, जठराग्नि और सबके हृदयमें भगवान्का ही प्रभाव है। अन्तमें क्षर, अक्षर और पुरुषोत्तमका वर्णन करके भगवान् कहते हैं कि मुझे पुरुषोत्तम जाननेवाला सब प्रकारसे मेरा ही भजन करता है।"
+   },
+   "whyHere": {
+    "en": "Swamiji’s introduction: the jiva is beyond the gunas by nature, but through identification, mineness and desire it has bound itself to the body. Until it knows the glory of the Supreme who is beyond the gunas, it cannot be fully free of them. So, to bring about unswerving devotion, Krishna reveals His most secret glory in this chapter.",
+    "hi": "अवतरणिकाके अनुसार जीव स्वरूपत: गुणातीत होनेपर भी गुणोंके कार्य शरीरमें तादात्म्य, ममता और कामना करके बँधा है। जबतक वह गुणोंसे अतीत परमात्माके प्रभावको नहीं जानता, तबतक गुणोंसे सर्वथा मुक्त नहीं हो सकता। इसलिये अव्यभिचारिणी भक्ति प्राप्त करानेके लिये भगवान् अपना अत्यन्त गोपनीय प्रभाव बतानेके लिये यह अध्याय आरम्भ करते हैं।"
+   },
+   "theme": {
+    "en": "Knowing the Supreme Person and loving Him alone",
+    "hi": "पुरुषोत्तमको जानकर उन्हींका भजन"
+   },
+   "keyConcepts": [
+    "purusha",
+    "vairagya",
+    "atma",
+    "ishvara",
+    "bhakti"
+   ],
+   "questions": [
+    {
+     "en": "What is this world really, and how is one freed from it?",
+     "hi": "संसारका वास्तविक स्वरूप क्या है और उससे सम्बन्ध-विच्छेद कैसे हो?"
+    },
+    {
+     "en": "What is the soul, and what mistake keeps it bound?",
+     "hi": "जीव क्या है और उससे कौन-सी भूल हो रही है?"
+    },
+    {
+     "en": "Who is the Supreme Person, beyond the perishable and the imperishable?",
+     "hi": "क्षर और अक्षरसे उत्तम पुरुषोत्तम कौन है?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 5,
+     "title": {
+      "en": "The world-tree and how to cut it",
+      "hi": "संसार-वृक्ष और उसका छेदन"
+     },
+     "summary": {
+      "en": "The world is an inverted peepal tree rooted in God; cut it with firm non-attachment, seek the supreme state, and take refuge in the Primal Person.",
+      "hi": "संसार ऊर्ध्वमूल अश्वत्थ है; उसे दृढ़ असंगशस्त्रसे काटकर परमपदकी खोज करे और आदिपुरुषकी शरण ले।"
+     }
+    },
+    {
+     "from": 6,
+     "to": 11,
+     "title": {
+      "en": "The supreme abode and the jiva",
+      "hi": "परमधाम और जीवात्मा"
+     },
+     "summary": {
+      "en": "Krishna’s abode is lit by no sun; the jiva is His eternal part, which carries mind and senses from body to body. Only those with the eye of knowledge see this.",
+      "hi": "परमधामको सूर्य आदि प्रकाशित नहीं करते; जीव भगवान्का सनातन अंश है, जो मन-इन्द्रियोंको साथ लेकर शरीर बदलता है; ज्ञाननेत्रवाले ही इसे जानते हैं।"
+     }
+    },
+    {
+     "from": 12,
+     "to": 15,
+     "title": {
+      "en": "God’s glory everywhere",
+      "hi": "भगवान्का प्रभाव"
+     },
+     "summary": {
+      "en": "The light of sun, moon and fire, the sustaining earth, the digestive fire and the heart of every being are all Krishna’s glory; He alone is to be known through the Vedas.",
+      "hi": "सूर्य, चन्द्र, अग्निका तेज, पृथ्वीमें धारणशक्ति, जठराग्नि और सबके हृदयमें भगवान् ही हैं; वेदोंसे जाननेयोग्य वे ही हैं।"
+     }
+    },
+    {
+     "from": 16,
+     "to": 18,
+     "title": {
+      "en": "The perishable, the imperishable and the Supreme",
+      "hi": "क्षर, अक्षर और पुरुषोत्तम"
+     },
+     "summary": {
+      "en": "Bodies are perishable, the jiva is imperishable, and beyond both is the Supreme Person; Krishna reveals that He is that Purushottama.",
+      "hi": "शरीर क्षर, जीवात्मा अक्षर और इन दोनोंसे उत्तम पुरुषोत्तम है; भगवान् प्रकट करते हैं कि वह पुरुषोत्तम मैं ही हूँ।"
+     }
+    },
+    {
+     "from": 19,
+     "to": 20,
+     "title": {
+      "en": "Knowing Him, one worships with all one’s being",
+      "hi": "जानकर सर्वभावसे भजन"
+     },
+     "summary": {
+      "en": "One free of delusion who knows Krishna as Purushottama knows all and worships Him in every way; knowing this most secret teaching, one has done all there is to do.",
+      "hi": "मोहरहित होकर पुरुषोत्तमको जाननेवाला सर्ववित् होकर सब प्रकारसे भजन करता है; इस गुह्यतम शास्त्रको जानकर मनुष्य कृतकृत्य हो जाता है।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "15.1",
+    "15.3",
+    "15.7",
+    "15.15",
+    "15.19"
+   ],
+   "motif": "tree"
+  },
+  {
+   "chapter": 16,
+   "nameSa": "दैवासुरसम्पद्विभागयोग",
+   "nameIast": "Daivāsura-Sampad-Vibhāga Yoga",
+   "nameEn": "The Yoga of the Division between the Divine and the Demonic Endowments",
+   "subtitle": {
+    "en": "Two Kinds of Nature",
+    "hi": "दैवी और आसुरी सम्पदा"
+   },
+   "tagline": {
+    "en": "The qualities that free us and the qualities that bind us.",
+    "hi": "मुक्त करनेवाले और बाँधनेवाले भावोंका विभाग।"
+   },
+   "overview": {
+    "en": "Krishna had hinted at the divine and demonic natures in 7.15–16, 9.12–13 and chapters 14–15, but Arjuna’s other questions left no room to explain them. Now, with no question pending, He describes both in full. He first gives the marks of the divine endowment, then of the demonic, says the divine leads to liberation and the demonic to bondage, and reassures Arjuna that he is born with the divine. He then shows how the demonic nature grows in one who turns away from God: good action, feeling and thought are lost, endless desires and daydreams of wealth and power take over, and downfall follows. He names desire, anger and greed as the three gates of hell and ends by making scripture the authority for action.",
+    "hi": "भगवान्ने सातवें अध्यायके पंद्रहवें-सोलहवें, नवें अध्यायके बारहवें-तेरहवें श्लोकों तथा चौदहवें-पंद्रहवें अध्यायोंमें दैवी और आसुरी सम्पत्तिका संकेत किया था, पर अर्जुनके अन्य प्रश्नोंके कारण विस्तारसे कहनेका अवसर नहीं मिला। अब अर्जुनका कोई प्रश्न न रहनेसे भगवान् दोनों सम्पदाओंका विस्तारसे वर्णन करते हैं। पहले दैवी-सम्पत्ति, फिर संक्षेपमें आसुरी-सम्पत्ति और दोनोंका फल—दैवी मुक्तिके लिये, आसुरी बन्धनके लिये—बताकर अर्जुनको आश्वासन देते हैं। फिर भगवान्से विमुख मनुष्यमें आसुरी-सम्पत्ति किस क्रमसे आती है, उसके मनोरथ और दुर्गति बताकर काम, क्रोध, लोभको नरकके तीन दरवाजे कहते हैं और अन्तमें शास्त्रको प्रमाण बताते हैं।"
+   },
+   "whyHere": {
+    "en": "Swamiji’s introduction: from chapter 7 onward the divine and demonic natures kept being mentioned only in brief, because Arjuna’s questions about the vision, the formless and the one beyond the gunas came first. After chapter 15, with no question left, Krishna finally gets the occasion to describe them at length.",
+    "hi": "अवतरणिकाके अनुसार सातवें अध्यायसे दैवी-आसुरी सम्पदाका संकेतमात्र होता रहा, क्योंकि अर्जुनके विश्वरूप, सगुण-निर्गुण और गुणातीत-विषयक प्रश्न बीचमें आ गये। पंद्रहवें अध्यायके बाद अर्जुनका कोई प्रश्न न रहनेसे भगवान्को इनका विस्तारसे वर्णन करनेका अवसर मिला।"
+   },
+   "theme": {
+    "en": "The divine nature frees, the demonic binds",
+    "hi": "दैवी सम्पत्ति मुक्ति देती है, आसुरी बाँधती है"
+   },
+   "keyConcepts": [
+    "dharma",
+    "kama",
+    "krodha",
+    "ahankara",
+    "moksha"
+   ],
+   "questions": [
+    {
+     "en": "What are the marks of the divine and the demonic nature?",
+     "hi": "दैवी और आसुरी सम्पत्तिके लक्षण क्या हैं?"
+    },
+    {
+     "en": "Where does each lead?",
+     "hi": "दोनोंका फल क्या है?"
+    },
+    {
+     "en": "What is the root of the demonic nature, and how is one freed of it?",
+     "hi": "आसुरी सम्पत्तिका मूल क्या है और उससे कैसे छूटें?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 3,
+     "title": {
+      "en": "The divine endowment",
+      "hi": "दैवी सम्पत्ति"
+     },
+     "summary": {
+      "en": "Fearlessness, purity, charity, self-control, truth, compassion, forgiveness, freedom from pride and the rest: the marks of one whose sole aim is God.",
+      "hi": "अभय, अन्त:करणकी शुद्धि, दान, दम, सत्य, दया, क्षमा, अमानिता आदि—एकमात्र परमात्माका उद्देश्य रखनेवालोंके लक्षण।"
+     }
+    },
+    {
+     "from": 4,
+     "to": 6,
+     "title": {
+      "en": "The demonic, the results, and two kinds of beings",
+      "hi": "आसुरी सम्पत्ति, फल और दो सृष्टियाँ"
+     },
+     "summary": {
+      "en": "Hypocrisy, arrogance, anger, harshness and lack of discernment mark the demonic. The divine frees and the demonic binds; Arjuna is born with the divine.",
+      "hi": "दम्भ, दर्प, अभिमान, क्रोध, कठोरता और अविवेक आसुरी लक्षण हैं; दैवी मोक्ष और आसुरी बन्धन देती है; अर्जुन दैवी सम्पत्तिको प्राप्त हैं।"
+     }
+    },
+    {
+     "from": 7,
+     "to": 12,
+     "title": {
+      "en": "How the demonic nature grows",
+      "hi": "आसुरी स्वभावका क्रम"
+     },
+     "summary": {
+      "en": "Not knowing what to do and avoid, such people lose good action, feeling and thought, deny God, and live tied by countless hopes, bent on enjoyment and hoarding.",
+      "hi": "प्रवृत्ति-निवृत्तिको न जाननेसे सत्कर्म, सद्भाव और सद्विचार लुप्त होते हैं; वे ईश्वरको नहीं मानते और आशाकी फाँसियोंमें बँधकर भोग-संग्रहमें लगे रहते हैं।"
+     }
+    },
+    {
+     "from": 13,
+     "to": 16,
+     "title": {
+      "en": "Their daydreams and their fall",
+      "hi": "आसुरी मनोरथ और नरक"
+     },
+     "summary": {
+      "en": "Driven by greed, anger and pride they plan more wealth, more victories and more display, and deluded in this way they fall into hell.",
+      "hi": "लोभ, क्रोध और अभिमानको लेकर वे धन, विजय और बड़प्पनके मनोरथ करते हैं और मोहजालमें फँसकर नरकोंमें गिरते हैं।"
+     }
+    },
+    {
+     "from": 17,
+     "to": 20,
+     "title": {
+      "en": "Hatred of the indweller",
+      "hi": "अन्तर्यामीसे द्वेष और अधोगति"
+     },
+     "summary": {
+      "en": "Proud and arrogant, they hate the God within themselves and others; without reaching Him even in a human birth, they go to demonic births and lower states.",
+      "hi": "अहंकार, दर्प और कामको लेकर वे अपने और दूसरोंके शरीरमें स्थित भगवान्से द्वेष करते हैं; मनुष्य-शरीरमें भी भगवान्को न पाकर अधम गतिमें जाते हैं।"
+     }
+    },
+    {
+     "from": 21,
+     "to": 24,
+     "title": {
+      "en": "The three gates of hell and scripture as guide",
+      "hi": "नरकके तीन द्वार और शास्त्र-प्रमाण"
+     },
+     "summary": {
+      "en": "Give up desire, anger and greed; free of them, one does what is truly good and reaches the supreme goal. Acting on whim brings nothing, so let scripture decide your duty.",
+      "hi": "काम, क्रोध, लोभका त्याग करके अपने कल्याणका आचरण करनेवाला परमगति पाता है; मनमाना आचरण निष्फल है, इसलिये कर्तव्यमें शास्त्र ही प्रमाण है।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "16.1",
+    "16.5",
+    "16.6",
+    "16.21",
+    "16.24"
+   ],
+   "motif": "scales"
+  },
+  {
+   "chapter": 17,
+   "nameSa": "श्रद्धात्रयविभागयोग",
+   "nameIast": "Śraddhātraya-Vibhāga Yoga",
+   "nameEn": "The Yoga of the Threefold Division of Faith",
+   "subtitle": {
+    "en": "Three Kinds of Faith",
+    "hi": "तीन प्रकारकी श्रद्धा"
+   },
+   "tagline": {
+    "en": "Faith shapes the person, and shows in what one worships, eats, offers, endures and gives.",
+    "hi": "जैसी श्रद्धा, वैसा मनुष्य—और वह पूजन, आहार, यज्ञ, तप और दानमें दीखती है।"
+   },
+   "overview": {
+    "en": "At 16.23 Krishna said that those who set aside scripture and act on whim gain neither perfection, happiness nor the supreme goal. Arjuna then asks: many people do not know scripture but still worship with faith according to family and upbringing. What is their state: sattvic, or rajasic and tamasic? Krishna answers that everyone’s faith, born of nature, is of three kinds, and that a person is whatever his faith is. He shows how faith can be recognised in whom one worships, what food one likes, and how one does sacrifice, austerity of body, speech and mind, and charity, each in three kinds. Finally He gives Om Tat Sat, the three names of God, which make good whatever is lacking in acts done for Him, and says that whatever is done without faith is ‘asat’.",
+    "hi": "सोलहवें अध्यायके तेईसवें श्लोकमें भगवान्ने कहा कि शास्त्रविधिको छोड़कर मनमाना आचरण करनेवालेको सिद्धि, सुख और परमगति नहीं मिलती। यह सुनकर अर्जुनके मनमें आया कि बहुत-से लोग शास्त्रविधिको नहीं जानते, पर कुल-परम्परा आदिके अनुसार श्रद्धापूर्वक पूजन करते हैं—उनकी निष्ठा कौन-सी है? भगवान् बताते हैं कि स्वभावजा श्रद्धा तीन प्रकारकी होती है और जो जैसी श्रद्धावाला है, वही उसका स्वरूप है। फिर पूजन, आहार, यज्ञ, तप (शारीरिक, वाचिक, मानसिक) और दानके तीन-तीन भेदोंसे श्रद्धाकी पहचान कराते हैं। अन्तमें ‘ॐ तत् सत्’—परमात्माके तीन नामोंसे कर्मोंकी कमीकी पूर्ति बताकर कहते हैं कि अश्रद्धासे किया हुआ सब ‘असत्’ है।"
+   },
+   "whyHere": {
+    "en": "Swamiji’s introduction: after 16.23, Arjuna reasons that people who do not know scripture yet worship with faith should fall low for leaving scripture but rise for having faith. To learn their actual state, he asks the question with which chapter 17 opens.",
+    "hi": "अवतरणिकाके अनुसार सोलहवें अध्यायके तेईसवें श्लोकको सुनकर अर्जुनको लगा कि शास्त्रविधिको न जाननेवाले श्रद्धालु लोगोंकी शास्त्रविधिके त्यागसे नीची और श्रद्धाके कारण ऊँची स्थिति होनी चाहिये। उनकी वास्तविक स्थिति जाननेके लिये अर्जुन पहले श्लोकमें प्रश्न करते हैं।"
+   },
+   "theme": {
+    "en": "Faith reveals and shapes who we are",
+    "hi": "श्रद्धा ही मनुष्यका स्वरूप है"
+   },
+   "keyConcepts": [
+    "shraddha",
+    "guna",
+    "yajna",
+    "tyaga"
+   ],
+   "questions": [
+    {
+     "en": "Those who set aside scriptural rules but worship with faith: is their standing sattvic, or rajasic and tamasic?",
+     "hi": "जो शास्त्रविधिका त्याग करके श्रद्धापूर्वक पूजन करते हैं, उनकी निष्ठा सात्त्विकी है अथवा राजसी-तामसी?"
+    },
+    {
+     "en": "How can a person’s faith be recognised?",
+     "hi": "मनुष्यकी श्रद्धाकी पहचान कैसे हो?"
+    },
+    {
+     "en": "How are shortfalls in acts done for God made good?",
+     "hi": "परमात्माके लिये किये कर्मोंकी कमीकी पूर्ति कैसे हो?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 6,
+     "title": {
+      "en": "Faith is of three kinds",
+      "hi": "श्रद्धाके तीन भेद"
+     },
+     "summary": {
+      "en": "Arjuna asks about faith without scripture. Faith follows one’s nature, seen in whom one worships; those who torture the body in defiance of scripture are demonic in resolve.",
+      "hi": "अर्जुनका प्रश्न; श्रद्धा अन्त:करणके अनुरूप होती है और पूज्यसे पहचानी जाती है; शास्त्रविरुद्ध घोर तप करनेवाले आसुर निश्चयवाले हैं।"
+     }
+    },
+    {
+     "from": 7,
+     "to": 10,
+     "title": {
+      "en": "Three kinds of food",
+      "hi": "तीन प्रकारका आहार"
+     },
+     "summary": {
+      "en": "One’s liking in food reveals one’s faith: food that nourishes and gladdens, food that is too sharp and burning, and food that is stale and impure.",
+      "hi": "आहारकी रुचिसे निष्ठाकी पहचान: आयु-प्रसन्नता बढ़ानेवाला, अति तीखा-दाहकारक और बासी-अपवित्र आहार।"
+     }
+    },
+    {
+     "from": 11,
+     "to": 13,
+     "title": {
+      "en": "Three kinds of sacrifice",
+      "hi": "तीन प्रकारका यज्ञ"
+     },
+     "summary": {
+      "en": "Sacrifice done as duty without desire for fruit is sattvic; for fruit or show, rajasic; without rules, food, mantras, fees or faith, tamasic.",
+      "hi": "कर्तव्य मानकर निष्काम यज्ञ सात्त्विक, फल या दम्भके लिये राजस और विधि, अन्नदान, मन्त्र, दक्षिणा और श्रद्धासे रहित यज्ञ तामस है।"
+     }
+    },
+    {
+     "from": 14,
+     "to": 19,
+     "title": {
+      "en": "Austerity of body, speech and mind",
+      "hi": "शारीरिक, वाचिक और मानसिक तप"
+     },
+     "summary": {
+      "en": "Reverence, purity and non-violence; truthful, pleasant, beneficial speech and study; a calm and pure mind. Done with faith and no desire it is sattvic; for honour it is rajasic; to hurt, tamasic.",
+      "hi": "पूजन, शुद्धि, अहिंसा; सत्य-प्रिय-हितकारक वचन और स्वाध्याय; मनकी प्रसन्नता और भावशुद्धि। श्रद्धा और निष्कामभावसे सात्त्विक, मान-पूजाके लिये राजस और पीड़ा देनेके लिये तामस तप।"
+     }
+    },
+    {
+     "from": 20,
+     "to": 22,
+     "title": {
+      "en": "Three kinds of charity",
+      "hi": "तीन प्रकारका दान"
+     },
+     "summary": {
+      "en": "Giving as a duty, to the right person at the right place and time, expecting no return, is sattvic; giving grudgingly or for return is rajasic; giving with contempt to the unworthy is tamasic.",
+      "hi": "कर्तव्य मानकर देश-काल-पात्रमें अनुपकारीको दिया दान सात्त्विक, क्लेश या प्रत्युपकारके लिये राजस और अवज्ञापूर्वक कुपात्रको दिया दान तामस है।"
+     }
+    },
+    {
+     "from": 23,
+     "to": 28,
+     "title": {
+      "en": "Om Tat Sat",
+      "hi": "ॐ तत् सत्"
+     },
+     "summary": {
+      "en": "Om, Tat and Sat are God’s three names. Acts begin with Om, are done for Him as Tat, and good acts and those done for Him are called Sat; whatever is done without faith is ‘asat’.",
+      "hi": "ॐ, तत्, सत् परमात्माके तीन नाम हैं; क्रियाएँ ॐसे आरम्भ होती हैं, ‘तत्’ भावसे निष्काम की जाती हैं और परमात्माके लिये किया कर्म ‘सत्’ है; अश्रद्धासे किया सब ‘असत्’ है।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "17.3",
+    "17.15",
+    "17.20",
+    "17.23",
+    "17.28"
+   ],
+   "motif": "flame"
+  },
+  {
+   "chapter": 18,
+   "nameSa": "मोक्षसन्न्यासयोग",
+   "nameIast": "Mokṣa-Sannyāsa Yoga",
+   "nameEn": "The Yoga of Liberation and Renunciation",
+   "subtitle": {
+    "en": "The Final Refuge",
+    "hi": "अन्तिम शरणागति"
+   },
+   "tagline": {
+    "en": "The whole Gita gathered into one call: take refuge in Me alone.",
+    "hi": "सम्पूर्ण गीताका सार—केवल मेरी शरणमें आ जा।"
+   },
+   "overview": {
+    "en": "Since Krishna spoke of the two paths, Sankhya and yoga (2.39, 3.3), Arjuna had wanted to understand each one separately, but found no chance to ask until now. He asks the essence of sannyasa and of tyaga. Krishna gives the views of others and then His own: sacrifice, charity and austerity are never to be given up; there are three kinds of renunciation; in Sankhya, action has five causes, and the self is not the doer. He sets out the three kinds of knowledge, action, doer, intellect, steadfastness and happiness, then the natural duties of the four varnas as worship of God, the path to Brahman and supreme devotion, and finally surrender, which culminates in ‘take refuge in Me alone’. Arjuna declares his delusion gone and Sanjaya concludes.",
+    "hi": "दूसरे अध्यायके उनतालीसवें और तीसरे अध्यायके तीसरे श्लोकमें कही सांख्यनिष्ठा और योगनिष्ठाके तत्त्वको अलग-अलग जाननेकी इच्छा अर्जुनके मनमें थी, पर तीसरेसे सत्रहवें अध्यायतक उसे प्रकट करनेका अवसर नहीं मिला। अब अर्जुन संन्यास और त्यागका तत्त्व पूछते हैं। भगवान् दूसरे विद्वानोंके मत बताकर अपना निश्चय कहते हैं कि यज्ञ, दान, तपका त्याग नहीं करना चाहिये; तीन प्रकारका त्याग, सांख्यमें कर्मोंके पाँच हेतु और आत्माका अकर्तापन बताते हैं। फिर ज्ञान, कर्म, कर्ता, बुद्धि, धृति और सुखके तीन-तीन भेद, चारों वर्णोंके स्वभावज कर्मोंसे भगवान्का पूजन, ब्रह्मप्राप्ति और पराभक्ति, और अन्तमें शरणागति—‘मामेकं शरणं व्रज’—का वर्णन है। अर्जुन मोह नष्ट होनेकी घोषणा करते हैं और संजय उपसंहार करते हैं।"
+   },
+   "whyHere": {
+    "en": "Swamiji’s introduction: just as Krishna found no occasion until chapter 16 to describe the divine and demonic natures, Arjuna found none from chapter 3 to 17 to ask about the two paths. After chapter 17 he finally asks. The chapter is named ‘Moksha-Sannyasa’ because its main subject is devotion to God, in which even liberation is renounced.",
+    "hi": "अवतरणिकाके अनुसार जैसे भगवान्को सोलहवें अध्यायसे पहले दैवी-आसुरी सम्पत्ति कहनेका अवसर नहीं मिला, वैसे ही अर्जुनको तीसरेसे सत्रहवें अध्यायतक दोनों निष्ठाओंके विषयमें जिज्ञासा प्रकट करनेका अवसर नहीं मिला; अब वे पूछते हैं। जिसमें मोक्षका भी संन्यास (त्याग) हो जाता है, ऐसी भगवद्भक्तिका वर्णन मुख्य होनेसे इस अध्यायका नाम ‘मोक्षसंन्यासयोग’ है।"
+   },
+   "theme": {
+    "en": "Renunciation, one’s own duty and complete surrender",
+    "hi": "त्याग, स्वधर्म और सर्वथा शरणागति"
+   },
+   "keyConcepts": [
+    "tyaga",
+    "sannyasa",
+    "svadharma",
+    "sharanagati",
+    "bhakti",
+    "guna"
+   ],
+   "questions": [
+    {
+     "en": "What is the essential truth of sannyasa and of tyaga, each separately?",
+     "hi": "संन्यास और त्यागका तत्त्व अलग-अलग क्या है?"
+    },
+    {
+     "en": "How can one’s natural work itself become worship of God?",
+     "hi": "अपने स्वभावज कर्मसे भगवान्का पूजन कैसे हो?"
+    },
+    {
+     "en": "What is the most secret essence of the whole teaching?",
+     "hi": "पूरे उपदेशका सबसे गोपनीय सार क्या है?"
+    },
+    {
+     "en": "Has your delusion born of ignorance been destroyed?",
+     "hi": "क्या तुम्हारा अज्ञानसे उत्पन्न मोह नष्ट हुआ?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 12,
+     "title": {
+      "en": "Arjuna’s question and true renunciation",
+      "hi": "अर्जुनका प्रश्न और त्यागका निर्णय"
+     },
+     "summary": {
+      "en": "After four views of others, Krishna says sacrifice, charity and austerity must be done without attachment or desire for fruit; renunciation is tamasic, rajasic or sattvic, and the true renouncer gives up the fruit of action.",
+      "hi": "चार मतोंके बाद भगवान्का निश्चय: यज्ञ, दान, तपको आसक्ति और फलेच्छा छोड़कर करना चाहिये; त्याग तामस, राजस और सात्त्विक होता है; कर्मफलका त्यागी ही त्यागी है।"
+     }
+    },
+    {
+     "from": 13,
+     "to": 18,
+     "title": {
+      "en": "Five causes of action; the self is not the doer",
+      "hi": "कर्मके पाँच हेतु और अकर्तापन"
+     },
+     "summary": {
+      "en": "In Sankhya every action has five causes; one who sees the pure self as doer sees wrongly, while one free of the sense of doership is not bound even in battle.",
+      "hi": "सांख्यसिद्धान्तमें कर्मके पाँच हेतु; शुद्ध आत्माको कर्ता देखनेवाला ठीक नहीं देखता; अहंकृतभावसे रहित मनुष्य युद्धमें भी नहीं बँधता।"
+     }
+    },
+    {
+     "from": 19,
+     "to": 40,
+     "title": {
+      "en": "Everything in three kinds",
+      "hi": "गुणोंके अनुसार तीन-तीन भेद"
+     },
+     "summary": {
+      "en": "Knowledge, action, doer, intellect, steadfastness and happiness are each sattvic, rajasic or tamasic, and nothing anywhere is free of the three gunas.",
+      "hi": "ज्ञान, कर्म, कर्ता, बुद्धि, धृति और सुख—सबके सात्त्विक, राजस और तामस भेद; त्रिलोकीमें कोई वस्तु तीनों गुणोंसे रहित नहीं।"
+     }
+    },
+    {
+     "from": 41,
+     "to": 48,
+     "title": {
+      "en": "Natural duty as worship",
+      "hi": "स्वभावज कर्मसे पूजन"
+     },
+     "summary": {
+      "en": "The duties of the four varnas arise from nature. Worshipping God through one’s own work brings perfection; one’s own dharma, even imperfect, is better than another’s, and should not be given up because it has faults.",
+      "hi": "चारों वर्णोंके स्वभावज कर्म; अपने कर्मसे परमात्माका पूजन करके मनुष्य सिद्धि पाता है; गुणरहित स्वधर्म भी श्रेष्ठ है और दोषयुक्त होनेपर भी सहज कर्म नहीं छोड़ना चाहिये।"
+     }
+    },
+    {
+     "from": 49,
+     "to": 55,
+     "title": {
+      "en": "The way of knowledge to Brahman",
+      "hi": "सांख्ययोग और पराभक्ति"
+     },
+     "summary": {
+      "en": "Unattached and self-controlled, with pure intellect, dispassion and solitude, the seeker becomes one with Brahman, grieves and craves nothing, and gains supreme devotion to Krishna.",
+      "hi": "आसक्तिरहित, विशुद्ध बुद्धि, वैराग्य और एकान्तसेवी साधक ब्रह्मरूप होकर शोक-आकांक्षासे रहित होता है और पराभक्तिसे भगवान्को तत्त्वसे जानता है।"
+     }
+    },
+    {
+     "from": 56,
+     "to": 66,
+     "title": {
+      "en": "Surrender",
+      "hi": "शरणागति"
+     },
+     "summary": {
+      "en": "By Krishna’s grace His devotee reaches the eternal state. Offer all to Him; nature will make you act anyway; take refuge in the Lord within, then in Krishna alone, who promises freedom from all sins.",
+      "hi": "भगवान्का आश्रय लेनेवाला उनकी कृपासे शाश्वत पद पाता है; सब कर्म उन्हें अर्पण करो; प्रकृति तुम्हें कर्ममें लगा देगी; अन्तर्यामीकी और अन्तमें केवल भगवान्की शरणमें जाओ—वे सब पापोंसे मुक्त कर देंगे।"
+     }
+    },
+    {
+     "from": 67,
+     "to": 73,
+     "title": {
+      "en": "The glory of the Gita, and Arjuna’s answer",
+      "hi": "गीताकी महिमा और अर्जुनका उत्तर"
+     },
+     "summary": {
+      "en": "Who should hear this; the one who shares, studies or even hears it with faith is dear to Krishna. Asked whether his delusion is gone, Arjuna says it is, and that he will do as Krishna says.",
+      "hi": "गीताके अधिकारी; इसका प्रचार, अध्ययन और श्रद्धासे श्रवण करनेवाला भगवान्को प्रिय है। भगवान्के पूछनेपर अर्जुन कहते हैं कि मोह नष्ट हो गया, अब आपकी आज्ञाका पालन करूँगा।"
+     }
+    },
+    {
+     "from": 74,
+     "to": 78,
+     "title": {
+      "en": "Sanjaya’s conclusion",
+      "hi": "संजयका उपसंहार"
+     },
+     "summary": {
+      "en": "Sanjaya, thrilled by the dialogue he heard through Vyasa’s grace, answers Dhritarashtra: where Krishna and Arjuna are, there are fortune, victory, prosperity and steady righteousness.",
+      "hi": "व्यासजीकी कृपासे संवाद सुनकर हर्षित संजय धृतराष्ट्रको उत्तर देते हैं कि जहाँ योगेश्वर कृष्ण और धनुर्धर अर्जुन हैं, वहीं श्री, विजय, विभूति और अचल नीति है।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "18.46",
+    "18.47",
+    "18.61",
+    "18.62",
+    "18.65",
+    "18.66"
+   ],
+   "motif": "crown"
+  }
+ ],
+ "verses": [
+  {
+   "id": "13.1",
+   "headline": {
+    "en": "This body is the field, and you are its knower",
+    "hi": "यह शरीर क्षेत्र है, इसे जाननेवाला क्षेत्रज्ञ"
+   },
+   "essence": {
+    "en": "The body is ‘this’, something seen and always changing; the one who knows it is its knower, not the body itself.",
+    "hi": "शरीर ‘यह’ है—दीखनेवाला और बदलनेवाला; इसे जाननेवाला क्षेत्रज्ञ है, शरीर नहीं।"
+   },
+   "idea": {
+    "en": "We call animals, birds and trees ‘this’, yet call our own body sometimes ‘I’ and sometimes ‘mine’. Swamiji says the gross, subtle and causal bodies are all really ‘this’: things known by us. The body is called kshetra because it perishes and changes every moment, and also because, like a field, it yields whatever is sown: actions done here with ‘I’ and ‘mine’ bring further bodies and circumstances. So Krishna asks us to see the body as ‘this’, separate from us, which it already is. The knower is called kshetrajna only because of its link with the field; without that link it is the Supreme itself (13.31).",
+    "hi": "मनुष्य पशु, पक्षी, वृक्ष आदिको ‘यह’ कहता है, पर अपने शरीरको कभी ‘मैं’ और कभी ‘मेरा’ कहता है। स्वामीजी कहते हैं कि स्थूल, सूक्ष्म और कारण—तीनों शरीर वास्तवमें ‘इदम्’ (यह) ही हैं। शरीर प्रतिक्षण नष्ट होता और बदलता है, इसलिये ‘क्षेत्र’ है; और खेतकी तरह इसमें जैसे कर्म बोये जाते हैं, वैसे ही दूसरे शरीर और परिस्थितियाँ मिलती हैं। इसलिये भगवान् शरीरको अपनेसे भिन्न ‘यह’-रूपसे देखनेको कहते हैं, जो वास्तवमें भिन्न है ही। क्षेत्रके सम्बन्धसे ही जीवात्मा ‘क्षेत्रज्ञ’ कहलाता है; सम्बन्ध न रहे तो वह परमात्मस्वरूप ही है (१३। ३१)।"
+   },
+   "points": [
+    {
+     "en": "Where the knot was tied, there it is untied: bondage comes through the human body, and release also comes through it.",
+     "hi": "जहाँसे बन्धन होता है, वहींसे छुटकारा होता है—मनुष्यशरीरसे ही बन्धन और उसीसे मुक्ति।"
+    },
+    {
+     "en": "Scenes change but the eye stays; the mind notices the eye’s changes, the intellect the mind’s, and the self the intellect’s. The self is never an object.",
+     "hi": "दृश्य बदलता है, नेत्र वही रहते हैं; नेत्रोंका परिवर्तन मन, मनका बुद्धि और बुद्धिका परिवर्तन स्वयं जानता है; स्वयं कभी दृश्य नहीं होता।"
+    },
+    {
+     "en": "Feeling big because ‘I am rich’ or ‘I am learned’ lowers you: it makes the wealth or learning great, not you.",
+     "hi": "‘मैं धनी हूँ, विद्वान् हूँ’—ऐसा माननेसे धन, विद्या ही बड़े हुए; अपनी महत्ता घटती है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The body as a field",
+      "hi": "शरीररूपी खेत"
+     },
+     "text": {
+      "en": "As a farmer sows different seeds and reaps the same kind of grain, the jiva, acting with ‘I’ and ‘mine’ in this body, sows actions whose impressions later bear fruit as new bodies and circumstances.",
+      "hi": "जैसे खेतमें जैसा बीज बोया जाता है, वैसा अनाज होता है, वैसे ही अहंता-ममतासे किये कर्मोंके अनुसार दूसरे शरीर और परिस्थितियाँ मिलती हैं।"
+     },
+     "quote": {
+      "hi": "जैसे खेतमें तरह-तरहके बीज डालकर खेती की जाती है, ऐसे ही इस मनुष्य-शरीरमें अहंता-ममता करके जीव तरह-तरहके कर्म करता है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The title ‘wealthy’",
+      "hi": "‘धनवान्’ संज्ञा"
+     },
+     "text": {
+      "en": "A man is called ‘wealthy’ because of his link with money; take the money away and the man remains, but the title goes. In the same way the self is called ‘knower of the field’ only because of its link with the field.",
+      "hi": "धनके सम्बन्धसे मनुष्य ‘धनवान्’ कहलाता है; धन न रहे तो व्यक्ति रहता है, संज्ञा नहीं। ऐसे ही क्षेत्रके सम्बन्धसे ही स्वयं ‘क्षेत्रज्ञ’ कहलाता है।"
+     },
+     "quote": {
+      "hi": "जैसे धनके सम्बन्धसे मनुष्य ‘धनवान्’ कहलाता है; किन्तु धनका सम्बन्ध न रहनेपर धनवान् (व्यक्ति) तो रहता है, पर उसकी ‘धनवान्’ संज्ञा नहीं रहती।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "identity",
+     "text": {
+      "en": "Your follower count, your grades, your job title and your face in the mirror are all ‘this’: things you see and track. Seeing them as ‘this’ rather than as ‘me’ is the first step this verse points to.",
+      "hi": "फॉलोअर्सकी गिनती, अंक, पद और आईनेमें चेहरा—सब ‘यह’ हैं, जिन्हें आप देखते हैं। इन्हें ‘मैं’ न मानकर ‘यह’ देखना ही इस श्लोककी पहली सीख है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Swamiji says seeing the body as ‘this’ is essential for every human being, not only for seekers, because only in a human body do we have the right and the chance to be free. That is why the Gita’s teaching opens with the distinction between body and embodied (2.11 onward).",
+    "hi": "शरीरको इदंतासे देखना मनुष्यमात्रके लिये आवश्यक है, क्योंकि उद्धारका अधिकार और अवसर मनुष्यशरीरमें ही है; इसीलिये गीताका उपदेश शरीर-शरीरीकी पृथक्तासे आरम्भ होता है।"
+   },
+   "terms": [
+    {
+     "sa": "इदम्",
+     "meaning": {
+      "en": "this (what is referred to as ‘this’)",
+      "hi": "‘यह’-रूपसे कहे जानेवाले"
+     }
+    },
+    {
+     "sa": "शरीरम्",
+     "meaning": {
+      "en": "the body",
+      "hi": "शरीरको"
+     }
+    },
+    {
+     "sa": "क्षेत्रम्",
+     "meaning": {
+      "en": "the field",
+      "hi": "‘क्षेत्र’"
+     }
+    },
+    {
+     "sa": "क्षेत्रज्ञ:",
+     "meaning": {
+      "en": "the knower of the field",
+      "hi": "क्षेत्रको जाननेवाला"
+     }
+    },
+    {
+     "sa": "तद्विद:",
+     "meaning": {
+      "en": "those who know the truth",
+      "hi": "ज्ञानीलोग"
+     }
+    }
+   ],
+   "concepts": [
+    "sharira",
+    "atma",
+    "viveka",
+    "ahankara"
+   ],
+   "related": [
+    "13.31",
+    "13.21",
+    "2.16",
+    "2.17"
+   ]
+  },
+  {
+   "id": "13.2",
+   "headline": {
+    "en": "Know Me as the knower in every field",
+    "hi": "सब क्षेत्रोंमें क्षेत्रज्ञ मुझे समझ"
+   },
+   "essence": {
+    "en": "The knower in every body is one with Me; seeing the body as one with the world, and the knower with Me, is knowledge.",
+    "hi": "सब शरीरोंमें क्षेत्रज्ञ मुझसे अभिन्न है; क्षेत्रकी संसारसे और क्षेत्रज्ञकी मुझसे एकता जानना ही ज्ञान है।"
+   },
+   "idea": {
+    "en": "In ‘I am’, the ‘I’ belongs to the field and the ‘am’ is the knower. Without the link to ‘I’, the ‘am’ would simply be ‘is’, so the knower is really one with God. Krishna says ‘know’ (viddhi): just as you took yourself to be in the body and the body to be yours, take yourself to be in Me and Me to be yours. The body is naturally one with the world and the self is naturally one with God; taking the body as separate from the world and oneself as separate from God are both false assumptions. Knowledge of arts, languages and worlds is useful in daily life but keeps one entangled; real knowledge is what ends the self’s tie with the body.",
+    "hi": "‘मैं हूँ’ में ‘मैं’ क्षेत्र है और ‘हूँ’ क्षेत्रज्ञ। ‘मैं’ का सम्बन्ध न रहे तो ‘हूँ’ नहीं, ‘है’ रहेगा; अत: क्षेत्रज्ञकी परमात्मासे एकता है। ‘विद्धि’ का तात्पर्य है कि जैसे तू अपनेको शरीरमें और शरीरको अपना मानता है, वैसे ही अपनेको मेरेमें और मुझे अपना मान। शरीरकी संसारसे और स्वयंकी परमात्मासे स्वाभाविक एकता है; शरीरको संसारसे और अपनेको परमात्मासे अलग मानना—दोनों गलत मान्यताएँ हैं। अनेक विद्याओं, भाषाओं, कलाओंका ज्ञान व्यवहारमें काम आता है, पर संसारमें फँसानेवाला है; वास्तविक ज्ञान वही है, जिससे शरीरसे सम्बन्ध-विच्छेद हो जाय।"
+   },
+   "points": [
+    {
+     "en": "The farthest thing from us is the body; the nearest is God.",
+     "hi": "हमारेसे दूर-से-दूर शरीर है और नजदीक-से-नजदीक परमात्मा।"
+    },
+    {
+     "en": "The world is known by being separate from it, free of attachment; God is known by being one with Him.",
+     "hi": "संसारका ज्ञान उससे भिन्नताका अनुभव करनेसे और परमात्माका ज्ञान उनसे अभिन्न होनेसे होता है।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "The field (body)",
+      "hi": "क्षेत्र (शरीर)"
+     },
+     "items": [
+      {
+       "en": "One with the whole world",
+       "hi": "सम्पूर्ण संसारसे एक"
+      },
+      {
+       "en": "A portion of prakriti: turn away from it",
+       "hi": "प्रकृतिका अंश—इससे विमुख हो जाओ"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "The knower (self)",
+      "hi": "क्षेत्रज्ञ (स्वयं)"
+     },
+     "items": [
+      {
+       "en": "One with Krishna",
+       "hi": "भगवान्से एक"
+      },
+      {
+       "en": "His portion: turn towards Him",
+       "hi": "भगवान्का अंश—उनके सम्मुख हो जाओ"
+      }
+     ]
+    }
+   },
+   "examples": [],
+   "modern": [
+    {
+     "context": "career",
+     "text": {
+      "en": "A degree, a coding stack and three languages are all useful for work. By this verse they are still knowledge about the field. The knowledge Krishna calls his own view is the one that ends your identification with the body.",
+      "hi": "डिग्री, तकनीकी कौशल, कई भाषाएँ—व्यवहारमें उपयोगी हैं, पर भगवान्के मतमें ज्ञान वह है जो शरीरसे माना हुआ सम्बन्ध छुड़ा दे।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "The verse turns identity around: the self we took to be one with the body is in truth one with God. The rest of the Gita’s path of knowledge rests on this.",
+    "hi": "जिस स्वयंको हमने शरीरसे एक मान रखा है, वह वास्तवमें परमात्मासे एक है—ज्ञानमार्गका आधार यही है।"
+   },
+   "terms": [
+    {
+     "sa": "क्षेत्रज्ञम्",
+     "meaning": {
+      "en": "the knower of the field",
+      "hi": "क्षेत्रज्ञ"
+     }
+    },
+    {
+     "sa": "सर्वक्षेत्रेषु",
+     "meaning": {
+      "en": "in all fields (bodies)",
+      "hi": "सम्पूर्ण क्षेत्रोंमें"
+     }
+    },
+    {
+     "sa": "माम्",
+     "meaning": {
+      "en": "Me",
+      "hi": "मुझे"
+     }
+    },
+    {
+     "sa": "विद्धि",
+     "meaning": {
+      "en": "know, understand",
+      "hi": "समझ"
+     }
+    },
+    {
+     "sa": "मतम् मम",
+     "meaning": {
+      "en": "in My view",
+      "hi": "मेरे मतमें"
+     }
+    }
+   ],
+   "concepts": [
+    "atma",
+    "ishvara",
+    "jnana",
+    "sharira"
+   ],
+   "related": [
+    "2.17",
+    "9.4",
+    "13.34",
+    "15.7"
+   ]
+  },
+  {
+   "id": "13.21",
+   "headline": {
+    "en": "Attachment to the gunas drives rebirth",
+    "hi": "गुणोंका संग ही जन्मका कारण"
+   },
+   "essence": {
+    "en": "Only the self identified with the body becomes the enjoyer of the gunas, and attachment to them causes birth in higher and lower wombs.",
+    "hi": "प्रकृतिस्थ पुरुष ही गुणोंका भोक्ता बनता है और गुणोंका संग ही ऊँच-नीच योनियोंमें जन्मका कारण है।"
+   },
+   "idea": {
+    "en": "The self is not really seated in prakriti. It is called ‘seated in prakriti’ only when it identifies with the body as ‘I’ and ‘mine’. Such a self takes favourable and unfavourable situations as pleasure and pain, and becomes happy or sad; this is what enjoying the gunas means. Relating to things, people and actions is ‘attachment to the gunas’, and it is the cause of birth and death. If the self does not take the body as its own and stays in itself, it never becomes the enjoyer of pleasure and pain but stays even in both. Bondage is unnatural to it; freedom is its nature.",
+    "hi": "वास्तवमें पुरुष प्रकृतिमें स्थित है ही नहीं; शरीरको ‘मैं’ और ‘मेरा’ माननेसे वह प्रकृतिस्थ कहलाता है। ऐसा पुरुष अनुकूल-प्रतिकूल परिस्थितिको सुखदायी-दु:खदायी मानकर सुखी-दु:खी होता है—यही गुणोंका भोक्ता बनना है। वस्तु, व्यक्ति और क्रियाके साथ सम्बन्ध ही ‘गुणसंग’ है, जो जन्म-मरणका कारण है। अगर वह शरीरमें अहंता-ममता न करे और अपने स्वरूपमें स्थित रहे, तो सुख-दु:खका भोक्ता नहीं बनता, सम हो जाता है। बन्धन इसका अस्वाभाविक है और मुक्त होना स्वाभाविक।"
+   },
+   "points": [
+    {
+     "en": "Everyone knows that pleasures and pains come and go while they themselves remain; attachment to pleasure and fear of pain keep this discernment from working.",
+     "hi": "सुख-दु:खके आने-जाने और स्वयंके रहनेका अनुभव सबको है, पर सुखकी आसक्ति और दु:खके भयसे यह विवेक काम नहीं करता।"
+    },
+    {
+     "en": "The ‘I’ is inert and the ‘am’ is conscious; doership and enjoyership live only in the knot ‘I am’. Swamiji’s advice: take your stand on ‘is’, not ‘am’.",
+     "hi": "‘मैं’ जड़ है, ‘हूँ’ चेतन; ‘मैं हूँ’ में ही कर्तापन-भोक्तापन है। साधक ‘हूँ’ को न मानकर ‘है’ का अनुभव करे।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The car and the driver",
+      "hi": "मोटर और चालक"
+     },
+     "text": {
+      "en": "In a road accident both the car and the driver are involved. The car did the moving, but the penalty falls on the driver who is connected to it. In the same way the body does the acting, but the self that has linked itself to the body reaps pleasure and pain.",
+      "hi": "दुर्घटनामें क्रिया मोटरकी होती है, पर दण्ड मोटरसे सम्बन्ध जोड़नेवाले चालकको मिलता है; ऐसे ही क्रिया शरीर करता है, फल शरीरसे सम्बन्ध जोड़नेवाला पुरुष भोगता है।"
+     },
+     "quote": {
+      "hi": "जैसे मोटर-दुर्घटनामें मोटर और चालक—दोनोंका हाथ रहता है। क्रियाके होनेमें तो केवल मोटरकी ही प्रधानता रहती है, पर दुर्घटनाका फल (दण्ड) मोटरसे अपना सम्बन्ध जोड़नेवाले चालक-(कर्ता-) को ही भोगना पड़ता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "exams",
+     "text": {
+      "en": "Two students get the same low grade. One is crushed and the other shrugs. The grade came from outside; the suffering came from how tightly each one tied ‘I’ to the result.",
+      "hi": "दो विद्यार्थियोंके एक-से कम अंक आये—एक टूट गया, दूसरा सहज रहा। अंक बाहरसे आये, दु:ख अपनी मान्यतासे।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It puts the cause of suffering and rebirth where we can do something about it: in our assumed relation with the body and the gunas, not in the gunas themselves.",
+    "hi": "दु:ख और जन्मका कारण गुणोंमें नहीं, गुणोंसे माने हुए सम्बन्धमें है—और उसे छोड़ना हमारे हाथमें है।"
+   },
+   "terms": [
+    {
+     "sa": "प्रकृतिस्थ:",
+     "meaning": {
+      "en": "seated in prakriti (identified with the body)",
+      "hi": "प्रकृतिमें स्थित"
+     }
+    },
+    {
+     "sa": "पुरुष:",
+     "meaning": {
+      "en": "the self (jiva)",
+      "hi": "पुरुष (जीव)"
+     }
+    },
+    {
+     "sa": "भुङ्क्ते",
+     "meaning": {
+      "en": "becomes the enjoyer",
+      "hi": "भोक्ता बनता है"
+     }
+    },
+    {
+     "sa": "गुणसङ्ग:",
+     "meaning": {
+      "en": "attachment to the gunas",
+      "hi": "गुणोंका संग"
+     }
+    },
+    {
+     "sa": "सदसद्योनिजन्मसु",
+     "meaning": {
+      "en": "in births in higher and lower wombs",
+      "hi": "ऊँच-नीच योनियोंमें जन्म लेनेमें"
+     }
+    }
+   ],
+   "concepts": [
+    "purusha",
+    "prakriti",
+    "guna",
+    "asakti"
+   ],
+   "related": [
+    "13.29",
+    "14.24",
+    "14.5",
+    "14.18"
+   ]
+  },
+  {
+   "id": "13.27",
+   "headline": {
+    "en": "One who sees the imperishable Lord in all that perishes truly sees",
+    "hi": "नष्ट होनेवालोंमें अविनाशी परमेश्वरको देखनेवाला ही देखता है"
+   },
+   "essence": {
+    "en": "Among beings that are always perishing, one who sees the Supreme Lord present in all of them, equally and imperishably, alone sees rightly.",
+    "hi": "नष्ट होते हुए सब प्राणियोंमें परमेश्वरको नाशरहित और समरूपसे स्थित देखनेवाला ही सही देखता है।"
+   },
+   "idea": {
+    "en": "Beings differ in every way: moving and unmoving, sattvic, rajasic and tamasic, large and small. Yet God is present in all of them equally, not more in one and less in another. Every being passes through birth, life and dissolution and is never still for a moment, while God remains the same throughout. Seeing oneself along with the changing body is not right seeing; seeing oneself as one with the God who never changes is. Swamiji links this to 13.26: the field never stays still and the knower never changes, so recognise that you are always separating from the field, and experience your unity with Him.",
+    "hi": "प्राणी स्थावर-जंगम, सात्त्विक-राजस-तामस, छोटे-बड़े—सब विषम हैं, पर परमात्मा सबमें समरूपसे स्थित हैं, किसीमें कम-ज्यादा नहीं। सभी प्राणी उत्पत्ति, स्थिति, प्रलयमें जाते हैं, एक क्षण भी स्थिर नहीं रहते; परमात्मा नित्य-निरन्तर एकरूप रहते हैं। परिवर्तनशील शरीरके साथ अपनेको देखना सही नहीं; सदा ज्यों-के-त्यों परमात्माके साथ अपनेको अभिन्न देखना ही सही है। क्षेत्र हरदम बदलता है, क्षेत्रज्ञ नहीं बदलता; अत: क्षेत्रसे निरन्तर हो रहे वियोगका और परमात्मासे एकताका अनुभव करना चाहिये।"
+   },
+   "points": [
+    {
+     "en": "Changelessness is natural; change and attachment are artificial and only assumed.",
+     "hi": "निर्विकारता स्वाभाविक है, विकार (संग) कृत्रिम और माना हुआ है।"
+    },
+    {
+     "en": "Bound or free, sinner or righteous, this changeless reality is present equally in all.",
+     "hi": "बद्ध हो या मुक्त, पापी हो या धर्मात्मा—निर्विकार सत्ता सबमें समान है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The sky and the weather",
+      "hi": "आकाश और मौसम"
+     },
+     "text": {
+      "en": "Sunlight, darkness, smoke, black clouds, lightning, rain and hail all pass through the sky, but the sky is unaffected. In the same way creation and dissolution, birth and death, floods and wars pass through the all-pervading reality, which stays untouched.",
+      "hi": "आकाशमें प्रकाश, अँधेरा, बादल, बिजली, वर्षा आते-जाते हैं, पर आकाशमें फर्क नहीं पड़ता; ऐसे ही सत्तामें सर्ग-प्रलय, जन्म-मृत्यु होते रहते हैं, सत्ता निर्विकार रहती है।"
+     },
+     "quote": {
+      "hi": "जैसे आकाशमें कभी सूर्यका प्रकाश फैल जाता है, कभी अँधेरा छा जाता है, कभी धुआँ छा जाता है, कभी काले-काले बादल छा जाते हैं, कभी बिजली चमकती है, कभी वर्षा होती है, कभी ओले गिरते हैं, कभी तरह-तरहके शब्द होते हैं, गर्जना होती है; परन्तु आकाशमें कोई फर्क नहीं पड़ता।"
+     },
+     "from": "appendix"
+    },
+    {
+     "title": {
+      "en": "The Ganga and its bedrock",
+      "hi": "गंगाजी और आधारशिला"
+     },
+     "text": {
+      "en": "The Ganga flows on constantly, clear or muddy, low or in flood, carrying flowers, rubbish or corpses, but the rock beneath stays as it is. Places, times, people and events keep flowing past, while the self stays unmoved.",
+      "hi": "गंगाजीका जल कभी स्वच्छ, कभी मटमैला, कभी बाढ़वाला होता है, पर आधारशिला ज्यों-की-त्यों रहती है; ऐसे ही देश, काल, घटनाएँ बहती रहती हैं, स्वयं अचल रहता है।"
+     },
+     "quote": {
+      "hi": "जैसे, गंगाजी निरन्तर बहती रहती हैं, पर जिसके ऊपर बहती हैं, वह आधारशिला ज्यों-की-त्यों स्थिर रहती है।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "whyItMatters": {
+    "en": "Swamiji shows this as one of two ways out of the tie between field and knower: recognising your natural relation with God, who never changes in anything that changes.",
+    "hi": "क्षेत्र-क्षेत्रज्ञके संयोगसे छूटनेका एक उपाय यही है—परिवर्तनशीलमें अपरिवर्तनशील परमात्मासे अपने स्वत:सिद्ध सम्बन्धको पहचानना।"
+   },
+   "terms": [
+    {
+     "sa": "विनश्यत्सु",
+     "meaning": {
+      "en": "among the perishing",
+      "hi": "नष्ट होते हुए"
+     }
+    },
+    {
+     "sa": "सर्वेषु भूतेषु",
+     "meaning": {
+      "en": "in all beings",
+      "hi": "सम्पूर्ण प्राणियोंमें"
+     }
+    },
+    {
+     "sa": "परमेश्वरम्",
+     "meaning": {
+      "en": "the Supreme Lord",
+      "hi": "परमेश्वरको"
+     }
+    },
+    {
+     "sa": "अविनश्यन्तम्",
+     "meaning": {
+      "en": "imperishable",
+      "hi": "नाशरहित"
+     }
+    },
+    {
+     "sa": "समम्",
+     "meaning": {
+      "en": "equally",
+      "hi": "समरूपसे"
+     }
+    },
+    {
+     "sa": "पश्यति",
+     "meaning": {
+      "en": "sees",
+      "hi": "देखता है"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "samatva",
+    "jnana",
+    "viveka"
+   ],
+   "related": [
+    "13.2",
+    "13.26",
+    "5.5",
+    "18.16"
+   ]
+  },
+  {
+   "id": "13.29",
+   "headline": {
+    "en": "Prakriti does all the acting; see yourself as the non-doer",
+    "hi": "सब क्रियाएँ प्रकृतिकी, स्वयं अकर्ता"
+   },
+   "essence": {
+    "en": "One who sees every action as done by prakriti alone, and himself as the non-doer, sees truly.",
+    "hi": "सम्पूर्ण क्रियाओंको प्रकृतिसे होती देखने और अपनेको अकर्ता अनुभव करनेवाला ही यथार्थ देखता है।"
+   },
+   "idea": {
+    "en": "The conscious reality is naturally changeless, even and at peace, while its power, prakriti, is naturally always active; even in dissolution a subtle activity continues. Eating, walking, sleeping, thinking, even entering samadhi all happen through prakriti, not through the self, in which no action ever takes place. When the self links itself to this active prakriti, the body’s natural actions seem to be its own. Seeing clearly that they are not gives the experience of non-doership. Whether the Gita says prakriti, the gunas or the senses do the acting, it is the same point.",
+    "hi": "चेतन तत्त्व स्वाभाविक निर्विकार, सम और शान्त है; उसकी शक्ति प्रकृति स्वाभाविक क्रियाशील है—प्रलयमें भी उसकी सूक्ष्म क्रिया मिटती नहीं। खाना-पीना, चलना-फिरना, सोना-जागना, चिन्तन, समाधिस्थ होना—सब क्रियाएँ प्रकृतिके द्वारा होती हैं, स्वयंमें कोई क्रिया होती ही नहीं। प्रकृतिसे सम्बन्ध जोड़नेपर शरीरकी स्वाभाविक क्रियाएँ अपनेमें प्रतीत होने लगती हैं। ऐसा देखनेसे अकर्तापनका अनुभव होता है। प्रकृति, गुण और इन्द्रियोंद्वारा क्रियाओंका होना—तीनों एक ही बात है।"
+   },
+   "points": [
+    {
+     "en": "Swamiji: there are two ways out of the union of field and knower. Verses 27–28 recognise the relation with God; verses 29–30 break the assumed relation with prakriti.",
+     "hi": "संयोगसे छूटनेके दो उपाय—परमात्मासे स्वत:सिद्ध सम्बन्धको पहचानना (२७-२८) और प्रकृतिसे माने हुए सम्बन्धको तोड़ना (२९-३०)।"
+    },
+    {
+     "en": "Prakriti is never inactive even slightly, and the self never acts even slightly.",
+     "hi": "प्रकृति कभी किंचिन्मात्र भी अक्रिय नहीं और पुरुषमें कभी किंचिन्मात्र भी क्रिया नहीं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The sun’s unbroken motion",
+      "hi": "सूर्यका निरन्तर क्रम"
+     },
+     "text": {
+      "en": "From sunrise light grows till noon and fades till sunset; darkness grows till midnight and fades till dawn. Light and dark never stop changing. Prakriti is the same: through creation and dissolution alike, its activity goes on without a break.",
+      "hi": "सूर्योदयसे मध्याह्नतक प्रकाश बढ़ता, फिर घटता है; आधी राततक अँधेरा बढ़ता, फिर घटता है—क्रिया कभी रुकती नहीं; ऐसे ही सर्ग-प्रलयमें भी प्रकृतिकी क्रिया चलती रहती है।"
+     },
+     "quote": {
+      "hi": "सूर्यका उदय होता है, फिर वह मध्यमें आ जाता है और फिर वह अस्त हो जाता है, तो इससे मालूम होता है कि प्रात: सूर्योदय होनेपर प्रकाश मध्याह्नतक बढ़ता जाता है और मध्याह्नसे सूर्यास्ततक प्रकाश घटता जाता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "stress",
+     "text": {
+      "en": "Your heart races before an interview, your thoughts spin at 2 a.m. These are movements of prakriti, like weather. The verse invites you to watch them happen instead of saying ‘I am doing this’ or ‘I am this’.",
+      "hi": "इंटरव्यूसे पहले धड़कन तेज होना, रातको विचारोंका चलना—ये प्रकृतिकी क्रियाएँ हैं। इन्हें ‘मैं कर रहा हूँ’ न मानकर होती हुई देखें।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Doership is the knot that makes action bind. Seeing every action as prakriti’s work loosens that knot at its root.",
+    "hi": "कर्तापन ही कर्मोंको बाँधनेवाला बनाता है; क्रियामात्रको प्रकृतिकी देखनेसे यह गाँठ मूलसे खुलती है।"
+   },
+   "terms": [
+    {
+     "sa": "कर्माणि",
+     "meaning": {
+      "en": "all actions",
+      "hi": "सम्पूर्ण क्रियाओंको"
+     }
+    },
+    {
+     "sa": "प्रकृत्या एव",
+     "meaning": {
+      "en": "by prakriti alone",
+      "hi": "प्रकृतिके द्वारा ही"
+     }
+    },
+    {
+     "sa": "क्रियमाणानि",
+     "meaning": {
+      "en": "being done",
+      "hi": "की जाती हुई"
+     }
+    },
+    {
+     "sa": "आत्मानम्",
+     "meaning": {
+      "en": "oneself",
+      "hi": "अपने-आपको"
+     }
+    },
+    {
+     "sa": "अकर्तारम्",
+     "meaning": {
+      "en": "as the non-doer",
+      "hi": "अकर्ता"
+     }
+    }
+   ],
+   "concepts": [
+    "prakriti",
+    "purusha",
+    "karma",
+    "ahankara"
+   ],
+   "related": [
+    "3.27",
+    "3.28",
+    "14.19",
+    "5.8",
+    "5.13",
+    "13.31",
+    "18.16"
+   ]
+  },
+  {
+   "id": "14.5",
+   "headline": {
+    "en": "Sattva, rajas and tamas bind the imperishable self to the body",
+    "hi": "तीनों गुण अविनाशी देहीको देहमें बाँधते हैं"
+   },
+   "essence": {
+    "en": "The three gunas born of prakriti bind the imperishable embodied self to the body, but only because it takes the body as ‘I’ and ‘mine’.",
+    "hi": "प्रकृतिजन्य तीनों गुण अविनाशी देहीको देहमें बाँधते हैं—पर तभी, जब वह देहको ‘मैं’ और ‘मेरा’ मानता है।"
+   },
+   "idea": {
+    "en": "The gunas do not bind anyone on their own; the self binds itself by linking with them. By taking things, money, family, body, temperament, moods and circumstances as its own, the self, though imperishable and free, becomes dependent on perishable things. When the money one calls one’s own rises or falls, one is affected; when people one calls one’s own are born or die, one is affected. Yet the self’s real nature stays exactly as it is, which is why Krishna calls it ‘imperishable’. The body is separating from us every moment, so the only effort needed is to stop holding on to what is leaving by itself.",
+    "hi": "गुण अपनी ओरसे किसीको नहीं बाँधते, पुरुष ही उनसे सम्बन्ध जोड़कर बँध जाता है। गुणोंके कार्य पदार्थ, धन, परिवार, शरीर, स्वभाव, वृत्तियाँ, परिस्थितियाँ आदिको अपना माननेसे स्वयं अविनाशी और स्वतन्त्र होते हुए भी पराधीन हो जाता है। जिस धनको अपना मानता है, उसके घटने-बढ़नेसे और जिन व्यक्तियोंको अपना मानता है, उनके जन्मने-मरनेसे स्वयंपर असर पड़ता है। फिर भी उसका वास्तविक स्वरूप ज्यों-का-त्यों रहता है—यही ‘अव्ययम्’ का संकेत है। शरीरका प्रतिक्षण वियोग हो रहा है; उद्योग इतना ही है कि स्वत: छूटनेवालेको पकड़ना नहीं है।"
+   },
+   "points": [
+    {
+     "en": "Two ways the self relates to the body: ‘I am the body’ (ahanta) and ‘the body is mine’ (mamata).",
+     "hi": "शरीरसे दो तरहका सम्बन्ध—‘मैं शरीर हूँ’ (अहंता) और ‘शरीर मेरा है’ (ममता)।"
+    },
+    {
+     "en": "As long as there is a wish to live forever and a fear of death, one is bound by the gunas.",
+     "hi": "जबतक नित्य बने रहनेकी इच्छा और मरनेका भय है, तबतक गुणोंसे बँधा हुआ है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Marrying into a family",
+      "hi": "विवाहसे जुड़ा सम्बन्ध"
+     },
+     "text": {
+      "en": "Once married, a man is tied to his wife’s whole family, and her needs start to feel like his own. In the same way, once the self calls the body ‘I’ and ‘mine’, it gets tied to the whole world, and the body’s needs start to feel like its own needs.",
+      "hi": "विवाह होनेपर पत्नीके पूरे परिवारसे सम्बन्ध जुड़ जाता है और उसकी आवश्यकताएँ अपनी लगने लगती हैं; ऐसे ही शरीरसे मैं-मेरापन होनेपर पूरे संसारसे सम्बन्ध जुड़ जाता है।"
+     },
+     "quote": {
+      "hi": "जैसे विवाह हो जानेपर पत्नीके पूरे परिवार-(ससुराल-) के साथ सम्बन्ध जुड़ जाता है, पत्नीके वस्त्राभूषण आदिकी आवश्यकता अपनी आवश्यकता प्रतीत होने लगती है, ऐसे ही शरीरके साथ मैं-मेरेका सम्बन्ध हो जानेपर जीवका पूरे संसारके साथ सम्बन्ध जुड़ जाता है"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Money one calls ‘mine’",
+      "hi": "अपना माना हुआ धन"
+     },
+     "text": {
+      "en": "The money a man calls his own affects him when it rises or falls, though money elsewhere in the world does not. The binding lies in the ‘mine’.",
+      "hi": "जिस धनको मनुष्य अपना मानता है, उसीके घटने-बढ़नेसे उसपर असर पड़ता है—बन्धन ‘मेरे’-पनमें है।"
+     },
+     "quote": {
+      "hi": "जैसे, मनुष्य जिस धनको अपना मानता है, उस धनके घटने-बढ़नेसे स्वयंपर असर पड़ता है;"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "money",
+     "text": {
+      "en": "Your portfolio drops eight percent and your mood drops with it. The market did not reach inside you; the tie of ‘mine’ carried the fall in.",
+      "hi": "पोर्टफोलियो आठ प्रतिशत गिरा और मन भी गिर गया—बाजार भीतर नहीं आया, ‘मेरा’-पनने उसे भीतर पहुँचाया।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Swamiji: if the gunas themselves bound us, no one could ever be free while they exist. Since we bind ourselves, we can also stop.",
+    "hi": "अगर गुण बाँधनेवाले होते तो गुणोंके रहते कोई जीवन्मुक्त हो ही नहीं सकता; जीव स्वयं बँधता है, इसलिये स्वयं छूट भी सकता है।"
+   },
+   "terms": [
+    {
+     "sa": "सत्त्वम् रज: तम:",
+     "meaning": {
+      "en": "sattva, rajas and tamas",
+      "hi": "सत्त्व, रज और तम"
+     }
+    },
+    {
+     "sa": "प्रकृतिसम्भवा:",
+     "meaning": {
+      "en": "born of prakriti",
+      "hi": "प्रकृतिसे उत्पन्न होनेवाले"
+     }
+    },
+    {
+     "sa": "देहिनम्",
+     "meaning": {
+      "en": "the embodied self",
+      "hi": "देही (जीवात्मा)-को"
+     }
+    },
+    {
+     "sa": "अव्ययम्",
+     "meaning": {
+      "en": "imperishable",
+      "hi": "अविनाशी"
+     }
+    },
+    {
+     "sa": "निबध्नन्ति",
+     "meaning": {
+      "en": "bind",
+      "hi": "बाँध देते हैं"
+     }
+    }
+   ],
+   "concepts": [
+    "guna",
+    "prakriti",
+    "atma",
+    "ahankara"
+   ],
+   "related": [
+    "12.5",
+    "13.21",
+    "13.22"
+   ]
+  },
+  {
+   "id": "14.19",
+   "headline": {
+    "en": "No doer but the gunas, and oneself beyond them",
+    "hi": "गुणोंके सिवाय कोई कर्ता नहीं, स्वयं गुणोंसे पर"
+   },
+   "essence": {
+    "en": "When the discerning person sees no doer other than the gunas and knows himself to be beyond them, he attains My being.",
+    "hi": "जब विवेकी गुणोंके सिवाय किसीको कर्ता नहीं देखता और अपनेको गुणोंसे पर जानता है, तब वह भगवद्भावको प्राप्त होता है।"
+   },
+   "idea": {
+    "en": "All actions and all changes take place in the gunas alone; they are the only cause. That which lights up the gunas is beyond them and never touched by them. A thoughtful seeker uses discernment to experience that his relation with the gunas never was, is not, will not be and cannot be, since the gunas change and the self never does. Then the relation he had mistakenly assumed with the gunas falls away, and his natural relation with God remains as it always was.",
+    "hi": "सम्पूर्ण क्रियाएँ और परिवर्तन गुणोंमें ही हो रहे हैं, गुण ही कारण हैं। जिससे गुण प्रकाशित होते हैं, वह तत्त्व गुणोंसे पर है और उनसे लिप्त नहीं होता। विचार-कुशल साधक विवेकसे अनुभव करता है कि गुणोंसे मेरा सम्बन्ध न कभी हुआ, न है, न होगा, न हो सकता है; क्योंकि गुण परिवर्तनशील हैं और स्वयंमें परिवर्तन होता ही नहीं। तब भूलसे माना हुआ सम्बन्ध मिट जाता है और भगवान्से स्वत:सिद्ध सम्बन्ध ज्यों-का-त्यों रह जाता है।"
+   },
+   "points": [
+    {
+     "en": "Appendix: knowing oneself detached from action and object makes one established in yoga; that brings peace, and not stopping at that peace leads to God.",
+     "hi": "क्रिया-पदार्थसे असंग होनेपर योगारूढ़ता, उससे शान्ति, और शान्तिमें न अटकनेसे परमात्माकी प्राप्ति होती है।"
+    }
+   ],
+   "examples": [],
+   "whyItMatters": {
+    "en": "Krishna gives this as the direct way of discernment beyond the gunas, before Arjuna asks and devotion is given as the other way (14.26).",
+    "hi": "यह गुणातीत होनेका विवेकमार्गीय उपाय है; अर्जुनके प्रश्नपर आगे भक्तिरूप उपाय भी बताया गया (१४। २६)।"
+   },
+   "terms": [
+    {
+     "sa": "द्रष्टा",
+     "meaning": {
+      "en": "the discerning seer",
+      "hi": "विवेकी (विचार-कुशल) मनुष्य"
+     }
+    },
+    {
+     "sa": "गुणेभ्य: अन्यम् कर्तारम्",
+     "meaning": {
+      "en": "a doer other than the gunas",
+      "hi": "गुणोंके सिवाय अन्य कर्ता"
+     }
+    },
+    {
+     "sa": "गुणेभ्य: परम्",
+     "meaning": {
+      "en": "beyond the gunas",
+      "hi": "गुणोंसे पर"
+     }
+    },
+    {
+     "sa": "वेत्ति",
+     "meaning": {
+      "en": "knows (experiences)",
+      "hi": "अनुभव करता है"
+     }
+    },
+    {
+     "sa": "मद्भावम्",
+     "meaning": {
+      "en": "My being",
+      "hi": "मेरे सत्स्वरूपको"
+     }
+    }
+   ],
+   "concepts": [
+    "guna",
+    "viveka",
+    "jnana",
+    "moksha"
+   ],
+   "related": [
+    "13.29",
+    "13.31",
+    "14.2",
+    "6.4",
+    "14.26"
+   ]
+  },
+  {
+   "id": "14.22",
+   "headline": {
+    "en": "The one beyond the gunas neither resents nor craves their moods",
+    "hi": "गुणातीत वृत्तियोंसे न द्वेष करता, न इच्छा"
+   },
+   "essence": {
+    "en": "When clarity, activity or delusion arise, the one beyond the gunas does not resent them; when they subside, he does not long for them.",
+    "hi": "प्रकाश, प्रवृत्ति और मोहके आनेपर गुणातीत उनसे द्वेष नहीं करता और चले जानेपर उनकी इच्छा नहीं करता।"
+   },
+   "idea": {
+    "en": "Clarity of senses and mind is the work of sattva, activity of rajas, and delusion of tamas. Even in one beyond the gunas, activity without desire continues, and ordinary mistakes in dealings, like taking a rope for a snake, can happen, but there is no confusion about what is real and unreal. He never thinks ‘let this mood not come’ or ‘let that mood return’. Moods come and go on their own and make no difference to him; his gaze does not even go there, because for him there is nothing but God.",
+    "hi": "इन्द्रियों-अन्त:करणकी स्वच्छता सत्त्वका कार्य प्रकाश, रजका कार्य प्रवृत्ति और तमका कार्य मोह है। गुणातीतमें भी आसक्तिरहित क्रियाशीलता रहती है और व्यवहारमें भूल (रस्सीमें साँप दीखना आदि) हो सकती है, पर सत्-असत्का अविवेक नहीं होता। वह न ‘यह वृत्ति न रहे’—ऐसा द्वेष करता है, न ‘वह वृत्ति फिर आ जाय’—ऐसा राग। वृत्तियाँ आप-से-आप आती-जाती हैं, उसमें फरक नहीं पड़ता; उसकी दृष्टिमें एक परमात्माके सिवाय कुछ है ही नहीं।"
+   },
+   "points": [
+    {
+     "en": "What happens is collective; what we do is personal. We are responsible only for what we do.",
+     "hi": "‘होना’ समष्टिगत है, ‘करना’ व्यक्तिगत; जिम्मेवारी केवल करनेकी है।"
+    },
+    {
+     "en": "A bad thought appearing is not a fault; the fault is in taking it up and treating it as your state. So a seeker need not panic when even a very bad thought shows up.",
+     "hi": "दोष दीखनेमें नहीं, देखनेमें है; अत: अन्त:करणमें खराब वृत्ति दीख जाय तो भी साधक घबराये नहीं।"
+    },
+    {
+     "en": "The one beyond the gunas is the seeker’s ideal, so the seeker too should not call moods good or bad, or take them as his own.",
+     "hi": "गुणातीत साधकका आदर्श है; साधक भी वृत्तियोंको न अच्छा, न बुरा और न अपनेमें माने।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "What happens (hona)",
+      "hi": "होना"
+     },
+     "items": [
+      {
+       "en": "Moods of the three gunas arising in the mind",
+       "hi": "अन्त:करणमें तीनों गुणोंकी वृत्तियोंका आना-जाना"
+      },
+      {
+       "en": "A thought appearing on its own",
+       "hi": "वृत्तिका अपने-आप दीखना"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "What we do (karna)",
+      "hi": "करना"
+     },
+     "items": [
+      {
+       "en": "Liking or disliking them and linking with them",
+       "hi": "उनसे राग-द्वेष करके सम्बन्ध जोड़ना"
+      },
+      {
+       "en": "Looking at it and taking it as your state",
+       "hi": "उसे देखकर अपनी स्थिति मान लेना"
+      }
+     ]
+    }
+   },
+   "examples": [],
+   "modern": [
+    {
+     "context": "mental health",
+     "text": {
+      "en": "A wave of anxiety before a presentation, a jealous flicker while scrolling a friend’s post: these arise. Swamiji’s line is that they are in the mind, not in you. Don’t welcome them, don’t fight them, and don’t claim them.",
+      "hi": "प्रेज़ेंटेशनसे पहले घबराहट, किसीकी पोस्ट देखकर ईर्ष्याकी झलक—ये वृत्तियाँ अन्त:करणमें हैं, आपमें नहीं; न इनसे राजी हों, न नाराज, न इन्हें अपना मानें।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It frees the seeker from a very common trap: judging your progress by the passing moods of the mind.",
+    "hi": "आने-जानेवाली वृत्तियोंको देखकर अपनी स्थिति माननेकी भूलसे साधक बच जाता है।"
+   },
+   "terms": [
+    {
+     "sa": "प्रकाशम्",
+     "meaning": {
+      "en": "clarity (of sattva)",
+      "hi": "प्रकाश"
+     }
+    },
+    {
+     "sa": "प्रवृत्तिम्",
+     "meaning": {
+      "en": "activity (of rajas)",
+      "hi": "प्रवृत्ति"
+     }
+    },
+    {
+     "sa": "मोहम्",
+     "meaning": {
+      "en": "delusion (of tamas)",
+      "hi": "मोह"
+     }
+    },
+    {
+     "sa": "सम्प्रवृत्तानि",
+     "meaning": {
+      "en": "when fully present",
+      "hi": "अच्छी तरहसे प्रवृत्त हो जायँ"
+     }
+    },
+    {
+     "sa": "न द्वेष्टि",
+     "meaning": {
+      "en": "does not resent",
+      "hi": "द्वेष नहीं करता"
+     }
+    },
+    {
+     "sa": "न काङ्क्षति",
+     "meaning": {
+      "en": "does not long for",
+      "hi": "इच्छा नहीं करता"
+     }
+    }
+   ],
+   "concepts": [
+    "guna",
+    "samatva",
+    "sthitaprajna",
+    "viveka"
+   ],
+   "related": [
+    "14.11",
+    "4.35",
+    "14.21"
+   ]
+  },
+  {
+   "id": "14.26",
+   "headline": {
+    "en": "Unswerving devotion carries one beyond the gunas",
+    "hi": "अव्यभिचारी भक्तिसे गुणातीतता"
+   },
+   "essence": {
+    "en": "One who serves Me with unswerving devotion goes beyond the three gunas and becomes fit to realise Brahman.",
+    "hi": "अव्यभिचारी भक्तियोगसे मेरा सेवन करनेवाला गुणोंका अतिक्रमण करके ब्रह्मप्राप्तिका पात्र हो जाता है।"
+   },
+   "idea": {
+    "en": "Krishna had already given a way beyond the gunas in 14.19–20, but Arjuna asked again, so Krishna, seeing him fit for devotion, gives devotion as the way. ‘Unswerving’ means no other support at all: not the world, and not even other paths like knowledge or action. ‘Devotion’ means God alone as one’s support, hope, strength and faith. For one who takes refuge in God alone, going beyond the gunas does not have to be achieved; it happens by itself through His grace. Such a devotee becomes fit for Brahman, though he does not rest content with that; his joy is in pleasing God.",
+    "hi": "भगवान्ने उन्नीसवें-बीसवें श्लोकोंमें उपाय बता दिया था, फिर भी अर्जुनने पूछा; अत: उन्हें भक्तिका अधिकारी समझकर भगवान् भक्ति बताते हैं। ‘अव्यभिचारेण’—दूसरे किसीका सहारा न हो; संसार तो क्या, ज्ञानयोग-कर्मयोग आदि साधनोंका भी नहीं। ‘भक्तियोगेन’—केवल भगवान्का ही सहारा, आशा, बल और विश्वास हो। अनन्यभावसे शरण होनेवालेको गुणोंका अतिक्रमण करना नहीं पड़ता, भगवत्कृपासे स्वत: हो जाता है। वह ब्रह्मप्राप्तिका अधिकारी हो जाता है, पर उसमें सन्तोष नहीं करता; भगवान्की प्रसन्नतामें ही उसकी प्रसन्नता है।"
+   },
+   "points": [
+    {
+     "en": "The same reality reached through knowledge or action is reached through devotion; the means differ, the attainment does not.",
+     "hi": "जिस तत्त्वकी प्राप्ति ज्ञानयोग, कर्मयोगसे होती है, वही भक्तिसे होती है; साधनोंमें भेद, प्राप्तिमें नहीं।"
+    },
+    {
+     "en": "Appendix: worship of God with form is itself beyond the gunas, for the gunas depend on Him, not He on them.",
+     "hi": "सगुणकी उपासना निर्गुण है; गुण भगवान्के आश्रित हैं, भगवान् गुणोंके नहीं।"
+    }
+   ],
+   "examples": [],
+   "whyItMatters": {
+    "en": "Swamiji’s introduction to chapter 15 builds on this verse: devotion free of the world’s support is the easy way beyond the gunas, and the next chapter is taught to bring it about.",
+    "hi": "संसारके आश्रयसे रहित भक्ति गुणातीत होनेका सुगम उपाय है; उसीको प्राप्त करानेके लिये पन्द्रहवाँ अध्याय कहा गया।"
+   },
+   "terms": [
+    {
+     "sa": "अव्यभिचारेण",
+     "meaning": {
+      "en": "unswerving (with no other support)",
+      "hi": "अव्यभिचारी"
+     }
+    },
+    {
+     "sa": "भक्तियोगेन",
+     "meaning": {
+      "en": "through the yoga of devotion",
+      "hi": "भक्तियोगके द्वारा"
+     }
+    },
+    {
+     "sa": "सेवते",
+     "meaning": {
+      "en": "serves, worships",
+      "hi": "सेवन करता है"
+     }
+    },
+    {
+     "sa": "गुणान् समतीत्य",
+     "meaning": {
+      "en": "going beyond the gunas",
+      "hi": "गुणोंका अतिक्रमण करके"
+     }
+    },
+    {
+     "sa": "ब्रह्मभूयाय कल्पते",
+     "meaning": {
+      "en": "becomes fit to realise Brahman",
+      "hi": "ब्रह्मप्राप्तिका पात्र हो जाता है"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "guna",
+    "moksha"
+   ],
+   "related": [
+    "14.19",
+    "14.20",
+    "14.21",
+    "12.6",
+    "12.7",
+    "14.27",
+    "13.10",
+    "7.29"
+   ]
+  },
+  {
+   "id": "14.27",
+   "headline": {
+    "en": "I am the ground of Brahman, of immortality, of eternal dharma and of absolute joy",
+    "hi": "ब्रह्म, अमृत, शाश्वत धर्म और ऐकान्तिक सुखकी प्रतिष्ठा मैं हूँ"
+   },
+   "essence": {
+    "en": "Brahman, imperishable immortality, eternal dharma and absolute joy all rest in Me, and are not different from Me.",
+    "hi": "ब्रह्म, अविनाशी अमृत, शाश्वत धर्म और ऐकान्तिक सुख—सबका आश्रय मैं हूँ; ये मुझसे भिन्न नहीं।"
+   },
+   "idea": {
+    "en": "The link asks how worshipping Krishna can make one fit for Brahman. The answer is that He is the ground of Brahman, not as a separate support but as the same reality. The formless Brahman and the Lord with form are two aspects that differ only from the seeker’s point of view; in truth they are one. The same holds for immortality, eternal dharma and unending joy: say Krishna or say any of these, it is one thing. So it is right that worship of the Lord brings realisation of Brahman.",
+    "hi": "प्रश्न है कि उपासना भगवान्की और पात्रता ब्रह्मप्राप्तिकी—कैसे? उत्तर है कि भगवान् ब्रह्मकी प्रतिष्ठा हैं; अर्थात् ब्रह्मसे अभिन्न हैं। साकार भगवान् और निराकार ब्रह्म साधकोंकी दृष्टिसे दो रूप हैं, तत्त्वत: एक ही हैं। अविनाशी अमृत, शाश्वत धर्म और ऐकान्तिक सुख भी भगवान्से अभिन्न हैं—ब्रह्म कहो या कृष्ण, एक ही बात है। इसलिये भगवान्की उपासनासे ब्रह्मकी प्राप्ति होना ठीक ही है।"
+   },
+   "points": [
+    {
+     "en": "Appendix: Brahman and immortality correspond to the path of knowledge, eternal dharma to the path of action, and absolute joy to the path of meditation. Taking refuge in the Lord fulfils all three and leads to the ‘complete’ (samagra) reality.",
+     "hi": "ब्रह्म-अमृत ज्ञानयोगकी, शाश्वत धर्म कर्मयोगकी और ऐकान्तिक सुख ध्यानयोगकी बात है; भगवान्का आश्रय लेनेसे तीनों सिद्ध होकर ‘समग्र’ की प्राप्ति होती है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Fire with and without form",
+      "hi": "साकार और निराकार अग्नि"
+     },
+     "text": {
+      "en": "Burning fire has form, while the fire latent in wood is formless; they are two forms of one fire. In the same way the Lord with form and the formless Brahman are one in essence.",
+      "hi": "जलती अग्नि साकार और काष्ठमें रहनेवाली अग्नि निराकार है, पर अग्नि एक ही है; ऐसे ही भगवान् और ब्रह्म एक ही हैं।"
+     },
+     "quote": {
+      "hi": "जैसे जलती हुई अग्नि साकार है और काष्ठ आदिमें रहनेवाली अग्नि निराकार है—ये अग्निके दो रूप हैं, पर तत्त्वत: अग्नि एक ही है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Aroma and taste",
+      "hi": "सुगन्ध और स्वाद"
+     },
+     "text": {
+      "en": "The nose knows a meal by its aroma and the tongue by its taste, yet the meal is one. From the side of knowledge it is Brahman, from the side of devotion it is the Lord.",
+      "hi": "नाककी दृष्टिसे सुगन्ध और जीभकी दृष्टिसे स्वाद, पर भोजन एक; ऐसे ही ज्ञानकी दृष्टिसे ब्रह्म और भक्तिकी दृष्टिसे भगवान्।"
+     },
+     "quote": {
+      "hi": "जैसे भोजनमें एक सुगन्ध होती है और एक स्वाद होता है; नासिकाकी दृष्टिसे सुगन्ध होती है और रसनाकी दृष्टिसे स्वाद होता है, पर भोजन तो एक ही है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "whyItMatters": {
+    "en": "It removes the idea that devotion to a personal God and the realisation of the formless are rival goals.",
+    "hi": "सगुणकी भक्ति और निर्गुणकी प्राप्तिको परस्पर भिन्न लक्ष्य माननेका भ्रम मिटता है।"
+   },
+   "terms": [
+    {
+     "sa": "ब्रह्मण:",
+     "meaning": {
+      "en": "of Brahman",
+      "hi": "ब्रह्मका"
+     }
+    },
+    {
+     "sa": "अमृतस्य अव्ययस्य",
+     "meaning": {
+      "en": "of imperishable immortality",
+      "hi": "अविनाशी अमृतका"
+     }
+    },
+    {
+     "sa": "शाश्वतस्य धर्मस्य",
+     "meaning": {
+      "en": "of eternal dharma",
+      "hi": "शाश्वत धर्मका"
+     }
+    },
+    {
+     "sa": "ऐकान्तिकस्य सुखस्य",
+     "meaning": {
+      "en": "of absolute joy",
+      "hi": "ऐकान्तिक सुखका"
+     }
+    },
+    {
+     "sa": "प्रतिष्ठा",
+     "meaning": {
+      "en": "the ground, support",
+      "hi": "आश्रय"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "bhakti",
+    "dharma",
+    "jnana"
+   ],
+   "related": [
+    "5.10",
+    "9.4",
+    "13.12",
+    "14.20",
+    "11.18",
+    "4.8",
+    "5.21",
+    "6.21",
+    "6.28",
+    "7.29"
+   ]
+  },
+  {
+   "id": "15.1",
+   "headline": {
+    "en": "The upside-down tree of the world",
+    "hi": "ऊर्ध्वमूल संसार-वृक्ष"
+   },
+   "essence": {
+    "en": "The world is a peepal tree with its root above in God and its branches below; whoever truly knows this tree knows the Vedas.",
+    "hi": "संसार ऊपर परमात्मारूप मूल और नीचे शाखाओंवाला अश्वत्थ है; इसे यथार्थ जाननेवाला ही वेदवित् है।"
+   },
+   "idea": {
+    "en": "Ordinary trees have roots below; this strange tree has its root above: the Supreme, the cause and support of everything. Its main trunk is Brahma, from whom creation spreads downward. ‘Ashvattha’ means both the peepal and ‘that which will not last till tomorrow’: the world does not stay the same for even a moment. It is called ‘imperishable’ only because its flow never visibly ends and its root is eternal. The desire-driven rites of the Vedas are its leaves: they make it look lush and keep it growing, but give no fruit of lasting satisfaction. To know the tree is to know it as fleeting and expect no happiness from it; such a person is the real knower of the Vedas, even without studying them.",
+    "hi": "साधारण वृक्षोंका मूल नीचे होता है, पर इस विचित्र वृक्षका मूल ऊपर—सबके कारण और आधार परमात्मा हैं; इसकी प्रधान शाखा ब्रह्माजी हैं। ‘अश्वत्थ’ के दो अर्थ हैं—पीपल और ‘जो कलतक भी न रहे’; संसार एक क्षण भी स्थिर नहीं। प्रवाहकी निरन्तरता और नित्य मूलके कारण इसे अव्यय कहते हैं। सकाम कर्मोंका वर्णन करनेवाले वेदवाक्य इसके पत्ते हैं, जिनसे वृक्ष सुन्दर दीखता और बढ़ता है, पर फलरूप अक्षय तृप्ति नहीं मिलती। संसारको क्षणभंगुर जानकर उससे सुखकी आशा न रखना ही उसे यथार्थ जानना है; ऐसा मनुष्य वेद न पढ़नेपर भी वास्तवमें वेदवित् है।"
+   },
+   "points": [
+    {
+     "en": "The way to worship this peepal tree is to serve it without wanting any pleasure from it; for one who wants nothing, the world is God’s own form (7.19).",
+     "hi": "इस संसाररूप पीपलकी पूजा यही है कि इससे सुखकी इच्छा छोड़कर केवल सेवा करे; सुखकी इच्छा न रखनेवालेके लिये संसार भगवत्स्वरूप है।"
+    },
+    {
+     "en": "Once one sees that the world is perishing every moment, the wish to get pleasure from it drops.",
+     "hi": "संसार प्रतिक्षण नष्ट हो रहा है—यह अनुभव होते ही उससे सुख लेनेकी इच्छा मिट जाती है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The ocean and its waves",
+      "hi": "समुद्र और लहरें"
+     },
+     "text": {
+      "en": "Countless waves rise on the ocean and tides come and go, yet the water stays the same. The world changes constantly on the surface, yet as God’s own expression nothing of it is lost.",
+      "hi": "समुद्रपर लहरें और ज्वार-भाटा आते हैं, पर जल उतना ही रहता है; ऐसे ही परिवर्तन दीखनेपर भी संसार भगवद्रूपसे अव्यय है।"
+     },
+     "quote": {
+      "hi": "जैसे समुद्रके ऊपर कितनी लहरें उठती दीखती हैं, ज्वार-भाटा आता है, पर उसका जल उतना ही रहता है, घटता-बढ़ता नहीं।"
+     },
+     "from": "appendix"
+    },
+    {
+     "title": {
+      "en": "The ox at the oil press",
+      "hi": "कोल्हूका बैल"
+     },
+     "text": {
+      "en": "A long road ends somewhere, but a circular one never does. Like an ox going round an oil press, one who ties himself to the world goes round and round: dying after birth, and born after death.",
+      "hi": "लम्बे रास्तेका अन्त आता है, गोलका नहीं; कोल्हूके बैलकी तरह संसारसे सम्बन्ध जोड़नेवालेका जन्म-मरणका चक्र चलता रहता है।"
+     },
+     "quote": {
+      "hi": "लम्बे रास्तेका तो अन्त आ सकता है, पर गोल रास्तेका अन्त कैसे आये? कोल्हूके बैलकी तरह जन्मनेके बाद मरना और मरनेके बाद जन्मना—यह गोल रास्ता है।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "social media",
+     "text": {
+      "en": "An endless feed is all leaves: bright, always refreshing, never filling. Swamiji’s picture of a tree with beautiful leaves but no fruit describes looking for lasting satisfaction in what renews itself every second.",
+      "hi": "अन्तहीन फीड केवल पत्ते हैं—चमकीले, हर पल नये, पर पेट न भरनेवाले; स्वामीजीका ‘फूल-पत्तोंवाला, पर फलरहित वृक्ष’ यही है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Chapter 15 opens here: seeing the world rightly is the first of its three subjects, and it clears the way for turning to the root, God.",
+    "hi": "संसारको यथार्थ जानना इस अध्यायका पहला विषय है; इससे मूल—परमात्माकी ओर मुड़नेका मार्ग खुलता है।"
+   },
+   "terms": [
+    {
+     "sa": "ऊर्ध्वमूलम्",
+     "meaning": {
+      "en": "with its root above",
+      "hi": "ऊपरकी ओर मूलवाले"
+     }
+    },
+    {
+     "sa": "अध:शाखम्",
+     "meaning": {
+      "en": "with branches below",
+      "hi": "नीचेकी ओर शाखावाले"
+     }
+    },
+    {
+     "sa": "अश्वत्थम्",
+     "meaning": {
+      "en": "the peepal (that which will not last till tomorrow)",
+      "hi": "संसाररूप अश्वत्थवृक्षको"
+     }
+    },
+    {
+     "sa": "अव्ययम्",
+     "meaning": {
+      "en": "imperishable (as an unending flow)",
+      "hi": "(प्रवाहरूपसे) अव्यय"
+     }
+    },
+    {
+     "sa": "छन्दांसि पर्णानि",
+     "meaning": {
+      "en": "the Vedas are its leaves",
+      "hi": "वेद जिसके पत्ते हैं"
+     }
+    },
+    {
+     "sa": "वेदवित्",
+     "meaning": {
+      "en": "knower of the Vedas",
+      "hi": "वेदोंको जाननेवाला"
+     }
+    }
+   ],
+   "concepts": [
+    "vairagya",
+    "ishvara",
+    "prakriti",
+    "jnana"
+   ],
+   "related": [
+    "10.26",
+    "7.19",
+    "9.21",
+    "15.3",
+    "15.4",
+    "15.15",
+    "11.43",
+    "9.19"
+   ]
+  },
+  {
+   "id": "15.3",
+   "headline": {
+    "en": "Cut the world-tree with the sword of non-attachment",
+    "hi": "असंगशस्त्रसे संसार-वृक्षका छेदन"
+   },
+   "essence": {
+    "en": "Looked at closely, the world has no beginning, end or real standing; its firm-looking roots are cut with the strong weapon of non-attachment.",
+    "hi": "विचार करनेपर संसारका न आदि मिलता है, न अन्त, न स्थिति; इसके दृढ़ दीखनेवाले मूल दृढ़ असंगतासे कट जाते हैं।"
+   },
+   "idea": {
+    "en": "While we are tied to the world through identification, mineness and desire, it looks pleasant and lasting. Seen from outside it with a discerning intellect, it is not found to be so. Its beginning, middle and end cannot be found from inside it, because the instruments we would use (senses, mind, intellect) are themselves parts of it. Its roots look firm only because of identification, mineness and desire. Cutting does not mean destroying things; it means removing our attachment to them. Our relation with the world is only assumed, so not accepting it cuts it. Swamiji says the real obstacle is wanting worldly pleasure while also wanting to be free of faults.",
+    "hi": "जबतक संसारसे तादात्म्य, ममता और कामनाका सम्बन्ध है, तबतक वह सुखद और स्थायी प्रतीत होता है; विवेकवती बुद्धिसे अलग होकर देखनेसे वैसा उपलब्ध नहीं होता। इन्द्रियाँ, मन, बुद्धि संसारके ही अंश हैं, इसलिये संसारमें रहते हुए उसके आदि-अन्तका पता नहीं लगता। तादात्म्य, ममता, कामनाके कारण ही यह दृढ़ मूलोंवाला दीखता है। छेदनका अर्थ वस्तुओंका नाश नहीं, उनसे राग हटाना है; संसारसे सम्बन्ध केवल माना हुआ है, अत: न माननेसे कट जाता है। दोष न छूटनेका खास कारण है—सांसारिक सुख भी लेना और दोषोंसे भी बचना चाहना।"
+   },
+   "points": [
+    {
+     "en": "Three levels of dispassion: from possessions; from family (relate to them only to serve); and the real one, from one’s own body.",
+     "hi": "वैराग्यके रूप: पदार्थोंसे, परिवारसे (केवल सेवाके लिये सम्बन्ध) और वास्तविक—अपने शरीरसे।"
+    },
+    {
+     "en": "Easy ways to end the relation: use what the world gave in the world’s service, drop the wish for pleasure and hoarding, and hold fast to ‘I am God’s, God is mine’.",
+     "hi": "सुगम उपाय: संसारसे मिली सामग्री संसारकी सेवामें लगाना, भोग-संग्रहकी कामना छोड़ना, ‘मैं भगवान्का हूँ, भगवान् मेरे हैं’ इसपर डटे रहना।"
+    },
+    {
+     "en": "Do not think these faults are hard to remove; they are coming and going all the time and only look permanent because we assume so.",
+     "hi": "इन दोषोंके मिटनेको कठिन न माने; ये उत्पन्न-नष्ट होते रहते हैं, मान्यताके कारण स्थायी दीखते हैं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Lost in the exhibition",
+      "hi": "प्रदर्शनीमें घूमता मनुष्य"
+     },
+     "text": {
+      "en": "A man wandering spellbound through a vast exhibition cannot tell where it begins or ends; he can know that only after stepping outside. Likewise the world’s beginning and end are never found while one stays attached to it.",
+      "hi": "प्रदर्शनीमें मुग्ध घूमता मनुष्य उसका आदि-अन्त नहीं जान सकता, बाहर निकलनेपर ही जानता है; ऐसे ही संसारसे सम्बन्ध रखते हुए उसका आदि-अन्त नहीं जाना जा सकता।"
+     },
+     "quote": {
+      "hi": "मनुष्य किसी विशाल प्रदर्शनीमें तरह-तरहकी वस्तुओंको देखकर मुग्ध हुआ घूमता रहे, तो वह उस प्रदर्शनीका आदि-अन्त नहीं जान सकता। उस प्रदर्शनीसे बाहर निकलनेपर ही वह उसके आदि-अन्तको जान सकता है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The poisoned sweets",
+      "hi": "विषयुक्त लड्डू"
+     },
+     "text": {
+      "en": "A greedy man wants the sweetness of poisoned sweets and also wants to escape the poison. That is impossible, and so is enjoying worldly pleasure while escaping its faults.",
+      "hi": "लोभी विषवाले लड्डुओंकी मिठास भी चाहे और विषसे भी बचना चाहे—यह सम्भव नहीं; ऐसे ही सांसारिक सुख लेते हुए दोषोंसे बचना सम्भव नहीं।"
+     },
+     "quote": {
+      "hi": "जैसे लोभी व्यक्ति विषयुक्त लड्डुओंकी मिठासको भी लेना चाहे और साथ ही विषसे भी बचना चाहे! ऐसा कभी सम्भव नहीं है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "habits",
+     "text": {
+      "en": "Wanting the rush of scrolling for hours and also wanting a calm mind is Swamiji’s poisoned sweet: the sweetness and the poison come in the same bite.",
+      "hi": "घंटों स्क्रॉल करनेका मजा भी चाहिये और शान्त मन भी—यही विषयुक्त लड्डू है; मिठास और विष एक ही कौरमें हैं।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "The chapter’s first practical instruction: freedom does not require destroying anything, only withdrawing an attachment that was never real.",
+    "hi": "मुक्तिके लिये किसी वस्तुका नाश नहीं, केवल अवास्तविक माने हुए सम्बन्धका त्याग आवश्यक है।"
+   },
+   "terms": [
+    {
+     "sa": "न रूपम् अस्य इह तथा उपलभ्यते",
+     "meaning": {
+      "en": "its form is not found here as it appears",
+      "hi": "इसका जैसा रूप दीखता है, वैसा यहाँ मिलता नहीं"
+     }
+    },
+    {
+     "sa": "न अन्त: न च आदि: न च सम्प्रतिष्ठा",
+     "meaning": {
+      "en": "no end, no beginning, no real standing",
+      "hi": "न अन्त, न आदि और न स्थिति"
+     }
+    },
+    {
+     "sa": "सुविरूढमूलम्",
+     "meaning": {
+      "en": "firmly rooted",
+      "hi": "दृढ़ मूलोंवाले"
+     }
+    },
+    {
+     "sa": "असङ्गशस्त्रेण दृढेन",
+     "meaning": {
+      "en": "with the strong weapon of non-attachment",
+      "hi": "दृढ़ असंगतारूप शस्त्रके द्वारा"
+     }
+    },
+    {
+     "sa": "छित्त्वा",
+     "meaning": {
+      "en": "having cut",
+      "hi": "काटकर"
+     }
+    }
+   ],
+   "concepts": [
+    "vairagya",
+    "asakti",
+    "viveka",
+    "tyaga"
+   ],
+   "related": [
+    "15.1",
+    "15.4",
+    "2.42",
+    "16.11",
+    "17.3",
+    "18.45",
+    "10.20",
+    "10.32",
+    "2.16",
+    "13.21"
+   ]
+  },
+  {
+   "id": "15.7",
+   "headline": {
+    "en": "The soul is My own eternal part",
+    "hi": "जीव मेरा ही सनातन अंश है"
+   },
+   "essence": {
+    "en": "The self that has become the jiva is My eternal part, yet it draws to itself the mind and senses, which belong to prakriti.",
+    "hi": "जीव बना हुआ आत्मा मेरा ही सनातन अंश है; पर वह प्रकृतिमें स्थित मन और इन्द्रियोंको अपना मान लेता है।"
+   },
+   "idea": {
+    "en": "The self is a part of God. By identifying with body, senses, breath and mind it has ‘become’ a jiva, a role like an actor’s, not its real nature. God does not merely consider it His own; He knows it to be His own, and there is not the slightest part of prakriti in it. The mind and senses belong to prakriti and remain in it; the jiva’s mistake is to pull them towards itself and take them as its own. The simplest and best practice, Swamiji says, is to change one’s sense of ‘I’ and ‘mine’: ‘I am God’s’ and ‘God alone is mine’.",
+    "hi": "आत्मा परमात्माका अंश है; शरीर, इन्द्रियाँ, प्राण, मनसे एकता माननेसे वह ‘जीवभूत’ हुआ है—यह जीवपना नाटकके पात्रकी तरह बनावटी है। भगवान् जीवको अपना मानते ही नहीं, जानते भी हैं; इसमें प्रकृतिका किंचिन्मात्र अंश नहीं। मन-इन्द्रियाँ प्रकृतिके अंश हैं और प्रकृतिमें ही स्थित हैं; उन्हें अपनी ओर खींचना, अपना मानना ही जीवकी भूल है। भगवत्प्राप्तिका सुगम और श्रेष्ठ साधन है अहंता-ममताका परिवर्तन—‘मैं भगवान्का हूँ’ और ‘भगवान् ही मेरे हैं’।"
+   },
+   "points": [
+    {
+     "en": "Give the world’s things to the world and God’s to God: that honesty is liberation, and taking both for oneself is the dishonesty called bondage.",
+     "hi": "संसारकी चीज संसारको और परमात्माकी चीज परमात्माको देना ईमानदारी है—यही मुक्ति; दोनोंको अपना लेना बेईमानी—यही बन्धन।"
+    },
+    {
+     "en": "Three things to accept: the body is not mine, since I have no control over it; I need nothing; I have nothing to do for myself.",
+     "hi": "तीन बातें मान लें: शरीर मेरा नहीं (इसपर वश नहीं चलता), मुझे कुछ नहीं चाहिये, मुझे अपने लिये कुछ नहीं करना है।"
+    },
+    {
+     "en": "The farthest thing from us is the body and the nearest is God, but desire, mineness and identification make it look the other way round.",
+     "hi": "दूर-से-दूर शरीर है और नजदीक-से-नजदीक परमात्मा; कामना-ममता-तादात्म्यके कारण उलटा दीखता है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The lion cub among sheep",
+      "hi": "भेड़ोंमें सिंहका बच्चा"
+     },
+     "text": {
+      "en": "A lion cub raised among sheep takes itself to be a sheep, but never becomes one. When another lion shows it their shared likeness, it knows itself. Through ‘Mine alone’, Krishna reminds the jiva that it is His part and was never really prakriti’s.",
+      "hi": "भेड़ोंमें पला सिंहका बच्चा अपनेको भेड़ मान लेता है, पर भेड़ नहीं हो जाता; ऐसे ही भगवान् ‘मम एव’ कहकर जीवको बोध कराते हैं कि तू मेरा ही अंश है।"
+     },
+     "quote": {
+      "hi": "जैसे सिंहका बच्चा भेड़ोंमें मिलकर अपनेको भेड़ मान ले, ऐसे ही जीव शरीरादि जड पदार्थोंके साथ मिलकर अपने असली चेतनस्वरूपको भूल जाता है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The actor playing Meghanada",
+      "hi": "मेघनादका स्वाँग"
+     },
+     "text": {
+      "en": "An actor tells thousands of spectators ‘I am Meghanada, Ravana’s son’ and acts the part fully, yet inside he always knows it is a role. A seeker should likewise do his duties in the world’s theatre while inwardly remembering ‘I am God’s’.",
+      "hi": "नाटकका पात्र ‘मैं मेघनाद हूँ’ कहकर पूरा अभिनय करता है, पर भीतर जानता है कि यह स्वाँग है; ऐसे ही साधक कर्तव्य करते हुए भीतर ‘मैं भगवान्का हूँ’ यह भाव जाग्रत् रखे।"
+     },
+     "quote": {
+      "hi": "नाटकका पात्र हजारों दर्शकोंके सामने यह कहता है कि ‘मैं रावणका बेटा मेघनाद हूँ’ और मेघनादकी तरह ही वह बाहरी सब क्रियाएँ करता है। परन्तु उसके भीतर यह भाव हरदम रहता है कि यह तो स्वाँग है; वास्तवमें मैं मेघनाद हूँ ही नहीं।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "identity",
+     "text": {
+      "en": "Intern, founder, daughter, team captain: play each role fully, the way an actor plays a part, while underneath knowing ‘I am God’s’. The roles change; that does not.",
+      "hi": "इंटर्न, फाउंडर, बेटी, कप्तान—हर भूमिका पूरी निभाइये, पर भीतर ‘मैं भगवान्का हूँ’ याद रखिये; भूमिकाएँ बदलती हैं, यह नहीं।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "This is the chapter’s second subject, the jiva. It names the single mistake behind bondage and the single shift that ends it.",
+    "hi": "यह इस अध्यायका दूसरा विषय—जीव है; बन्धनकी मूल भूल और उसे मिटानेका परिवर्तन—दोनों यहाँ स्पष्ट हैं।"
+   },
+   "terms": [
+    {
+     "sa": "मम एव अंश:",
+     "meaning": {
+      "en": "My own part",
+      "hi": "मेरा ही अंश"
+     }
+    },
+    {
+     "sa": "जीवलोके",
+     "meaning": {
+      "en": "in this world of beings",
+      "hi": "इस संसारमें"
+     }
+    },
+    {
+     "sa": "जीवभूत:",
+     "meaning": {
+      "en": "having become the jiva",
+      "hi": "जीव बना हुआ"
+     }
+    },
+    {
+     "sa": "सनातन:",
+     "meaning": {
+      "en": "eternal",
+      "hi": "सनातन"
+     }
+    },
+    {
+     "sa": "मन:षष्ठानि इन्द्रियाणि",
+     "meaning": {
+      "en": "the mind and the five senses",
+      "hi": "मन और पाँचों इन्द्रियोंको"
+     }
+    },
+    {
+     "sa": "प्रकृतिस्थानि",
+     "meaning": {
+      "en": "residing in prakriti",
+      "hi": "प्रकृतिमें स्थित"
+     }
+    },
+    {
+     "sa": "कर्षति",
+     "meaning": {
+      "en": "draws (takes as its own)",
+      "hi": "आकर्षित करता है (अपना मान लेता है)"
+     }
+    }
+   ],
+   "concepts": [
+    "atma",
+    "ishvara",
+    "prakriti",
+    "bhakti"
+   ],
+   "related": [
+    "7.5",
+    "15.4",
+    "16.20",
+    "12.20",
+    "18.64",
+    "15.18",
+    "14.27",
+    "6.5",
+    "7.14",
+    "13.19"
+   ]
+  },
+  {
+   "id": "15.15",
+   "headline": {
+    "en": "I dwell in every heart",
+    "hi": "मैं सबके हृदयमें स्थित हूँ"
+   },
+   "essence": {
+    "en": "God is seated in every heart; memory, knowledge and the removal of doubt come from Him, and He alone is what the Vedas teach.",
+    "hi": "भगवान् सबके हृदयमें स्थित हैं; स्मृति, ज्ञान और संशयका नाश उन्हींसे होता है और सब वेदोंसे जाननेयोग्य वे ही हैं।"
+   },
+   "idea": {
+    "en": "God is present everywhere, but He is especially present in the heart, where all feelings arise, and feeling is what matters most in every act. Because He is so near, no one should despair of reaching Him: sinner or saint, learned or not, poor or rich, of any caste, community or country, everyone is fully entitled. What is needed is only an intense longing. He is always already attained; only our assumed relation with the inert world makes Him seem far. He cannot be bought by any practice or qualification, for what is bought is worth less than its price; He is realised when dependence on the inert is given up.",
+    "hi": "भगवान् सर्वत्र हैं, पर हृदयमें विशेषरूपसे; सब भाव हृदयमें होते हैं और कर्मोंमें भाव ही प्रधान है। भगवान् इतने नजदीक हैं, इसलिये पापी-पुण्यात्मा, मूर्ख-पण्डित, निर्धन-धनवान्, किसी भी जाति, वर्ण, देशका कोई भी हो, भगवत्प्राप्तिका पूरा अधिकारी है; आवश्यकता केवल तीव्र अभिलाषाकी है। परमात्मा नित्यप्राप्त हैं; जडतासे माने हुए सम्बन्धके कारण अप्राप्त प्रतीत होते हैं। वे किसी साधन या योग्यताके बदलेमें नहीं मिलते; जडताके त्यागसे मिलते हैं।"
+   },
+   "points": [
+    {
+     "en": "Smriti is the direct realisation ‘I am God’s alone, not the world’s’. It arises in the self, not the intellect, so once awakened it is not lost.",
+     "hi": "‘मैं भगवान्का ही हूँ, संसारका नहीं’—ऐसा अनुभव ही स्मृति है; यह ‘स्वयं’ में होती है, इसलिये फिर विस्मृति नहीं होती।"
+    },
+    {
+     "en": "Doubts such as ‘are the scriptures true? who has seen God?’ are removed only by His grace, as Arjuna acknowledges in 18.73.",
+     "hi": "‘शास्त्र सत्य हैं या नहीं? भगवान्को किसने देखा?’—ऐसे संशय भगवत्कृपासे ही मिटते हैं (१८। ७३)।"
+    },
+    {
+     "en": "Appendix: 15.7 shows God is ‘mine’; this verse shows He is ‘in me’, so there is no need to go anywhere else to find Him.",
+     "hi": "‘ममैवांश:’ से भगवान् ‘अपने’ और यहाँ ‘हृदि सन्निविष्ट:’ से ‘अपनेमें’ सिद्ध हुए; उन्हें पानेके लिये कहीं जाना नहीं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Milk and well water",
+      "hi": "गायका दूध और कुएँका जल"
+     },
+     "text": {
+      "en": "Milk pervades a cow’s whole body but is drawn only from the udder; water lies everywhere under the earth but is drawn from a well. God pervades everything but is found in the heart.",
+      "hi": "दूध गायके पूरे शरीरमें व्याप्त है, पर स्तनोंसे मिलता है; जल पृथ्वीमें सर्वत्र है, पर कुएँसे मिलता है; ऐसे ही परमात्मा हृदयमें प्राप्त होते हैं।"
+     },
+     "quote": {
+      "hi": "जैसे गायके सम्पूर्ण शरीरमें दूध व्याप्त होनेपर भी वह उसके स्तनोंसे ही प्राप्त होता है अथवा पृथ्वीमें सर्वत्र जल रहनेपर भी वह कुएँ आदिसे ही प्राप्त होता है,"
+     },
+     "from": "commentary"
+    }
+   ],
+   "whyItMatters": {
+    "en": "No one is disqualified from God: He is already within, and what is required is longing, not credentials.",
+    "hi": "भगवत्प्राप्तिसे कोई वंचित नहीं—भगवान् भीतर ही हैं; योग्यता नहीं, लगन चाहिये।"
+   },
+   "terms": [
+    {
+     "sa": "सर्वस्य हृदि सन्निविष्ट:",
+     "meaning": {
+      "en": "seated in the heart of all",
+      "hi": "सबके हृदयमें स्थित"
+     }
+    },
+    {
+     "sa": "स्मृति:",
+     "meaning": {
+      "en": "memory (of one’s relation with God)",
+      "hi": "स्मृति"
+     }
+    },
+    {
+     "sa": "ज्ञानम्",
+     "meaning": {
+      "en": "knowledge",
+      "hi": "ज्ञान"
+     }
+    },
+    {
+     "sa": "अपोहनम्",
+     "meaning": {
+      "en": "removal of doubt and error",
+      "hi": "संशय आदि दोषोंका नाश"
+     }
+    },
+    {
+     "sa": "वेद्य:",
+     "meaning": {
+      "en": "to be known",
+      "hi": "जाननेयोग्य"
+     }
+    },
+    {
+     "sa": "वेदान्तकृत्",
+     "meaning": {
+      "en": "who settles the meaning of the Vedas",
+      "hi": "वेदोंके तत्त्वका निर्णय करनेवाला"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "jnana",
+    "bhakti",
+    "atma"
+   ],
+   "related": [
+    "13.17",
+    "18.61",
+    "18.73",
+    "11.43",
+    "15.7",
+    "15.1"
+   ]
+  },
+  {
+   "id": "15.19",
+   "headline": {
+    "en": "Whoever knows Me as the Supreme Person worships Me with his whole being",
+    "hi": "पुरुषोत्तमको जाननेवाला सर्वभावसे भजन करता है"
+   },
+   "essence": {
+    "en": "Free of delusion, one who knows Me as Purushottama knows everything, and worships Me in every way.",
+    "hi": "मोहरहित होकर मुझे पुरुषोत्तम जाननेवाला सर्ववित् है और सब प्रकारसे मेरा ही भजन करता है।"
+   },
+   "idea": {
+    "en": "This verse concludes the purpose of the chapter: the unswerving devotion of 14.26. Being free of delusion means experiencing one’s real relation with God; delusion is relating to perishable things through liking and disliking. To know Him as Purushottama is to turn to Him as supreme and take Him alone as one’s own. If any pull of the world remains, Swamiji says, God has not yet been firmly accepted. Such a person, however little educated, is ‘all-knowing’, since nothing is left to know, and every one of his activities becomes worship. In devotion, firmly accepting something without the least doubt is itself knowing.",
+    "hi": "चौदहवें अध्यायके छब्बीसवें श्लोककी अव्यभिचारिणी भक्तिका यहाँ उपसंहार है। अंशी परमात्माके वास्तविक सम्बन्धका अनुभव करना ही असम्मूढ़ होना है; नाशवान्से राग-द्वेषपूर्वक सम्बन्ध मानना ही मोह है। पुरुषोत्तमको सर्वोपरि मानकर उनके सम्मुख होना और केवल उन्हींको अपना मानना ही उन्हें यथार्थ जानना है। संसारका थोड़ा भी खिंचाव है तो समझना चाहिये कि अभी भगवान्को दृढ़तासे माना नहीं। ऐसा व्यक्ति कितना ही कम पढ़ा हो, सर्ववित् है; उसकी हर क्रिया भजन होती है। भक्तिमार्गमें सन्देहरहित दृढ़ मानना ही जानना है।"
+   },
+   "points": [
+    {
+     "en": "Knowing God as beyond the perishable turns the mind (attachment) to Him; knowing Him as higher than the imperishable turns the intellect (faith) to Him.",
+     "hi": "भगवान्को क्षरसे अतीत जाननेसे मन (राग) और अक्षरसे उत्तम जाननेसे बुद्धि (श्रद्धा) भगवान्में लग जाती है।"
+    },
+    {
+     "en": "Appendix: in the Gita the word ‘all-knowing’ is used only for the devotee, who knows the complete (samagra) God.",
+     "hi": "गीतामें ‘सर्ववित्’ शब्द केवल भक्तके लिये आया है, जो समग्र भगवान्को जानता है।"
+    }
+   ],
+   "examples": [],
+   "whyItMatters": {
+    "en": "It shows that knowledge and devotion meet: truly knowing God is inseparable from loving Him with everything.",
+    "hi": "ज्ञान और भक्ति यहाँ एक हो जाते हैं—भगवान्को यथार्थ जानना ही सर्वभावसे भजन है।"
+   },
+   "terms": [
+    {
+     "sa": "असम्मूढ:",
+     "meaning": {
+      "en": "free of delusion",
+      "hi": "मोहरहित"
+     }
+    },
+    {
+     "sa": "पुरुषोत्तमम्",
+     "meaning": {
+      "en": "the Supreme Person",
+      "hi": "पुरुषोत्तम"
+     }
+    },
+    {
+     "sa": "जानाति",
+     "meaning": {
+      "en": "knows",
+      "hi": "जानता है"
+     }
+    },
+    {
+     "sa": "सर्ववित्",
+     "meaning": {
+      "en": "all-knowing",
+      "hi": "सर्वज्ञ"
+     }
+    },
+    {
+     "sa": "सर्वभावेन",
+     "meaning": {
+      "en": "in every way, with one’s whole being",
+      "hi": "सब प्रकारसे"
+     }
+    },
+    {
+     "sa": "भजति",
+     "meaning": {
+      "en": "worships",
+      "hi": "भजन करता है"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "ishvara",
+    "purusha",
+    "jnana"
+   ],
+   "related": [
+    "14.26",
+    "15.18",
+    "10.8",
+    "10.3",
+    "9.11",
+    "6.31"
+   ]
+  },
+  {
+   "id": "16.1",
+   "headline": {
+    "en": "The first marks of the divine nature",
+    "hi": "दैवी सम्पत्तिके प्रथम लक्षण"
+   },
+   "essence": {
+    "en": "Fearlessness, inner purity, steadiness in yoga for knowledge, charity, self-restraint, sacrifice, study, austerity and straightforwardness mark the divine nature.",
+    "hi": "अभय, अन्त:करणकी शुद्धि, ज्ञानके लिये योगमें स्थिति, दान, दम, यज्ञ, स्वाध्याय, तप और सरलता दैवी सम्पत्तिके लक्षण हैं।"
+   },
+   "idea": {
+    "en": "Once God alone becomes one’s aim (15.19), divine qualities begin to appear on their own; verses 1–3 describe them as inner disposition, conduct and influence. Fear comes from the prospect of losing the body or possessions. When one sees that the body is perishable anyway and that oneself is God’s imperishable part, fear goes. Some ‘fear’ is healthy: the fear of failing in duty or going against elders and scripture keeps one on the path and makes one fearless. True inner purity is losing attachment to the world and loving God, and the best way to it is not to take the inner instrument as one’s own.",
+    "hi": "एकमात्र भगवान्का उद्देश्य होनेपर (१५। १९) दैवी सम्पत्ति स्वत: प्रकट होने लगती है; पहले तीन श्लोकोंमें भाव, आचरण और प्रभावको लेकर उसका वर्णन है। भय शरीर और पदार्थोंके नाशकी आशंकासे होता है; शरीर नाशवान् है और मैं परमात्माका अविनाशी अंश हूँ—यह विवेक होनेपर भय मिट जाता है। कर्तव्यसे च्युत होने, गुरुजनोंकी आज्ञाकी अवहेलना और शास्त्र-विरुद्ध आचरणका भय तो अभय बनानेवाला है। संसारसे राग हटकर भगवान्में अनुराग होना ही अन्त:करणकी सम्यक् शुद्धि है; उसका सबसे बढिय़ा उपाय है अन्त:करणको अपना न मानना।"
+   },
+   "points": [
+    {
+     "en": "Keeping spiritual practice and business in separate compartments, and allowing oneself lies and deceit in business, badly pollutes the mind.",
+     "hi": "साधन-भजन और व्यापारको अलग विभाग मानकर व्यवहारमें झूठ-कपटकी छूट लेनेसे अन्त:करण बहुत अशुद्ध होता है।"
+    },
+    {
+     "en": "Resolve never to repeat a wrong, and forgive whoever harmed you without waiting to be asked; this purifies the heart.",
+     "hi": "भूलसे हुए दुष्कर्मको फिर न करनेका व्रत लें और बुरा करनेवालेको क्षमा माँगे बिना क्षमा कर दें—इससे अन्त:करण शुद्ध होता है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Ravana afraid",
+      "hi": "डरता हुआ रावण"
+     },
+     "text": {
+      "en": "Humans, gods and demons all feared Ravana, yet when he went to abduct Sita, Ravana himself was afraid. Wrongdoing weakens the heart; one who purifies his conduct loses his fear.",
+      "hi": "सब रावणसे डरते थे, पर सीताहरणके लिये जाते समय रावण स्वयं डरता है; अन्याय करनेवालेका हृदय कमजोर हो जाता है।"
+     },
+     "quote": {
+      "hi": "जैसे, रावणसे मनुष्य, देवता, यक्ष, राक्षस आदि सभी डरते थे, पर वही रावण जब सीताका हरण करनेके लिये जाता है, तब वह डरता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "work",
+     "text": {
+      "en": "A dishonest shortcut at work comes with a constant low hum of fear about being found out. Swamiji’s point is that the one who does wrong is the one who lives afraid.",
+      "hi": "काममें बेईमानीका शॉर्टकट पकड़े जानेके भयकी धीमी गूँज साथ लाता है; अन्याय करनेवाला ही भयमें जीता है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Fearlessness heads the list because it follows directly from knowing that one belongs to God and not to perishable things.",
+    "hi": "अभय सबसे पहले इसलिये है कि वह ‘मैं परमात्माका अंश हूँ, नाशवान्का नहीं’—इस विवेकसे सीधा प्रकट होता है।"
+   },
+   "terms": [
+    {
+     "sa": "अभयम्",
+     "meaning": {
+      "en": "complete fearlessness",
+      "hi": "भयका सर्वथा अभाव"
+     }
+    },
+    {
+     "sa": "सत्त्वसंशुद्धि:",
+     "meaning": {
+      "en": "complete purity of the inner self",
+      "hi": "अन्त:करणकी अत्यन्त शुद्धि"
+     }
+    },
+    {
+     "sa": "ज्ञानयोगव्यवस्थिति:",
+     "meaning": {
+      "en": "steadiness in yoga for the sake of knowledge",
+      "hi": "ज्ञानके लिये योगमें दृढ़ स्थिति"
+     }
+    },
+    {
+     "sa": "दम:",
+     "meaning": {
+      "en": "restraint of the senses",
+      "hi": "इन्द्रियोंका दमन"
+     }
+    },
+    {
+     "sa": "तप:",
+     "meaning": {
+      "en": "bearing hardship for the sake of duty",
+      "hi": "कर्तव्य-पालनके लिये कष्ट सहना"
+     }
+    },
+    {
+     "sa": "आर्जवम्",
+     "meaning": {
+      "en": "straightforwardness of body, mind and speech",
+      "hi": "शरीर-मन-वाणीकी सरलता"
+     }
+    }
+   ],
+   "concepts": [
+    "dharma",
+    "yajna",
+    "bhakti",
+    "viveka"
+   ],
+   "related": [
+    "15.19",
+    "1.13",
+    "1.19"
+   ]
+  },
+  {
+   "id": "16.5",
+   "headline": {
+    "en": "The divine frees and the demonic binds, and you are born to the divine",
+    "hi": "दैवी मुक्ति देती है, आसुरी बाँधती है—तुम दैवीको प्राप्त हो"
+   },
+   "essence": {
+    "en": "The divine nature leads to liberation and the demonic to bondage. Arjuna, you are born with the divine; do not grieve.",
+    "hi": "दैवी सम्पत्ति मुक्तिके लिये और आसुरी बन्धनके लिये है; अर्जुन, तुम दैवी सम्पत्तिको प्राप्त हो, शोक मत करो।"
+   },
+   "idea": {
+    "en": "The more clearly a seeker holds ‘I must go only towards God’, the more he turns away from the world; demonic faults recede and divine virtues emerge. The divine nature is not only for oneself but for the welfare of all beings. Good qualities held while one’s sense of ‘I’ still says ‘let my body last, let me be comfortable’ are not wasted, but they do not liberate; at most they bring higher worlds. Hearing all this, Arjuna might think ‘I don’t see divine qualities in myself’, so Krishna reassures him, and every seeker through him: do not despair about your practice.",
+    "hi": "‘मुझे भगवान्की तरफ ही चलना है’—यह भाव जितना स्पष्ट होता है, उतना संसारसे विमुखता आती है; आसुरी दुर्गुण घटते और दैवी सद्गुण प्रकट होते हैं। दैवी सम्पत्ति केवल अपने लिये नहीं, प्राणिमात्रके कल्याणके लिये है। जबतक अहंतामें ‘मेरा शरीर बना रहे, मुझे सुख-आराम मिले’ बैठा है, तबतक ऊपरसे भरे गुण मुक्तिदायक नहीं होते, ऊँचे लोक भले दें। अर्जुनको शंका न हो कि मुझमें दैवी सम्पत्ति दीखती ही नहीं, इसलिये भगवान् उन्हें—और उनके द्वारा साधकमात्रको—आश्वासन देते हैं कि शोक मत करो।"
+   },
+   "points": [
+    {
+     "en": "Appendix: the root fault is accepting the body and world as real and important and relating to them; the root virtue is accepting God’s reality and importance and relating to Him.",
+     "hi": "मूल दोष—शरीर-संसारकी सत्ता-महत्ता मानकर उससे सम्बन्ध जोड़ना; मूल गुण—भगवान्की सत्ता-महत्ता मानकर उनसे सम्बन्ध जोड़ना।"
+    },
+    {
+     "en": "Pride in one’s virtues turns even the divine qualities into fuel for the demonic.",
+     "hi": "अभिमान होनेसे दैवी सम्पत्ति भी आसुरी सम्पत्तिको बढ़ानेवाली बन जाती है।"
+    },
+    {
+     "en": "‘Do not grieve’ appears twice in the Gita: here, about the means, and in 18.66, about the goal.",
+     "hi": "गीतामें ‘मा शुच:’ दो बार है—यहाँ साधनके विषयमें और १८। ६६ में सिद्धिके विषयमें।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The seed in the soil",
+      "hi": "मिट्टीमें बीज"
+     },
+     "text": {
+      "en": "Soil, water, air and sun all nourish whatever seed is planted, and it grows into a tree of its own kind. Good deeds done while worldly seeds lie in one’s sense of ‘I’ likewise nourish those seeds and bear their fruit, not liberation.",
+      "hi": "मिट्टी, जल, हवा, धूप बीजको ही पुष्ट करते हैं और उसी जातिका वृक्ष-फल होता है; ऐसे ही अहंतामें संसारके बीज रखकर किया शुभकर्म उन्हीं बीजोंको पुष्ट करता है।"
+     },
+     "quote": {
+      "hi": "जैसे बीजको मिट्टीमें मिला देनेपर मिट्टी, जल, हवा, धूप—ये सभी उस बीजको ही पुष्ट करते हैं; आकाश भी उसे अवकाश देता है; बीजसे उसी जातिका वृक्ष पैदा होता है और उस वृक्षमें उसी जातिके फल लगते हैं।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The roasted seed",
+      "hi": "भुना हुआ बीज"
+     },
+     "text": {
+      "en": "A roasted or boiled seed will not sprout; the earth simply absorbs it. When one firmly resolves ‘I want only God’, the worldly seeds in one’s sense of ‘I’ are destroyed in the same way.",
+      "hi": "भुना या उबला बीज अंकुर नहीं देता; ऐसे ही केवल परमात्मप्राप्तिका दृढ़ निश्चय होनेपर अहंतामेंसे संसारके बीज नष्ट हो जाते हैं।"
+     },
+     "quote": {
+      "hi": "जैसे बीजको भून दिया जाय या उबाल दिया जाय, तो वह बीज अंकुर नहीं देगा"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "self-doubt",
+     "text": {
+      "en": "The seeker who worries ‘I have no good qualities’ is often the one whose virtues no longer stand out to himself. Swamiji reads Krishna’s ‘do not grieve’ as addressed to exactly that worry.",
+      "hi": "‘मुझमें कोई अच्छाई नहीं’—यह चिन्ता प्राय: उसीको होती है, जिसे अपने गुण दीखने बन्द हो गये; भगवान्का ‘मा शुच:’ इसी चिन्ताके लिये है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It gives the whole chapter its direction: the aim is liberation, and the seeker is encouraged rather than frightened.",
+    "hi": "पूरे अध्यायकी दिशा यहीं स्पष्ट है—लक्ष्य मुक्ति है और साधकको डराया नहीं, उत्साहित किया गया है।"
+   },
+   "terms": [
+    {
+     "sa": "दैवी सम्पत्",
+     "meaning": {
+      "en": "the divine endowment",
+      "hi": "दैवी सम्पत्ति"
+     }
+    },
+    {
+     "sa": "विमोक्षाय",
+     "meaning": {
+      "en": "for liberation",
+      "hi": "मुक्तिके लिये"
+     }
+    },
+    {
+     "sa": "आसुरी",
+     "meaning": {
+      "en": "the demonic (endowment)",
+      "hi": "आसुरी सम्पत्ति"
+     }
+    },
+    {
+     "sa": "निबन्धाय",
+     "meaning": {
+      "en": "for bondage",
+      "hi": "बन्धनके लिये"
+     }
+    },
+    {
+     "sa": "अभिजात: असि",
+     "meaning": {
+      "en": "you are born with",
+      "hi": "प्राप्त हुए हो"
+     }
+    },
+    {
+     "sa": "मा शुच:",
+     "meaning": {
+      "en": "do not grieve",
+      "hi": "शोक मत करो"
+     }
+    }
+   ],
+   "concepts": [
+    "moksha",
+    "bhakti",
+    "dharma",
+    "ahankara"
+   ],
+   "related": [
+    "18.66",
+    "16.16",
+    "16.19",
+    "16.20",
+    "8.16",
+    "13.21",
+    "9.13",
+    "12.7"
+   ]
+  },
+  {
+   "id": "16.6",
+   "headline": {
+    "en": "Two kinds of beings: facing God, or facing matter",
+    "hi": "दो तरहकी सृष्टि—चेतनके सम्मुख या जडके"
+   },
+   "essence": {
+    "en": "There are only two kinds of beings here, divine and demonic; having described the divine at length, Krishna now turns to the demonic.",
+    "hi": "इस लोकमें दो ही तरहके प्राणी हैं—दैवी और आसुरी; दैवीका विस्तारसे वर्णन करके भगवान् अब आसुरीका वर्णन करते हैं।"
+   },
+   "idea": {
+    "en": "Every being has a conscious part from God and an inert part from prakriti. When the conscious part faces the changing inert part, the demonic nature comes; when it turns away from prakriti towards God alone, the divine nature awakens. Divine qualities are natural to the jiva because it is God’s part; demonic ones are made by oneself. Only the human body has the discernment to give up the demonic nature fully. The seed of good feeling is never destroyed, because it is real (2.16), while bad feelings are born of bad company and cannot last.",
+    "hi": "प्राणिमात्रमें परमात्माका चेतन और प्रकृतिका जड—दोनों अंश हैं। चेतन अंश परिवर्तनशील जडके सम्मुख होता है तो आसुरी सम्पत्ति और केवल परमात्माके सम्मुख होता है तो दैवी सम्पत्ति जाग्रत् होती है। जीव परमात्माका अंश है, इसलिये दैवी सम्पत्ति स्वाभाविक है और आसुरी अपनी बनायी हुई। आसुर स्वभावके त्यागकी विवेकशक्ति मुख्यत: मनुष्यशरीरमें ही है। सद्भावका बीज कभी नष्ट नहीं होता, क्योंकि वह ‘सत्’ है; दुर्भाव कुसंगसे उत्पन्न होते हैं, इसलिये नित्य नहीं।"
+   },
+   "points": [
+    {
+     "en": "Actions follow one’s sense of ‘I’, and actions in turn harden it: ‘I am truthful’ leads to truth-telling and becomes firmer, while ‘I am worldly, my job is to enjoy and hoard’ makes lying easy and then seem unavoidable.",
+     "hi": "अहंताके अनुरूप प्रवृत्ति और प्रवृत्तिसे अहंताकी दृढ़ता होती है—‘मैं सत्यवादी हूँ’ से सत्यनिष्ठा दृढ़ होती है, ‘मैं संसारी हूँ’ से झूठ-कपट सहज और फिर ‘अनिवार्य’ लगने लगते हैं।"
+    },
+    {
+     "en": "Those who do some worship while still relishing enjoyment and hoarding, and think them necessary, cannot really be called seekers.",
+     "hi": "जो भजन-स्मरणके साथ भोग-संग्रहमें सुख लेते और उसे आवश्यक समझते हैं, वे वास्तवमें साधक नहीं कहे जा सकते।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Even the cruellest has compassion",
+      "hi": "कसाईमें भी दया"
+     },
+     "text": {
+      "en": "Even the cruellest butcher has some compassion, and even the worst thief some honesty. No one is without divine qualities, because every being is a part of God.",
+      "hi": "क्रूर-से-क्रूर कसाईमें भी दया और चोर-से-चोरमें भी साहूकारी रहती है; जीवमात्र परमात्माका अंश है, इसलिये दैवी सम्पत्तिसे रहित कोई नहीं।"
+     },
+     "quote": {
+      "hi": "क्रूर-से-क्रूर कसाईमें भी दया रहती है, चोर-से-चोरमें भी साहूकारी रहती है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "work",
+     "text": {
+      "en": "Tell yourself ‘everyone in this industry cuts corners’ and each corner you cut confirms the story. The same loop works the other way when your sense of self is ‘I am honest’.",
+      "hi": "‘इस लाइनमें सब ऐसा ही करते हैं’—यह मानकर हर गलत कदम उसी कहानीको पक्का करता है; ‘मैं ईमानदार हूँ’ की अहंतासे यही चक्र उलटा चलता है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "The divide between divine and demonic is not between fixed types of people but between two directions every person can face.",
+    "hi": "दैवी-आसुरीका भेद मनुष्योंकी स्थायी जातियोंका नहीं, दो दिशाओंका है, जिनमेंसे किसीकी ओर भी मनुष्य मुड़ सकता है।"
+   },
+   "terms": [
+    {
+     "sa": "द्वौ भूतसर्गौ",
+     "meaning": {
+      "en": "two kinds of created beings",
+      "hi": "दो तरहके प्राणियोंकी सृष्टि"
+     }
+    },
+    {
+     "sa": "लोके अस्मिन्",
+     "meaning": {
+      "en": "in this world",
+      "hi": "इस लोकमें"
+     }
+    },
+    {
+     "sa": "दैव:",
+     "meaning": {
+      "en": "divine",
+      "hi": "दैवी"
+     }
+    },
+    {
+     "sa": "आसुर:",
+     "meaning": {
+      "en": "demonic",
+      "hi": "आसुरी"
+     }
+    },
+    {
+     "sa": "विस्तरश: प्रोक्त:",
+     "meaning": {
+      "en": "has been described at length",
+      "hi": "विस्तारसे कह दिया"
+     }
+    }
+   ],
+   "concepts": [
+    "dharma",
+    "ahankara",
+    "viveka",
+    "prakriti"
+   ],
+   "related": [
+    "10.39",
+    "18.40",
+    "4.1",
+    "2.16",
+    "7.5"
+   ]
+  },
+  {
+   "id": "16.21",
+   "headline": {
+    "en": "Desire, anger and greed: the three gates of hell",
+    "hi": "काम, क्रोध, लोभ—नरकके तीन द्वार"
+   },
+   "essence": {
+    "en": "Desire, anger and greed are the three gates of hell that bring the self to ruin; therefore one should give up all three.",
+    "hi": "काम, क्रोध और लोभ जीवात्माका पतन करनेवाले नरकके तीन दरवाजे हैं; इसलिये इन तीनोंका त्याग कर देना चाहिये।"
+   },
+   "idea": {
+    "en": "Where does the demonic nature come from? From craving the world. The importance and pull we feel towards pleasures, possessions, honour and comfort lead towards hell. Of all inner enemies, desire is the root. Wanting enjoyment is kama, wanting to accumulate is lobha, and when either is blocked, anger arises; when all three grow strong, delusion follows, and with it the whole demonic nature. People aiming at enjoyment think these three help them get ahead, and that very belief is their downfall. Giving them up means not acting under their sway or with their support.",
+    "hi": "आसुरी सम्पत्ति कहाँसे आती है? संसारकी कामनासे। भोग, संग्रह, मान, बड़ाई, आराममें जो महत्त्वबुद्धि और आकर्षण है, वही नरकोंकी ओर ले जाता है। शत्रुओंमें काम ही मूल है; भोगकी इच्छा ‘काम’, संग्रहकी इच्छा ‘लोभ’ और इनमें बाधा पड़नेपर ‘क्रोध’ आता है; तीनों बढ़नेपर मोह और फिर पूरी आसुरी सम्पत्ति आ जाती है। भोग-संग्रहका उद्देश्य रखनेवाले इन तीनोंको उन्नतिका साधन मान लेते हैं—यही भाव उनका पतन कर देता है। त्याग करनेका अर्थ है इनके वशीभूत होकर, इनके आश्रित होकर कोई कार्य न करना।"
+   },
+   "points": [
+    {
+     "en": "Appendix: all sins arise from these three. People and things are left behind here, but the inner disposition carries one to hell.",
+     "hi": "सब पाप इन तीनोंसे ही होते हैं; व्यक्ति-पदार्थ यहीं छूट जाते हैं, भीतरका भाव नरकोंमें ले जाता है।"
+    }
+   ],
+   "examples": [],
+   "modern": [
+    {
+     "context": "daily life",
+     "text": {
+      "en": "Road rage, envy at a colleague’s bonus, shopping to feel better: Swamiji traces them to one root, wanting enjoyment or accumulation, with anger when it is blocked.",
+      "hi": "सड़कपर गुस्सा, सहकर्मीके बोनससे जलन, मन बहलानेके लिये खरीदारी—मूल एक ही: भोग या संग्रहकी चाह और उसमें बाधासे क्रोध।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "After a long description of the demonic nature, Krishna gives its root and remedy in a single line.",
+    "hi": "आसुरी सम्पत्तिके विस्तृत वर्णनके बाद उसका मूल और उपाय एक ही श्लोकमें बता दिया।"
+   },
+   "terms": [
+    {
+     "sa": "काम:",
+     "meaning": {
+      "en": "desire (for enjoyment)",
+      "hi": "काम"
+     }
+    },
+    {
+     "sa": "क्रोध:",
+     "meaning": {
+      "en": "anger",
+      "hi": "क्रोध"
+     }
+    },
+    {
+     "sa": "लोभ:",
+     "meaning": {
+      "en": "greed (for accumulation)",
+      "hi": "लोभ"
+     }
+    },
+    {
+     "sa": "त्रिविधम् नरकस्य द्वारम्",
+     "meaning": {
+      "en": "the threefold gate of hell",
+      "hi": "नरकके तीन प्रकारके दरवाजे"
+     }
+    },
+    {
+     "sa": "नाशनम् आत्मन:",
+     "meaning": {
+      "en": "ruinous to the self",
+      "hi": "जीवात्माका पतन करनेवाले"
+     }
+    },
+    {
+     "sa": "त्यजेत्",
+     "meaning": {
+      "en": "should give up",
+      "hi": "त्याग कर देना चाहिये"
+     }
+    }
+   ],
+   "concepts": [
+    "kama",
+    "krodha",
+    "asakti",
+    "tyaga"
+   ],
+   "related": [
+    "16.5",
+    "3.36",
+    "3.37",
+    "5.12",
+    "2.62",
+    "2.63",
+    "3.34"
+   ]
+  },
+  {
+   "id": "16.24",
+   "headline": {
+    "en": "Let scripture be your authority on what to do",
+    "hi": "कर्तव्यमें शास्त्र ही प्रमाण"
+   },
+   "essence": {
+    "en": "In deciding what should and should not be done, scripture is your authority; knowing what it prescribes, you should do your duty here.",
+    "hi": "कर्तव्य-अकर्तव्यकी व्यवस्थामें शास्त्र ही प्रमाण है; उसे जानकर तुम्हें शास्त्रविहित कर्तव्य-कर्म करना चाहिये।"
+   },
+   "idea": {
+    "en": "Those who are infatuated with their own survival do not know what to do and what to avoid, and they drift into the demonic. So keep scripture before you. Following saints whose lives accord with scripture is also following scripture; in fact scriptures themselves come from the conduct of realised souls. Arjuna had been judging sin and merit by his own opinion; Krishna tells him to take scripture as the measure. Swamiji explains that action itself does not bind. Scriptural acts done with selfishness and pride bind, and arbitrary acts against scripture degrade. Sin comes from selfishness, pride and wishing harm to others.",
+    "hi": "जिन्हें अपने प्राणोंसे मोह है, वे कर्तव्य-अकर्तव्यको न जाननेसे आसुरी सम्पत्तिमें प्रवृत्त होते हैं; इसलिये कर्तव्यके निर्णयके लिये शास्त्रको सामने रखो। शास्त्रानुसार बर्तनेवाले सन्त-महापुरुषोंके अनुसार चलना भी शास्त्रानुसार चलना है; वास्तवमें उन्हींके आचरणोंसे शास्त्र बनते हैं। अर्जुन पाप-पुण्यका निर्णय अपनी धारणासे कर रहे थे; भगवान् कहते हैं शास्त्रको प्रमाण रखो। युद्धरूप क्रिया बाँधनेवाली नहीं, स्वार्थ-अभिमानसे की गयी शास्त्रीय क्रिया बाँधती है और मनमानी क्रिया पतन करती है। पाप स्वार्थ, अभिमान और दूसरोंका अनिष्ट सोचनेसे लगता है।"
+   },
+   "points": [
+    {
+     "en": "Appendix: for someone who has not read scripture, if their aim is their own true welfare, knowledge of their duty will come; ‘necessity is the mother of invention’. Without that aim, reading scripture only increases the conceit of knowing more.",
+     "hi": "जो शास्त्र नहीं पढ़े, उनका कल्याणका उद्देश्य हो तो कर्तव्यका ज्ञान स्वत: होगा—आवश्यकता आविष्कारकी जननी है; उद्देश्य न हो तो शास्त्र पढ़नेपर भी ‘हम अधिक जानते हैं’ यह अज्ञान बढ़ेगा।"
+    }
+   ],
+   "examples": [],
+   "whyItMatters": {
+    "en": "It closes the account of the demonic nature with the remedy Swamiji names: that nature fades through conduct guided by scripture.",
+    "hi": "आसुरी स्वभाव शास्त्रके अनुसार आचरण करनेसे ही मिटेगा—इसी उपायसे अध्यायका उपसंहार है।"
+   },
+   "terms": [
+    {
+     "sa": "शास्त्रम् प्रमाणम्",
+     "meaning": {
+      "en": "scripture is the authority",
+      "hi": "शास्त्र ही प्रमाण है"
+     }
+    },
+    {
+     "sa": "कार्याकार्यव्यवस्थितौ",
+     "meaning": {
+      "en": "in deciding what to do and what not to do",
+      "hi": "कर्तव्य-अकर्तव्यकी व्यवस्थामें"
+     }
+    },
+    {
+     "sa": "ज्ञात्वा",
+     "meaning": {
+      "en": "having known",
+      "hi": "जानकर"
+     }
+    },
+    {
+     "sa": "शास्त्रविधानोक्तम् कर्म",
+     "meaning": {
+      "en": "duty ordained by scripture",
+      "hi": "शास्त्रविधिसे नियत कर्तव्य-कर्म"
+     }
+    },
+    {
+     "sa": "कर्तुम् अर्हसि",
+     "meaning": {
+      "en": "you ought to do",
+      "hi": "करने योग्य है"
+     }
+    }
+   ],
+   "concepts": [
+    "dharma",
+    "svadharma",
+    "karma",
+    "shraddha"
+   ],
+   "related": [
+    "16.7",
+    "16.23",
+    "2.32",
+    "18.47"
+   ]
+  },
+  {
+   "id": "17.3",
+   "headline": {
+    "en": "A person is made of faith: as the faith, so the person",
+    "hi": "जो जैसी श्रद्धावाला, वही उसका स्वरूप"
+   },
+   "essence": {
+    "en": "Everyone’s faith matches their inner nature; a person is made of faith, and whatever one’s faith is, that is what one is.",
+    "hi": "सबकी श्रद्धा अन्त:करणके अनुरूप होती है; मनुष्य श्रद्धामय है—जो जैसी श्रद्धावाला है, वही उसका स्वरूप है।"
+   },
+   "idea": {
+    "en": "‘Sattva’ here means the inner instrument: faith follows the sattvic, rajasic or tamasic impressions in it. This holds for everyone, whether they know scripture or not, of any caste, community or country. Every inclination and every destination follows one’s faith; even if a person does not look like it today, in time he becomes so. Faith is accepting with reverence what we do not know by our own experience, hearing it from scripture and saints. Sattvic faith leads towards God, rajasic and tamasic faith towards the world. Beneath all acquired tastes, everyone’s natural wish is to be free of all sorrow and gain lasting joy.",
+    "hi": "‘सत्त्व’ नाम अन्त:करणका है; उसमें जैसे सात्त्विक, राजस या तामस संस्कार होते हैं, वैसी श्रद्धा होती है—शास्त्र जानने-न-जाननेवाले, किसी भी जाति, सम्प्रदाय, देशके सभी मनुष्योंकी। उसकी प्रत्येक प्रवृत्ति और गति श्रद्धाके अनुसार होगी; आज वैसा न दीखे, तो भी समय पाकर वैसा बन ही जायगा। जिसे अनुभवसे नहीं जानते, पर शास्त्र-सन्तोंसे सुनकर पूज्यभावसहित विश्वास करते हैं, वह श्रद्धा है। सात्त्विकी श्रद्धा परमात्माकी ओर और राजसी-तामसी संसारकी ओर लगाती है। सब रुचियोंके मूलमें सबकी स्वाभाविक रुचि है—सब दु:खोंसे छूटकर सदाका महान् सुख पाना।"
+   },
+   "points": [
+    {
+     "en": "Every being takes someone as greater and leans on them; even a creeper climbs only by holding on to something. Follow greatness to where it ends, and that is God.",
+     "hi": "सभी प्राणी किसीको बड़ा मानकर उसका सहारा लेते हैं—लता भी सहारेसे चढ़ती है; बड़प्पनकी जहाँ समाप्ति हो, वही ईश्वर है।"
+    },
+    {
+     "en": "Three kinds of faith: worldly, where pleasure dominates; religious, where feeling dominates; and spiritual, where truth dominates. The last is real faith.",
+     "hi": "सांसारिक श्रद्धामें भोगकी, धार्मिकमें भावकी और पारमार्थिक श्रद्धामें तत्त्वकी प्रधानता है; पारमार्थिक ही वास्तविक श्रद्धा है।"
+    },
+    {
+     "en": "Appendix: ‘I am a seeker’ held with ill will breeds pride; held with good will it becomes self-respect, which is ashamed to act against one’s practice.",
+     "hi": "‘मैं साधक हूँ’—असद्भावसे अभिमान और सद्भावसे स्वाभिमान होता है, जिससे साधन-विरुद्ध काम करनेमें लज्जा होती है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Faith in money",
+      "hi": "रुपयोंपर श्रद्धा"
+     },
+     "text": {
+      "en": "A person comes to have deep faith in money because as a child he saw that sweets and toys came from coins. Seeing this again and again he made money the main thing, and that misplaced faith leads downward.",
+      "hi": "बचपनमें खाने-खेलनेकी चीजें पैसोंसे मिलती देखकर मनुष्य पैसोंको ही मुख्य मानकर उनपर श्रद्धा कर लेता है—यह श्रद्धाका दुरुपयोग है।"
+     },
+     "quote": {
+      "hi": "जैसे, संसारमें यह रुपयोंपर विशेष श्रद्धा करता है कि इनसे सब कुछ मिल जाता है। यह श्रद्धा कैसे हुई? कारण कि बचपनमें खाने और खेलनेके पदार्थ पैसोंसे मिलते थे।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "career",
+     "text": {
+      "en": "Whatever you quietly believe will make you whole, whether a title, a bank balance or someone’s approval, is your faith in this verse’s sense, and it is shaping who you are becoming.",
+      "hi": "जिस चीजको आप भीतरसे मानते हैं कि वह आपको पूर्ण कर देगी—पद, बैंक-बैलेंस या किसीकी स्वीकृति—वही आपकी श्रद्धा है और वही आपको गढ़ रही है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "The whole chapter rests on this verse: because we become what we trust, choosing sattvic faith is choosing our direction.",
+    "hi": "पूरा अध्याय इसी श्लोकपर टिका है—हम जिसपर श्रद्धा करते हैं, वैसे ही बनते हैं; इसलिये सात्त्विकी श्रद्धा अपनाना दिशा चुनना है।"
+   },
+   "terms": [
+    {
+     "sa": "सत्त्वानुरूपा",
+     "meaning": {
+      "en": "in keeping with one’s inner nature",
+      "hi": "अन्त:करणके अनुरूप"
+     }
+    },
+    {
+     "sa": "श्रद्धा",
+     "meaning": {
+      "en": "faith",
+      "hi": "श्रद्धा"
+     }
+    },
+    {
+     "sa": "श्रद्धामय:",
+     "meaning": {
+      "en": "made of faith",
+      "hi": "श्रद्धामय"
+     }
+    },
+    {
+     "sa": "य: यच्छ्रद्ध:",
+     "meaning": {
+      "en": "whatever faith one has",
+      "hi": "जो जैसी श्रद्धावाला है"
+     }
+    },
+    {
+     "sa": "स: एव स:",
+     "meaning": {
+      "en": "that indeed is what he is",
+      "hi": "वही उसका स्वरूप है"
+     }
+    }
+   ],
+   "concepts": [
+    "shraddha",
+    "guna",
+    "bhakti"
+   ],
+   "related": [
+    "17.1",
+    "17.2",
+    "17.4"
+   ]
+  },
+  {
+   "id": "17.15",
+   "headline": {
+    "en": "The austerity of speech",
+    "hi": "वाणीका तप"
+   },
+   "essence": {
+    "en": "Speech that agitates no one and is true, pleasant and beneficial, together with study of scripture and repeating God’s name, is the austerity of speech.",
+    "hi": "किसीको उद्विग्न न करनेवाला, सत्य, प्रिय और हितकारक भाषण तथा स्वाध्याय और नामजप आदि वाणीका तप है।"
+   },
+   "idea": {
+    "en": "Words should cause no agitation or unrest in anyone, now or later. Truth means saying what was read, heard, seen or concluded exactly as it is, without selfishness or pride, to help others understand. Pleasant means free of cruelty, harshness, sarcasm, slander and insult, and spoken with love, sweetly, simply and calmly. Beneficial means free of violence, envy and enmity, full of love, compassion and forgiveness, and harmful to no one now or later. Study is reading and teaching texts like the Gita and Ramayana; practice is repeating and memorising them, chanting God’s name and praying. It also includes not criticising others, not telling their faults, not chattering idly, and not reading what feeds desire and anger.",
+    "hi": "जो वाक्य वर्तमान और भविष्यमें किसीमें उद्वेग, विक्षेप, हलचल न करे, वह अनुद्वेगकर है। जैसा पढ़ा, सुना, देखा, निश्चय किया, वैसा ही स्वार्थ-अभिमान छोड़कर दूसरोंको समझानेके लिये कहना सत्य है। क्रूरता, रूखेपन, ताने, निन्दा-चुगलीसे रहित और प्रेमयुक्त, मीठे, सरल, शान्त वचन प्रिय हैं। हिंसा, डाह, द्वेषसे रहित, प्रेम-दया-क्षमासे भरा और किसीका अनिष्ट न करनेवाला वाक्य हित है। गीता, रामायण आदि पढ़ना-पढ़ाना स्वाध्याय और उनकी आवृत्ति, नामजप, स्तुति-प्रार्थना अभ्यसन है। दूसरोंकी निन्दा न करना, दोष न कहना, वृथा बकवाद न करना, काम-क्रोध बढ़ानेवाली पुस्तकें न पढ़ना भी इसीमें है।"
+   },
+   "examples": [],
+   "modern": [
+    {
+     "context": "social media",
+     "text": {
+      "en": "Before posting a hot take or a sarcastic reply, ask: is it true, is it kind, does it actually help anyone, and will it leave someone agitated? Swamiji’s four tests fit a comment box as well as a conversation.",
+      "hi": "कोई तीखी पोस्ट या व्यंग्यभरा रिप्लाई करनेसे पहले पूछें—क्या यह सत्य है, प्रिय है, हितकर है, और किसीको उद्विग्न तो नहीं करेगा? ये चार कसौटियाँ कमेंट-बॉक्सपर भी लागू हैं।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It makes austerity something done every day: every sentence we speak can be tapas.",
+    "hi": "तपको रोजमर्राका बना देता है—हर वाक्य तप बन सकता है।"
+   },
+   "terms": [
+    {
+     "sa": "अनुद्वेगकरम्",
+     "meaning": {
+      "en": "causing no agitation to anyone",
+      "hi": "किसीको भी उद्विग्न न करनेवाला"
+     }
+    },
+    {
+     "sa": "सत्यम्",
+     "meaning": {
+      "en": "truthful",
+      "hi": "सत्य"
+     }
+    },
+    {
+     "sa": "प्रियहितम्",
+     "meaning": {
+      "en": "pleasant and beneficial",
+      "hi": "प्रिय तथा हितकारक"
+     }
+    },
+    {
+     "sa": "वाक्यम्",
+     "meaning": {
+      "en": "speech",
+      "hi": "भाषण"
+     }
+    },
+    {
+     "sa": "स्वाध्यायाभ्यसनम्",
+     "meaning": {
+      "en": "study of scripture and practice (such as japa)",
+      "hi": "स्वाध्याय और अभ्यास (नामजप आदि)"
+     }
+    },
+    {
+     "sa": "वाङ्मयम् तप:",
+     "meaning": {
+      "en": "austerity of speech",
+      "hi": "वाणी-सम्बन्धी तप"
+     }
+    }
+   ],
+   "concepts": [
+    "dharma",
+    "bhakti"
+   ],
+   "related": [
+    "17.14",
+    "17.16",
+    "17.17"
+   ]
+  },
+  {
+   "id": "17.20",
+   "headline": {
+    "en": "Sattvic giving: given because it ought to be given",
+    "hi": "सात्त्विक दान—‘देना कर्तव्य है’ इस भावसे"
+   },
+   "essence": {
+    "en": "A gift given as a duty, at the right place and time, to a fit person from whom no return is expected, is sattvic.",
+    "hi": "‘देना कर्तव्य है’—इस भावसे देश, काल, पात्र प्राप्त होनेपर अनुपकारीको दिया गया दान सात्त्विक है।"
+   },
+   "idea": {
+    "en": "Giving is my duty because I have accepted things as mine, and whoever has taken them as his own carries the responsibility to give. There should be no thought of what it will bring here or hereafter. Give to the ‘anupakari’, one who has not helped you, is not helping and is unlikely ever to help. Serve those who have helped you too, but do not count that as charity, and giving in the hope of a return makes the gift rajasic. ‘Place, time and recipient’ means giving where, when and to whom the thing is lacking and needed, and also at holy places and times to worthy people. Everything in creation belongs to all, so give a person what he needs as his own.",
+    "hi": "मैंने वस्तुओंको अपना माना है, इसलिये देनेकी जिम्मेवारी मुझपर है—इस भावसे दे; यहाँ-परलोकमें क्या फल होगा, यह भाव न हो। जिसने पहले उपकार नहीं किया, अभी नहीं करता और आगे करनेकी सम्भावना भी नहीं, ऐसे अनुपकारीको दे। उपकारीकी भी सेवा करे, पर उसे दानमें न गिने; उपकारकी आशासे देनेसे दान राजस हो जाता है। जिस देश, काल और व्यक्तिको जिस वस्तुकी आवश्यकता हो, वहाँ वह देना; तथा पवित्र देश, काल और उत्तम पात्रमें देना। सृष्टिकी सब चीजें सबकी हैं; जिसे आवश्यकता है, उसीकी वस्तु समझकर उसे दे।"
+   },
+   "points": [
+    {
+     "en": "Appendix: sattvic giving is really renunciation. It is not ‘give one, gain a thousand’, which creates a new tie; it cuts the tie with the thing, the fruit and the act.",
+     "hi": "सात्त्विक दान वास्तवमें त्याग है—‘एक गुना दान, सहस्रगुना पुण्य’ वाला नहीं, जिससे सम्बन्ध जुड़ता है; इससे वस्तु, फल और क्रियासे सम्बन्ध-विच्छेद होता है।"
+    },
+    {
+     "en": "In the Gita’s sense, sacrifice is acting for others’ good, austerity is staying cheerful always, and charity is giving a person what is his.",
+     "hi": "गीताके अनुसार दूसरेके हितके लिये कर्म करना यज्ञ, हरदम प्रसन्न रहना तप और उसकी चीज उसीको देना दान है।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Sattvic giving (17.20)",
+      "hi": "सात्त्विक दान"
+     },
+     "items": [
+      {
+       "en": "Given as a duty, with no thought of fruit",
+       "hi": "कर्तव्य मानकर, फलकी भावना बिना"
+      },
+      {
+       "en": "To one who will not return the favour",
+       "hi": "अनुपकारीको"
+      },
+      {
+       "en": "Cuts the tie with thing, fruit and act",
+       "hi": "वस्तु, फल, क्रियासे सम्बन्ध-विच्छेद"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Rajasic giving (17.21)",
+      "hi": "राजस दान"
+     },
+     "items": [
+      {
+       "en": "Given grudgingly, or for a return",
+       "hi": "क्लेशपूर्वक या प्रत्युपकारके लिये"
+      },
+      {
+       "en": "With the aim of some fruit",
+       "hi": "फल-प्राप्तिके उद्देश्यसे"
+      },
+      {
+       "en": "Creates a new tie",
+       "hi": "नया सम्बन्ध जोड़ता है"
+      }
+     ]
+    }
+   },
+   "examples": [],
+   "modern": [
+    {
+     "context": "money",
+     "text": {
+      "en": "A gift to a client before a deal, a donation made for the photo: by this verse these are rajasic. The sattvic gift is one you have already let go of the moment you give it.",
+      "hi": "डीलसे पहले क्लाइंटको तोहफा, फोटोके लिये दान—राजस है; सात्त्विक दान वह है जिसे देते ही आप भीतरसे छोड़ चुके हों।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It turns charity from an investment in merit into a way of letting go of mineness.",
+    "hi": "दानको पुण्यका निवेश न बनाकर ममता छोड़नेका साधन बना देता है।"
+   },
+   "terms": [
+    {
+     "sa": "दातव्यम्",
+     "meaning": {
+      "en": "it ought to be given",
+      "hi": "दान देना कर्तव्य है"
+     }
+    },
+    {
+     "sa": "देशे काले च पात्रे च",
+     "meaning": {
+      "en": "at the right place, time and to the right recipient",
+      "hi": "देश, काल और पात्रके प्राप्त होनेपर"
+     }
+    },
+    {
+     "sa": "अनुपकारिणे",
+     "meaning": {
+      "en": "to one who does no favour in return",
+      "hi": "अनुपकारीको अर्थात् निष्कामभावसे"
+     }
+    },
+    {
+     "sa": "दीयते",
+     "meaning": {
+      "en": "is given",
+      "hi": "दिया जाता है"
+     }
+    },
+    {
+     "sa": "सात्त्विकम्",
+     "meaning": {
+      "en": "sattvic",
+      "hi": "सात्त्विक"
+     }
+    }
+   ],
+   "concepts": [
+    "tyaga",
+    "yajna",
+    "guna",
+    "nishkama-karma"
+   ],
+   "related": [
+    "17.21",
+    "17.22",
+    "14.6"
+   ]
+  },
+  {
+   "id": "17.23",
+   "headline": {
+    "en": "Om Tat Sat: the threefold name of the Supreme",
+    "hi": "ॐ तत् सत्—परमात्माके तीन नाम"
+   },
+   "essence": {
+    "en": "Om, Tat and Sat are the three names of the Supreme; from Him, at the beginning, came the Vedas, the brahmanas and the sacrifices.",
+    "hi": "ॐ, तत्, सत्—ये परमात्माके तीन नाम हैं; उसी परमात्मासे सृष्टिके आदिमें वेद, ब्राह्मण और यज्ञ रचे गये।"
+   },
+   "idea": {
+    "en": "The link sets the question: sattvic people of divine nature perform sacrifice, austerity and charity to reach God, but what should they do about shortcomings of feeling, method or action in them? This section answers it. Om, Tat and Sat are three names of God. At creation He made the Vedas, which give the method; the brahmanas, who carry it out; and the sacrifices, which are the acts. If something is lacking in such acts, taking the name of the God from whom they came makes up for it.",
+    "hi": "सम्बन्धमें प्रश्न है कि दैवी-सम्पत्तिवाले सात्त्विक मनुष्य परमात्मप्राप्तिके उद्देश्यसे यज्ञ, तप, दान करते हैं, उनमें भाव, विधि, क्रियाकी कमीकी पूर्तिके लिये क्या करें? ॐ, तत्, सत्—परमात्माके तीन नाम हैं। उस परमात्माने सृष्टिके आरम्भमें विधि बतानेवाले वेद, अनुष्ठान करनेवाले ब्राह्मण और क्रियाके लिये यज्ञ बनाये। इनमें कोई कमी रह जाय तो जिन भगवान्से यज्ञ आदि रचे गये, उनका नाम लेनेसे उसकी पूर्ति हो जाती है।"
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "Too much water in the dough",
+      "hi": "आटेमें अधिक जल"
+     },
+     "text": {
+      "en": "When a cook kneading dough adds too much water, he simply adds more flour. When some shortfall remains in an act done without desire, taking God’s name, from whom the act came, makes it whole.",
+      "hi": "आटा सानते समय जल अधिक पड़ जाय तो रसोइया आटा और मिला लेता है; ऐसे ही निष्काम शुभकर्ममें कमी रह जाय तो भगवान्का नाम लेनेसे पूर्ति हो जाती है।"
+     },
+     "quote": {
+      "hi": "जैसे रसोई बनानेवाला जलसे आटा सानता (गूँधता) है, तो कभी उसमें जल अधिक पड़ जाय, तो वह क्या करता है? आटा और मिला लेता है।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "whyItMatters": {
+    "en": "A seeker need not be discouraged by the imperfections in his practice: God’s name makes good what is lacking.",
+    "hi": "साधक अपने साधनकी कमियोंसे निराश न हो—भगवान्का नाम कमीकी पूर्ति कर देता है।"
+   },
+   "terms": [
+    {
+     "sa": "ॐ तत् सत्",
+     "meaning": {
+      "en": "Om, Tat, Sat",
+      "hi": "ॐ, तत्, सत्"
+     }
+    },
+    {
+     "sa": "त्रिविध: निर्देश:",
+     "meaning": {
+      "en": "threefold designation",
+      "hi": "तीन प्रकारका निर्देश (संकेत)"
+     }
+    },
+    {
+     "sa": "ब्रह्मण:",
+     "meaning": {
+      "en": "of the Supreme",
+      "hi": "परमात्माका"
+     }
+    },
+    {
+     "sa": "वेदा: ब्राह्मणा: यज्ञा:",
+     "meaning": {
+      "en": "the Vedas, brahmanas and sacrifices",
+      "hi": "वेद, ब्राह्मण और यज्ञ"
+     }
+    },
+    {
+     "sa": "विहिता: पुरा",
+     "meaning": {
+      "en": "were created in the beginning",
+      "hi": "सृष्टिके आदिमें रचे गये"
+     }
+    }
+   ],
+   "concepts": [
+    "yajna",
+    "ishvara",
+    "shraddha",
+    "bhakti"
+   ],
+   "related": [
+    "16.5",
+    "17.24",
+    "17.25",
+    "17.26",
+    "17.27"
+   ]
+  },
+  {
+   "id": "17.28",
+   "headline": {
+    "en": "Whatever is done without faith is ‘asat’",
+    "hi": "अश्रद्धासे किया सब ‘असत्’"
+   },
+   "essence": {
+    "en": "Offering, charity, austerity or any other act done without faith is called ‘asat’: it bears fruit neither here nor hereafter.",
+    "hi": "अश्रद्धासे किया हवन, दान, तप और जो कुछ भी किया जाय, वह ‘असत्’ है; उसका फल न यहाँ होता है, न मरनेके बाद।"
+   },
+   "idea": {
+    "en": "People of demonic nature have no faith in the next world, rebirth, dharma or God, yet they perform rites because society respects them and they want to be counted among the respectable. All such acts, however grand, are ‘asat’ and bear no good fruit here or later. Done with faith and proper method but with desire, the same acts bring wealth, family here and heaven hereafter; done with faith and without desire, they purify the heart and lead to God. Even the smallest, most ordinary act, done for God without desire, becomes ‘sat’. What counts for reaching God is not the act but the feeling of faith.",
+    "hi": "आसुर लोग परलोक, पुनर्जन्म, धर्म, ईश्वरमें श्रद्धा नहीं रखते, फिर भी समाजमें अच्छा बननेके लिये यज्ञ आदि कर देते हैं; ऐसे सब कर्म ‘असत्’ हैं—उनका न इस लोकमें फल है, न परलोकमें। श्रद्धा-विधिपूर्वक सकामभावसे करनेपर यहाँ धन-वैभव और मरनेपर स्वर्गादि मिल सकते हैं; श्रद्धापूर्वक निष्कामभावसे करनेपर अन्त:करण शुद्ध होकर परमात्मप्राप्ति होती है। छोटे-से-छोटा कर्म भी परमात्माके लिये निष्कामभावसे किया जाय तो ‘सत्’ हो जाता है। परमात्मप्राप्तिमें क्रियाकी नहीं, श्रद्धाभावकी प्रधानता है।"
+   },
+   "points": [
+    {
+     "en": "Sinful acts done with passion bear fruit even if the doer does not want it; the ‘no fruit’ here applies to good acts done without faith, and that fruitlessness is their penalty.",
+     "hi": "रागपूर्वक किये पापकर्मका फल न चाहनेपर भी मिलता है; अश्रद्धासे किये शुभकर्मोंका कोई फल न होना ही उनका दण्ड है।"
+    },
+    {
+     "en": "Appendix: chanting God’s name and singing His praise are not ‘acts’ in this sense but worship, because they are connected with God.",
+     "hi": "नामजप, कीर्तन आदि इसमें नहीं आते; भगवान्का सम्बन्ध होनेसे वे कर्म नहीं, उपासना हैं।"
+    }
+   ],
+   "examples": [],
+   "whyItMatters": {
+    "en": "It closes the chapter’s teaching on faith: the value of what we do lies in the faith and purpose behind it.",
+    "hi": "श्रद्धा-प्रकरणका उपसंहार—कर्मका मूल्य उसके पीछेकी श्रद्धा और उद्देश्यमें है।"
+   },
+   "terms": [
+    {
+     "sa": "अश्रद्धया",
+     "meaning": {
+      "en": "without faith",
+      "hi": "अश्रद्धासे"
+     }
+    },
+    {
+     "sa": "हुतम्",
+     "meaning": {
+      "en": "offered in the sacred fire",
+      "hi": "किया हुआ हवन"
+     }
+    },
+    {
+     "sa": "दत्तम्",
+     "meaning": {
+      "en": "given",
+      "hi": "दिया हुआ दान"
+     }
+    },
+    {
+     "sa": "तप: तप्तम्",
+     "meaning": {
+      "en": "austerity performed",
+      "hi": "तपा हुआ तप"
+     }
+    },
+    {
+     "sa": "असत्",
+     "meaning": {
+      "en": "‘asat’ (without true fruit)",
+      "hi": "‘असत्’"
+     }
+    },
+    {
+     "sa": "न च तत् प्रेत्य नो इह",
+     "meaning": {
+      "en": "neither hereafter nor here",
+      "hi": "न यहाँ होता है और न मरनेके बाद"
+     }
+    }
+   ],
+   "concepts": [
+    "shraddha",
+    "yajna",
+    "nishkama-karma",
+    "karma"
+   ],
+   "related": [
+    "17.26",
+    "17.27"
+   ]
+  },
+  {
+   "id": "18.46",
+   "headline": {
+    "en": "Worship Him through your own work",
+    "hi": "अपने कर्मसे परमात्माका पूजन"
+   },
+   "essence": {
+    "en": "By worshipping, through one’s own work, Him from whom all beings arise and by whom all this is pervaded, a person attains perfection.",
+    "hi": "जिस परमात्मासे सब प्राणी उत्पन्न होते हैं और जिससे यह सब व्याप्त है, उसका अपने कर्मसे पूजन करके मनुष्य सिद्धिको प्राप्त हो जाता है।"
+   },
+   "idea": {
+    "en": "The Supreme from whom the world arises, by whom it runs and who fills it should be worshipped through one’s own duties and natural work, and through every activity, even eating and sitting. That means serving everyone for His pleasure, with a sense of God and without desire. If the seeker worships Him with this feeling, all his actions become worship. Keep no mineness in the actions or the instruments, because whatever is touched by mineness becomes impure and unfit to offer. ‘Manava’ here includes every person of every caste, religion and community, since all are God’s own.",
+    "hi": "जिस परमात्मासे संसार पैदा हुआ, जिससे संचालित है और जो सबमें परिपूर्ण है, उसीका अपने-अपने स्वभावज कर्मों और खाना-पीना आदि सभी कर्मोंके द्वारा पूजन करना चाहिये—भगवान्की प्रसन्नताके लिये, भगवद्बुद्धिसे निष्कामभावपूर्वक सबकी सेवा करना। इस भावसे पूजन करनेपर मात्र क्रियाएँ परमात्माकी पूजा हो जाती हैं। कर्मों और करणोंमें ममता न रखे; ममतावाली चीजें अपवित्र होकर पूजा-सामग्री नहीं रहतीं। ‘मानव:’ में सभी जातियों और सम्प्रदायोंके व्यक्ति आ जाते हैं, क्योंकि सभी परमात्माके अपने हैं।"
+   },
+   "points": [
+    {
+     "en": "Appendix: acting for oneself is bondage, acting for the world is service, and acting for God is worship.",
+     "hi": "मात्र कर्म अपने लिये करना बन्धन, संसारके लिये करना सेवा और भगवान्के लिये करना पूजन है।"
+    },
+    {
+     "en": "Appendix: the world is God’s first avatara, His image; serving beings as God is even more valuable than idol worship, because beings visibly become happy.",
+     "hi": "संसार भगवान्का पहला अवतार, उनका श्रीविग्रह है; भगवद्भावसे प्राणियोंकी सेवा मूर्तिपूजासे भी विशेष मूल्यवान् है, क्योंकि वे प्रत्यक्ष सुखी होते हैं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Bhishma’s arrows",
+      "hi": "भीष्मके बाण"
+     },
+     "text": {
+      "en": "Fighting Arjuna, Bhishma worshipped Krishna, who was Arjuna’s charioteer, with his own duty of battle: his arrows broke Krishna’s armour and wounded Him. On his bed of arrows Bhishma meditated on that very form, adorned by his arrows.",
+      "hi": "भीष्मने युद्धरूप कर्मसे, बाणोंद्वारा अर्जुनके सारथि भगवान्की पूजा की; शर-शय्यापर उन्होंने उसी बाणोंसे अलंकृत रूपका ध्यान किया।"
+     },
+     "quote": {
+      "hi": "जैसे, पितामह भीष्मने (अर्जुनके साथ युद्ध करते हुए) अर्जुनके सारथि बने हुए भगवान्की अपने युद्धरूप कर्मके द्वारा (बाणोंसे) पूजा की।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "A mother and her children",
+      "hi": "माँ और बालक"
+     },
+     "text": {
+      "en": "A home may have children of many temperaments, but they have one mother, who is pleased by all their different doings because she feels they are hers. God likewise accepts every action of those turned towards Him as His worship.",
+      "hi": "घरमें तरह-तरहके बालक होते हैं, पर माँ एक होती है और अपनापन होनेसे सबकी क्रियाओंसे प्रसन्न होती है; ऐसे ही भगवान् अपने सम्मुख हुए मनुष्योंकी सभी क्रियाओंको अपना पूजन मान लेते हैं।"
+     },
+     "quote": {
+      "hi": "जैसे घरमें स्वभाव आदिके भेदसे अनेक तरहके बालक होते हैं, पर उन सबकी माँ एक ही होती है और उन बालकोंकी तरह-तरहकी जितनी भी क्रियाएँ होती हैं, उन सब क्रियाओंसे माँ प्रसन्न होती रहती है;"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Worshipping the Ganga with Ganga water",
+      "hi": "गंगाजलसे गंगापूजन"
+     },
+     "text": {
+      "en": "We worship the Ganga with water drawn from the Ganga. We worship God in the same way, with things that are already His.",
+      "hi": "गंगाजलसे गंगाका पूजन करते हैं; ऐसे ही भगवान्की वस्तुओंसे भगवान्का पूजन करना है।"
+     },
+     "quote": {
+      "hi": "जैसे गंगाजलसे गंगाका पूजन करते हैं, ऐसे ही भगवान्की वस्तुओंसे भगवान्का पूजन करना है।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "career",
+     "text": {
+      "en": "A nurse’s night shift, a developer’s careful code review, a teacher grading at midnight: by this verse each can be a flower offered, when done for others’ good with God in view rather than for oneself.",
+      "hi": "नर्सकी रात्रि-ड्यूटी, डेवलपरका ध्यानसे किया कोड-रिव्यू, शिक्षकका देर राततक कॉपियाँ जाँचना—अपने लिये नहीं, भगवद्भावसे दूसरोंके हितके लिये हो तो हर काम पूजाका फूल है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It removes the wall between work and worship: no special activity is required, only a change in the feeling and purpose behind the work already in front of you.",
+    "hi": "काम और पूजाके बीचकी दीवार हट जाती है—अलग क्रियाकी नहीं, सामने प्राप्त कर्मके पीछेका भाव बदलनेकी आवश्यकता है।"
+   },
+   "terms": [
+    {
+     "sa": "यत: प्रवृत्ति: भूतानाम्",
+     "meaning": {
+      "en": "from whom beings originate",
+      "hi": "जिससे सम्पूर्ण प्राणियोंकी उत्पत्ति होती है"
+     }
+    },
+    {
+     "sa": "येन सर्वम् इदम् ततम्",
+     "meaning": {
+      "en": "by whom all this is pervaded",
+      "hi": "जिससे यह सम्पूर्ण संसार व्याप्त है"
+     }
+    },
+    {
+     "sa": "स्वकर्मणा",
+     "meaning": {
+      "en": "through one’s own work",
+      "hi": "अपने कर्मके द्वारा"
+     }
+    },
+    {
+     "sa": "अभ्यर्च्य",
+     "meaning": {
+      "en": "having worshipped",
+      "hi": "पूजन करके"
+     }
+    },
+    {
+     "sa": "सिद्धिम् विन्दति मानव:",
+     "meaning": {
+      "en": "a human being attains perfection",
+      "hi": "मनुष्यमात्र सिद्धिको प्राप्त हो जाता है"
+     }
+    }
+   ],
+   "concepts": [
+    "svadharma",
+    "karma",
+    "bhakti",
+    "nishkama-karma"
+   ],
+   "related": [
+    "15.4",
+    "18.70",
+    "4.23",
+    "4.37",
+    "14.12",
+    "10.20",
+    "17.6"
+   ]
+  },
+  {
+   "id": "18.47",
+   "headline": {
+    "en": "One’s own duty, though imperfect, is better",
+    "hi": "गुणरहित भी अपना धर्म श्रेष्ठ"
+   },
+   "essence": {
+    "en": "One’s own dharma, even without merit, is better than another’s done well; doing the work set by one’s own nature, one incurs no sin.",
+    "hi": "अच्छी तरह किये परधर्मसे गुणरहित स्वधर्म श्रेष्ठ है; स्वभावनियत कर्म करता हुआ मनुष्य पापको प्राप्त नहीं होता।"
+   },
+   "idea": {
+    "en": "Here ‘svadharma’ mainly means the duty of one’s varna, but Swamiji widens it: it is the duty of whatever one takes oneself to be or has accepted, whether human being, student, teacher, seeker or devotee. Even if one’s own duty seems lacking, harder and imperfect while another’s looks complete and easy, doing one’s own is best. Divine virtues are everyone’s svadharma; demonic faults are no one’s svadharma or paradharma but adharma, to be given up by all. All action carries some fault, but work set by one’s nature, done without selfishness and pride for others’ good, brings no sin. Harmful acts are never ‘set by nature’, even for one born into them; they come from desire.",
+    "hi": "यहाँ ‘स्वधर्म’ से मुख्यत: वर्ण-धर्म लिया गया है; पर अपनेको जो मानता है या जिस कार्यको स्वीकार किया है—मनुष्य, विद्यार्थी, अध्यापक, साधक, भक्त—उसका कर्तव्य स्वधर्म है। अपना धर्म दूसरेकी अपेक्षा कमीवाला, कठिन हो और दूसरेका गुणोंसे पूर्ण और सुगम हो, तो भी स्वधर्मका पालन ही श्रेष्ठ है। दैवी सम्पत्तिके सद्गुण सबके स्वधर्म हैं; आसुरी दुर्गुण किसीके स्वधर्म-परधर्म नहीं, अधर्म हैं। कर्ममात्रमें दोष है, पर स्वभावनियत कर्म स्वार्थ-अभिमान छोड़कर दूसरोंके हितके लिये करनेसे पाप नहीं लगता। किसीका अहित करनेवाले कर्म स्वभावनियत नहीं, कामनासे पैदा होते हैं।"
+   },
+   "points": [
+    {
+     "en": "Being born in a butcher’s home is for bearing the fruit of past action, not for committing new wrong; one is free in how one acts.",
+     "hi": "पूर्वपापसे कसाईके घर जन्म पापका फल भोगनेके लिये है, पाप करनेके लिये नहीं; कर्म करनेमें मनुष्य स्वतन्त्र है।"
+    },
+    {
+     "en": "No one wants harm done to themselves, so no one has the right to harm another.",
+     "hi": "कोई अपना अहित नहीं चाहता, अत: किसीका अहित करनेका अधिकार किसीको नहीं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Human, student, teacher",
+      "hi": "मनुष्य, विद्यार्थी, अध्यापक"
+     },
+     "text": {
+      "en": "If you take yourself to be a human being, humanity is your svadharma. If you take yourself to be a student or a teacher, studying or teaching becomes your svadharma.",
+      "hi": "जो अपनेको मनुष्य मानता है, उसका स्वधर्म मनुष्यता है; जो विद्यार्थी या अध्यापक मानता है, उसका स्वधर्म पढ़ना या पढ़ाना है।"
+     },
+     "quote": {
+      "hi": "जैसे कोई अपनेको मनुष्य मानता है, तो मनुष्यताका पालन करना उसके लिये स्वधर्म है। ऐसे ही कर्मोंके अनुसार अपनेको कोई विद्यार्थी या अध्यापक मानता है तो पढ़ना या पढ़ाना उसका स्वधर्म हो जायगा।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "comparison",
+     "text": {
+      "en": "A friend’s startup looks glamorous and your job at the family shop or the hospital looks plain. The verse does not rank your role by how impressive it is; it says your own duty, done selflessly, is what frees you, and borrowing someone else’s does not.",
+      "hi": "दोस्तका स्टार्टअप चमकदार लगता है और आपका अस्पताल या दुकानका काम साधारण; श्लोक चमकसे नहीं आँकता—निष्कामभावसे अपना कर्तव्य ही कल्याण करता है, दूसरेका नकल करना नहीं।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It frees a seeker from both comparison and discouragement: what matters is not how glorious the duty is but how selflessly it is done.",
+    "hi": "तुलना और हताशा—दोनोंसे छुटकारा: महत्त्व कर्तव्यकी चमकका नहीं, उसे निष्कामभावसे करनेका है।"
+   },
+   "terms": [
+    {
+     "sa": "श्रेयान्",
+     "meaning": {
+      "en": "better",
+      "hi": "श्रेष्ठ है"
+     }
+    },
+    {
+     "sa": "स्वधर्म: विगुण:",
+     "meaning": {
+      "en": "one’s own dharma, even without merit",
+      "hi": "गुणरहित (भी) अपना धर्म"
+     }
+    },
+    {
+     "sa": "परधर्मात् स्वनुष्ठितात्",
+     "meaning": {
+      "en": "than another’s dharma well performed",
+      "hi": "अच्छी तरह अनुष्ठान किये हुए परधर्मसे"
+     }
+    },
+    {
+     "sa": "स्वभावनियतम् कर्म",
+     "meaning": {
+      "en": "work set by one’s own nature",
+      "hi": "स्वभावसे नियत किया हुआ कर्म"
+     }
+    },
+    {
+     "sa": "किल्बिषम् न आप्नोति",
+     "meaning": {
+      "en": "incurs no sin",
+      "hi": "पापको प्राप्त नहीं होता"
+     }
+    }
+   ],
+   "concepts": [
+    "svadharma",
+    "dharma",
+    "karma",
+    "nishkama-karma"
+   ],
+   "related": [
+    "3.35",
+    "18.48",
+    "4.21",
+    "3.36",
+    "3.37"
+   ]
+  },
+  {
+   "id": "18.61",
+   "headline": {
+    "en": "The Lord in the heart turns all beings riding the body-machine",
+    "hi": "हृदयस्थ ईश्वर यन्त्रारूढ़ प्राणियोंको घुमाता है"
+   },
+   "essence": {
+    "en": "The Lord dwells in every heart and, by His power, turns all beings riding the body-machine, according to their nature.",
+    "hi": "ईश्वर सब प्राणियोंके हृदयमें रहता है और अपनी मायासे शरीररूपी यन्त्रपर आरूढ़ प्राणियोंको उनके स्वभावके अनुसार घुमाता है।"
+   },
+   "idea": {
+    "en": "The link asks: the self is God’s part, while one’s nature belongs to prakriti and is self-made, so how does the self become subject to its nature? Answer: God, by His power, moves those who have taken the body as ‘I’ and ‘mine’. As long as one keeps that relation, God moves one according to one’s nature, and one keeps circling through birth and death. Mineness breeds like and dislike, which make one’s nature impure and binding. God’s power runs everything, but good or bad actions come from the nature one has made. Humans alone are free to improve or spoil their nature.",
+    "hi": "सम्बन्धका प्रश्न है—जीव परमात्माका अंश है और स्वभाव प्रकृतिका अंश तथा खुदका बनाया हुआ, फिर जीव स्वभावके परवश कैसे? उत्तर: जिन्होंने शरीरको ‘मैं’ और ‘मेरा’ मान रखा है, उन्हें ईश्वर अपनी शक्तिसे घुमाता है। जबतक शरीरसे मैं-मेरापनका सम्बन्ध है, तबतक ईश्वर स्वभावके अनुसार संचालित करता है और मनुष्य जन्म-मरणके चक्रमें घूमता है। मैं-मेरापनसे राग-द्वेष और उनसे स्वभाव अशुद्ध होता है। अच्छी-मन्दी क्रियाओंमें ईश्वरका नहीं, खुदके बनाये स्वभावका हाथ है; स्वभाव सुधारने-बिगाड़नेमें मनुष्य स्वतन्त्र है।"
+   },
+   "points": [
+    {
+     "en": "God is everywhere, yet He is found in the heart, as water is everywhere underground yet drawn from a well.",
+     "hi": "परमात्मा सर्वत्र हैं, पर हृदयमें प्राप्त होते हैं—जैसे जल सर्वत्र है, पर कुएँसे मिलता है।"
+    },
+    {
+     "en": "A seeker’s common mistake is to keep reinforcing ‘God is far, not now, I am not worthy’. God is nearer even than the ‘I’.",
+     "hi": "साधककी भूल: ‘भगवान् दूर हैं, अभी नहीं मिलेंगे, मैं योग्य नहीं’—ऐसी मान्यता दृढ़ करना; भगवान् ‘मैं’-पनसे भी नजदीक हैं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Riding the train",
+      "hi": "रेलपर आरूढ़"
+     },
+     "text": {
+      "en": "Whoever boards an electric train has to go where the train goes; once he steps off, he no longer has to. As long as one rides the body with ‘I’ and ‘mine’, one is carried by one’s nature.",
+      "hi": "रेलपर चढ़नेवालेको रेलके अनुसार जाना पड़ता है, उतरनेपर नहीं; ऐसे ही शरीरसे मैं-मेरापन रखनेतक ईश्वर स्वभावके अनुसार घुमाता है।"
+     },
+     "quote": {
+      "hi": "जैसे, विद्युत्-शक्तिसे संचालित यन्त्र—रेलपर कोई आरूढ़ हो जाता है, चढ़ जाता है तो उसको परवशतासे रेलके अनुसार ही जाना पड़ता है। परन्तु जब वह रेलपर आरूढ़ नहीं रहता, नीचे उतर जाता है, तब उसको रेलके अनुसार नहीं जाना पड़ता।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Ice and fire from one current",
+      "hi": "एक बिजलीसे बर्फ और अग्नि"
+     },
+     "text": {
+      "en": "The same electricity freezes ice in one machine and makes heat in another; the current insists on neither. God’s power moves every body-machine, and what each produces depends on the nature built into it.",
+      "hi": "एक ही बिजलीसे किसी यन्त्रमें बर्फ जमती है, किसीमें अग्नि जलती है; बिजलीका आग्रह नहीं। ऐसे ही ईश्वरकी शक्तिसे जैसा स्वभाव, वैसी क्रिया होती है।"
+     },
+     "quote": {
+      "hi": "एक ही बिजलीसे संचालित होनेपर भी किसी यन्त्रमें बर्फ जम जाती है और किसी यन्त्रमें अग्नि जल जाती है अर्थात् उनमें एक-दूसरेसे बिलकुल विरुद्ध काम होता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "whyItMatters": {
+    "en": "It explains why we feel driven by our nature, and it sets up the next verse, where the way out is taking refuge in the Lord.",
+    "hi": "स्वभावकी परवशता क्यों है—यह स्पष्ट होता है और अगले श्लोकमें उससे छूटनेका उपाय शरणागति बतायी जाती है।"
+   },
+   "terms": [
+    {
+     "sa": "ईश्वर:",
+     "meaning": {
+      "en": "the Lord",
+      "hi": "ईश्वर"
+     }
+    },
+    {
+     "sa": "सर्वभूतानाम् हृद्देशे",
+     "meaning": {
+      "en": "in the hearts of all beings",
+      "hi": "सम्पूर्ण प्राणियोंके हृदयमें"
+     }
+    },
+    {
+     "sa": "तिष्ठति",
+     "meaning": {
+      "en": "dwells",
+      "hi": "रहता है"
+     }
+    },
+    {
+     "sa": "मायया",
+     "meaning": {
+      "en": "by His power",
+      "hi": "अपनी मायासे"
+     }
+    },
+    {
+     "sa": "यन्त्रारूढानि",
+     "meaning": {
+      "en": "mounted on the machine (of the body)",
+      "hi": "शरीररूपी यन्त्रपर आरूढ़ हुए"
+     }
+    },
+    {
+     "sa": "भ्रामयन्",
+     "meaning": {
+      "en": "causing to revolve",
+      "hi": "भ्रमण कराता रहता है"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "maya",
+    "prakriti",
+    "sharanagati"
+   ],
+   "related": [
+    "18.62",
+    "15.15",
+    "3.15",
+    "10.8"
+   ]
+  },
+  {
+   "id": "18.62",
+   "headline": {
+    "en": "Take refuge in Him with your whole being",
+    "hi": "सर्वभावसे उसीकी शरणमें जा"
+   },
+   "essence": {
+    "en": "Go to Him alone for refuge with your whole being; by His grace you will attain supreme peace and the eternal abode.",
+    "hi": "सर्वभावसे उस ईश्वरकी ही शरणमें जा; उसकी कृपासे परम शान्ति और अविनाशी परमपदको प्राप्त हो जायगा।"
+   },
+   "idea": {
+    "en": "This is the remedy for the helplessness of those riding the body-machine. Arjuna had stayed silent after Krishna spoke of His grace (18.56–58), so Krishna now speaks of taking refuge in the Lord within. ‘Him alone’: lean on nothing perishable, no thing, person, event or situation, and keep no ‘I’ and ‘mine’ with the body. ‘With your whole being’: let the mind think of Him, let the body’s actions be His worship, and in every situation He sends, pleasant or not, be truly glad, taking it as His doing for your good. Swamiji adds that the indwelling Lord and Krishna are not two but one.",
+    "hi": "यह यन्त्रारूढ़ प्राणियोंकी परवशता मिटानेका उपाय है। छप्पनवें-अट्ठावनवें श्लोकोंमें भगवत्कृपाकी बात सुनकर भी अर्जुन कुछ नहीं बोले, इसलिये भगवान् अन्तर्यामी ईश्वरकी शरणकी बात कहते हैं। ‘तमेव’—उत्पत्ति-विनाशशील किसी पदार्थ, व्यक्ति, परिस्थितिका आश्रय न लेकर, शरीरसे मैं-मेरापन न रखकर केवल परमात्माका आश्रय। ‘सर्वभावेन’—मनसे चिन्तन, शरीरसे पूजन, प्रेमपूर्वक भजन और उसके प्रत्येक विधानमें—अनुकूल हो या प्रतिकूल—परम प्रसन्नता। अन्तर्यामी ईश्वर और भगवान् श्रीकृष्ण दो नहीं, एक ही हैं।"
+   },
+   "points": [
+    {
+     "en": "Here ‘supreme peace’ means complete withdrawal from the world, and ‘the eternal abode’ means the supreme state.",
+     "hi": "यहाँ ‘परा शान्ति’ का अर्थ संसारसे सर्वथा उपरति और ‘शाश्वत स्थान’ का अर्थ परमपद है।"
+    },
+    {
+     "en": "Appendix: taking refuge in the Lord ends ego; as long as one has not taken refuge in Him, one remains under the sway of prakriti.",
+     "hi": "ईश्वरके शरण होनेसे अहंकार नहीं रहता; जबतक जीव ईश्वरके शरण नहीं, तबतक प्रकृतिके वशमें है।"
+    }
+   ],
+   "examples": [],
+   "modern": [
+    {
+     "context": "failure",
+     "text": {
+      "en": "A rejection email, a breakup, a failed exam. Swamiji’s ‘whole being’ means receiving even this as sent by Him for your good, and being glad about it, not merely resigned.",
+      "hi": "रिजेक्शन मेल, रिश्तेका टूटना, परीक्षामें असफलता—‘सर्वभाव’ का अर्थ है इसे भी भगवान्का मेरे हितके लिये भेजा विधान मानकर प्रसन्न होना, केवल सह लेना नहीं।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It points to the only real freedom from being driven by one’s own nature: ceasing to lean on anything but God.",
+    "hi": "स्वभावकी परवशतासे वास्तविक छुटकारा एक ही है—भगवान्के सिवाय किसीका आश्रय न लेना।"
+   },
+   "terms": [
+    {
+     "sa": "तम् एव शरणम् गच्छ",
+     "meaning": {
+      "en": "go to Him alone for refuge",
+      "hi": "उस ईश्वरकी ही शरणमें चला जा"
+     }
+    },
+    {
+     "sa": "सर्वभावेन",
+     "meaning": {
+      "en": "with your whole being",
+      "hi": "सर्वभावसे"
+     }
+    },
+    {
+     "sa": "तत्प्रसादात्",
+     "meaning": {
+      "en": "by His grace",
+      "hi": "उसकी कृपासे"
+     }
+    },
+    {
+     "sa": "पराम् शान्तिम्",
+     "meaning": {
+      "en": "supreme peace (complete withdrawal from the world)",
+      "hi": "परम शान्ति (संसारसे सर्वथा उपरति)"
+     }
+    },
+    {
+     "sa": "शाश्वतम् स्थानम्",
+     "meaning": {
+      "en": "the eternal abode",
+      "hi": "अविनाशी परमपद"
+     }
+    }
+   ],
+   "concepts": [
+    "sharanagati",
+    "ishvara",
+    "bhakti",
+    "moksha"
+   ],
+   "related": [
+    "18.61",
+    "18.56",
+    "18.58",
+    "18.63",
+    "18.64",
+    "15.15",
+    "4.6",
+    "5.29",
+    "9.24"
+   ]
+  },
+  {
+   "id": "18.65",
+   "headline": {
+    "en": "Be Mine: mind, worship and bow to Me, and you will come to Me",
+    "hi": "मेरा भक्त हो, मुझमें मन लगा—तू मुझे ही प्राप्त होगा"
+   },
+   "essence": {
+    "en": "Be My devotee, fix your mind on Me, worship Me, bow to Me; you will come to Me, I promise, for you are dear.",
+    "hi": "मेरा भक्त, मुझमें मनवाला, मेरा पूजन करनेवाला हो और मुझे नमस्कार कर; तू मुझे ही प्राप्त होगा—यह सत्य प्रतिज्ञा है, क्योंकि तू मेरा प्रिय है।"
+   },
+   "idea": {
+    "en": "First change your sense of ‘I’: ‘I am God’s’. Until that changes, practice is not easy; once it does, practice happens naturally. When God is taken as one’s own He becomes dear, and the mind goes to what is dear by itself. Then all work, for the world, the household or the body, turns into His worship. Bowing means falling at His feet and taking every situation, favourable or not, as His auspicious arrangement for one’s good. ‘You are dear to Me’ tells every jiva that none is unloved by God; even when He sends it through many births, His aim is to purify it.",
+    "hi": "सबसे पहले अहंता बदले—‘मैं भगवान्का हूँ’; अहंता बदलनेपर साधन सुगमतासे, स्वाभाविक होने लगता है। भगवान्को अपना माननेसे वे प्रिय लगते हैं और जहाँ प्रियता है, वहाँ मन स्वत: लगता है। फिर संसार, घर, शरीरका सब काम भगवान्की पूजा बन जाता है। नमस्कार—प्रभुके चरणोंमें पड़े रहकर हर अनुकूल-प्रतिकूल परिस्थितिको उनका मंगलमय विधान मानकर प्रसन्न रहना। ‘प्रियोऽसि मे’—जीवमात्र भगवान्को प्रिय है; चौरासी लाख योनियोंमें भेजें तो भी उनका उद्देश्य जीवको पवित्र करना ही है।"
+   },
+   "points": [
+    {
+     "en": "The world never took the jiva as its own; the jiva links itself to the world, and it is free to stop.",
+     "hi": "संसारने कभी जीवको अपना नहीं माना; जीव ही सम्बन्ध जोड़ता है और उसे छोड़नेमें स्वतन्त्र है।"
+    },
+    {
+     "en": "Footnote: practising any one of the four fully brings the other three with it.",
+     "hi": "भक्त होना, मन लगाना, पूजन और नमस्कार—इनमें एक भी ठीक होनेपर शेष तीनों स्वत: आ जाते हैं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The disciple and the bride",
+      "hi": "शिष्य और विवाहिता कन्या"
+     },
+     "text": {
+      "en": "On becoming a disciple a person changes his ‘I’ to ‘I belong to my guru’; on marriage a bride changes hers to ‘I belong to my husband’s home’. A seeker should change his in the same way: ‘I am God’s alone, and God alone is mine.’",
+      "hi": "शिष्य बननेपर व्यक्ति कहता है ‘मैं गुरुका हूँ’, विवाहपर कन्या कहती है ‘मैं ससुरालकी हूँ’; ऐसे ही साधक अहंता बदले—‘मैं भगवान्का ही हूँ, भगवान् ही मेरे हैं’।"
+     },
+     "quote": {
+      "hi": "किसीका शिष्य बननेपर व्यक्ति अपनी अहंताको बदल देता है कि ‘मैं तो गुरु महाराजका ही हूँ।’ विवाह हो जानेपर कन्या अपनी अहंताको बदल देती है कि ‘मैं तो ससुरालकी ही हूँ’, और पिताके कुलका सम्बन्ध बिलकुल छूट जाता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "whyItMatters": {
+    "en": "Krishna gives His word here: devotion that begins with changing one’s sense of ‘I’ cannot fail.",
+    "hi": "भगवान् यहाँ सत्य प्रतिज्ञा करते हैं—अहंता बदलनेसे आरम्भ होनेवाली भक्ति निष्फल नहीं होती।"
+   },
+   "terms": [
+    {
+     "sa": "मद्भक्त: भव",
+     "meaning": {
+      "en": "be My devotee",
+      "hi": "मेरा भक्त हो जा"
+     }
+    },
+    {
+     "sa": "मन्मना:",
+     "meaning": {
+      "en": "with your mind on Me",
+      "hi": "मुझमें मनवाला"
+     }
+    },
+    {
+     "sa": "मद्याजी",
+     "meaning": {
+      "en": "My worshipper",
+      "hi": "मेरा पूजन करनेवाला"
+     }
+    },
+    {
+     "sa": "माम् नमस्कुरु",
+     "meaning": {
+      "en": "bow to Me",
+      "hi": "मुझे नमस्कार कर"
+     }
+    },
+    {
+     "sa": "सत्यम् प्रतिजाने",
+     "meaning": {
+      "en": "I truly promise",
+      "hi": "सत्य प्रतिज्ञा करता हूँ"
+     }
+    },
+    {
+     "sa": "प्रिय: असि मे",
+     "meaning": {
+      "en": "you are dear to Me",
+      "hi": "तू मेरा अत्यन्त प्रिय है"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "ishvara",
+    "ahankara"
+   ],
+   "related": [
+    "9.34",
+    "7.1",
+    "7.17",
+    "7.18",
+    "18.66"
+   ]
+  },
+  {
+   "id": "18.66",
+   "headline": {
+    "en": "Leave the support of all dharmas and take refuge in Me alone",
+    "hi": "सब धर्मोंका आश्रय छोड़कर केवल मेरी शरणमें आ"
+   },
+   "essence": {
+    "en": "Giving up reliance on all dharmas, come to Me alone for refuge. I will free you from all sins; do not grieve.",
+    "hi": "सम्पूर्ण धर्मोंका आश्रय छोड़कर केवल मेरी शरणमें आ जा; मैं तुझे सब पापोंसे मुक्त कर दूँगा, चिन्ता मत कर।"
+   },
+   "idea": {
+    "en": "Here ‘dharma’ means one’s duties, since the passage just before speaks of natural work and svadharma. Krishna does not mean abandoning duties themselves: after hearing this, Arjuna said ‘I will do as You say’ (18.73) and fought. He means giving up reliance on them and the burden of deciding what is right and wrong: leave that decision to Me. Taking refuge in Him, with the self and not merely with mind and intellect, is the essence of all practices; He is both the means and the goal. ‘I will free you from all sins’: if after taking refuge your moods and conduct have not changed and you feel unworthy, do not worry, for that shortcoming is no longer yours to fix.",
+    "hi": "यहाँ ‘धर्म’ शब्द कर्तव्य-कर्मका वाचक है (स्वभावज कर्म और स्वधर्मके प्रसंगसे)। स्वरूपसे कर्तव्यका त्याग नहीं, क्योंकि अर्जुनने ‘करिष्ये वचनं तव’ कहकर युद्ध किया। तात्पर्य है—धर्मके आश्रय और निर्णयके भारको छोड़ना: क्या करना है, क्या नहीं, इस पचड़ेमें क्यों पड़ता है? यह भार मुझपर छोड़ दे। मन-बुद्धिसे नहीं, स्वयंका भगवान्की शरण जाना सम्पूर्ण साधनोंका सार है; उपाय और उपेय दोनों भगवान् ही हैं। ‘सर्वपापेभ्यो मोक्षयिष्यामि’—शरण होनेके बाद भी भाव, वृत्ति, आचरणमें कमी दीखे और अपनेमें अयोग्यता लगे, तो चिन्ता मत करो; वह कमी अब तुम्हारी नहीं रही।"
+   },
+   "points": [
+    {
+     "en": "Those who rely on dharma keep coming and going (9.21); relying on God alone, there is no need to decide one’s dharma oneself.",
+     "hi": "धर्मका आश्रय लेनेवाले बार-बार आवागमनको प्राप्त होते हैं (९। २१); भगवान्का आश्रय लेनेपर धर्मका निर्णय करनेकी जरूरत नहीं रहती।"
+    },
+    {
+     "en": "‘Ekam’ here means exclusive, answering the ‘one’ means Arjuna asked for in 3.2 and 5.1: among all paths, exclusive refuge is the chief.",
+     "hi": "‘एकम्’ का अर्थ अनन्य है; अर्जुनने ३। २ और ५। १ में जिस एक निश्चित साधनको पूछा, उसका उत्तर है—अनन्य शरणागति।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Karna’s chariot wheel",
+      "hi": "कर्णके रथका चक्का"
+     },
+     "text": {
+      "en": "When Karna’s wheel sank into the earth, he appealed to Arjuna’s sense of dharma not to shoot, and Arjuna held back. Krishna reminded Karna how six great warriors together had killed Abhimanyu, and told Arjuna to shoot. Had Arjuna decided dharma by his own judgement, he would have erred; he left it to Krishna.",
+      "hi": "कर्णके रथका चक्का धँसनेपर उसने धर्मकी दुहाई दी और अर्जुन रुक गये; भगवान्ने अभिमन्युवधकी याद दिलाकर बाण चलानेकी आज्ञा दी। अर्जुन अपनी बुद्धिसे धर्मका निर्णय करते तो भूल करते; उन्होंने निर्णय भगवान्पर रखा।"
+     },
+     "quote": {
+      "hi": "इस प्रकार यदि अर्जुन अपनी बुद्धिसे धर्मका निर्णय करते तो भूल कर बैठते; अत: उन्होंने धर्मका निर्णय भगवान्पर ही रखा और भगवान्ने धर्मका निर्णय किया भी।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The devoted wife",
+      "hi": "पतिव्रता"
+     },
+     "text": {
+      "en": "Swamiji compares the surrendered devotee to a devoted wife who has no work of her own: she cares even for her body for her husband’s sake, and takes his family name as hers. Likewise the devotee offers name, caste and everything tied to the body at God’s feet, and becomes fearless and free of worry.",
+      "hi": "पतिव्रताका अपना कोई काम नहीं रहता, शरीरकी सँभाल भी पतिके लिये करती है; ऐसे ही शरणागत भक्त गोत्र, जाति, नाम आदि भगवान्के अर्पण करके निर्भय, निश्चिन्त हो जाता है।"
+     },
+     "quote": {
+      "hi": "जैसे—पतिव्रताका अपना कोई काम नहीं रहता। वह अपने शरीरकी सार-सँभाल भी पतिके नाते, पतिके लिये ही करती है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "decisions",
+     "text": {
+      "en": "Stuck in a loop of ‘am I making the right choice?’ The verse’s relief is not ‘stop doing your duty’ but ‘stop carrying the burden of being the final judge’. Do your part and leave the verdict to Him.",
+      "hi": "‘क्या मेरा निर्णय सही है?’—इस चक्रमें फँसे हों तो यह श्लोक कर्तव्य छोड़नेको नहीं, अन्तिम निर्णायक बननेका भार छोड़नेको कहता है; अपना काम करें, निर्णय भगवान्पर छोड़ें।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Swamiji calls this the most secret essence of the whole Gita: the means and the goal are the same, and the seeker is released from anxiety about both.",
+    "hi": "यह सम्पूर्ण गीताका अत्यन्त गोपनीय सार है—साधन और साध्य भगवान् ही हैं, और साधक दोनोंकी चिन्तासे मुक्त हो जाता है।"
+   },
+   "terms": [
+    {
+     "sa": "सर्वधर्मान् परित्यज्य",
+     "meaning": {
+      "en": "giving up reliance on all dharmas",
+      "hi": "सम्पूर्ण धर्मोंका आश्रय छोड़कर"
+     }
+    },
+    {
+     "sa": "माम् एकम्",
+     "meaning": {
+      "en": "Me alone (exclusively)",
+      "hi": "केवल मेरी"
+     }
+    },
+    {
+     "sa": "शरणम् व्रज",
+     "meaning": {
+      "en": "come for refuge",
+      "hi": "शरणमें आ जा"
+     }
+    },
+    {
+     "sa": "सर्वपापेभ्य:",
+     "meaning": {
+      "en": "from all sins",
+      "hi": "सम्पूर्ण पापोंसे"
+     }
+    },
+    {
+     "sa": "मोक्षयिष्यामि",
+     "meaning": {
+      "en": "I will free",
+      "hi": "मुक्त कर दूँगा"
+     }
+    },
+    {
+     "sa": "मा शुच:",
+     "meaning": {
+      "en": "do not grieve",
+      "hi": "चिन्ता मत कर"
+     }
+    }
+   ],
+   "concepts": [
+    "sharanagati",
+    "dharma",
+    "bhakti",
+    "moksha"
+   ],
+   "related": [
+    "18.73",
+    "18.6",
+    "9.21",
+    "3.2",
+    "5.1",
+    "7.14",
+    "8.14",
+    "9.22",
+    "11.54",
+    "12.7",
+    "14.26",
+    "16.5"
+   ]
+  },
+  {
+   "id": "18.73",
+   "headline": {
+    "en": "My delusion is gone; I will do as You say",
+    "hi": "मोह नष्ट हो गया, आपकी आज्ञाका पालन करूँगा"
+   },
+   "essence": {
+    "en": "By Your grace, Achyuta, my delusion is destroyed and I have regained memory; free of doubt, I stand ready to do as You say.",
+    "hi": "हे अच्युत! आपकी कृपासे मेरा मोह नष्ट हो गया और स्मृति प्राप्त हो गयी; मैं सन्देहरहित होकर आपकी आज्ञाका पालन करूँगा।"
+   },
+   "idea": {
+    "en": "‘Achyuta’, the one who never slips: the jiva slips from its true nature, but God never does. Arjuna uses this name three times, at the start (1.21), in the middle (11.42) and here at the end; his state changed each time, Krishna’s never did. The surrender Arjuna began in 2.7 is completed here. Earlier (11.1) he had said his delusion was gone, but in his fear at the cosmic form Krishna called it bewilderment (11.49); now it is truly gone. ‘Smriti’ here is not a mental function but the awakening of an ever-present truth, which is never lost again once it awakens. It takes three forms: memory of desirelessness (karma yoga), of one’s own self (jnana yoga), and of one’s relation with God (bhakti yoga).",
+    "hi": "‘अच्युत’—जीव अपने स्वरूपसे च्युत हो जाता है, भगवान् कभी नहीं। अर्जुनने तीन बार यह सम्बोधन दिया—आरम्भ (१। २१), मध्य (११। ४२) और अन्तमें यहाँ; अर्जुनकी अवस्थाएँ बदलीं, भगवान् एकरस रहे। दूसरे अध्यायमें ‘शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्’ से स्वीकार की गयी शरणागतिकी यहाँ पूर्णता है। ग्यारहवें अध्यायमें अर्जुनने मोह गया कहा था, पर विराट्रूप देखकर भगवान्ने उसे मूढ़भाव कहा; अब वास्तवमें मोह नष्ट हुआ। यह स्मृति अन्त:करणकी वृत्ति नहीं, नित्य तत्त्वका प्रकट होना है; फिर विस्मृति नहीं होती। इसके तीन रूप—निष्कामभाव (कर्मयोग), स्वरूप (ज्ञानयोग) और भगवत्सम्बन्ध (भक्तियोग) की स्मृति।"
+   },
+   "points": [
+    {
+     "en": "Forgetfulness came from giving reality and importance to the unreal; seeing oneself as mixed with body and world is forgetting, and experiencing oneself apart from them is remembering.",
+     "hi": "असत्को सत्ता-महत्ता देनेसे विस्मृति हुई; शरीर-संसारसे मिला समझना विस्मृति और अलग अनुभव करना स्मृति है।"
+    },
+    {
+     "en": "Appendix: realisation comes not from thinking hard but from the arising of understanding, when discernment ripens into direct knowing.",
+     "hi": "तत्त्वबोध विचार करनेसे नहीं, विचार उदय होनेसे होता है; तब विवेक बोधमें परिणत हो जाता है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Asleep, not dead",
+      "hi": "सोया हुआ और मुर्दा"
+     },
+     "text": {
+      "en": "A sleeping man and a corpse both lie still, yet they are vastly different: one can wake. The mind’s remembering and forgetting are inert like the corpse, but the memory of one’s true self is only asleep, covered over, and when the covering lifts it wakes.",
+      "hi": "सोया हुआ और मुर्दा—दोनों पड़े हैं, पर महान् अन्तर है; अन्त:करणकी स्मृति-विस्मृति मुर्देकी तरह जड है, पर स्वरूपकी स्मृति सुप्त है, जो आवरण हटते ही प्रकट हो जाती है।"
+     },
+     "quote": {
+      "hi": "सोया हुआ है और एक मुर्दा पड़ा हुआ है—इन दोनोंमें महान् अन्तर है, ऐसे ही अन्त:करणकी स्मृति-विस्मृति दोनों ही मुर्देकी तरह जड हैं, पर स्वरूपकी स्मृति सुप्त है, जड नहीं।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "whyItMatters": {
+    "en": "The Gita’s dialogue ends where it began, but with Arjuna transformed: not a change of circumstances but the removal of delusion, and a free acceptance of duty.",
+    "hi": "संवाद वहीं समाप्त होता है, जहाँसे आरम्भ हुआ था, पर अर्जुन बदल गये—परिस्थिति नहीं, मोह मिटा और कर्तव्यकी स्वीकृति हुई।"
+   },
+   "terms": [
+    {
+     "sa": "नष्ट: मोह:",
+     "meaning": {
+      "en": "delusion is destroyed",
+      "hi": "मोह नष्ट हो गया"
+     }
+    },
+    {
+     "sa": "स्मृति: लब्धा",
+     "meaning": {
+      "en": "memory (of the truth) is regained",
+      "hi": "स्मृति प्राप्त कर ली"
+     }
+    },
+    {
+     "sa": "त्वत्प्रसादात्",
+     "meaning": {
+      "en": "by Your grace",
+      "hi": "आपकी कृपासे"
+     }
+    },
+    {
+     "sa": "अच्युत",
+     "meaning": {
+      "en": "O Achyuta (one who never slips)",
+      "hi": "हे अच्युत!"
+     }
+    },
+    {
+     "sa": "गतसन्देह: स्थित:",
+     "meaning": {
+      "en": "standing free of doubt",
+      "hi": "सन्देहरहित होकर स्थित"
+     }
+    },
+    {
+     "sa": "करिष्ये वचनम् तव",
+     "meaning": {
+      "en": "I will do as You say",
+      "hi": "आपकी आज्ञाका पालन करूँगा"
+     }
+    }
+   ],
+   "concepts": [
+    "sharanagati",
+    "jnana",
+    "moksha",
+    "bhakti"
+   ],
+   "related": [
+    "1.21",
+    "11.42",
+    "2.7",
+    "11.1",
+    "11.49",
+    "4.35",
+    "15.15",
+    "18.66"
+   ]
+  }
+ ]
+}

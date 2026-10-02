@@ -1,0 +1,96 @@
+{
+  "id": "prashna-upanishad",
+  "title": {
+    "en": "Prashna Upanishad",
+    "sa": "प्रश्नोपनिषद्",
+    "iast": "Praśna Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta"
+  ],
+  "attribution": "Atharvaveda (Pippalada school); author unknown",
+  "author": null,
+  "period": "Usually placed among the later principal Upanishads, in the later centuries BCE; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Creation",
+    "Breath (prana)",
+    "States of consciousness",
+    "Om",
+    "Self"
+  ],
+  "summary": "Six seekers each put one question to the sage Pippalada, covering the origin of beings, the vital breath, sleep and dreaming, meditation on Om and the Self.",
+  "whyRead": "Its question-and-answer form makes it easy to navigate, and it gives the fullest early Upanishadic treatment of prana, the vital breath, which later matters for yoga. Its discussion of sleep and Om also prepares the ground for the Mandukya.",
+  "story": "Six students, among them Sukesha, Satyakama and Kabandhi, come to the sage Pippalada seeking Brahman. He asks them to live with him for a year in discipline and faith before questioning him. Each then asks one question, and the Upanishad records his six answers.",
+  "questions": [
+    "Where do living beings come from?",
+    "What sustains the body?",
+    "What remains awake when we sleep?",
+    "What does meditation on Om lead to?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Discipline before inquiry",
+      "text": "The frame story insists on a year of austerity, celibacy and faith before questions are asked, reflecting the Upanishadic view that readiness matters as much as information."
+    },
+    {
+      "title": "Prana as the chief power",
+      "text": "The vital breath is shown as primary among the body's powers; when it prepares to leave, the other faculties cannot stay."
+    },
+    {
+      "title": "Waking, dream and deep sleep",
+      "text": "One answer explores which faculties rest in sleep and what remains awake, and describes deep sleep as a kind of merging in the Self."
+    },
+    {
+      "title": "Meditation on Om",
+      "text": "The fifth question concerns meditation on the syllable Om and what it leads to, treated through its component sounds."
+    },
+    {
+      "title": "The person of sixteen parts",
+      "text": "The final answer describes the Self as the source of the sixteen parts or aspects of a person, which merge back into it like rivers into the sea."
+    }
+  ],
+  "structure": [
+    {
+      "label": "6 questions (prashnas)",
+      "note": "One per student, answered by Pippalada"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Question 5",
+      "about": "Meditation on the syllable Om"
+    }
+  ],
+  "concepts": [
+    "atma",
+    "brahman",
+    "pranayama",
+    "dhyana",
+    "jnana"
+  ],
+  "relatedTexts": [
+    {
+      "id": "mundaka-upanishad",
+      "note": "Also from the Atharvaveda; the two are often studied together"
+    },
+    {
+      "id": "mandukya-upanishad",
+      "note": "Develops the analysis of Om and states of consciousness into a complete scheme"
+    },
+    {
+      "id": "yoga-sutras",
+      "note": "Later yoga systematises the concern with breath and meditation found here"
+    }
+  ],
+  "thinkers": [
+    "shankara",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

@@ -1,0 +1,79 @@
+{
+  "id": "bhaja-govindam",
+  "title": {
+    "en": "Bhaja Govindam",
+    "sa": "भज गोविन्दम्",
+    "iast": "Bhaja Govindam"
+  },
+  "category": "devotional",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita",
+    "bhakti"
+  ],
+  "attribution": "Traditionally attributed to Shankara, with some verses ascribed by tradition to his disciples; authorship debated",
+  "author": null,
+  "period": "Traditionally 8th century CE; date uncertain",
+  "language": "Sanskrit",
+  "difficulty": "beginner",
+  "themes": [
+    "Impermanence",
+    "Dispassion",
+    "Devotion",
+    "Mortality"
+  ],
+  "summary": "A popular devotional hymn, also called Moha Mudgara ('hammer of delusion'), urging the listener to turn from worldly preoccupations to God.",
+  "whyRead": "Short, rhythmic and widely sung, it blends Advaita's call to dispassion with devotion to Govinda (Krishna). It shows that Advaita as lived is not only intellectual.",
+  "story": "According to a well-known tradition, Shankara composed the refrain on seeing an old scholar in Varanasi memorising grammar rules, and his disciples added further verses; the story is traditional rather than historical.",
+  "questions": [
+    "Why do we postpone what matters most?",
+    "What use is learning if it does not free us?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Impermanence of worldly goals",
+      "text": "The verses point to the passing of youth, wealth and relationships to shake the listener out of complacency."
+    },
+    {
+      "title": "Learning is not enough",
+      "text": "Mere scholarly skill, the hymn suggests, will not help at the hour of death."
+    },
+    {
+      "title": "Turn to God",
+      "text": "Its refrain calls the listener to worship Govinda, joining dispassion with devotion."
+    }
+  ],
+  "structure": [
+    {
+      "label": "A refrain with around 30 verses",
+      "note": "Count varies by version"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "vairagya",
+    "bhakti",
+    "anitya",
+    "moksha",
+    "maya"
+  ],
+  "relatedTexts": [
+    {
+      "id": "vivekachudamani",
+      "note": "Another popular work in the Advaita tradition attributed to Shankara"
+    },
+    {
+      "id": "nirvana-shatakam",
+      "note": "Another short hymn traditionally attributed to Shankara"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "Govinda is a name of Krishna, the teacher of the Gita"
+    }
+  ],
+  "thinkers": [
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

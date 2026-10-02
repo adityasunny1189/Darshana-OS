@@ -1,0 +1,81 @@
+{
+  "id": "vivekananda-bhakti-yoga",
+  "title": {
+    "en": "Bhakti Yoga",
+    "sa": "भक्तियोग",
+    "iast": "Bhaktiyoga"
+  },
+  "category": "modern-exposition",
+  "sourceType": "modern-exposition",
+  "traditions": [
+    "modern",
+    "bhakti",
+    "vedanta"
+  ],
+  "attribution": "Swami Vivekananda",
+  "author": "vivekananda",
+  "period": "Written and delivered in the mid-1890s; published around 1896",
+  "language": "English",
+  "difficulty": "beginner",
+  "themes": [
+    "Devotion",
+    "Love",
+    "Worship",
+    "Renunciation"
+  ],
+  "summary": "Vivekananda's account of the path of devotion, from preparatory worship to supreme love for God.",
+  "whyRead": "It draws on classical bhakti sources and Ramanuja while framing devotion in terms accessible to a modern audience. It is a modern exposition, not a classical text.",
+  "questions": [
+    "What is devotion?",
+    "Why worship a personal God?",
+    "Is love of God compatible with non-dual knowledge?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Two stages",
+      "text": "Devotion is divided into preparatory devotion (gauni), involving symbols, images and ritual, and supreme devotion (para), in which love for God becomes spontaneous."
+    },
+    {
+      "title": "The need for a teacher",
+      "text": "He stresses the qualities of a true teacher and student and the transmission of spiritual force."
+    },
+    {
+      "title": "Love as its own reward",
+      "text": "Supreme devotion is love for its own sake, seeking nothing in return, and it naturally brings renunciation."
+    }
+  ],
+  "structure": [
+    {
+      "label": "A short book in two parts",
+      "note": "Preparatory and supreme devotion; contents vary slightly between editions"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "bhakti",
+    "prema",
+    "ishvara",
+    "vairagya",
+    "sharanagati"
+  ],
+  "relatedTexts": [
+    {
+      "id": "narada-bhakti-sutra",
+      "note": "A classical source for its account of supreme love"
+    },
+    {
+      "id": "sri-bhashya",
+      "note": "Ramanuja, whom Vivekananda draws on"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "Gita chapter 12 on devotion"
+    }
+  ],
+  "thinkers": [
+    "vivekananda",
+    "ramanuja"
+  ],
+  "advanced": false,
+  "ingested": false
+}

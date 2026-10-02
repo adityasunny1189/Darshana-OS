@@ -1,0 +1,67 @@
+{
+  "id": "itihasa-purana",
+  "name": {
+    "en": "Epics & Puranas (Itihasa-Purana)",
+    "sa": "इतिहास-पुराण",
+    "iast": "Itihāsa-Purāṇa"
+  },
+  "family": "epic-puranic",
+  "parent": null,
+  "tagline": "The epics and Puranas: narrative literature that carries dharma, theology and philosophy to wide audiences.",
+  "period": "The Mahabharata and Ramayana are generally thought to have developed over several centuries, roughly between 400 BCE and 400 CE; the major Puranas were composed and expanded over the first millennium CE and later.",
+  "overview": "The Itihasa (\"so it was\") — the Mahabharata and Ramayana — and the Puranas (\"ancient lore\") are vast narrative works that have shaped how ideas of dharma, karma, devotion and liberation are understood across South Asia. They combine story, genealogy, cosmology, law, ritual and philosophical dialogue: the Bhagavad Gita is part of the Mahabharata, and the Uddhava Gita part of the Bhagavata Purana. The Puranas are often classified by the deity they centre on — Vishnu, Shiva or the Goddess — and they present philosophical views drawn from Sankhya, Yoga and Vedanta within a devotional frame. Much of their philosophy is carried by dilemmas: the Mahabharata repeatedly shows dharma as subtle and contested. Later retellings, such as the Adhyatma Ramayana and Tulsidas's Ramcharitmanas, reinterpret the epics for new audiences.",
+  "beginner": "The epics and Puranas are the great stories of Indian tradition — the Ramayana, the Mahabharata, the stories of Krishna, Shiva and the Goddess. They teach through characters and dilemmas rather than arguments.",
+  "coreQuestions": [
+    "What does dharma require when duties conflict?",
+    "How do stories teach philosophy?",
+    "How is the cosmos created and dissolved?",
+    "What is the relationship between God and the devotee?"
+  ],
+  "coreConcepts": [
+    "dharma",
+    "karma",
+    "bhakti",
+    "lila",
+    "svadharma",
+    "samsara",
+    "moksha"
+  ],
+  "texts": [
+    "mahabharata",
+    "valmiki-ramayana",
+    "bhagavad-gita",
+    "bhagavata-purana",
+    "uddhava-gita",
+    "adhyatma-ramayana",
+    "ramcharitmanas",
+    "devi-bhagavata-purana",
+    "devi-mahatmya",
+    "yoga-vasistha"
+  ],
+  "thinkers": [
+    "vyasa",
+    "valmiki",
+    "tulsidas"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "bhakti",
+      "note": "The Puranas, especially the Bhagavata, are central to bhakti"
+    },
+    {
+      "id": "sankhya",
+      "note": "Puranic cosmology draws heavily on Sankhya"
+    },
+    {
+      "id": "vedanta",
+      "note": "Vedantins cite the Gita and Puranas as supporting authorities (smriti)"
+    },
+    {
+      "id": "shaktism",
+      "note": "The Devi Mahatmya and Devi Bhagavata are core Shakta texts"
+    }
+  ],
+  "disagreements": [],
+  "scholar": "The Puranas are traditionally eighteen major (mahapurana) with many minor (upapurana) works, and they define themselves by five topics (pancha-lakshana), though actual contents vary widely. Vyasa is the traditional compiler; scholars treat the texts as layered compositions.",
+  "difficulty": "beginner"
+}

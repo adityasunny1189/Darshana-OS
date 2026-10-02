@@ -1,0 +1,101 @@
+{
+  "id": "sharanagati",
+  "name": {
+    "en": "Sharanagati",
+    "sa": "शरणागति",
+    "iast": "śaraṇāgati"
+  },
+  "short": "Taking refuge in God; total surrender.",
+  "beginner": "Sharanagati means going to God for refuge, letting go of the idea that you must save yourself by your own strength. The Gita ends with Krishna inviting Arjuna to take refuge in him alone.",
+  "what": "Surrender is the culmination of devotion in many theistic traditions. In the Gita, Arjuna first surrenders as a disciple, and the final teaching invites total refuge in God. Sri Vaishnava thought develops this as prapatti, a formal act of surrender with defined components, and debates the role of human effort in it. Sadhak Sanjivani treats surrender as the simplest and highest means, in which one belongs entirely to God.",
+  "scholar": "Sri Vaishnavas after Vedanta Deshika (Vadakalai) and Pillai Lokacharya (Tenkalai) differ on whether surrender needs the soul's effort (the monkey-grip analogy) or rests wholly on grace (the kitten analogy). Madhva's school emphasises grace alongside devotion and knowledge. Sikh thought speaks of taking refuge in the Guru and accepting Hukam. Advaita may read surrender as the dissolution of ego into the Self.",
+  "perspectives": [
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Surrender (prapatti) to Narayana, with Lakshmi as mediator, is a direct means of liberation; lineages differ on how much it requires the soul's own effort."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "The soul is eternally dependent on Vishnu; liberation comes through God's grace, won by devotion grounded in knowledge of that dependence."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Surrender is the heart of love: giving up self-reliance and belonging wholly to God."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Surrender can be read as giving up the ego-sense until only the Self remains; in this sense it converges with self-inquiry."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Taking refuge in the Guru and accepting the Divine order dissolves ego."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "sri-bhashya",
+    "bhagavata-purana",
+    "ramcharitmanas"
+  ],
+  "traditions": [
+    "vishishtadvaita",
+    "dvaita",
+    "bhakti",
+    "advaita",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "prapatti",
+    "bhakti",
+    "anugraha",
+    "ahankara",
+    "shraddha"
+  ],
+  "questions": [
+    "bhakti",
+    "god",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.7",
+      "note": "Arjuna surrenders as a disciple, asking for guidance."
+    },
+    {
+      "kind": "gita",
+      "id": "7.14",
+      "note": "Those who take refuge in God cross over maya."
+    },
+    {
+      "kind": "gita",
+      "id": "18.62",
+      "note": "Take refuge in him with your whole being."
+    },
+    {
+      "kind": "gita",
+      "id": "18.66",
+      "note": "The final teaching of refuge."
+    },
+    {
+      "kind": "concept",
+      "id": "prapatti",
+      "note": "The Sri Vaishnava doctrine of surrender."
+    },
+    {
+      "kind": "thinker",
+      "id": "ramanuja",
+      "note": "The theologian whose tradition systematised it."
+    }
+  ],
+  "gitaVerses": [
+    "2.7",
+    "7.14",
+    "9.34",
+    "18.56",
+    "18.62",
+    "18.65",
+    "18.66"
+  ]
+}

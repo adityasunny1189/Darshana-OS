@@ -1,0 +1,118 @@
+{
+  "id": "dhammapada",
+  "title": {
+    "en": "Dhammapada",
+    "sa": "धम्मपद",
+    "iast": "Dhammapada"
+  },
+  "category": "canonical-scripture",
+  "sourceType": "primary-text",
+  "traditions": [
+    "buddhism",
+    "theravada"
+  ],
+  "attribution": "A collection of verses traditionally regarded as spoken by the Buddha on various occasions; compiled within the early Buddhist community",
+  "author": "buddha",
+  "period": "The verses are generally thought to have been gathered in the last centuries BCE, drawing on older material",
+  "language": "Pali",
+  "difficulty": "beginner",
+  "themes": [
+    "Mind",
+    "Ethics",
+    "Suffering",
+    "Impermanence",
+    "Liberation"
+  ],
+  "summary": "A collection of 423 verses in the Pali canon on the mind, ethics and the path to liberation, one of the most read Buddhist texts.",
+  "whyRead": "It is the most accessible entry into early Buddhist teaching as preserved in Theravada. Its short verses on mind, conduct and freedom have been memorised and recited for centuries.",
+  "questions": [
+    "Why does the mind matter so much for happiness and suffering?",
+    "How should one live?",
+    "What does it mean to be free?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The mind comes first",
+      "text": "The collection opens by placing the mind before all experience: actions done with a corrupted mind lead to suffering, and those done with a clear mind to happiness."
+    },
+    {
+      "title": "Hatred is not ended by hatred",
+      "text": "A famous early verse teaches that enmity is ended by its absence, not by retaliation, a principle often cited in Buddhist ethics."
+    },
+    {
+      "title": "The three marks",
+      "text": "A group of verses states that all conditioned things are impermanent (anicca) and unsatisfactory (dukkha), and that all phenomena are without self (anatta)."
+    },
+    {
+      "title": "The summary of the teaching",
+      "text": "A verse often quoted as a summary of the Buddhas' teaching recommends avoiding harm, cultivating the good and purifying the mind."
+    },
+    {
+      "title": "The awakened person",
+      "text": "Later chapters describe the arahant and the true brahmin as one defined by conduct and freedom from craving, not by birth."
+    }
+  ],
+  "structure": [
+    {
+      "label": "26 chapters (vaggas), 423 verses"
+    },
+    {
+      "label": "Place in the canon",
+      "note": "Khuddaka Nikaya of the Sutta Pitaka in the Pali canon"
+    },
+    {
+      "label": "Commentary",
+      "note": "The Pali commentary with stories for each verse is traditionally attributed to Buddhaghosa"
+    },
+    {
+      "label": "Parallels",
+      "note": "Related collections survive in Gandhari, Sanskrit (Udanavarga) and Chinese"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Dhammapada 1–2",
+      "about": "The mind as the forerunner of experience"
+    },
+    {
+      "ref": "Dhammapada 5",
+      "about": "Hatred is not ended by hatred"
+    },
+    {
+      "ref": "Dhammapada 183",
+      "about": "A summary of the teaching of the Buddhas"
+    },
+    {
+      "ref": "Dhammapada 277–279",
+      "about": "Impermanence, unsatisfactoriness and not-self"
+    }
+  ],
+  "concepts": [
+    "dukkha",
+    "anitya",
+    "anatta",
+    "nirvana",
+    "karma",
+    "ahimsa",
+    "manas"
+  ],
+  "relatedTexts": [
+    {
+      "id": "mulamadhyamakakarika",
+      "note": "A later Mahayana philosophical work of the Madhyamaka school"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "The Gita's description of the steady-minded sage (chapter 2) invites comparison with the Dhammapada's awakened person"
+    },
+    {
+      "id": "tirukkural",
+      "note": "Another classic of short ethical verses"
+    }
+  ],
+  "thinkers": [
+    "buddha"
+  ],
+  "advanced": false,
+  "ingested": false
+}

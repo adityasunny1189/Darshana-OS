@@ -1,0 +1,87 @@
+{
+  "id": "tattva-bodha",
+  "title": {
+    "en": "Tattva Bodha",
+    "sa": "तत्त्वबोध",
+    "iast": "Tattvabodha"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita",
+    "vedanta"
+  ],
+  "attribution": "Traditionally attributed to Shankara; authorship debated by scholars",
+  "author": null,
+  "period": "Date uncertain; if not by Shankara, likely a later Advaita primer",
+  "language": "Sanskrit",
+  "difficulty": "beginner",
+  "themes": [
+    "Vedanta terminology",
+    "Three bodies",
+    "Five sheaths",
+    "Karma",
+    "Qualifications"
+  ],
+  "summary": "A short prose primer that defines the basic vocabulary of Vedanta in question-and-answer form.",
+  "whyRead": "Tattva Bodha is often the first text taught in traditional Vedanta study, because it defines the terms every later work assumes: the three bodies, five sheaths, three states, the elements and the kinds of karma. It is compact and orderly.",
+  "questions": [
+    "What are the three bodies?",
+    "What are the kinds of karma?",
+    "What is needed to begin Vedanta study?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "The fourfold qualification",
+      "text": "It begins by listing the qualifications of a seeker: discernment, dispassion, the six virtues and longing for liberation."
+    },
+    {
+      "title": "Three bodies, five sheaths, three states",
+      "text": "It distinguishes gross, subtle and causal bodies, maps them onto the five sheaths, and relates them to waking, dream and deep sleep."
+    },
+    {
+      "title": "Creation from the elements",
+      "text": "It outlines how the subtle and gross elements give rise to the body, senses and world."
+    },
+    {
+      "title": "Three kinds of karma",
+      "text": "It distinguishes accumulated (sanchita), current (agami) and already-operating (prarabdha) karma, and explains what knowledge does to each."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Prose, in question-and-answer form"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "viveka",
+    "vairagya",
+    "sharira",
+    "karma",
+    "atma",
+    "brahman",
+    "jiva",
+    "maya",
+    "tattva"
+  ],
+  "relatedTexts": [
+    {
+      "id": "vivekachudamani",
+      "note": "Develops the same themes at greater length"
+    },
+    {
+      "id": "atma-bodha",
+      "note": "Another short introductory work"
+    },
+    {
+      "id": "taittiriya-upanishad",
+      "note": "Source of the five-sheaths scheme"
+    }
+  ],
+  "thinkers": [
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

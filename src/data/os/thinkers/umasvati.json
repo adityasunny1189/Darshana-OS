@@ -1,0 +1,40 @@
+{
+  "id": "umasvati",
+  "name": {
+    "en": "Umasvati",
+    "sa": "उमास्वाति"
+  },
+  "traditions": [
+    "jainism"
+  ],
+  "period": "Scholars place him anywhere between the 2nd and 5th centuries CE; dates are debated.",
+  "context": "Umasvati, whom Digambaras often call Umasvami, is the author of the Tattvartha Sutra, the first systematic Jain philosophical work in Sanskrit. It is the one text accepted as authoritative by both the Shvetambara and Digambara traditions. Shvetambaras attribute an auto-commentary (the Svopajna Bhashya) to him, which Digambaras do not accept, and each tradition claims him as its own. Little is known of his life.",
+  "coreIdeas": [
+    "Right faith, right knowledge and right conduct together constitute the path to liberation",
+    "Seven principles (tattvas): soul, non-soul, the inflow of karma, bondage, stopping the inflow, shedding karma and liberation",
+    "Five kinds of knowledge, culminating in omniscience (kevala jnana)",
+    "A systematic account of karma, the kinds of living beings and the cosmos",
+    "Ethics of vows centred on non-harm"
+  ],
+  "works": [
+    "tattvartha-sutra"
+  ],
+  "otherWorks": [
+    "Svopajna Bhashya on the Tattvartha Sutra (attributed to him by Shvetambaras)"
+  ],
+  "attributionNote": "The Tattvartha Sutra is accepted as his by both main Jain traditions; the auto-commentary and his sectarian affiliation are disputed between them.",
+  "influences": [
+    "mahavira"
+  ],
+  "relatedThinkers": [
+    "mahavira"
+  ],
+  "concepts": [
+    "jiva",
+    "karma",
+    "ahimsa",
+    "moksha",
+    "tattva",
+    "anekantavada"
+  ]
+}

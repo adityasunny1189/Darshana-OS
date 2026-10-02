@@ -1,0 +1,95 @@
+{
+  "id": "purusha",
+  "name": {
+    "en": "Purusha — pure consciousness",
+    "sa": "पुरुष",
+    "iast": "puruṣa"
+  },
+  "short": "The conscious witness, distinct from all that changes.",
+  "beginner": "Purusha literally means 'person', but in Sankhya and Yoga it means pure awareness — the one who sees, as distinct from everything seen. The Gita also uses the word for the Supreme Person, God.",
+  "what": "The word has a long history. In the Rigveda's Purusha Sukta, a cosmic Person is the source of the world. In Sankhya, purusha is pure consciousness: inactive, unchanging and plural (one per being), which mistakenly identifies with the workings of prakriti. The Gita uses purusha both for the individual knower of the field and, as purushottama, for the Supreme Person beyond both the perishable and imperishable.",
+  "scholar": "The Sankhya Karika argues for purusha's existence and plurality (e.g. from the fact that births and deaths are distributed individually). The relation of an inactive purusha to an unconscious prakriti ('the lame and the blind' analogy) is a noted problem. Vedanta critiques plurality and relocates the witness as the one Self; Vaishnava schools read purushottama theistically.",
+  "perspectives": [
+    {
+      "tradition": "sankhya",
+      "view": "Purushas are many, pure, inactive consciousnesses; bondage is the non-discrimination of purusha from prakriti, liberation is their isolation (kaivalya)."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Purusha is the seer; the practice stills the mind so the seer can rest in its own nature. Ishvara is a special purusha."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita accepts a pure witnessing consciousness but holds it is one, not many, and identical with Brahman."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "The supreme Purusha (purushottama) is Narayana; individual selves are real and distinct but belong to Him."
+    }
+  ],
+  "texts": [
+    "sankhya-karika",
+    "yoga-sutras",
+    "bhagavad-gita"
+  ],
+  "traditions": [
+    "sankhya",
+    "yoga",
+    "vedic",
+    "advaita",
+    "vishishtadvaita"
+  ],
+  "relatedConcepts": [
+    "prakriti",
+    "sakshi",
+    "atma",
+    "guna",
+    "tattva",
+    "ishvara"
+  ],
+  "questions": [
+    "self",
+    "reality"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "note": "Purusha as pure consciousness, the counterpart to prakriti."
+    },
+    {
+      "kind": "gita",
+      "id": "13.1",
+      "note": "The field and the knower of the field — the Gita's version of the same distinction."
+    },
+    {
+      "kind": "gita",
+      "id": "13.22",
+      "note": "The purusha in the body described as witness, permitter, supporter and experiencer."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "Yoga's aim: the seer established in its own nature."
+    },
+    {
+      "kind": "gita",
+      "id": "15.17",
+      "note": "The Supreme Person beyond both the perishable and the imperishable."
+    },
+    {
+      "kind": "concept",
+      "id": "sakshi",
+      "note": "How Vedanta develops the witness idea."
+    }
+  ],
+  "gitaVerses": [
+    "13.1",
+    "13.19",
+    "13.21",
+    "13.22",
+    "13.31",
+    "15.7",
+    "15.17"
+  ]
+}

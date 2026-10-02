@@ -1,0 +1,115 @@
+{
+  "id": "bhakti",
+  "name": {
+    "en": "Bhakti — devotion",
+    "sa": "भक्ति",
+    "iast": "bhakti"
+  },
+  "short": "Loving devotion to God, as a path and as an end in itself.",
+  "beginner": "Bhakti means devotion — a relationship of love with God, expressed through prayer, song, service, remembrance and surrender. It is open to everyone regardless of learning or social status.",
+  "what": "Bhakti derives from a root meaning 'to share' or 'to partake'. It appears in the Shvetashvatara Upanishad and becomes central in the Gita, where Krishna invites devotion from anyone. From around the 6th century CE the Tamil Alvars and Nayanars, and later poet-saints across India, made bhakti a mass movement in many languages. Bhakti is plural: Vaishnava, Shaiva and Shakta, with God worshipped with form (saguna) or without form (nirguna).",
+  "scholar": "Ramanuja understands bhakti as continuous loving meditation, akin to knowledge, culminating in prapatti (refuge). Gaudiya Vaishnavism, drawing on the Bhagavata Purana, develops a theology of devotional emotion (rasa), with prema as the highest goal. The Narada and Shandilya Bhakti Sutras define bhakti as supreme love. Scholars debate how far bhakti movements challenged caste hierarchies.",
+  "perspectives": [
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Bhakti is sustained, loving meditation on God, supported by knowledge and action; for many, surrender (prapatti) is the direct means."
+    },
+    {
+      "tradition": "dvaita",
+      "view": "Devotion, grounded in knowledge of God's supremacy and one's dependence, is the essential means to liberation by His grace."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Devotion to a personal God purifies the mind and is valued; in its highest form it becomes indistinguishable from knowledge of the Self."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "The poet-saints often treat devotion as the goal itself, higher than liberation — love for its own sake."
+    },
+    {
+      "tradition": "shaiva-siddhanta",
+      "view": "Devotion to Shiva, together with ritual and grace, frees the soul from its bonds; the Tamil hymns of the Nayanars are foundational."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Loving devotion to the formless One through remembrance of the Name (naam simran), without images or ritualism."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "narada-bhakti-sutra",
+    "bhagavata-purana",
+    "ramcharitmanas",
+    "shandilya-bhakti-sutra",
+    "guru-granth-sahib",
+    "vivekananda-bhakti-yoga"
+  ],
+  "traditions": [
+    "bhakti",
+    "vishishtadvaita",
+    "dvaita",
+    "advaita",
+    "shaiva-siddhanta",
+    "sikhism"
+  ],
+  "relatedConcepts": [
+    "prema",
+    "sharanagati",
+    "prapatti",
+    "ishvara",
+    "anugraha",
+    "naam"
+  ],
+  "questions": [
+    "bhakti",
+    "god",
+    "live"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "9.26",
+      "note": "A leaf, a flower, a fruit, water — offered with love, God accepts it."
+    },
+    {
+      "kind": "gita",
+      "id": "12.8",
+      "note": "Fix the mind and intellect on God alone."
+    },
+    {
+      "kind": "text",
+      "id": "narada-bhakti-sutra",
+      "note": "A short classic defining bhakti as supreme love."
+    },
+    {
+      "kind": "text",
+      "id": "bhagavata-purana",
+      "note": "The great narrative scripture of devotion to Krishna."
+    },
+    {
+      "kind": "tradition",
+      "id": "vishishtadvaita",
+      "note": "A philosophical theology of devotion (Ramanuja)."
+    },
+    {
+      "kind": "text",
+      "id": "ramcharitmanas",
+      "note": "Devotion to Rama in the vernacular (Tulsidas)."
+    },
+    {
+      "kind": "tradition",
+      "id": "sikhism",
+      "note": "Devotion to the formless One through the Name."
+    }
+  ],
+  "gitaVerses": [
+    "9.22",
+    "9.26",
+    "9.34",
+    "12.8",
+    "12.13",
+    "14.26",
+    "18.54",
+    "18.65"
+  ]
+}

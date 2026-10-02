@@ -1,0 +1,72 @@
+{
+  "id": "vedartha-sangraha",
+  "title": {
+    "en": "Vedartha Sangraha",
+    "sa": "वेदार्थसंग्रह",
+    "iast": "Vedārthasaṅgraha"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vishishtadvaita",
+    "vedanta"
+  ],
+  "attribution": "Ramanujacharya",
+  "author": "ramanuja",
+  "period": "Traditionally 11th–12th century CE",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Scriptural interpretation",
+    "Brahman",
+    "Difference and non-difference"
+  ],
+  "summary": "An independent prose treatise in which Ramanuja sets out how the Upanishads, read as a whole, teach Vishishtadvaita.",
+  "whyRead": "Shorter and more direct than the Sri Bhashya, it is a good place to see Ramanuja's central interpretive move: reconciling Upanishadic statements of difference and of non-difference through the body-soul relationship.",
+  "questions": [
+    "How can scripture teach both unity and difference?",
+    "What is the meaning of the Upanishads as a whole?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Reconciling unity and difference",
+      "text": "Some Upanishadic passages stress difference between God and souls, others identity; Ramanuja reads both through passages that describe God as the inner self of all."
+    },
+    {
+      "title": "Critique of rival readings",
+      "text": "He critiques Advaita and the Bhedabheda (difference-in-identity) views of earlier Vedantins."
+    }
+  ],
+  "structure": [
+    {
+      "label": "A single continuous prose treatise"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "brahman",
+    "jiva",
+    "ishvara",
+    "bhakti",
+    "maya"
+  ],
+  "relatedTexts": [
+    {
+      "id": "sri-bhashya",
+      "note": "The larger commentary developing the same position"
+    },
+    {
+      "id": "chandogya-upanishad",
+      "note": "Its reading of tat tvam asi is central"
+    },
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "The antaryamin teaching is a key source"
+    }
+  ],
+  "thinkers": [
+    "ramanuja"
+  ],
+  "advanced": false,
+  "ingested": false
+}

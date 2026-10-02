@@ -1,0 +1,80 @@
+{
+  "id": "upadesha-sahasri",
+  "title": {
+    "en": "Upadesha Sahasri",
+    "sa": "उपदेशसाहस्री",
+    "iast": "Upadeśasāhasrī"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita",
+    "vedanta"
+  ],
+  "attribution": "Adi Shankaracharya; one of the independent works whose attribution scholars generally accept",
+  "author": "shankara",
+  "period": "Traditionally 8th century CE; scholars generally place Shankara in the 7th–8th centuries",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Teaching method",
+    "Self",
+    "Ignorance",
+    "Knowledge"
+  ],
+  "summary": "'A thousand teachings': a two-part manual on how to teach Advaita, in prose and in verse, and widely considered an authentic independent work of Shankara.",
+  "whyRead": "Because its authorship is well accepted, scholars use the Upadesha Sahasri as a reliable guide to Shankara's own thought, alongside his commentaries. The prose part is unusual in describing how a teacher should instruct a student step by step.",
+  "questions": [
+    "How should the Self be taught?",
+    "What is the relation between the Self and the mind's contents?",
+    "Why is action no remedy for ignorance?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "A method of teaching",
+      "text": "The prose part presents dialogues showing how a teacher guides a qualified student from identification with the body to recognition of the Self."
+    },
+    {
+      "title": "The Self as pure consciousness",
+      "text": "The Self is presented as consciousness that illumines the mind's modifications while remaining unchanged by them."
+    },
+    {
+      "title": "Knowledge versus action",
+      "text": "It argues that because bondage is ignorance, only knowledge ends it, and action, which presupposes the distinction of doer and deed, cannot."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Prose part (gadya bandha)",
+      "note": "3 chapters"
+    },
+    {
+      "label": "Verse part (padya bandha)",
+      "note": "19 chapters"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "atma",
+    "brahman",
+    "avidya",
+    "jnana",
+    "sakshi",
+    "non-duality"
+  ],
+  "relatedTexts": [
+    {
+      "id": "shankara-brahma-sutra-bhashya",
+      "note": "Shankara's major commentary"
+    },
+    {
+      "id": "vivekachudamani",
+      "note": "A popular work traditionally attributed to Shankara, whose authorship is more doubtful"
+    }
+  ],
+  "thinkers": [
+    "shankara"
+  ],
+  "advanced": false,
+  "ingested": false
+}

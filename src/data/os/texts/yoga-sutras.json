@@ -1,0 +1,147 @@
+{
+  "id": "yoga-sutras",
+  "title": {
+    "en": "Yoga Sutras of Patanjali",
+    "sa": "योगसूत्र",
+    "iast": "Yogasūtra"
+  },
+  "category": "sutra",
+  "sourceType": "primary-text",
+  "traditions": [
+    "yoga",
+    "sankhya"
+  ],
+  "attribution": "Traditionally attributed to Patanjali; whether this Patanjali is the grammarian of the same name is debated",
+  "author": "patanjali",
+  "period": "Scholars commonly place the compilation between roughly the 2nd century BCE and the 5th century CE; many favour the early centuries CE",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Mind",
+    "Meditation",
+    "Discipline",
+    "Liberation",
+    "Consciousness"
+  ],
+  "summary": "The root text of the Yoga darshana: a terse manual on the mind, its afflictions, and the disciplined path to isolation of pure consciousness.",
+  "whyRead": "It is the classical systematic account of yoga as a discipline of mind rather than of posture. Its short aphorisms define key terms that later Indian traditions, and modern yoga, keep returning to. Read it with a commentary; the sutras were written to be unpacked.",
+  "questions": [
+    "What is the mind, and why is it restless?",
+    "Can the mind be brought to stillness, and what remains when it is still?",
+    "What are the practical steps from ethics to meditative absorption?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Yoga as a discipline of the mind",
+      "text": "The text opens by defining yoga in terms of the mind-field (chitta) and its fluctuations (vritti). When these activities come to rest, the seer is said to abide in its own nature. Posture and breath serve this aim; they are not the goal."
+    },
+    {
+      "title": "Practice and dispassion",
+      "text": "Steadiness is said to come from two complementary supports: sustained practice (abhyasa) and dispassion (vairagya) toward objects of experience. Commentators treat this pair as the backbone of the whole discipline."
+    },
+    {
+      "title": "The five afflictions (kleshas)",
+      "text": "Suffering is traced to five afflictions: ignorance (avidya), I-am-ness (asmita), attraction, aversion and clinging to life. Ignorance, understood as mistaking the non-self for the self, is the ground of the other four."
+    },
+    {
+      "title": "The eight limbs (ashtanga)",
+      "text": "The second and third chapters set out eight limbs: yama (ethical restraints), niyama (observances), asana (seated posture), pranayama (breath regulation), pratyahara (withdrawal of the senses), dharana (concentration), dhyana (meditation) and samadhi (absorption). The last three together are called samyama."
+    },
+    {
+      "title": "Ishvara as a special purusha",
+      "text": "Unlike classical Sankhya, the Yoga Sutras admit Ishvara, a distinct purusha untouched by affliction and karma. Devotion or surrender to Ishvara (ishvara-pranidhana) is presented as one means to samadhi."
+    },
+    {
+      "title": "Kaivalya: isolation of the seer",
+      "text": "The goal is kaivalya, the isolation of pure consciousness (purusha) from the workings of nature (prakriti). The text shares Sankhya's dualist framework while giving it a practical, meditative method."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Samadhi Pada (51 sutras in the common recension)",
+      "note": "Definition of yoga, the fluctuations of mind, practice and dispassion, kinds of samadhi, Ishvara"
+    },
+    {
+      "label": "Sadhana Pada (55 sutras in the common recension)",
+      "note": "Kriya yoga, the afflictions, karma, the seer and the seen, the first five limbs"
+    },
+    {
+      "label": "Vibhuti Pada (55 sutras in the common recension)",
+      "note": "Dharana, dhyana, samadhi, samyama and the extraordinary powers (siddhis)"
+    },
+    {
+      "label": "Kaivalya Pada (34 sutras in the common recension)",
+      "note": "Mind, karma, impressions and the final isolation of the seer"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "Yoga Sutra 1.2",
+      "about": "The definition of yoga in terms of the mind-field and its fluctuations"
+    },
+    {
+      "ref": "Yoga Sutra 1.12",
+      "about": "Practice and dispassion as the means of restraint",
+      "gita": [
+        "6.35"
+      ]
+    },
+    {
+      "ref": "Yoga Sutra 1.23",
+      "about": "Devotion to Ishvara as a means to samadhi"
+    },
+    {
+      "ref": "Yoga Sutra 2.3",
+      "about": "The five afflictions (kleshas)"
+    },
+    {
+      "ref": "Yoga Sutra 2.29",
+      "about": "The list of the eight limbs of yoga"
+    },
+    {
+      "ref": "Yoga Sutra 2.46",
+      "about": "Asana as a steady and comfortable seat",
+      "gita": [
+        "6.12"
+      ]
+    }
+  ],
+  "concepts": [
+    "yoga",
+    "chitta",
+    "samadhi",
+    "dhyana",
+    "pranayama",
+    "vairagya",
+    "purusha",
+    "prakriti",
+    "ishvara",
+    "avidya",
+    "guna",
+    "moksha"
+  ],
+  "relatedTexts": [
+    {
+      "id": "sankhya-karika",
+      "note": "Shares the Sankhya metaphysics of purusha and prakriti"
+    },
+    {
+      "id": "bhagavad-gita",
+      "note": "Gita chapter 6 describes seated meditation and the role of practice and dispassion"
+    },
+    {
+      "id": "vivekananda-raja-yoga",
+      "note": "A modern exposition that includes Vivekananda's rendering and commentary on the sutras"
+    },
+    {
+      "id": "hatha-yoga-pradipika",
+      "note": "Later hatha manual that presents its bodily methods as a ladder toward raja yoga"
+    }
+  ],
+  "thinkers": [
+    "patanjali",
+    "vivekananda"
+  ],
+  "advanced": false,
+  "ingested": false
+}

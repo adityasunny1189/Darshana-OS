@@ -1,0 +1,87 @@
+{
+  "id": "shraddha",
+  "name": {
+    "en": "Shraddha",
+    "sa": "श्रद्धा",
+    "iast": "śraddhā"
+  },
+  "short": "Faith or trust; confident commitment to a teaching, teacher or ideal.",
+  "beginner": "Shraddha is often translated as faith, but it is closer to trust: a confident openness that lets you commit to something before you fully understand it. The Gita says a person is shaped by their faith.",
+  "what": "Shraddha is the trust that makes learning and practice possible. In Vedanta it is one of the qualifications of a seeker: trust in scripture and the teacher's words until understanding matures. The Gita classes faith by the three gunas and says one's faith reflects one's nature. Buddhist texts treat faith (saddha) as a starting faculty, to be confirmed by experience. Faith here is usually distinguished from blind belief.",
+  "scholar": "Gita 17.2–3 analyses threefold faith; 4.39–40 contrasts the person of faith with the doubter. Tattva Bodha lists shraddha among the six virtues (shat-sampatti). Buddhist lists of five faculties begin with faith (saddha) and include wisdom, which balances it. The Nyaya tradition's inclusion of verbal testimony (shabda) as a pramana gives an epistemic frame to trust in reliable speakers.",
+  "perspectives": [
+    {
+      "tradition": "vedanta",
+      "view": "Trust in scripture and teacher is a qualification for inquiry; it is provisional confidence that ripens into direct knowledge."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Faith is the root of devotion: confidence in God's reality and care, which grows into love."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Faith is the first of the five faculties, to be balanced by wisdom and verified in practice."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "Testimony of a reliable person is a valid means of knowledge, which gives a reasoned basis for trust."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "tattva-bodha",
+    "sadhak-sanjivani",
+    "dhammapada",
+    "nyaya-sutras"
+  ],
+  "traditions": [
+    "vedanta",
+    "bhakti",
+    "buddhism",
+    "nyaya"
+  ],
+  "relatedConcepts": [
+    "bhakti",
+    "jnana",
+    "guna",
+    "pramana",
+    "sharanagati"
+  ],
+  "questions": [
+    "knowledge",
+    "bhakti"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "4.39",
+      "note": "The one with faith gains knowledge and peace."
+    },
+    {
+      "kind": "gita",
+      "id": "4.40",
+      "note": "The fate of the doubter."
+    },
+    {
+      "kind": "gita",
+      "id": "17.3",
+      "note": "A person is made of their faith."
+    },
+    {
+      "kind": "text",
+      "id": "tattva-bodha",
+      "note": "Faith among the six virtues of a seeker."
+    },
+    {
+      "kind": "concept",
+      "id": "pramana",
+      "note": "Compare: testimony as a means of knowledge."
+    }
+  ],
+  "gitaVerses": [
+    "4.39",
+    "4.40",
+    "17.2",
+    "17.3"
+  ]
+}

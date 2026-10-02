@@ -1,0 +1,81 @@
+{
+  "id": "shankara",
+  "name": {
+    "en": "Adi Shankaracharya",
+    "sa": "आदि शङ्कराचार्य"
+  },
+  "traditions": [
+    "advaita",
+    "vedanta"
+  ],
+  "period": "Traditionally 788–820 CE; many scholars prefer an earlier 8th-century or late 7th-century date. Dates are debated.",
+  "context": "Shankara is the most influential systematiser of Advaita Vedanta. Traditional biographies (the Shankara-digvijaya texts, composed centuries later) describe his birth in Kerala, early renunciation, travels across India, debates with rival schools and founding of monastic centres (mathas); these accounts mix history and hagiography. His authentic works are commentaries (bhashyas) on the Brahma Sutras, the principal Upanishads and, most scholars accept, the Bhagavad Gita. Many popular hymns and short manuals carry his name, but their attribution is debated.",
+  "coreIdeas": [
+    "Brahman, pure consciousness, is the one reality; the individual Self (atman) is not different from Brahman",
+    "The world of multiplicity is maya: neither simply real nor simply unreal, an appearance dependent on Brahman",
+    "Bondage is due to avidya (ignorance), the superimposition (adhyasa) of the not-Self on the Self",
+    "Liberation comes through knowledge (jnana) arising from the Upanishads, not through ritual action alone",
+    "Two levels of truth: the empirical (vyavaharika), in which worship and duty are valid, and the ultimate (paramarthika)"
+  ],
+  "works": [
+    "shankara-brahma-sutra-bhashya",
+    "shankara-gita-bhashya",
+    "upadesha-sahasri",
+    "vivekachudamani",
+    "tattva-bodha",
+    "atma-bodha",
+    "aparokshanubhuti",
+    "bhaja-govindam",
+    "nirvana-shatakam"
+  ],
+  "otherWorks": [
+    "Commentaries on the principal Upanishads",
+    "Commentary on the Mandukya Karika (attribution discussed)"
+  ],
+  "attributionNote": "The Brahma Sutra Bhashya, the Upadesha Sahasri and the principal Upanishad commentaries are widely accepted as his; the Gita Bhashya is accepted by most scholars. The Vivekachudamani, Tattva Bodha, Atma Bodha, Aparokshanubhuti, Bhaja Govindam and Nirvana Shatakam are traditionally attributed to him, but many scholars consider some or all of them later works of the Advaita tradition.",
+  "influences": [
+    "gaudapada",
+    "vyasa"
+  ],
+  "influenced": [
+    "vivekananda",
+    "ramana-maharshi"
+  ],
+  "disagreements": [
+    {
+      "with": "ramanuja",
+      "note": "Ramanuja rejects Shankara's doctrine of maya and the idea of an attributeless Brahman: for him the world and souls are real and form the 'body' of a Brahman rich in auspicious qualities, and the liberated soul remains distinct from God."
+    },
+    {
+      "with": "madhva",
+      "note": "Madhva holds that difference between God, souls and matter is real and eternal, and argues against both the identity of jiva and Brahman and the unreality of the world."
+    },
+    {
+      "with": "mimamsa",
+      "note": "Shankara argues against the Mimamsa view that the Veda is primarily about ritual action: the Upanishads, he holds, teach an already-existing reality, Brahman, known through knowledge rather than produced by action."
+    },
+    {
+      "with": "buddhism",
+      "note": "Shankara criticises Buddhist schools, including those that deny an enduring Self or an external world. Later Vedantic critics in turn accused his system of resembling Buddhism."
+    }
+  ],
+  "relatedThinkers": [
+    "gaudapada",
+    "ramanuja",
+    "madhva",
+    "ramana-maharshi",
+    "vivekananda"
+  ],
+  "concepts": [
+    "brahman",
+    "atma",
+    "maya",
+    "avidya",
+    "jnana",
+    "viveka",
+    "non-duality",
+    "neti-neti",
+    "sakshi",
+    "moksha"
+  ]
+}

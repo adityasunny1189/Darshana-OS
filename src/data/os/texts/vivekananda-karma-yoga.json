@@ -1,0 +1,79 @@
+{
+  "id": "vivekananda-karma-yoga",
+  "title": {
+    "en": "Karma Yoga",
+    "sa": "कर्मयोग",
+    "iast": "Karmayoga"
+  },
+  "category": "modern-exposition",
+  "sourceType": "modern-exposition",
+  "traditions": [
+    "modern",
+    "vedanta"
+  ],
+  "attribution": "Swami Vivekananda; lectures given in New York",
+  "author": "vivekananda",
+  "period": "Lectures given around the winter of 1895–1896; published in 1896",
+  "language": "English",
+  "difficulty": "beginner",
+  "themes": [
+    "Action",
+    "Duty",
+    "Non-attachment",
+    "Service"
+  ],
+  "summary": "Vivekananda's lectures on the yoga of action: working without attachment as a path to freedom.",
+  "whyRead": "It is a widely read modern account of karma yoga, drawing on the Gita and presenting unselfish work and service as a complete spiritual path. It is a modern exposition shaped by its setting and audience.",
+  "questions": [
+    "How can work be a spiritual practice?",
+    "What is duty?",
+    "How do we act without being bound by results?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Work as character formation",
+      "text": "Every action leaves impressions that shape character, so the way we work matters as much as what we achieve."
+    },
+    {
+      "title": "Duty is relative",
+      "text": "Vivekananda argues that duty depends on one's position and circumstances, and that each is great in his own place."
+    },
+    {
+      "title": "Non-attachment",
+      "text": "The core teaching is to work intensely but without attachment to results, the modern restatement of the Gita's nishkama karma."
+    },
+    {
+      "title": "Service as worship",
+      "text": "Helping others is presented as helping oneself and, finally, as worship of the divine in them."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Eight chapters in the common edition"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "karma",
+    "nishkama-karma",
+    "svadharma",
+    "seva",
+    "asakti",
+    "phala"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavad-gita",
+      "note": "The classical source of karma yoga, for example Gita 2.47 and 3.35"
+    },
+    {
+      "id": "vivekananda-jnana-yoga",
+      "note": "Companion volume on knowledge"
+    }
+  ],
+  "thinkers": [
+    "vivekananda"
+  ],
+  "advanced": false,
+  "ingested": false
+}

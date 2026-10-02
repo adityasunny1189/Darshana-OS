@@ -1,0 +1,88 @@
+{
+  "id": "vairagya",
+  "name": {
+    "en": "Vairagya — dispassion",
+    "sa": "वैराग्य",
+    "iast": "vairāgya"
+  },
+  "short": "Freedom from craving — the fading of attraction to what cannot satisfy.",
+  "beginner": "Vairagya means 'without colour' — the mind no longer dyed by craving. It is not hatred of the world but a calm freedom from being pulled around by it.",
+  "what": "Dispassion is paired with practice (abhyasa) in both the Yoga Sutras and the Gita as the two means of steadying the mind. It grows from seeing clearly the limits of pleasure and possession. In Advaita it is one of the four qualifications for Self-inquiry. The Gita also includes dispassion toward sense objects among the marks of knowledge.",
+  "scholar": "Yoga Sutras 1.12–16 distinguish lower dispassion from higher dispassion (para vairagya), indifference even to the gunas. Vedanta distinguishes mild, intense and supreme dispassion in some manuals. Some bhakti teachers regard dispassion as a by-product of love for God rather than an effort.",
+  "perspectives": [
+    {
+      "tradition": "yoga",
+      "view": "Dispassion, together with practice, stills the mind; its highest form is indifference even to the gunas."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Dispassion toward enjoyments here and hereafter is one of the four qualifications for knowledge of Brahman."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "As love for God grows, attraction to lesser things falls away of itself."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Dispassion (viraga) arises from seeing impermanence and suffering, and leads to release."
+    }
+  ],
+  "texts": [
+    "yoga-sutras",
+    "bhagavad-gita",
+    "vivekachudamani",
+    "bhaja-govindam",
+    "vivekananda-jnana-yoga"
+  ],
+  "traditions": [
+    "yoga",
+    "advaita",
+    "bhakti",
+    "buddhism"
+  ],
+  "relatedConcepts": [
+    "asakti",
+    "viveka",
+    "kama",
+    "tyaga",
+    "sannyasa"
+  ],
+  "questions": [
+    "mind",
+    "freedom"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "6.35",
+      "note": "The mind is restless, but it is controlled by practice and dispassion."
+    },
+    {
+      "kind": "text",
+      "id": "yoga-sutras",
+      "note": "The same pair, practice and dispassion, as Patanjali defines them."
+    },
+    {
+      "kind": "gita",
+      "id": "13.8",
+      "note": "Dispassion toward sense objects as a mark of knowledge."
+    },
+    {
+      "kind": "text",
+      "id": "vivekachudamani",
+      "note": "Dispassion as a qualification for Self-inquiry."
+    },
+    {
+      "kind": "text",
+      "id": "bhaja-govindam",
+      "note": "A hymn urging the reader to see through worldly pursuits (traditionally attributed to Shankara)."
+    }
+  ],
+  "gitaVerses": [
+    "2.59",
+    "5.22",
+    "6.35",
+    "13.8",
+    "15.3"
+  ]
+}

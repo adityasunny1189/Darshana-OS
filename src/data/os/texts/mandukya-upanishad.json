@@ -1,0 +1,104 @@
+{
+  "id": "mandukya-upanishad",
+  "title": {
+    "en": "Mandukya Upanishad",
+    "sa": "माण्डूक्योपनिषद्",
+    "iast": "Māṇḍūkya Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta",
+    "advaita"
+  ],
+  "attribution": "Atharvaveda; author unknown",
+  "author": null,
+  "period": "Often regarded as one of the latest principal Upanishads, perhaps around the turn of the Common Era; dating is uncertain",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Om",
+    "States of consciousness",
+    "Turiya",
+    "Self",
+    "Non-duality"
+  ],
+  "summary": "Twelve short prose statements that map the syllable Om onto waking, dream, deep sleep and a fourth state (turiya) identified with the Self.",
+  "whyRead": "The shortest principal Upanishad, it offers a complete map of consciousness in a few lines, using experience everyone has (waking, dreaming, dreamless sleep) as the starting point for inquiry. Through Gaudapada's Karika on it, it became a foundation of Advaita.",
+  "questions": [
+    "What is common to waking, dreaming and deep sleep?",
+    "Is there consciousness beyond these states?",
+    "What does Om stand for?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "All this is Om",
+      "text": "The text opens by identifying the syllable Om with everything, past, present and future, and with what lies beyond time."
+    },
+    {
+      "title": "This Self is Brahman",
+      "text": "It states that all this is Brahman and that the Self is Brahman, one of the classical 'great sayings' (mahavakyas)."
+    },
+    {
+      "title": "Four quarters of the Self",
+      "text": "The Self is described in four aspects: the waking (vaishvanara), the dreaming (taijasa), the deeply sleeping (prajna), and the fourth (turiya), which is none of these."
+    },
+    {
+      "title": "The fourth",
+      "text": "Turiya is described only by negation: not inwardly or outwardly conscious, not graspable, peaceful and non-dual. Advaita treats it as the Self underlying all three states."
+    },
+    {
+      "title": "Om as a map",
+      "text": "The sounds A, U and M are matched to the three states, and the silence after the syllable to the fourth."
+    }
+  ],
+  "structure": [
+    {
+      "label": "12 prose verses (mantras)"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "2",
+      "about": "All this is Brahman; this Self is Brahman"
+    },
+    {
+      "ref": "7",
+      "about": "The fourth (turiya), described by negation"
+    },
+    {
+      "ref": "8–12",
+      "about": "The parts of Om matched to the states of consciousness"
+    }
+  ],
+  "concepts": [
+    "atma",
+    "brahman",
+    "non-duality",
+    "sakshi",
+    "jnana",
+    "atma-vichara"
+  ],
+  "relatedTexts": [
+    {
+      "id": "mandukya-karika",
+      "note": "Gaudapada's verse commentary, the earliest surviving Advaita treatise, is built on this Upanishad"
+    },
+    {
+      "id": "prashna-upanishad",
+      "note": "Its discussion of Om and sleep anticipates Mandukya's scheme"
+    },
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "Contains earlier Upanishadic reflections on dream and deep sleep"
+    }
+  ],
+  "thinkers": [
+    "gaudapada",
+    "shankara",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

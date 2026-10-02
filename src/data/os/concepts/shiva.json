@@ -1,0 +1,95 @@
+{
+  "id": "shiva",
+  "name": {
+    "en": "Shiva (as principle)",
+    "sa": "शिव",
+    "iast": "śiva"
+  },
+  "short": "Shiva as the supreme reality or pure consciousness, as understood in Shaiva philosophies.",
+  "beginner": "Shiva is worshipped as a god, but in Shaiva philosophy the name also points to the highest reality: pure, free consciousness. Different Shaiva schools disagree about how that reality relates to us.",
+  "what": "In Shaiva traditions Shiva is the supreme Lord (Pati) and, philosophically, the ultimate principle. Kashmir Shaivism understands Shiva as luminous consciousness (prakasha) that is also self-aware (vimarsha), inseparable from Shakti; the individual is Shiva who has forgotten and can recognise itself. Shaiva Siddhanta holds that Shiva, souls and the bonds are three distinct eternal realities, and liberation makes the soul Shiva-like without merging identity. In the Gita's list of divine manifestations, Krishna names Shankara (Shiva) as foremost among the Rudras.",
+  "scholar": "Trika's 36 tattvas place Shiva and Shakti at the top, above the Sankhya tattvas. Shaiva Siddhanta (Meykandar's Shiva Jnana Bodham) is realist and dualist or qualified-dualist about pati, pashu, pasha. The Shvetashvatara Upanishad is an early text that identifies the supreme with Rudra-Shiva. Advaita tends to read Shiva as one name of saguna Brahman.",
+  "perspectives": [
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "Shiva is all-inclusive consciousness, free and self-aware; the universe is its self-expression and the individual is Shiva in contracted form."
+    },
+    {
+      "tradition": "shaiva-siddhanta",
+      "view": "Shiva is the transcendent Lord, distinct from souls and matter; by grace he removes the soul's bonds so it shares in his nature without becoming him."
+    },
+    {
+      "tradition": "vedic",
+      "view": "The Shvetashvatara Upanishad presents Rudra-Shiva as the one Lord behind the world and the object of devotion."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Shiva, like Vishnu, can be revered as Ishvara, Brahman with qualities; beyond names, the absolute is attributeless."
+    },
+    {
+      "tradition": "shaivism",
+      "view": "Across Shaiva lineages Shiva is both the object of devotion and ritual and the goal of liberation, with sharp disagreements about identity versus distinction."
+    }
+  ],
+  "texts": [
+    "shvetashvatara-upanishad",
+    "shiva-sutras",
+    "pratyabhijna-hridayam",
+    "shiva-jnana-bodham",
+    "agamas"
+  ],
+  "traditions": [
+    "shaivism",
+    "kashmir-shaivism",
+    "shaiva-siddhanta",
+    "vedic",
+    "advaita"
+  ],
+  "relatedConcepts": [
+    "shakti",
+    "pratyabhijna",
+    "pati-pashu-pasha",
+    "spanda",
+    "anugraha"
+  ],
+  "questions": [
+    "god",
+    "reality",
+    "self"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "10.23",
+      "note": "Among the Rudras, Krishna names Shankara as his manifestation."
+    },
+    {
+      "kind": "text",
+      "id": "shvetashvatara-upanishad",
+      "note": "An early Upanishadic vision of Rudra-Shiva as the one Lord."
+    },
+    {
+      "kind": "tradition",
+      "id": "shaivism",
+      "note": "The broad family of Shaiva traditions."
+    },
+    {
+      "kind": "text",
+      "id": "shiva-sutras",
+      "note": "Kashmir Shaivism's foundational aphorisms."
+    },
+    {
+      "kind": "concept",
+      "id": "pratyabhijna",
+      "note": "Recognising oneself as Shiva."
+    },
+    {
+      "kind": "concept",
+      "id": "pati-pashu-pasha",
+      "note": "Contrast: Shaiva Siddhanta's three distinct realities."
+    }
+  ],
+  "gitaVerses": [
+    "10.23"
+  ]
+}

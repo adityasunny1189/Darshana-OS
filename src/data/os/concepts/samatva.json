@@ -1,0 +1,95 @@
+{
+  "id": "samatva",
+  "name": {
+    "en": "Samatva",
+    "sa": "समत्व",
+    "iast": "samatva"
+  },
+  "short": "Equanimity: evenness of mind in gain and loss, success and failure.",
+  "beginner": "Samatva means staying balanced whether things go your way or not. The Gita calls this evenness itself 'yoga'.",
+  "what": "Samatva is the stability of mind that does not swing between elation and despair. The Gita defines yoga as this evenness and makes it the mark of the person of steady wisdom and of the true devotee. It is not indifference: one acts fully while remaining inwardly unshaken by outcomes. Sadhak Sanjivani treats samatva as the essential test of spiritual progress, more than any outer practice.",
+  "scholar": "Gita 2.48 defines yoga as samatva; 2.50 adds skill in action; 5.19 links evenness with Brahman, which is itself 'even' (sama). Buddhist upekkha (equanimity) is one of the four boundless states and a factor of awakening, with a similar but not identical sense. Jain samayika is a formal practice of equanimity. Stoic apatheia is a frequent modern comparison.",
+  "perspectives": [
+    {
+      "tradition": "vedanta",
+      "view": "Equanimity reflects the Self's untouched nature; the one established in Brahman sees and responds evenly because Brahman itself is even."
+    },
+    {
+      "tradition": "yoga",
+      "view": "A mind freed from attraction and aversion becomes still, which is the condition for concentration and discrimination."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Equanimity (upekkha) is one of the boundless states and a factor of awakening, balancing loving-kindness and compassion with non-reactivity."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Equanimity is practised formally as samayika, a period of even-minded contemplation, and is essential to stopping new karmic influx."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "yoga-sutras",
+    "dhammapada"
+  ],
+  "traditions": [
+    "vedanta",
+    "yoga",
+    "buddhism",
+    "jainism"
+  ],
+  "relatedConcepts": [
+    "sthitaprajna",
+    "yoga",
+    "nishkama-karma",
+    "vairagya",
+    "asakti"
+  ],
+  "questions": [
+    "failure",
+    "mind",
+    "live",
+    "suffering"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.38",
+      "note": "Treat pleasure and pain, gain and loss, victory and defeat alike."
+    },
+    {
+      "kind": "gita",
+      "id": "2.48",
+      "note": "Evenness is called yoga."
+    },
+    {
+      "kind": "gita",
+      "id": "5.19",
+      "note": "Evenness of mind and Brahman."
+    },
+    {
+      "kind": "gita",
+      "id": "12.18",
+      "note": "Evenness as a mark of the beloved devotee."
+    },
+    {
+      "kind": "concept",
+      "id": "sthitaprajna",
+      "note": "The portrait of the person established in equanimity."
+    },
+    {
+      "kind": "tradition",
+      "id": "buddhism",
+      "note": "Compare the Buddhist quality of upekkha."
+    }
+  ],
+  "gitaVerses": [
+    "2.38",
+    "2.40",
+    "2.48",
+    "2.50",
+    "5.19",
+    "12.18"
+  ]
+}

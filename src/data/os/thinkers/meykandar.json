@@ -1,0 +1,45 @@
+{
+  "id": "meykandar",
+  "name": {
+    "en": "Meykandar",
+    "sa": "मेय्कण्डार्"
+  },
+  "traditions": [
+    "shaiva-siddhanta",
+    "shaivism"
+  ],
+  "period": "Traditionally placed in the early 13th century CE.",
+  "context": "Meykandar is the foundational teacher of Tamil Shaiva Siddhanta as a philosophical system. His Shiva Jnana Bodham, a short Tamil work of twelve sutras with commentary, is regarded as the root text of the Meykandar lineage. Tradition holds that its sutras render verses of the Raurava Agama, which scholars debate. His disciple Arulnandi and later authors developed his teaching into the fourteen Meykanda Shastras.",
+  "coreIdeas": [
+    "Three eternal realities: the Lord (pati), souls (pashu) and bonds (pasha)",
+    "Souls are bound by impurities (malas): anava (innate limitation), karma and maya",
+    "Shiva acts on souls out of grace, and liberation comes through that grace",
+    "In liberation the soul is inseparable from Shiva, yet not identical: a non-duality that preserves distinction",
+    "The world is real and is produced from maya as a material cause under Shiva's direction"
+  ],
+  "works": [
+    "shiva-jnana-bodham"
+  ],
+  "attributionNote": "Whether the Shiva Jnana Bodham is an original Tamil composition or a rendering of Agamic Sanskrit verses is debated.",
+  "disagreements": [
+    {
+      "with": "advaita",
+      "note": "Shaiva Siddhanta rejects the Advaita view that the soul is identical with the absolute and the world is maya in the sense of appearance; souls are eternally real and distinct even when liberated."
+    },
+    {
+      "with": "kashmir-shaivism",
+      "note": "Both are Shaiva, but Kashmir Shaivism holds that souls and the world are forms of Shiva's consciousness, while Siddhanta keeps the Lord, souls and bonds eternally distinct."
+    }
+  ],
+  "relatedThinkers": [
+    "abhinavagupta"
+  ],
+  "concepts": [
+    "pati-pashu-pasha",
+    "shiva",
+    "anugraha",
+    "jiva",
+    "maya",
+    "moksha"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "id": "yajna",
+  "name": {
+    "en": "Yajna — sacrifice, offering",
+    "sa": "यज्ञ",
+    "iast": "yajña"
+  },
+  "short": "Offering: from the Vedic fire ritual to the inner attitude of doing all action as an offering.",
+  "beginner": "Yajna originally meant a Vedic fire ritual in which offerings are made. Later it came to mean any action done as an offering for the good of all, not only for oneself.",
+  "what": "Yajna is the central Vedic ritual of offering into fire, understood as maintaining the relation between humans, gods and cosmic order. Purva Mimamsa made the correct performance of such rites the core of dharma. The Gita widens yajna to include every action done without selfishness, lists many forms of it (offerings of wealth, austerity, breath, study, knowledge) and places knowledge as the highest. Later traditions internalise yajna further as devotion, service or meditation.",
+  "scholar": "In the Vedic Brahmanas, yajna is a precise ritual technology; Mimamsa explains its efficacy through apurva, an unseen potency produced by the rite. Gita 3.9–16 describes a cycle of yajna sustaining the world, and 4.24–33 lists varieties, with 4.33 ranking jnana-yajna above material offerings. Tantric traditions develop an inner (antar-) yaga. The Jain and Buddhist critiques of animal sacrifice shaped the later ethical reinterpretation.",
+  "perspectives": [
+    {
+      "tradition": "mimamsa",
+      "view": "For Mimamsa, the Vedic injunctions to perform sacrifice are the very content of dharma, and a correctly performed rite yields its result through an unseen potency."
+    },
+    {
+      "tradition": "vedic",
+      "view": "In the Vedic hymns and Brahmanas, sacrifice sustains the cosmos and the relationship between humans and deities; it is bound up with rta, cosmic order."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita sees ritual as purifying the mind, preparing it for knowledge; the Gita's image of offering, offerer and fire all being Brahman (4.24) is read as the vision of the knower."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Devotional traditions reinterpret sacrifice as loving offering to God, even of a leaf, flower, fruit or water."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Early Buddhist texts criticise animal sacrifice and redirect the idea toward generosity and ethical conduct."
+    },
+    {
+      "tradition": "tantra",
+      "view": "Tantric traditions develop an inner sacrifice in which the elements of worship are visualised and offered within the practitioner's own awareness."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "mimamsa-sutras",
+    "brihadaranyaka-upanishad",
+    "chandogya-upanishad"
+  ],
+  "traditions": [
+    "vedic",
+    "mimamsa",
+    "advaita",
+    "bhakti",
+    "buddhism",
+    "tantra"
+  ],
+  "relatedConcepts": [
+    "karma",
+    "dharma",
+    "rta",
+    "nishkama-karma",
+    "seva"
+  ],
+  "questions": [
+    "karma",
+    "dharma",
+    "live"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "vedic",
+      "note": "Begin with the Vedic fire ritual and its link to cosmic order."
+    },
+    {
+      "kind": "tradition",
+      "id": "mimamsa",
+      "note": "Mimamsa makes correct performance of sacrifice the core of dharma."
+    },
+    {
+      "kind": "gita",
+      "id": "3.9",
+      "note": "Action done for the sake of yajna does not bind; all other action does."
+    },
+    {
+      "kind": "gita",
+      "id": "3.14",
+      "note": "The Gita's cycle: beings from food, food from rain, rain from sacrifice."
+    },
+    {
+      "kind": "gita",
+      "id": "4.24",
+      "note": "Offering, offerer and fire all seen as Brahman."
+    },
+    {
+      "kind": "gita",
+      "id": "4.33",
+      "note": "Knowledge is named the highest sacrifice."
+    },
+    {
+      "kind": "concept",
+      "id": "seva",
+      "note": "Compare with seva, selfless service, in Sikh and later devotional thought."
+    }
+  ],
+  "gitaVerses": [
+    "3.9",
+    "3.10",
+    "3.13",
+    "3.14",
+    "4.23",
+    "4.24",
+    "4.33",
+    "18.46"
+  ]
+}

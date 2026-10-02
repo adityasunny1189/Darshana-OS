@@ -1,0 +1,116 @@
+{
+  "id": "dharma",
+  "name": {
+    "en": "Dharma",
+    "sa": "धर्म",
+    "iast": "dharma"
+  },
+  "short": "What upholds — order, duty, right conduct, and the nature of things.",
+  "beginner": "Dharma comes from a root meaning 'to hold up'. It means what holds life together: right conduct, duty, justice and one's responsibilities. There is no single English word for it, and its meaning shifts between traditions.",
+  "what": "Dharma can mean cosmic and social order, ritual duty, moral virtue, law, one's role-specific duty (svadharma) or even, in Buddhism, the Buddha's teaching and the basic elements of experience. The Dharmashastra literature codifies duties by stage of life and social position, while epic texts such as the Mahabharata show how hard dharma is to discern in real conflicts. The Gita opens on the 'field of dharma' and treats Arjuna's crisis as a crisis of dharma.",
+  "scholar": "Mimamsa defines dharma as a good known through Vedic injunction (codana). The Mahabharata repeatedly notes that dharma is subtle (sukshma). Buddhist usage splits into Dharma (teaching) and dharmas (momentary factors analysed in Abhidharma). Jainism uses dharma also for the medium of motion, one of its six substances. Modern debates concern the relation of varna-based duties to universal ethics (sadharana dharma).",
+  "perspectives": [
+    {
+      "tradition": "mimamsa",
+      "view": "Dharma is what the Veda enjoins — known only through scripture, not through perception or reason."
+    },
+    {
+      "tradition": "itihasa-purana",
+      "view": "The epics present dharma as subtle and contested, dramatising dilemmas where duties collide rather than giving simple rules."
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Dharma purifies and prepares; the Vedanta schools subordinate it to knowledge or devotion as the means to liberation."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Dhamma is the Buddha's teaching and the truth it points to; in Abhidharma, dharmas are the basic events of experience."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Dharma is ethical religion — non-harm, truth, restraint — and, in Jain metaphysics, also the medium that makes motion possible."
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Dharam is truthful, honest living as a householder, set within the divine order; the earth itself is described as a place for practising dharam."
+    },
+    {
+      "tradition": "tamil-ethics",
+      "view": "The Tirukkural's first section, on aram (virtue), treats dharma as universal ethical conduct rather than caste-specific duty."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "mahabharata",
+    "mimamsa-sutras",
+    "dhammapada",
+    "tirukkural",
+    "valmiki-ramayana"
+  ],
+  "traditions": [
+    "mimamsa",
+    "itihasa-purana",
+    "vedanta",
+    "buddhism",
+    "jainism",
+    "sikhism",
+    "tamil-ethics"
+  ],
+  "relatedConcepts": [
+    "svadharma",
+    "rta",
+    "karma",
+    "ahimsa",
+    "yajna"
+  ],
+  "questions": [
+    "dharma",
+    "live"
+  ],
+  "follow": [
+    {
+      "kind": "concept",
+      "id": "rta",
+      "note": "The Vedic idea of cosmic order from which dharma grows."
+    },
+    {
+      "kind": "tradition",
+      "id": "mimamsa",
+      "note": "Dharma as what scripture enjoins."
+    },
+    {
+      "kind": "text",
+      "id": "mahabharata",
+      "note": "Dharma in hard cases: the epic's many dilemmas."
+    },
+    {
+      "kind": "gita",
+      "id": "3.35",
+      "note": "Better one's own dharma imperfectly than another's done well."
+    },
+    {
+      "kind": "gita",
+      "id": "18.66",
+      "note": "The Gita's final teaching, read variously as transcending or fulfilling dharma."
+    },
+    {
+      "kind": "text",
+      "id": "tirukkural",
+      "note": "A Tamil classic on virtue as universal conduct."
+    },
+    {
+      "kind": "tradition",
+      "id": "buddhism",
+      "note": "A different meaning: Dharma as the Buddha's teaching."
+    }
+  ],
+  "gitaVerses": [
+    "2.31",
+    "2.33",
+    "2.38",
+    "3.35",
+    "4.7",
+    "18.47",
+    "18.66"
+  ]
+}

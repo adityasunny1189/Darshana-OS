@@ -1,0 +1,60 @@
+{
+  "id": "abhinavagupta",
+  "name": {
+    "en": "Abhinavagupta",
+    "sa": "अभिनवगुप्त"
+  },
+  "traditions": [
+    "kashmir-shaivism",
+    "shaivism",
+    "tantra"
+  ],
+  "period": "Scholars place him around 950–1020 CE.",
+  "context": "Abhinavagupta, of Kashmir, was the most influential thinker of the non-dual Shaiva traditions, synthesising the Pratyabhijna ('recognition') philosophy of Somananda and Utpaladeva with the ritual and contemplative systems of the Trika tantras. His Tantraloka is an encyclopaedic exposition of Tantric Shaiva thought and practice. He was also a major theorist of aesthetics, whose commentaries on the Natyashastra and on Anandavardhana's theory of poetic suggestion shaped Indian theories of rasa. He is remembered as having studied under many teachers across several traditions.",
+  "coreIdeas": [
+    "Reality is a single consciousness, Shiva, which is both light (prakasha) and self-reflective awareness (vimarsha)",
+    "The world is a real expression of consciousness's freedom (svatantrya), not an illusion",
+    "Bondage is the self-contraction of consciousness; liberation is the recognition (pratyabhijna) of one's identity with Shiva",
+    "Ritual, contemplation, and knowledge are integrated means, graded according to the practitioner",
+    "Aesthetic experience (rasa) offers a glimpse of the restful, universal awareness sought in spiritual practice"
+  ],
+  "works": [],
+  "otherWorks": [
+    "Tantraloka",
+    "Tantrasara",
+    "Paratrishika Vivarana",
+    "Ishvara Pratyabhijna Vimarshini and Vivriti Vimarshini",
+    "Abhinavabharati (commentary on the Natyashastra)",
+    "Dhvanyaloka Locana",
+    "Gitartha Sangraha (commentary on the Bhagavad Gita)"
+  ],
+  "influences": [
+    "vasugupta"
+  ],
+  "influenced": [
+    "kshemaraja"
+  ],
+  "disagreements": [
+    {
+      "with": "advaita",
+      "note": "Both are non-dual, but for Abhinavagupta the world is the real self-expression of Shiva's power, whereas Advaita Vedanta treats the world as maya and Brahman as inactive pure consciousness; Kashmir Shaiva authors criticise the latter view."
+    },
+    {
+      "with": "shaiva-siddhanta",
+      "note": "Shaiva Siddhanta holds that God, souls and bonds are eternally distinct and that ritual is required to remove the soul's impurity; Abhinavagupta's non-dual Trika reinterprets the same scriptural heritage in terms of identity with Shiva."
+    }
+  ],
+  "relatedThinkers": [
+    "vasugupta",
+    "kshemaraja",
+    "shankara"
+  ],
+  "concepts": [
+    "shiva",
+    "shakti",
+    "pratyabhijna",
+    "spanda",
+    "non-duality",
+    "anugraha"
+  ]
+}

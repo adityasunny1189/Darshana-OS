@@ -1,7 +1,9 @@
 import type { NextConfig } from "next";
 
+// Frontend-only: everything is pre-rendered to static HTML in `out/`.
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: "export",
+  trailingSlash: true,
 };
 
 export default nextConfig;

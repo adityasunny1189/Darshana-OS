@@ -1,0 +1,83 @@
+{
+  "id": "gita-tatparya",
+  "title": {
+    "en": "Gita Tatparya Nirnaya (Madhva)",
+    "sa": "गीतातात्पर्यनिर्णय",
+    "iast": "Gītātātparyanirṇaya"
+  },
+  "category": "bhashya",
+  "sourceType": "traditional-commentary",
+  "traditions": [
+    "dvaita",
+    "vedanta",
+    "bhakti"
+  ],
+  "attribution": "Madhvacharya",
+  "author": "madhva",
+  "period": "13th century CE",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Devotion",
+    "Difference",
+    "Action",
+    "God"
+  ],
+  "summary": "Madhva's work determining the 'purport' of the Gita, written in addition to his shorter Gita Bhashya, reading it as teaching devotion to Vishnu within Dvaita.",
+  "whyRead": "It shows how the Gita reads when difference between God and souls is taken as fundamental. Madhva engages earlier interpretations and supports his reading with a wide range of scriptural sources.",
+  "questions": [
+    "What is the Gita's central purport?",
+    "How does Dvaita read the Gita's teaching on the Self?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Supremacy of Vishnu",
+      "text": "Krishna, as Vishnu, is the independent supreme being on whom all else depends."
+    },
+    {
+      "title": "Devotion grounded in knowledge",
+      "text": "Devotion, informed by knowledge of God's greatness, is the means to liberation, together with God's grace."
+    },
+    {
+      "title": "Action as worship",
+      "text": "Duties are to be performed without desire for results, as worship of God."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Topical commentary on the Gita, chapter by chapter"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "bhakti",
+    "ishvara",
+    "jiva",
+    "nishkama-karma",
+    "anugraha",
+    "karma"
+  ],
+  "relatedTexts": [
+    {
+      "id": "bhagavad-gita",
+      "note": "The root text"
+    },
+    {
+      "id": "shankara-gita-bhashya",
+      "note": "The Advaita reading"
+    },
+    {
+      "id": "ramanuja-gita-bhashya",
+      "note": "The Vishishtadvaita reading"
+    },
+    {
+      "id": "madhva-brahma-sutra-bhashya",
+      "note": "Madhva's commentary on the Brahma Sutras"
+    }
+  ],
+  "thinkers": [
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

@@ -1,0 +1,68 @@
+{
+  "id": "yogacara",
+  "name": {
+    "en": "Yogacara",
+    "sa": "योगाचार",
+    "iast": "Yogācāra"
+  },
+  "family": "buddhist-school",
+  "parent": "buddhism",
+  "tagline": "The \"practice of yoga\" school: an analysis of experience in terms of consciousness.",
+  "period": "Associated with the brothers Asanga and Vasubandhu, whom scholars generally place around the 4th–5th century CE.",
+  "overview": "Yogacara is a Mahayana Buddhist school, also called Vijnanavada (\"the way of consciousness\") or Chittamatra (\"mind-only\"). It holds that what we take to be an external world of independent objects is constructed in and by consciousness, and analyses the mind into layers, including the storehouse consciousness (alaya-vijnana), which carries the seeds of past karma. It describes three natures of things — the imagined, the dependent and the perfected — as a way of understanding how experience is falsely split into subject and object. Awakening is described as a transformation of the basis of consciousness. Scholars debate whether Yogacara is metaphysical idealism or primarily a phenomenological analysis of experience for meditative practice.",
+  "beginner": "Yogacara studies how the mind builds the world we experience. It says the split between \"me in here\" and \"things out there\" is created by the mind, and meditation can undo that false division.",
+  "coreQuestions": [
+    "Do external objects exist independently of consciousness?",
+    "How is karma carried from life to life without a self?",
+    "What are the layers of the mind?",
+    "What does it mean for the basis of consciousness to be transformed?"
+  ],
+  "coreConcepts": [
+    "chitta",
+    "avidya",
+    "karma",
+    "shunyata",
+    "anatta",
+    "non-duality",
+    "dhyana"
+  ],
+  "texts": [],
+  "thinkers": [],
+  "relatedTraditions": [
+    {
+      "id": "buddhism",
+      "note": "A major school of Mahayana Buddhist philosophy"
+    },
+    {
+      "id": "madhyamaka",
+      "note": "The other great Indian Mahayana school"
+    },
+    {
+      "id": "advaita",
+      "note": "Advaita writers, including Shankara, criticised Buddhist idealism while some scholars see mutual influence"
+    },
+    {
+      "id": "kashmir-shaivism",
+      "note": "Pratyabhijna thinkers engaged critically with Buddhist theories of consciousness"
+    }
+  ],
+  "disagreements": [
+    {
+      "with": "madhyamaka",
+      "topic": "status of consciousness",
+      "note": "Yogacara treats the dependent nature of consciousness as having a kind of reality that Madhyamaka regards as still empty."
+    },
+    {
+      "with": "advaita",
+      "topic": "external objects",
+      "note": "Shankara argues against the view that there are no external objects; Advaita's consciousness is also eternal and unchanging, unlike Yogacara's momentary stream."
+    },
+    {
+      "with": "nyaya",
+      "topic": "external world",
+      "note": "Nyaya realism rejects the claim that objects are only forms of consciousness."
+    }
+  ],
+  "scholar": "Key texts (not yet in this library) include the Samdhinirmochana Sutra, Asanga's Yogacarabhumi and Mahayanasamgraha, and Vasubandhu's Vimshatika and Trimshika. The school has eight consciousnesses in its developed form. Its epistemological offshoot is the logic of Dignaga and Dharmakirti.",
+  "difficulty": "advanced"
+}

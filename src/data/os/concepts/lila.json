@@ -1,0 +1,97 @@
+{
+  "id": "lila",
+  "name": {
+    "en": "Lila — divine play",
+    "sa": "लीला",
+    "iast": "līlā"
+  },
+  "short": "Creation as God's spontaneous play rather than an act of need.",
+  "beginner": "Lila means play. Some traditions say God creates the world not because God needs anything, but freely and joyfully, like play. The stories of Krishna and Rama are also called lila.",
+  "what": "Lila expresses the idea that the divine creates, sustains and acts in the world spontaneously, out of fullness, and not to fulfil any lack. The Brahma Sutras use the analogy of play to answer the objection that a perfect Brahman would have no motive to create. In devotional traditions lila also names the deeds of God's incarnations, especially Krishna's childhood and youth in Vrindavan, which devotees remember, enact and meditate on. Shaiva and Shakta traditions similarly describe the cosmos as the play of Shiva or the Goddess.",
+  "scholar": "Brahma Sutra 2.1.33 gives the lila argument. Shankara accepts it while noting that ultimately creation is an appearance; Ramanuja and later Vaishnavas treat lila as real expression of God's nature. Gaudiya theology distinguishes manifest and unmanifest lila. Kashmir Shaivism speaks of Shiva's krida (play) in the five acts. In Tulsidas and Surdas, lila is an aesthetic and devotional category.",
+  "perspectives": [
+    {
+      "tradition": "vedanta",
+      "view": "The Brahma Sutras argue that Brahman creates without motive, as in play, so creation does not imply any lack in Brahman."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Advaita accepts the play analogy at the empirical level while holding that, ultimately, creation is an appearance of Brahman."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "For devotional traditions, the lila of Krishna or Rama is real and eternal, and remembering and hearing it is itself a spiritual practice."
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "view": "The world is Shiva's free play of self-concealment and self-revelation."
+    },
+    {
+      "tradition": "shaktism",
+      "view": "The Goddess is described as playfully creating, sustaining and dissolving the universe."
+    }
+  ],
+  "texts": [
+    "brahma-sutras",
+    "bhagavata-purana",
+    "ramcharitmanas",
+    "devi-mahatmya",
+    "bhagavad-gita"
+  ],
+  "traditions": [
+    "vedanta",
+    "advaita",
+    "bhakti",
+    "kashmir-shaivism",
+    "shaktism",
+    "itihasa-purana"
+  ],
+  "relatedConcepts": [
+    "ishvara",
+    "maya",
+    "shakti",
+    "prema",
+    "bhakti"
+  ],
+  "questions": [
+    "god",
+    "reality"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "4.6",
+      "note": "The unborn Lord takes birth through his own power."
+    },
+    {
+      "kind": "gita",
+      "id": "4.9",
+      "note": "Knowing the divine birth and action in truth frees one from rebirth."
+    },
+    {
+      "kind": "text",
+      "id": "brahma-sutras",
+      "note": "The Brahma Sutras' argument that creation is like play."
+    },
+    {
+      "kind": "text",
+      "id": "bhagavata-purana",
+      "note": "Krishna's lila as the heart of devotion."
+    },
+    {
+      "kind": "text",
+      "id": "ramcharitmanas",
+      "note": "Tulsidas' retelling of Rama's lila."
+    },
+    {
+      "kind": "tradition",
+      "id": "kashmir-shaivism",
+      "note": "The cosmos as Shiva's play."
+    }
+  ],
+  "gitaVerses": [
+    "4.6",
+    "4.9",
+    "9.9"
+  ]
+}

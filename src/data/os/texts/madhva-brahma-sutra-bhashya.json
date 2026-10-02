@@ -1,0 +1,90 @@
+{
+  "id": "madhva-brahma-sutra-bhashya",
+  "title": {
+    "en": "Brahma Sutra Bhashya (Madhva)",
+    "sa": "ब्रह्मसूत्रभाष्य",
+    "iast": "Brahmasūtra Bhāṣya"
+  },
+  "category": "bhashya",
+  "sourceType": "traditional-commentary",
+  "traditions": [
+    "dvaita",
+    "vedanta",
+    "bhakti"
+  ],
+  "attribution": "Madhvacharya",
+  "author": "madhva",
+  "period": "13th century CE (Madhva's traditional dates are usually given as 1238–1317, though other dates are proposed)",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Difference",
+    "God's independence",
+    "Reality of the world",
+    "Devotion"
+  ],
+  "summary": "Madhva's concise commentary on the Brahma Sutras, founding the Dvaita school, which holds that God, souls and matter are eternally distinct.",
+  "whyRead": "Madhva offers the sharpest contrast with Advaita: difference is real and eternal, and God alone is independent. Reading his short commentary alongside Shankara's and Ramanuja's shows the full range of what Vedanta can mean.",
+  "questions": [
+    "Are God and the soul ever identical?",
+    "Is difference real?",
+    "What makes God unique?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Five differences",
+      "text": "Madhva holds that there are real, eternal differences between God and souls, God and matter, soul and soul, soul and matter, and matter and matter (pancha-bheda)."
+    },
+    {
+      "title": "Independent and dependent",
+      "text": "Reality divides into the one independent reality, Vishnu, and everything dependent on him."
+    },
+    {
+      "title": "The world is real",
+      "text": "The world is real, not an appearance; knowledge of it is valid."
+    },
+    {
+      "title": "Grace and devotion",
+      "text": "Liberation comes through devotion and God's grace; liberated souls remain distinct from God, enjoying bliss according to their nature."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Commentary on all four chapters of the Brahma Sutras",
+      "note": "Brief; expanded in the Anuvyakhyana"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "brahman",
+    "ishvara",
+    "jiva",
+    "bhakti",
+    "anugraha",
+    "moksha",
+    "prakriti"
+  ],
+  "relatedTexts": [
+    {
+      "id": "brahma-sutras",
+      "note": "The root text"
+    },
+    {
+      "id": "anuvyakhyana",
+      "note": "Madhva's verse expansion of this commentary"
+    },
+    {
+      "id": "shankara-brahma-sutra-bhashya",
+      "note": "The Advaita view Madhva opposes"
+    },
+    {
+      "id": "sri-bhashya",
+      "note": "The Vishishtadvaita view, which shares Madhva's theism but not his emphasis on difference"
+    }
+  ],
+  "thinkers": [
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

@@ -1,0 +1,141 @@
+{
+  "id": "chandogya-upanishad",
+  "title": {
+    "en": "Chandogya Upanishad",
+    "sa": "छान्दोग्योपनिषद्",
+    "iast": "Chāndogya Upaniṣad"
+  },
+  "category": "upanishad",
+  "sourceType": "primary-text",
+  "traditions": [
+    "vedic",
+    "vedanta"
+  ],
+  "attribution": "Samaveda (Chandogya Brahmana); author unknown",
+  "author": null,
+  "period": "With the Brihadaranyaka, generally considered one of the two oldest Upanishads; many scholars place it before the Buddha, around the 7th–6th centuries BCE, though dating is debated",
+  "language": "Sanskrit",
+  "difficulty": "intermediate",
+  "themes": [
+    "Being",
+    "Self",
+    "Identity with Brahman",
+    "Meditation",
+    "Chanting"
+  ],
+  "summary": "A long prose Upanishad of the Samaveda, best known for Uddalaka's teaching to his son Shvetaketu that the Self is one with the underlying Being of all things.",
+  "whyRead": "Chandogya contains some of the most influential teaching stories in Indian thought, including the teaching summed up in 'tat tvam asi' (you are that), which Vedanta schools interpret in sharply different ways. Its dialogues show teachers using everyday examples, clay, salt, a seed, to make abstract ideas concrete.",
+  "story": "In the sixth chapter the young Shvetaketu returns home proud after twelve years of study. His father Uddalaka Aruni asks whether he has learned that by which the unheard becomes heard. Through examples such as clay and its products, a tiny banyan seed and salt dissolved in water, he teaches that one subtle Being underlies everything, ending each lesson with the refrain that Shvetaketu is that. Later chapters include Narada learning from Sanatkumara, and Indra and the demon Virochana learning from Prajapati.",
+  "questions": [
+    "What is the one thing by knowing which everything is known?",
+    "What is the relation between the individual and the whole?",
+    "What is the real Self?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "In the beginning was Being",
+      "text": "Uddalaka teaches that in the beginning there was Being (sat) alone, one without a second, from which the world emerged."
+    },
+    {
+      "title": "Clay and its forms",
+      "text": "Just as by knowing one lump of clay all things made of clay are known, names and forms being only modifications, so by knowing Being all is known."
+    },
+    {
+      "title": "You are that",
+      "text": "The refrain 'tat tvam asi' links the individual to that subtle Being. Advaita reads it as strict identity; Vishishtadvaita as the Lord indwelling the soul as its inner self; Dvaita, through Madhva's reading, as similarity or dependence rather than identity."
+    },
+    {
+      "title": "All this is Brahman",
+      "text": "The Shandilya teaching in chapter 3 asks one to meditate on all this as Brahman and on the Self within the heart as smaller than a grain yet greater than the worlds."
+    },
+    {
+      "title": "The Self is not the body",
+      "text": "In chapter 8 Indra and Virochana learn from Prajapati; Virochana settles for the body as the Self, while Indra keeps returning with doubts until he is taught a deeper Self."
+    }
+  ],
+  "structure": [
+    {
+      "label": "8 chapters (prapathakas)"
+    },
+    {
+      "label": "Chapters 1–5",
+      "note": "Mostly meditations on chant, Om and ritual"
+    },
+    {
+      "label": "Chapters 6–8",
+      "note": "The major philosophical dialogues"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "3.14.1",
+      "about": "All this is Brahman (the Shandilya teaching)"
+    },
+    {
+      "ref": "6.1.4",
+      "about": "Clay and its modifications: name and form"
+    },
+    {
+      "ref": "6.2.1",
+      "about": "In the beginning was Being alone, one without a second"
+    },
+    {
+      "ref": "6.8.7",
+      "about": "First occurrence of the refrain 'tat tvam asi' in Uddalaka's teaching"
+    },
+    {
+      "ref": "6.12",
+      "about": "The banyan seed"
+    },
+    {
+      "ref": "6.13",
+      "about": "Salt dissolved in water"
+    },
+    {
+      "ref": "7.1",
+      "about": "Narada approaches Sanatkumara"
+    },
+    {
+      "ref": "8.7–8.12",
+      "about": "Indra and Virochana are taught by Prajapati"
+    }
+  ],
+  "concepts": [
+    "brahman",
+    "atma",
+    "jiva",
+    "non-duality",
+    "dhyana",
+    "maya",
+    "jnana"
+  ],
+  "relatedTexts": [
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "The other oldest Upanishad; the two share several passages and figures"
+    },
+    {
+      "id": "brahma-sutras",
+      "note": "Many sutras interpret Chandogya passages"
+    },
+    {
+      "id": "shankara-brahma-sutra-bhashya",
+      "note": "Shankara's reading of tat tvam asi as identity"
+    },
+    {
+      "id": "sri-bhashya",
+      "note": "Ramanuja's reading of the same teaching in terms of the Lord as inner self"
+    },
+    {
+      "id": "madhva-brahma-sutra-bhashya",
+      "note": "Madhva's reading that preserves difference between soul and God"
+    }
+  ],
+  "thinkers": [
+    "shankara",
+    "ramanuja",
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}

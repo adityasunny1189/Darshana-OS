@@ -1,0 +1,4094 @@
+{
+ "chapters": [
+  {
+   "chapter": 7,
+   "nameSa": "ज्ञानविज्ञानयोग",
+   "nameIast": "Jñāna-Vijñāna Yoga",
+   "nameEn": "The Yoga of Knowledge and Realization",
+   "subtitle": {
+    "en": "Everything Is Vasudeva",
+    "hi": "सब कुछ वासुदेव ही हैं"
+   },
+   "tagline": {
+    "en": "Bhagavan reveals his complete (samagra) form: he alone is the root of everything, and refuge in him carries one across maya.",
+    "hi": "भगवान् अपना समग्ररूप बताते हैं—सबके मूल कारण वे ही हैं, और उनकी शरण लेनेसे ही माया तरी जाती है।"
+   },
+   "overview": {
+    "en": "Moved by the praise of the devotee at the end of Chapter 6, Bhagavan begins this chapter on his own, without Arjuna asking. He promises knowledge together with realization (jñāna with vijñāna): firmly accepting that he is the ultimate cause of the whole world is 'jñāna', and actually experiencing that nothing exists apart from him is 'vijñāna'. He describes his two natures — the eightfold lower (aparā) prakṛti and the higher (parā) prakṛti that has become the jīva — and says the world is strung on him like beads on a thread. He then explains why people do not know him (delusion by the three guṇas), who takes refuge in him (four kinds of devotees), and why the one who sees 'everything is Vāsudeva' is the rarest of all.",
+    "hi": "छठे अध्यायके अन्तमें भक्तकी महिमा कहते-कहते भगवान् उसी भावमें मस्त होकर अर्जुनके बिना पूछे ही सातवाँ अध्याय आरम्भ करते हैं। वे विज्ञानसहित ज्ञान कहनेकी प्रतिज्ञा करते हैं—भगवान् ही सम्पूर्ण जगत्के महाकारण हैं, ऐसा दृढ़तासे मानना ‘ज्ञान’ है और भगवान्के सिवाय कुछ भी नहीं है, ऐसा अनुभव हो जाना ‘विज्ञान’ है। भगवान् अपनी अपरा (आठ भेदोंवाली) और परा (जीवरूप) प्रकृतिका वर्णन करते हैं और बताते हैं कि सारा जगत् सूतकी मणियोंकी तरह उनमें पिरोया हुआ है। फिर वे बताते हैं कि लोग उन्हें क्यों नहीं जानते, कौन उनकी शरण होते हैं और ‘वासुदेव: सर्वम्’ का अनुभव करनेवाला महात्मा क्यों अत्यन्त दुर्लभ है।"
+   },
+   "whyHere": {
+    "en": "In 6.47 Bhagavan said that among all yogis the one who worships him with faith and love is the best. Just as a devotee becomes absorbed when he remembers Bhagavan, Bhagavan becomes absorbed when the subject of devotees comes up — and in that absorption he opens Chapter 7 unasked, to describe the complete form such a devotee comes to know.",
+    "hi": "छठे अध्यायके सैंतालीसवें श्लोकमें भगवान्ने कहा कि योगियोंमें भी श्रद्धा-प्रेमसे भजन करनेवाला भक्त सर्वश्रेष्ठ है। जैसे भगवान्की याद आनेपर भक्त तल्लीन हो जाते हैं, वैसे ही भक्तोंका प्रसंग आनेपर भगवान् मस्त हो जाते हैं। इसी मस्तीमें वे बिना पूछे सातवें अध्यायका विषय आरम्भ कर देते हैं।"
+   },
+   "theme": {
+    "en": "Bhagavan alone is the cause of all — refuge in him ends delusion",
+    "hi": "सबके मूलमें भगवान्—उनकी शरणसे मायाका नाश"
+   },
+   "keyConcepts": [
+    "jnana",
+    "prakriti",
+    "guna",
+    "maya",
+    "sharanagati",
+    "bhakti",
+    "ishvara"
+   ],
+   "questions": [
+    {
+     "en": "What is Bhagavan's complete (samagra) form, and how is it known?",
+     "hi": "भगवान्का समग्ररूप क्या है और वह कैसे जाना जाता है?"
+    },
+    {
+     "en": "If the jīva is untouched by prakṛti, why does it remain bound and not know Bhagavan?",
+     "hi": "जीव निर्लिप्त होते हुए भी क्यों बँधता है और भगवान्को क्यों नहीं जानता?"
+    },
+    {
+     "en": "Who takes refuge in Bhagavan, and who among them is the best?",
+     "hi": "भगवान्की शरण कौन होते हैं और उनमें श्रेष्ठ कौन है?"
+    },
+    {
+     "en": "Why do people worship other deities for their desires instead of Bhagavan?",
+     "hi": "मनुष्य भगवान्को छोड़कर कामनाओंके लिये अन्य देवताओंकी शरण क्यों लेते हैं?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 3,
+     "title": {
+      "en": "The promise of complete knowledge",
+      "hi": "समग्ररूप कहनेकी प्रतिज्ञा"
+     },
+     "summary": {
+      "en": "Bhagavan promises to teach jñāna with vijñāna, after which nothing remains to be known, and notes how rare it is to know him as he truly is.",
+      "hi": "भगवान् विज्ञानसहित ज्ञान कहनेकी प्रतिज्ञा करते हैं, जिसे जाननेके बाद कुछ जानना शेष नहीं रहता; और बताते हैं कि उन्हें यथार्थरूपसे जाननेवाला कोई एक ही होता है।"
+     }
+    },
+    {
+     "from": 4,
+     "to": 7,
+     "title": {
+      "en": "Two natures, one source",
+      "hi": "दो प्रकृतियाँ, एक मूल"
+     },
+     "summary": {
+      "en": "The eightfold aparā prakṛti and the parā prakṛti (the jīva) together produce all beings; Bhagavan is their origin, and nothing at all exists beyond him — the world is strung on him like beads on a thread.",
+      "hi": "अपरा और परा प्रकृतिके संयोगसे सब प्राणी होते हैं; इनके मूल भगवान् हैं और उनके सिवाय दूसरा कुछ नहीं है—जगत् सूतकी मणियोंकी तरह उनमें ओतप्रोत है।"
+     }
+    },
+    {
+     "from": 8,
+     "to": 12,
+     "title": {
+      "en": "Bhagavan at the root of all that is seen",
+      "hi": "जो दीखता है, उसके मूलमें भगवान्"
+     },
+     "summary": {
+      "en": "The taste in water, the light of sun and moon, the eternal seed of all beings — Bhagavan names himself as the root of each; all sāttvika, rājasa and tāmasa states arise from him, yet he is not in them.",
+      "hi": "जलमें रस, सूर्य-चन्द्रमें प्रभा, सब प्राणियोंका सनातन बीज—भगवान् हर वस्तुके मूलमें अपनेको बताते हैं; सात्त्विक, राजस, तामस भाव उनसे ही होते हैं, पर वे उनमें नहीं हैं।"
+     }
+    },
+    {
+     "from": 13,
+     "to": 15,
+     "title": {
+      "en": "Why the world does not know him",
+      "hi": "संसार भगवान्को क्यों नहीं जानता"
+     },
+     "summary": {
+      "en": "Deluded by the three guṇas, the world does not know Bhagavan; his guṇa-made māyā is hard to cross, but those who take refuge in him alone cross it — those whose understanding is stolen by māyā do not.",
+      "hi": "तीनों गुणोंसे मोहित जगत् भगवान्को नहीं जानता; उनकी गुणमयी माया दुरत्यय है, पर जो केवल उनकी शरण होते हैं, वे तर जाते हैं—मायासे हरे ज्ञानवाले शरण नहीं होते।"
+     }
+    },
+    {
+     "from": 16,
+     "to": 19,
+     "title": {
+      "en": "The four kinds of devotees",
+      "hi": "चार प्रकारके भक्त"
+     },
+     "summary": {
+      "en": "The seeker of wealth, the distressed, the inquirer and the jñānī (the loving devotee) all worship him; all are noble, but the jñānī is his very self, and the one who sees 'everything is Vāsudeva' is extremely rare.",
+      "hi": "अर्थार्थी, आर्त, जिज्ञासु और ज्ञानी (प्रेमी)—चारों भजन करते हैं; सभी उदार हैं, पर ज्ञानी भगवान्का स्वरूप ही है, और ‘वासुदेव: सर्वम्’ माननेवाला महात्मा अत्यन्त दुर्लभ है।"
+     }
+    },
+    {
+     "from": 20,
+     "to": 23,
+     "title": {
+      "en": "Worship driven by desire",
+      "hi": "कामनासे देवताओंकी उपासना"
+     },
+     "summary": {
+      "en": "Those whose understanding is carried off by desires take refuge in other deities; Bhagavan himself steadies their faith and fulfils their wishes, but the fruit is perishable — his devotees reach him.",
+      "hi": "कामनाओंसे जिनका ज्ञान हरा गया है, वे अन्य देवताओंकी शरण लेते हैं; उनकी श्रद्धा भी भगवान् ही दृढ़ करते हैं और फल भी वे ही देते हैं, पर वह फल नाशवान् है—भगवान्के भक्त भगवान्को ही प्राप्त होते हैं।"
+     }
+    },
+    {
+     "from": 24,
+     "to": 28,
+     "title": {
+      "en": "The veil and the pull of opposites",
+      "hi": "योगमायाका परदा और द्वन्द्वमोह"
+     },
+     "summary": {
+      "en": "Thinking of Bhagavan as an ordinary man, people remain behind the veil of his yogamāyā; deluded by the pairs born of attraction and aversion, beings keep taking birth — those free of this delusion worship him with firm resolve.",
+      "hi": "भगवान्को साधारण मनुष्य माननेवालोंके सामने योगमायाका परदा रहता है; राग-द्वेषसे उत्पन्न द्वन्द्वमोहसे प्राणी जन्म-मरणमें पड़े हैं—इस मोहसे रहित मनुष्य दृढ़व्रती होकर भजन करते हैं।"
+     }
+    },
+    {
+     "from": 29,
+     "to": 30,
+     "title": {
+      "en": "Knowing the complete form",
+      "hi": "समग्ररूपका ज्ञान"
+     },
+     "summary": {
+      "en": "Closing the three points made at the start, Bhagavan says those who strive taking refuge in him come to know Brahma, adhyātma, karma, adhibhūta, adhidaiva and adhiyajña — and know him even at the end.",
+      "hi": "आरम्भकी तीन बातोंका उपसंहार करते हुए भगवान् कहते हैं कि उनका आश्रय लेकर यत्न करनेवाले ब्रह्म, अध्यात्म, कर्म, अधिभूत, अधिदैव और अधियज्ञसहित उन्हें जान लेते हैं और अन्तकालमें भी उन्हें ही जानते हैं।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "7.3",
+    "7.7",
+    "7.14",
+    "7.16",
+    "7.19"
+   ],
+   "motif": "seed"
+  },
+  {
+   "chapter": 8,
+   "nameSa": "अक्षरब्रह्मयोग",
+   "nameIast": "Akṣara-Brahma Yoga",
+   "nameEn": "The Yoga of the Imperishable Brahman",
+   "subtitle": {
+    "en": "Remember Me Always",
+    "hi": "सब समयमें मेरा स्मरण"
+   },
+   "tagline": {
+    "en": "What one remembers at the last moment decides where one goes — so remember Bhagavan at all times, and do your duty.",
+    "hi": "अन्तकालमें जिसका स्मरण होता है, वैसी ही गति होती है—इसलिये सब समय भगवान्का स्मरण करते हुए कर्तव्य करो।"
+   },
+   "overview": {
+    "en": "At the close of Chapter 7 Bhagavan used six terms — Brahma, adhyātma, karma, adhibhūta, adhidaiva, adhiyajña — and spoke of being known at the time of death. To understand them, Arjuna asks seven questions. Bhagavan answers the first six briefly and the seventh, about the time of death, at length: whatever one remembers while leaving the body, one attains. So he tells Arjuna to remember him at all times and fight. He describes the ways of remembering him in the saguṇa-nirākāra, nirguṇa-nirākāra and saguṇa-sākāra forms, the endless cycle of Brahmā's day and night, and the two paths — bright and dark — by which the departed go and do or do not return.",
+    "hi": "सातवें अध्यायके अन्तमें भगवान्ने ब्रह्म, अध्यात्म, कर्म, अधिभूत, अधिदैव और अधियज्ञ—इन छ: शब्दोंका प्रयोग किया और अन्तकालमें अपनेको जाननेकी बात कही। इन्हें समझनेके लिये अर्जुन सात प्रश्न करते हैं। भगवान् छ: प्रश्नोंका उत्तर संक्षेपसे और अन्तकालविषयक सातवें प्रश्नका उत्तर विस्तारसे देते हैं—अन्तकालमें जिस भावका स्मरण करते हुए मनुष्य शरीर छोड़ता है, उसीको प्राप्त होता है। इसलिये वे अर्जुनसे कहते हैं कि सब समय मेरा स्मरण कर और युद्ध भी कर। आगे सगुण-निराकार, निर्गुण-निराकार और सगुण-साकारके चिन्तनकी विधि, ब्रह्माके दिन-रातका चक्र तथा शुक्ल और कृष्ण—दोनों मार्गोंका वर्णन है।"
+   },
+   "whyHere": {
+    "en": "Chapter 7 ended with six technical terms and the promise that those who know Bhagavan's complete form know him even at the time of death. Arjuna wants these terms made clear, so this chapter opens with his questions — a detour, as Swamiji notes, from the flow of jñāna-vijñāna that Chapter 9 later resumes.",
+    "hi": "सातवें अध्यायका अन्त छ: शब्दों और अन्तकालमें भगवान्को जाननेकी बातसे हुआ। इन्हें स्पष्ट समझनेके लिये अर्जुन प्रश्न करते हैं, इसलिये यह अध्याय उन्हीं प्रश्नोंसे आरम्भ होता है। स्वामीजीके अनुसार इससे विज्ञानसहित ज्ञानका प्रवाह बीचमें बदल गया, जिसे भगवान् नवें अध्यायमें फिर आरम्भ करते हैं।"
+   },
+   "theme": {
+    "en": "Constant remembrance decides the final destination",
+    "hi": "निरन्तर स्मरणसे अन्तिम गति"
+   },
+   "keyConcepts": [
+    "ishvara",
+    "bhakti",
+    "dhyana",
+    "yoga",
+    "moksha",
+    "atma"
+   ],
+   "questions": [
+    {
+     "en": "What is Brahma? What is adhyātma? What is karma? What is adhibhūta and adhidaiva? Who is adhiyajña, and how is he in this body?",
+     "hi": "ब्रह्म क्या है? अध्यात्म क्या है? कर्म क्या है? अधिभूत और अधिदैव किसे कहते हैं? अधियज्ञ कौन है और वह इस देहमें कैसे है?"
+    },
+    {
+     "en": "How are you known at the time of death by one whose mind is self-controlled?",
+     "hi": "वशीभूत अन्त:करणवाले मनुष्यके द्वारा अन्तकालमें आप कैसे जाननेमें आते हैं?"
+    },
+    {
+     "en": "Why do even those who reach Brahmā's world come back?",
+     "hi": "ब्रह्मलोकतक जानेवाले भी लौटकर क्यों आते हैं?"
+    },
+    {
+     "en": "By which path does one not return, and by which does one return?",
+     "hi": "किस मार्गसे जानेवाले लौटकर नहीं आते और किससे लौट आते हैं?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 4,
+     "title": {
+      "en": "Arjuna's seven questions",
+      "hi": "अर्जुनके सात प्रश्न"
+     },
+     "summary": {
+      "en": "Arjuna asks about the six terms and about the time of death; Bhagavan answers the first six in two verses — the supreme imperishable is Brahma, the parā prakṛti (the jīva) is adhyātma, and he himself is adhiyajña in the body.",
+      "hi": "अर्जुन छ: शब्दों और अन्तकालके विषयमें प्रश्न करते हैं; भगवान् दो श्लोकोंमें छ: प्रश्नोंका उत्तर देते हैं—परम अक्षर ब्रह्म है, परा प्रकृति (जीव) अध्यात्म है और इस देहमें अधियज्ञ वे स्वयं हैं।"
+     }
+    },
+    {
+     "from": 5,
+     "to": 7,
+     "title": {
+      "en": "The last thought",
+      "hi": "अन्तकालका स्मरण"
+     },
+     "summary": {
+      "en": "Whoever leaves the body remembering Bhagavan reaches him; whatever state one remembers at the end, one attains — therefore remember him at all times and fight.",
+      "hi": "अन्तकालमें भगवान्का स्मरण करते हुए जानेवाला उन्हें ही प्राप्त होता है; जिस भावका स्मरण करते हुए शरीर छूटता है, वही प्राप्त होता है—इसलिये सब समय स्मरण करते हुए युद्ध भी कर।"
+     }
+    },
+    {
+     "from": 8,
+     "to": 10,
+     "title": {
+      "en": "Meditating on the supreme Person",
+      "hi": "परम दिव्य पुरुषका चिन्तन"
+     },
+     "summary": {
+      "en": "With a mind trained by practice and turned to nothing else, one who meditates on the all-knowing, ancient, sun-like saguṇa-nirākāra form reaches that supreme divine Person.",
+      "hi": "अभ्यासयोगसे युक्त, अनन्यचित्तसे सर्वज्ञ, अनादि, सूर्यकी तरह प्रकाशस्वरूप सगुण-निराकार परमात्माका चिन्तन करनेवाला उसी परम दिव्य पुरुषको प्राप्त होता है।"
+     }
+    },
+    {
+     "from": 11,
+     "to": 13,
+     "title": {
+      "en": "The path to the imperishable with Om",
+      "hi": "ॐ के द्वारा अक्षरकी प्राप्ति"
+     },
+     "summary": {
+      "en": "Bhagavan briefly describes the nirguṇa-nirākāra goal and its method: restraining the senses, fixing the mind and prāṇa, uttering Om and remembering him as one departs.",
+      "hi": "भगवान् निर्गुण-निराकार पद और उसकी विधि संक्षेपसे बताते हैं—इन्द्रियोंको रोककर, मन और प्राणोंको स्थिर करके ‘ॐ’ का उच्चारण और उनका स्मरण करते हुए शरीर छोड़ना।"
+     }
+    },
+    {
+     "from": 14,
+     "to": 16,
+     "title": {
+      "en": "Easily reached by the one-pointed",
+      "hi": "अनन्य भक्तके लिये सुलभ"
+     },
+     "summary": {
+      "en": "Since yogic mastery is hard for all, Bhagavan says he is easily attained by one who remembers him constantly with an undivided mind; having reached him there is no rebirth, while all worlds up to Brahmā's return.",
+      "hi": "योगबल सबके लिये कठिन होनेसे भगवान् कहते हैं कि अनन्यचित्तसे नित्य-निरन्तर स्मरण करनेवालेके लिये वे सुलभ हैं; उन्हें पानेपर पुनर्जन्म नहीं होता, जबकि ब्रह्मलोकतक सब लोक पुनरावर्ती हैं।"
+     }
+    },
+    {
+     "from": 17,
+     "to": 22,
+     "title": {
+      "en": "Brahmā's day and night, and the unmanifest beyond",
+      "hi": "ब्रह्माके दिन-रात और परम अव्यक्त"
+     },
+     "summary": {
+      "en": "Beings arise at the dawn of Brahmā's day and dissolve at nightfall, again and again; beyond this is the eternal unmanifest, Bhagavan's supreme abode, reached through undivided devotion.",
+      "hi": "ब्रह्माके दिनमें प्राणी उत्पन्न होते हैं और रात्रिमें लीन होते हैं; इससे विलक्षण सनातन अव्यक्त भगवान्का परम धाम है, जो अनन्य भक्तिसे प्राप्त होता है।"
+     }
+    },
+    {
+     "from": 23,
+     "to": 26,
+     "title": {
+      "en": "The bright and the dark paths",
+      "hi": "शुक्ल और कृष्ण मार्ग"
+     },
+     "summary": {
+      "en": "Bhagavan describes the two paths travelled after death — the bright path from which one does not return and the dark path of those with desires, from which one returns.",
+      "hi": "भगवान् शरीर छोड़कर जानेवालोंके दो मार्ग बताते हैं—शुक्लमार्ग, जिससे लौटना नहीं पड़ता, और सकाम मनुष्योंका कृष्णमार्ग, जिससे लौटना पड़ता है।"
+     }
+    },
+    {
+     "from": 27,
+     "to": 28,
+     "title": {
+      "en": "Be steady in yoga at all times",
+      "hi": "सब समय योगयुक्त हो जा"
+     },
+     "summary": {
+      "en": "Knowing both paths, the yogi is not deluded; so Arjuna should be established in evenness at all times — such a yogi goes beyond all the merits of Vedas, sacrifice, austerity and charity and reaches the primal abode.",
+      "hi": "दोनों मार्गोंको जाननेवाला योगी मोहित नहीं होता; इसलिये सब समय समतामें स्थित हो जा—ऐसा योगी वेद, यज्ञ, तप, दानके सब पुण्यफलोंको लाँघकर आदिस्थान परमात्माको प्राप्त होता है।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "8.5",
+    "8.6",
+    "8.7",
+    "8.14"
+   ],
+   "motif": "path"
+  },
+  {
+   "chapter": 9,
+   "nameSa": "राजविद्याराजगुह्ययोग",
+   "nameIast": "Rājavidyā-Rājaguhya Yoga",
+   "nameEn": "The Yoga of Royal Knowledge and Royal Secret",
+   "subtitle": {
+    "en": "The Royal Secret",
+    "hi": "राजविद्या, राजगुह्य"
+   },
+   "tagline": {
+    "en": "The whole world rests in Bhagavan, and he accepts even a leaf offered with love — whoever you are, become his.",
+    "hi": "सारा संसार भगवान्में स्थित है, और वे प्रेमसे दिया पत्ता भी स्वीकार कर लेते हैं—कोई भी हो, उनका हो जाय।"
+   },
+   "overview": {
+    "en": "After Arjuna's questions changed the flow in Chapter 8, Bhagavan now resumes the knowledge-with-realization of Chapter 7 in a new way. He calls it the king of all knowledge and the king of all secrets: the world is pervaded by him, beings rest in him as the wind rests in space, and prakṛti does the work of creation under his presidency, so he is not bound. Those who take him to be an ordinary man disregard him; the great-souled worship him with undivided minds. He carries the welfare of the devotee, accepts a leaf or flower offered with love, asks that every action be offered to him, and declares that even the worst wrongdoer, and anyone of any birth, reaches the supreme goal by taking refuge in him.",
+    "hi": "आठवें अध्यायमें अर्जुनके प्रश्नोंसे विषय बदल गया था; अब सातवें अध्यायमें कहनेसे बचे उसी विज्ञानसहित ज्ञानको भगवान् विलक्षण रीतिसे कहते हैं। वे इसे सब विद्याओंका राजा और सब गोपनीयोंका राजा बताते हैं—सारा संसार उनसे व्याप्त है, सब प्राणी उनमें वैसे ही स्थित हैं जैसे आकाशमें वायु, और सृष्टि-रचना उनकी अध्यक्षतामें प्रकृति करती है, इसलिये वे बँधते नहीं। उन्हें साधारण मनुष्य माननेवाले उनकी अवज्ञा करते हैं; महात्मा अनन्यमनसे भजते हैं। भगवान् अनन्य भक्तोंका योगक्षेम वहन करते हैं, प्रेमसे दिया पत्र-पुष्प खा लेते हैं, सब कुछ अपने अर्पण करनेको कहते हैं और घोषणा करते हैं कि दुराचारी-से-दुराचारी तथा किसी भी वर्ण-जातिका मनुष्य उनकी शरण होकर परम गतिको प्राप्त हो जाता है।"
+   },
+   "whyHere": {
+    "en": "Chapter 7 began the subject of jñāna with vijñāna; Arjuna's seven questions at the start of Chapter 8 interrupted it. Having answered them, Bhagavan returns in Chapter 9 to the same subject — what was left unsaid in Chapter 7 — and presents it in an extraordinary way.",
+    "hi": "सातवें अध्यायमें विज्ञानसहित ज्ञानका जो प्रवाह चल रहा था, उसके बीचमें अर्जुनने आठवें अध्यायमें सात प्रश्न कर लिये। उनका उत्तर देकर अब भगवान् सातवें अध्यायमें कहनेसे बचे उसी विषयको विलक्षण रीतिसे कहनेके लिये नवाँ अध्याय आरम्भ करते हैं।"
+   },
+   "theme": {
+    "en": "The easiest and highest: loving refuge in Bhagavan",
+    "hi": "सबसे सुगम और सर्वोपरि—भगवान्की प्रेमपूर्वक शरण"
+   },
+   "keyConcepts": [
+    "bhakti",
+    "ishvara",
+    "sharanagati",
+    "prakriti",
+    "yajna",
+    "shraddha"
+   ],
+   "questions": [
+    {
+     "en": "If this knowledge is so easy and supreme, why do people not benefit from it?",
+     "hi": "ऐसी सुगम और सर्वोपरि विद्या होनेपर भी लोग उससे लाभ क्यों नहीं उठाते?"
+    },
+    {
+     "en": "How can Bhagavan create the world again and again and still not be bound by that action?",
+     "hi": "भगवान् बार-बार सृष्टि-रचना करते हुए भी कर्मसे क्यों नहीं बँधते?"
+    },
+    {
+     "en": "If worship of the devatās needs so many rules, must worship of Bhagavan be even harder?",
+     "hi": "देवताओंके पूजनमें इतने नियम-विधियाँ हैं, तो क्या भगवान्का पूजन और भी कठिन है?"
+    },
+    {
+     "en": "Is Bhagavan partial if he frees only those who surrender to him?",
+     "hi": "क्या समर्पित होनेवालोंको ही मुक्त करनेसे भगवान्में पक्षपात है?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 3,
+     "title": {
+      "en": "The king of all knowledge",
+      "hi": "सब विद्याओंका राजा"
+     },
+     "summary": {
+      "en": "Bhagavan promises the most secret knowledge with realization, calls it royal, pure, directly experienced and easy to practise — yet those without faith in it keep returning to birth and death.",
+      "hi": "भगवान् अत्यन्त गोपनीय विज्ञानसहित ज्ञान कहनेकी प्रतिज्ञा करके उसे राजविद्या, पवित्र, प्रत्यक्ष फलवाला और करनेमें सुगम बताते हैं—फिर भी इसमें श्रद्धा न रखनेवाले जन्म-मरणमें लौटते रहते हैं।"
+     }
+    },
+    {
+     "from": 4,
+     "to": 10,
+     "title": {
+      "en": "All rests in him, he is not bound",
+      "hi": "सब भगवान्में, भगवान् निर्लिप्त"
+     },
+     "summary": {
+      "en": "The world is pervaded by his unmanifest form and beings rest in him as the wind in space; at the end of a kalpa they return to his prakṛti and he creates them again, remaining unattached — prakṛti creates under his presidency.",
+      "hi": "संसार उनके निराकार स्वरूपसे व्याप्त है, प्राणी उनमें वैसे ही स्थित हैं जैसे आकाशमें वायु; कल्पके अन्तमें वे उनकी प्रकृतिमें लीन होते हैं और फिर वे रचना करते हैं, पर अनासक्त रहते हैं—रचना उनकी अध्यक्षतामें प्रकृति करती है।"
+     }
+    },
+    {
+     "from": 11,
+     "to": 12,
+     "title": {
+      "en": "Those who disregard him",
+      "hi": "अवज्ञा करनेवाले"
+     },
+     "summary": {
+      "en": "Not knowing his supreme nature, the foolish take him as an ordinary man in a body; relying on demonic and deluding natures, their hopes, actions and knowledge all go in vain.",
+      "hi": "उनके परम भावको न जानकर मूढ़ लोग उन्हें साधारण मनुष्य मानकर अवज्ञा करते हैं; आसुरी, राक्षसी और मोहिनी प्रकृतिका आश्रय लेनेवालोंकी आशा, कर्म और ज्ञान व्यर्थ होते हैं।"
+     }
+    },
+    {
+     "from": 13,
+     "to": 15,
+     "title": {
+      "en": "The great-souled and their worship",
+      "hi": "महात्माओंका भजन"
+     },
+     "summary": {
+      "en": "Great souls relying on the divine nature worship him with undivided minds — singing his glories, bowing, ever steadfast — while other seekers worship him through knowledge as one, or as the universal form.",
+      "hi": "दैवी प्रकृतिके आश्रित महात्मा अनन्यमनसे, कीर्तन और नमस्कार करते हुए नित्ययुक्त होकर उपासना करते हैं; दूसरे साधक ज्ञानयज्ञसे एकीभावसे या विराट्रूप मानकर उपासना करते हैं।"
+     }
+    },
+    {
+     "from": 16,
+     "to": 19,
+     "title": {
+      "en": "I am all — being and non-being",
+      "hi": "सत्-असत् सब मैं ही हूँ"
+     },
+     "summary": {
+      "en": "Why are all these worships his? Because he is the ritual, the offering, the fire, the father and support of the world, the sun and the rain — immortality and death, being and non-being.",
+      "hi": "सब उपासनाएँ भगवान्की कैसे हुईं? क्योंकि क्रतु, यज्ञ, अग्नि, हवन, जगत्के पिता-धाता, सूर्यका तपना और वर्षा—अमृत और मृत्यु, सत् और असत् भी वे ही हैं।"
+     }
+    },
+    {
+     "from": 20,
+     "to": 25,
+     "title": {
+      "en": "Coming and going, and the devotee's care",
+      "hi": "आवागमन और भक्तका योगक्षेम"
+     },
+     "summary": {
+      "en": "Those performing Vedic rites for heaven enjoy it and return when merit is spent; but for the undivided devotee Bhagavan carries all welfare. Worship of other deities is really his, but done without right understanding, so it leads to fall.",
+      "hi": "स्वर्गके लिये सकाम अनुष्ठान करनेवाले पुण्य क्षीण होनेपर लौट आते हैं; परन्तु अनन्य भक्तोंका योगक्षेम भगवान् स्वयं वहन करते हैं। अन्य देवताओंका पूजन भी वास्तवमें उन्हींका है, पर अविधिपूर्वक होनेसे पतन होता है।"
+     }
+    },
+    {
+     "from": 26,
+     "to": 28,
+     "title": {
+      "en": "A leaf, a flower — and every action",
+      "hi": "पत्र-पुष्प और सब कर्मोंका अर्पण"
+     },
+     "summary": {
+      "en": "Bhagavan needs no elaborate rites — he eats a leaf, flower, fruit or water offered with love; whatever you do, eat, offer in sacrifice, give or practise as austerity, offer it to him and be freed from the bondage of action.",
+      "hi": "भगवान्की पूजामें विधियोंकी नहीं, भावकी आवश्यकता है—प्रेमसे दिया पत्र, पुष्प, फल, जल वे खा लेते हैं; जो कुछ करो, खाओ, हवन करो, दो, तप करो—सब उनके अर्पण करो, कर्मबन्धनसे मुक्त हो जाओगे।"
+     }
+    },
+    {
+     "from": 29,
+     "to": 34,
+     "title": {
+      "en": "Open to all — become mine",
+      "hi": "सबके लिये—मेरा हो जा"
+     },
+     "summary": {
+      "en": "Bhagavan is equal to all; even the worst wrongdoer who worships him with undivided devotion should be considered a saint, and people of every birth reach the supreme goal by refuge in him. So: fix your mind on me, be my devotee, worship and bow to me.",
+      "hi": "भगवान् सबमें सम हैं; दुराचारी-से-दुराचारी भी अनन्यभावसे भजे तो साधु मानने योग्य है, और किसी भी जाति-वर्णका मनुष्य उनकी शरण होकर परम गति पा लेता है। इसलिये—मुझमें मनवाला हो, मेरा भक्त हो, मेरा पूजन कर और मुझे नमस्कार कर।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "9.22",
+    "9.26",
+    "9.27",
+    "9.30",
+    "9.34"
+   ],
+   "motif": "crown"
+  },
+  {
+   "chapter": 10,
+   "nameSa": "विभूतियोग",
+   "nameIast": "Vibhūti Yoga",
+   "nameEn": "The Yoga of Divine Glories",
+   "subtitle": {
+    "en": "Every Glory Is His",
+    "hi": "हर विशेषता उनकी"
+   },
+   "tagline": {
+    "en": "Wherever any excellence appears, it is Bhagavan's glory — seeing this links the mind to him.",
+    "hi": "जहाँ कहीं भी जो विशेषता दीखे, वह भगवान्की ही विभूति है—ऐसा माननेसे भगवान्के साथ सम्बन्ध हो जाता है।"
+   },
+   "overview": {
+    "en": "Bhagavan is still not satisfied with what he has said; out of love for Arjuna he continues unasked. He says no one, not even the gods and great sages, knows his origin, since he is the source of them all, and that one who firmly accepts his vibhūti (glory) and yoga (power) gains unwavering devotion. To devotees absorbed in him he gives the buddhi-yoga by which they reach him. Moved by this grace, Arjuna praises him and asks how and in which forms he should think of him. Bhagavan then names his principal glories — Viṣṇu among the Ādityas, the sun among lights, the mind among the senses, Gaṅgā among rivers — and concludes that everything splendid comes from a spark of his power, and that he holds the entire universe with a single fraction of himself.",
+    "hi": "भगवान्को अपने कथनपर सन्तोष नहीं हुआ; अपने प्यारे भक्त अर्जुनके प्रति हृदयकी बात कहते-कहते उन्हें तृप्ति नहीं होती, इसलिये वे बिना पूछे ही दसवाँ अध्याय आरम्भ करते हैं। वे कहते हैं कि उनके प्रकट होनेको देवता और महर्षि भी नहीं जानते, क्योंकि वे सबके आदि हैं; और जो उनकी विभूति और योगको तत्त्वसे मान लेता है, वह अविचल भक्तिसे युक्त हो जाता है। भजन करनेवाले भक्तोंको वे बुद्धियोग देते हैं। इस कृपासे प्रभावित होकर अर्जुन स्तुति करते हैं और पूछते हैं कि किन-किन भावोंमें उनका चिन्तन करें। तब भगवान् अपनी मुख्य विभूतियाँ बताते हैं और अन्तमें कहते हैं कि जो कुछ ऐश्वर्ययुक्त, शोभायुक्त, बलयुक्त है, वह उनके तेजके अंशसे है, और वे अपने एक अंशसे सम्पूर्ण जगत्को व्याप्त करके स्थित हैं।"
+   },
+   "whyHere": {
+    "en": "Bhagavan had resumed his heart's teaching in Chapter 9 and ended it with complete dedication to him, yet the wish to say more remained. Just as a devotee never tires of hearing about Bhagavan, Bhagavan never tires of speaking to his devotee — and since none but a devotee can hear his heart's secret, he begins Chapter 10 out of grace, unasked.",
+    "hi": "नवें अध्यायमें भगवान्ने विज्ञानसहित ज्ञान कहकर उसकी समाप्ति भगवत्परायणतामें की, फिर भी उनके मनमें और कहनेका भाव रहा। जैसे भक्तको भगवान्की बात सुनते हुए तृप्ति नहीं होती, वैसे ही भगवान्को भक्तसे कहते हुए तृप्ति नहीं होती; और उनके हृदयकी गोपनीय बात भक्तके सिवाय कोई सुननेवाला नहीं, इसलिये वे कृपापूर्वक बिना पूछे दसवाँ अध्याय आरम्भ करते हैं।"
+   },
+   "theme": {
+    "en": "Seeing Bhagavan in every excellence",
+    "hi": "हर विशेषतामें भगवान्को देखना"
+   },
+   "keyConcepts": [
+    "ishvara",
+    "bhakti",
+    "jnana",
+    "shraddha"
+   ],
+   "questions": [
+    {
+     "en": "If even gods and sages do not know Bhagavan's origin, how can a human know him and be liberated?",
+     "hi": "देवता और महर्षि भी भगवान्के प्रकट होनेको नहीं जानते, तो मनुष्य कैसे जानेगा और उसका कल्याण कैसे होगा?"
+    },
+    {
+     "en": "How shall I know you by constant contemplation, and in which forms should I think of you?",
+     "hi": "निरन्तर चिन्तन करता हुआ मैं आपको कैसे जानूँ, और किन-किन भावोंमें आपका चिन्तन करूँ?"
+    },
+    {
+     "en": "What does it mean to truly know Bhagavan's vibhūti and yoga?",
+     "hi": "भगवान्की विभूति और योगको तत्त्वसे जानना क्या है?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 3,
+     "title": {
+      "en": "The source that no one knows",
+      "hi": "जिसके आदिको कोई नहीं जानता"
+     },
+     "summary": {
+      "en": "Bhagavan offers his supreme word for Arjuna's good; gods and sages do not know his origin because he is their source — but one who firmly accepts him as unborn, beginningless Lord of all is freed from all sins.",
+      "hi": "भगवान् अर्जुनके हितके लिये परम वचन कहते हैं; देवता और महर्षि उनके प्रकट होनेको नहीं जानते, क्योंकि वे उनके भी आदि हैं—पर जो उन्हें अजन्मा, अनादि, सब लोकोंका महान् ईश्वर मान लेता है, वह सब पापोंसे मुक्त हो जाता है।"
+     }
+    },
+    {
+     "from": 4,
+     "to": 7,
+     "title": {
+      "en": "All states and sages come from him",
+      "hi": "सब भाव और महर्षि उनसे"
+     },
+     "summary": {
+      "en": "Intelligence, forgiveness, truth, joy and sorrow, fame and disgrace — all states of beings, and the great sages and Manus, arise from him; whoever firmly accepts this vibhūti and yoga gains unwavering devotion.",
+      "hi": "बुद्धि, क्षमा, सत्य, सुख-दु:ख, यश-अपयश आदि प्राणियोंके सब भाव तथा सप्तर्षि, सनकादि और मनु उनसे ही हैं; इस विभूति और योगको तत्त्वसे माननेवाला अविचल भक्तियोगसे युक्त हो जाता है।"
+     }
+    },
+    {
+     "from": 8,
+     "to": 11,
+     "title": {
+      "en": "The devotees and his special grace",
+      "hi": "भक्तोंका भजन और भगवान्की कृपा"
+     },
+     "summary": {
+      "en": "Knowing him as the origin of all, the wise worship him with love, talking of him among themselves and delighting in him; to them he gives buddhi-yoga, and out of grace he dispels their darkness with the lamp of knowledge.",
+      "hi": "भगवान्को सबका मूल मानकर बुद्धिमान् भक्त प्रेमसे भजते हैं, आपसमें उनकी चर्चा करते हुए सन्तुष्ट रहते हैं; उन्हें भगवान् बुद्धियोग देते हैं और कृपा करके ज्ञानरूप दीपकसे उनका अज्ञान-अन्धकार नष्ट करते हैं।"
+     }
+    },
+    {
+     "from": 12,
+     "to": 18,
+     "title": {
+      "en": "Arjuna's praise and request",
+      "hi": "अर्जुनकी स्तुति और प्रार्थना"
+     },
+     "summary": {
+      "en": "Touched by this grace, Arjuna praises Bhagavan as supreme Brahman and says only he knows himself; he asks to hear his glories in detail, since he cannot have enough of these nectar-like words.",
+      "hi": "कृपासे प्रभावित होकर अर्जुन भगवान्को परम ब्रह्म कहकर स्तुति करते हैं कि आप स्वयं ही अपनेको जानते हैं; और विभूतियाँ विस्तारसे सुनानेकी प्रार्थना करते हैं, क्योंकि अमृतमय वचन सुनते-सुनते तृप्ति नहीं होती।"
+     }
+    },
+    {
+     "from": 19,
+     "to": 40,
+     "title": {
+      "en": "The principal glories",
+      "hi": "मुख्य-मुख्य विभूतियाँ"
+     },
+     "summary": {
+      "en": "Saying his glories have no end, Bhagavan names the chief ones — the Self in every heart, the sun among lights, the mind among senses, japa among sacrifices, Gaṅgā among rivers, and many more — and says all this is only a brief indication.",
+      "hi": "अपनी विभूतियोंका अन्त न बताकर भगवान् मुख्य-मुख्य विभूतियाँ कहते हैं—सबके हृदयमें आत्मा, ज्योतियोंमें सूर्य, इन्द्रियोंमें मन, यज्ञोंमें जपयज्ञ, नदियोंमें गंगा आदि—और कहते हैं कि यह तो संक्षेपसे नाममात्र कहा है।"
+     }
+    },
+    {
+     "from": 41,
+     "to": 42,
+     "title": {
+      "en": "A spark of his power, a fraction of him",
+      "hi": "तेजका अंश, एक अंशमें जगत्"
+     },
+     "summary": {
+      "en": "Whatever is glorious, beautiful or powerful, know it to arise from a spark of his power; and what need is there to know so much — he stands holding the entire universe with a single fraction of himself.",
+      "hi": "जो-जो ऐश्वर्ययुक्त, शोभायुक्त, बलयुक्त है, उसे भगवान्के तेजके अंशसे उत्पन्न समझो; और बहुत जाननेकी क्या आवश्यकता—वे अपने एक अंशसे सम्पूर्ण जगत्को व्याप्त करके स्थित हैं।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "10.8",
+    "10.10",
+    "10.41",
+    "10.42"
+   ],
+   "motif": "sun"
+  },
+  {
+   "chapter": 11,
+   "nameSa": "विश्वरूपदर्शनयोग",
+   "nameIast": "Viśvarūpa-Darśana Yoga",
+   "nameEn": "The Yoga of the Vision of the Universal Form",
+   "subtitle": {
+    "en": "The Vision of the Cosmic Form",
+    "hi": "विश्वरूपका दर्शन"
+   },
+   "tagline": {
+    "en": "Arjuna sees the entire universe in Bhagavan's body — and learns that such a vision comes by grace, and he is reached only by undivided devotion.",
+    "hi": "अर्जुन भगवान्के शरीरमें सम्पूर्ण जगत् देखते हैं—और जानते हैं कि यह दर्शन कृपासे होता है, तथा भगवान् अनन्य भक्तिसे ही प्राप्त होते हैं।"
+   },
+   "overview": {
+    "en": "At the end of Chapter 10 Bhagavan said that countless universes lie in one fraction of him — and that he, the support of all, sits as Arjuna's charioteer holding the reins. Struck with wonder at this grace, Arjuna says his delusion is gone and asks to see that divine form. Bhagavan grants him a divine eye, and Sañjaya describes the form brighter than a thousand suns. Arjuna sees gods and worlds within it, then its terrible aspect devouring the warriors of both armies. When he asks who this is, Bhagavan says 'I am Time', the warriors are already slain, and Arjuna should be merely the instrument. Arjuna praises him, begs forgiveness for past familiarity, and asks to see the gentle form again; Bhagavan shows it and says he can be known and seen in this way only through undivided devotion.",
+    "hi": "दसवें अध्यायके अन्तमें भगवान्ने कहा कि अनन्त सृष्टियाँ उनके किसी एक अंशमें हैं—और वही वे अर्जुनके सारथि बने घोड़ोंकी लगाम लेकर बैठे हैं। भगवान्की इस महती कृपापर दृष्टि जानेसे अर्जुन आश्चर्यमें डूब जाते हैं, कहते हैं कि मेरा मोह नष्ट हो गया, और उस ऐश्वर-रूपको देखनेकी प्रार्थना करते हैं। भगवान् दिव्यचक्षु देते हैं और संजय हजारों सूर्योंसे भी अधिक प्रकाशवाले उस रूपका वर्णन करते हैं। अर्जुन उसमें देवताओं और लोकोंको, फिर दोनों सेनाओंके योद्धाओंको निगलते उग्ररूपको देखते हैं। ‘आप कौन हैं?’ पूछनेपर भगवान् कहते हैं—मैं काल हूँ, ये पहलेसे मारे हुए हैं, तू निमित्तमात्र बन जा। अर्जुन स्तुति करते हैं, पहले सखा मानकर किये व्यवहारके लिये क्षमा माँगते हैं और सौम्यरूप दिखानेकी प्रार्थना करते हैं; भगवान् वह रूप दिखाकर कहते हैं कि ऐसे वे केवल अनन्य भक्तिसे ही जाने और देखे जा सकते हैं।"
+   },
+   "whyHere": {
+    "en": "Chapter 10 closed with Bhagavan saying that all creation lies in a fraction of him and that he, the great support of every glory, is sitting before Arjuna as his charioteer. When Arjuna's attention turns to this immense grace he is filled with wonder — and the natural next step is his request to see that form.",
+    "hi": "दसवें अध्यायके अन्तमें भगवान्ने कहा कि सम्पूर्ण जगत् उनके एक अंशमें है और सब विभूतियोंका महान् आधार वे अर्जुनके सामने सारथि बने बैठे हैं। जब अर्जुनकी दृष्टि इस महती कृपापर जाती है, तब वे आश्चर्यमें डूब जाते हैं और विश्वरूप देखनेकी प्रार्थना करते हैं।"
+   },
+   "theme": {
+    "en": "Seen by grace, reached by undivided devotion",
+    "hi": "कृपासे दर्शन, अनन्य भक्तिसे प्राप्ति"
+   },
+   "keyConcepts": [
+    "ishvara",
+    "bhakti",
+    "sharanagati",
+    "karma",
+    "asakti"
+   ],
+   "questions": [
+    {
+     "en": "If you think I am able to see it, O Lord of yoga, will you show me your imperishable divine form?",
+     "hi": "हे प्रभो! यदि आप मानते हैं कि मेरे द्वारा वह रूप देखा जा सकता है, तो हे योगेश्वर! अपना वह अविनाशी स्वरूप मुझे दिखाइये।"
+    },
+    {
+     "en": "Tell me — who are you, of such fierce form, and what have you come to do?",
+     "hi": "मुझे बताइये कि उग्र रूपवाले आप कौन हैं और क्या करना चाहते हैं?"
+    },
+    {
+     "en": "If no scripture, sacrifice or austerity can show this form, how is Bhagavan attained?",
+     "hi": "जब वेद, यज्ञ, तप आदिसे यह रूप नहीं देखा जा सकता, तो भगवान् कैसे प्राप्त होते हैं?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 4,
+     "title": {
+      "en": "Arjuna's request",
+      "hi": "अर्जुनकी प्रार्थना"
+     },
+     "summary": {
+      "en": "Arjuna says his delusion has gone after hearing of Bhagavan's imperishable glory, and humbly asks to see his divine form, if Bhagavan thinks him able.",
+      "hi": "भगवान्का अविनाशी माहात्म्य सुनकर अर्जुन कहते हैं कि मेरा मोह नष्ट हो गया, और नम्रतापूर्वक प्रार्थना करते हैं कि यदि मैं योग्य हूँ तो अपना ऐश्वर-रूप दिखाइये।"
+     }
+    },
+    {
+     "from": 5,
+     "to": 8,
+     "title": {
+      "en": "'Behold' — and the divine eye",
+      "hi": "‘पश्य’ और दिव्यचक्षु"
+     },
+     "summary": {
+      "en": "Bhagavan repeatedly tells Arjuna to see his countless forms and the whole universe in one part of his body; when Arjuna sees nothing with his physical eyes, Bhagavan grants him a divine eye.",
+      "hi": "भगवान् बार-बार अपने अनेक रूपों और अपने शरीरके एक देशमें सम्पूर्ण जगत्को देखनेकी आज्ञा देते हैं; चर्मचक्षुसे कुछ न दीखनेपर वे अर्जुनको दिव्यचक्षु देते हैं।"
+     }
+    },
+    {
+     "from": 9,
+     "to": 14,
+     "title": {
+      "en": "Brighter than a thousand suns",
+      "hi": "हजारों सूर्योंसे अधिक प्रकाश"
+     },
+     "summary": {
+      "en": "Sañjaya describes to Dhṛtarāṣṭra the form with countless faces, eyes and ornaments, whose light would outshine a thousand suns rising together; Arjuna, thrilled with wonder, bows with folded hands.",
+      "hi": "संजय धृतराष्ट्रसे अनेक मुख, नेत्र और आभूषणोंवाले उस रूपका वर्णन करते हैं, जिसका प्रकाश हजारों सूर्योंसे भी बढ़कर है; आश्चर्यसे रोमांचित अर्जुन हाथ जोड़कर प्रणाम करते हैं।"
+     }
+    },
+    {
+     "from": 15,
+     "to": 22,
+     "title": {
+      "en": "The wondrous form",
+      "hi": "आश्चर्यमय देवरूप"
+     },
+     "summary": {
+      "en": "Arjuna describes seeing all gods, Brahmā and Śiva within the form, praises it as the imperishable and the refuge of all, and sees its fierce radiance filling heaven and earth as hosts of gods enter it.",
+      "hi": "अर्जुन उस रूपमें सब देवताओं, ब्रह्मा और शंकरको देखनेका वर्णन करते हैं, उसे परम अक्षर और विश्वका परम आश्रय कहकर स्तुति करते हैं, और देखते हैं कि उसका उग्र तेज स्वर्ग-पृथ्वीमें भरा है तथा देवसमुदाय उसमें प्रवेश कर रहे हैं।"
+     }
+    },
+    {
+     "from": 23,
+     "to": 31,
+     "title": {
+      "en": "The terrible form devours the warriors",
+      "hi": "विकराल रूपमें योद्धाओंका प्रवेश"
+     },
+     "summary": {
+      "en": "Arjuna sees the dreadful mouths and the warriors of both sides rushing in — like rivers into the ocean, or moths into a flame — and, shaken, asks who Bhagavan is.",
+      "hi": "अर्जुन विकराल मुखोंमें दोनों पक्षोंके योद्धाओंको प्रवेश करते देखते हैं—जैसे नदियाँ समुद्रमें और पतंगे अग्निमें—और घबराकर पूछते हैं कि आप कौन हैं।"
+     }
+    },
+    {
+     "from": 32,
+     "to": 34,
+     "title": {
+      "en": "'I am Time' — be only the instrument",
+      "hi": "‘मैं काल हूँ’—निमित्तमात्र बन जा"
+     },
+     "summary": {
+      "en": "Bhagavan says he is Time come to destroy the worlds; the warriors will not survive even without Arjuna, so he should rise, win glory and be merely the instrument, fighting without distress.",
+      "hi": "भगवान् कहते हैं कि मैं लोकोंका नाश करनेवाला बढ़ा हुआ काल हूँ; तेरे बिना भी ये योद्धा नहीं रहेंगे, इसलिये तू खड़ा हो, यश प्राप्त कर और निमित्तमात्र बनकर व्यथारहित होकर युद्ध कर।"
+     }
+    },
+    {
+     "from": 35,
+     "to": 46,
+     "title": {
+      "en": "Praise, forgiveness and a plea",
+      "hi": "स्तुति, क्षमा-याचना और प्रार्थना"
+     },
+     "summary": {
+      "en": "Trembling, Arjuna praises Bhagavan as the primal God and bows to him from all sides; he asks forgiveness for having treated him as a friend, and pleads to see the four-armed form again.",
+      "hi": "काँपते हुए अर्जुन भगवान्को आदिदेव कहकर सब ओरसे नमस्कार करते हैं; सखा मानकर किये व्यवहारके लिये क्षमा माँगते हैं और चतुर्भुजरूप दिखानेकी प्रार्थना करते हैं।"
+     }
+    },
+    {
+     "from": 47,
+     "to": 55,
+     "title": {
+      "en": "By grace alone, through undivided devotion",
+      "hi": "केवल कृपा और अनन्य भक्तिसे"
+     },
+     "summary": {
+      "en": "Bhagavan says this form is shown only by his grace, not through Vedas, sacrifice or austerity; he shows his gentle form and declares that he can be known, seen and entered only through undivided devotion — by one who works for him, depends on him, loves him, is free of attachment and bears enmity to none.",
+      "hi": "भगवान् कहते हैं कि यह रूप वेद, यज्ञ, तपसे नहीं, केवल उनकी कृपासे दिखा है; वे सौम्यरूप दिखाकर बताते हैं कि उन्हें अनन्य भक्तिसे ही जाना, देखा और प्राप्त किया जा सकता है—जो उनके लिये कर्म करे, उनके परायण हो, प्रेमी हो, आसक्तिरहित और सबमें वैरभावसे रहित हो।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "11.8",
+    "11.33",
+    "11.54",
+    "11.55"
+   ],
+   "motif": "cosmos"
+  },
+  {
+   "chapter": 12,
+   "nameSa": "भक्तियोग",
+   "nameIast": "Bhakti Yoga",
+   "nameEn": "The Yoga of Devotion",
+   "subtitle": {
+    "en": "The Devotee Dear to Him",
+    "hi": "भगवान्का प्यारा भक्त"
+   },
+   "tagline": {
+    "en": "Who is the better worshipper — of the form or the formless? Bhagavan answers, gives four steps for every seeker, and describes the devotee dear to him.",
+    "hi": "सगुणके उपासक श्रेष्ठ हैं या निर्गुणके? भगवान् उत्तर देते हैं, हर साधकके लिये चार साधन बताते हैं और अपने प्यारे भक्तके लक्षण कहते हैं।"
+   },
+   "overview": {
+    "en": "Across earlier chapters Bhagavan praised both worship of the formless (nirguṇa) and of himself with form (saguṇa), ending Chapter 11 with the glory of undivided devotion. So Arjuna asks which worshippers are better. Bhagavan says those who fix their minds on him with supreme faith are the best yogis in his view; worshippers of the formless also reach him, but their path is harder for those identified with the body, while he swiftly lifts his devotees out of the ocean of death. He then offers a ladder of means — fix the mind on him; if not, practise; if not, work for him; if not, give up the fruit of all actions — and says renouncing the fruit brings immediate peace. The chapter closes with the thirty-nine marks of the perfected devotee, who is supremely dear to him.",
+    "hi": "पिछले अध्यायोंमें भगवान्ने निर्गुण-निराकार और सगुण—दोनोंकी उपासनाका महत्त्व बताया और ग्यारहवें अध्यायके अन्तमें अनन्य भक्तिकी महिमा कही। इससे अर्जुनके मनमें जिज्ञासा हुई कि दोनोंमें कौन-से उपासक श्रेष्ठ हैं। भगवान् कहते हैं कि परम श्रद्धासे मुझमें मन लगानेवाले मेरे मतमें सर्वश्रेष्ठ योगी हैं; निर्गुणके उपासक भी मुझे ही प्राप्त होते हैं, पर देहाभिमानीके लिये वह मार्ग कठिन है, और अपने भक्तोंका मैं मृत्युरूप संसार-समुद्रसे शीघ्र उद्धार करता हूँ। फिर वे क्रमसे साधन बताते हैं—मुझमें मन लगा; न हो तो अभ्यास कर; न हो तो मेरे लिये कर्म कर; न हो तो सब कर्मोंके फलका त्याग कर—और कहते हैं कि त्यागसे तत्काल शान्ति मिलती है। अन्तमें सिद्ध भक्तके उनतालीस लक्षण बताये गये हैं, जो भगवान्को अत्यन्त प्रिय है।"
+   },
+   "whyHere": {
+    "en": "From Chapter 4 onward Bhagavan praised knowledge and the formless in several places, while from Chapter 7 to 11 he stressed worship of himself with 'I' and 'Me', closing Chapter 11 with the glory of undivided devotion. Hearing both, Arjuna naturally wants to know which kind of worshipper is superior — and this chapter is the answer.",
+    "hi": "चौथे अध्यायसे भगवान्ने ज्ञान और निर्गुण-उपासनाका महत्त्व कई जगह बताया, और सातवेंसे ग्यारहवें अध्यायतक ‘अहम्’, ‘माम्’ आदि पदोंसे सगुण-उपासनाका महत्त्व बताकर ग्यारहवेंके अन्तमें अनन्य भक्तिकी महिमा कही। इसे सुनकर अर्जुनको जिज्ञासा हुई कि दोनोंमें कौन श्रेष्ठ है—यही प्रश्न इस अध्यायका आरम्भ है।"
+   },
+   "theme": {
+    "en": "Devotion is the best and easiest path",
+    "hi": "भक्ति ही श्रेष्ठ और सुगम मार्ग"
+   },
+   "keyConcepts": [
+    "bhakti",
+    "sharanagati",
+    "tyaga",
+    "phala",
+    "samatva",
+    "dhyana"
+   ],
+   "questions": [
+    {
+     "en": "Of those who worship you with form and those who worship the imperishable unmanifest, who are the better knowers of yoga?",
+     "hi": "आपकी सगुण उपासना करनेवाले और अविनाशी अव्यक्तकी उपासना करनेवाले—इनमें उत्तम योगवेत्ता कौन हैं?"
+    },
+    {
+     "en": "Do worshippers of the formless not reach Bhagavan too?",
+     "hi": "क्या निर्गुणके उपासक भगवान्को प्राप्त नहीं होते?"
+    },
+    {
+     "en": "What should one do if one cannot fix the mind on Bhagavan?",
+     "hi": "यदि मन भगवान्में स्थिर न हो सके तो क्या करें?"
+    },
+    {
+     "en": "What are the marks of a devotee dear to Bhagavan?",
+     "hi": "भगवान्को प्रिय भक्तके क्या लक्षण हैं?"
+    }
+   ],
+   "sections": [
+    {
+     "from": 1,
+     "to": 2,
+     "title": {
+      "en": "The question and the verdict",
+      "hi": "प्रश्न और निर्णय"
+     },
+     "summary": {
+      "en": "Arjuna asks whether worshippers of form or of the formless are better; Bhagavan says those who, with supreme faith, fix their minds on him and remain ever united with him are the best yogis in his view.",
+      "hi": "अर्जुन पूछते हैं कि सगुण और निर्गुणके उपासकोंमें कौन श्रेष्ठ है; भगवान् कहते हैं कि परम श्रद्धासे मुझमें मन लगाकर नित्य-निरन्तर मुझमें लगे भक्त मेरे मतमें सर्वश्रेष्ठ योगी हैं।"
+     }
+    },
+    {
+     "from": 3,
+     "to": 7,
+     "title": {
+      "en": "The formless path and the swift rescue",
+      "hi": "निर्गुण-उपासना और शीघ्र उद्धार"
+     },
+     "summary": {
+      "en": "Worshippers of the formless, with senses restrained and even-minded, also reach him, but their path is harder for the embodied; those who offer all actions to him and meditate on him alone he quickly lifts from the ocean of death.",
+      "hi": "इन्द्रियोंको वशमें करके समबुद्धिसे निर्गुणकी उपासना करनेवाले भी भगवान्को प्राप्त होते हैं, पर देहाभिमानीके लिये यह कठिन है; सब कर्म अर्पण करके अनन्यभावसे ध्यान करनेवालोंका भगवान् मृत्युरूप संसार-समुद्रसे शीघ्र उद्धार करते हैं।"
+     }
+    },
+    {
+     "from": 8,
+     "to": 12,
+     "title": {
+      "en": "Four steps for every seeker",
+      "hi": "चार साधन"
+     },
+     "summary": {
+      "en": "Fix mind and intellect on him; if unable, practise; if unable, work for him; if unable, renounce the fruit of all actions — and renouncing the fruit is greater than knowledge and meditation, for peace follows it at once.",
+      "hi": "मुझमें मन-बुद्धि लगा; न हो तो अभ्यासयोग कर; न हो तो मेरे लिये कर्म कर; न हो तो सब कर्मोंके फलका त्याग कर—कर्मफलत्याग ज्ञान और ध्यानसे भी श्रेष्ठ है, क्योंकि त्यागसे तत्काल शान्ति मिलती है।"
+     }
+    },
+    {
+     "from": 13,
+     "to": 19,
+     "title": {
+      "en": "Marks of the devotee dear to him",
+      "hi": "प्रिय भक्तके लक्षण"
+     },
+     "summary": {
+      "en": "In five groups Bhagavan describes the perfected devotee: without hatred and friendly to all, compassionate, free of 'mine' and 'I', even in pleasure and pain, disturbing no one and disturbed by none, alike in honour and insult, content with whatever comes.",
+      "hi": "पाँच प्रकरणोंमें भगवान् सिद्ध भक्तके लक्षण बताते हैं—सबमें द्वेषरहित, मित्रभाववाला, दयालु, ममता-अहंकारसे रहित, सुख-दु:खमें सम, जिससे कोई उद्विग्न न हो और जो किसीसे उद्विग्न न हो, मान-अपमानमें सम, जिस-किसी प्रकार भी सन्तुष्ट।"
+     }
+    },
+    {
+     "from": 20,
+     "to": 20,
+     "title": {
+      "en": "Supremely dear",
+      "hi": "अत्यन्त प्रिय"
+     },
+     "summary": {
+      "en": "Answering Arjuna's question clearly, Bhagavan says those devotees who, with faith and devoted to him, follow this nectar of dharma as described are exceedingly dear to him.",
+      "hi": "अर्जुनके प्रश्नका स्पष्ट उत्तर देते हुए भगवान् कहते हैं कि जो श्रद्धालु, मेरे परायण भक्त इस धर्ममय अमृतका जैसा कहा है वैसा सेवन करते हैं, वे मुझे अत्यन्त प्रिय हैं।"
+     }
+    }
+   ],
+   "keyVerses": [
+    "12.2",
+    "12.5",
+    "12.8",
+    "12.12",
+    "12.13"
+   ],
+   "motif": "lotus"
+  }
+ ],
+ "verses": [
+  {
+   "id": "7.3",
+   "headline": {
+    "en": "Among thousands, hardly one truly strives",
+    "hi": "हजारोंमें कोई एक ही यत्न करता है"
+   },
+   "essence": {
+    "en": "God is not hard to reach; what is rare is a person who wants Him with real, undivided longing.",
+    "hi": "परमात्माकी प्राप्ति कठिन नहीं है, उनकी प्राप्तिकी सच्ची और उत्कट अभिलाषा दुर्लभ है।"
+   },
+   "idea": {
+    "en": "Having promised in 7.2 to tell knowledge together with realisation, Krishna explains why so few actually come to know it. Among thousands of people, hardly one strives for the real perfection — attaining God — and among those who have attained perfection, hardly one knows Him in His entirety. Swamiji stresses that this verse is not about the difficulty of the Truth. People get caught in enjoyment and accumulation, drawn by pleasure that shows only at the start, and they keep postponing God to the future. The rare thing is intense longing; once that longing is there, the responsibility of making oneself known falls on God.",
+    "hi": "दूसरे श्लोकमें विज्ञानसहित ज्ञान कहनेकी प्रतिज्ञा करके भगवान् बताते हैं कि सब लोग उसे क्यों नहीं जान लेते। हजारों मनुष्योंमें कोई एक ही परमात्मप्राप्तिरूप सिद्धिके लिये यत्न करता है और उन सिद्धोंमें भी कोई एक ही भगवान्के समग्ररूपको तत्त्वसे जानता है। स्वामीजी कहते हैं कि यह श्लोक तत्त्वकी कठिनता बतानेवाला नहीं है। मनुष्य भोग और संग्रहमें लगकर तथा परमात्माकी प्राप्तिको भविष्यपर टालकर उधर नहीं लगता। दुर्लभ केवल उत्कट अभिलाषा है; अभिलाषा होनेपर जनानेकी जिम्मेवारी भगवान्पर आ जाती है।"
+   },
+   "points": [
+    {
+     "en": "The obstacle is being pulled toward enjoyment and accumulation, whose pleasure shows only at the beginning.",
+     "hi": "बाधा है भोग और संग्रहमें लगना, जिनमें केवल आरम्भमें ही सुख दीखता है।"
+    },
+    {
+     "en": "Hoping to reach God 'some day in the future' is itself a main reason people do not reach Him — He is present here and now.",
+     "hi": "परमात्माकी प्राप्तिके लिये भविष्यकी आशा रखना ही मुख्य बाधा है; वे यहाँ और अभी मौजूद हैं।"
+    },
+    {
+     "en": "Even liberated seekers may not know the entire (samagra) form of God; that is known only through supreme devotion and His grace.",
+     "hi": "मुक्त पुरुष भी भगवान्के समग्ररूपको नहीं जानते; वह पराभक्ति और भगवत्कृपासे ही जाना जाता है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The cow licking her calf",
+      "hi": "गायका बछड़ेको चाटना"
+     },
+     "text": {
+      "en": "When a cow licks her calf lovingly while feeding it, the calf thrives in a way that milk alone could not give. In the same way, the knowledge that comes through God's grace is of a different kind from what our own reasoning produces.",
+      "hi": "दूध पिलाते समय गाय बछड़ेको स्नेहसे चाटती है तो उससे जो पुष्टि होती है, वह केवल दूधसे नहीं होती। ऐसे ही भगवत्कृपासे होनेवाला ज्ञान अपने विचारसे नहीं होता।"
+     },
+     "quote": {
+      "hi": "जैसे दूध पिलाते समय गाय अपने बछड़ेको स्नेहपूर्वक चाटती है तो उससे बछड़ेकी जो पुष्टि होती है, वह केवल दूध पीनेसे नहीं होती। ऐसे ही भगवान्की कृपासे जो ज्ञान होता है, वह अपने विचारसे नहीं होता"
+     },
+     "from": "appendix"
+    },
+    {
+     "title": {
+      "en": "God is not a tree you plant and wait for",
+      "hi": "भगवान् कोई वृक्ष नहीं"
+     },
+     "text": {
+      "en": "A tree is sown today and bears fruit years later. God is not like that: He is already fully present in every place, time, thing and situation, so there is no waiting built into reaching Him.",
+      "hi": "वृक्ष आज बोया जाय तो वर्षोंके बाद फल देता है। भगवान् ऐसे नहीं हैं; वे सब देश, काल, वस्तु और परिस्थितिमें ज्यों-के-त्यों विद्यमान हैं।"
+     },
+     "quote": {
+      "hi": "भगवान् कोई वृक्ष तो हैं नहीं कि आज बोयेंगे और वर्षोंके बाद फल मिलेगा! वे तो सब देशमें, सब समयमें, सब वस्तुओंमें, सब अवस्थाओंमें, सब परिस्थितियोंमें ज्यों-के-त्यों विद्यमान हैं।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "procrastination",
+     "text": {
+      "en": "Like saying 'I'll get serious about what matters once life settles down' — the postponing itself is what keeps it from ever happening.",
+      "hi": "जैसे कहना कि 'जीवन व्यवस्थित हो जाय, फिर असली बातपर ध्यान दूँगा' — यह टालना ही उसे कभी होने नहीं देता।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It moves the problem from 'God is too hard' to 'do I really want Him?', which is something fully in our hands.",
+    "hi": "यह 'भगवान् कठिन हैं' से हटाकर 'क्या मैं सच्चे हृदयसे उन्हें चाहता हूँ?' पर ले आता है, जो पूरी तरह अपने हाथमें है।"
+   },
+   "terms": [
+    {
+     "sa": "सिद्धये",
+     "meaning": {
+      "en": "for perfection (one's highest good)",
+      "hi": "सिद्धि-(कल्याण-)के लिये"
+     }
+    },
+    {
+     "sa": "यतति",
+     "meaning": {
+      "en": "strives",
+      "hi": "यत्न करता है"
+     }
+    },
+    {
+     "sa": "तत्त्वत:",
+     "meaning": {
+      "en": "in truth, as I really am",
+      "hi": "यथार्थरूपसे"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "jnana",
+    "ishvara"
+   ],
+   "related": [
+    "7.19",
+    "18.55",
+    "18.73"
+   ]
+  },
+  {
+   "id": "7.7",
+   "headline": {
+    "en": "Nothing exists apart from Me",
+    "hi": "मेरे सिवाय दूसरा कुछ भी नहीं"
+   },
+   "essence": {
+    "en": "God alone is the root cause of everything; the whole world is strung on Him like beads of thread on a thread.",
+    "hi": "भगवान् ही सबके मूल कारण हैं; सारा जगत् सूतकी मणियोंकी तरह उनमें पिरोया हुआ है।"
+   },
+   "idea": {
+    "en": "Krishna says there is no other cause of the world beyond Him, not even a trace. Swamiji explains with the wind and the sky: wind arises from space, stays in space and dissolves in space, with no separate existence of its own — so too the world with God. An effect has no independent existence apart from its cause; it is the cause that appears as the effect. Beads made of thread, strung on a thread, look separate from the thread, yet there is nothing in them but thread. This is why, having known Him, nothing remains to be known.",
+    "hi": "भगवान् कहते हैं कि मेरे सिवाय इस जगत्का दूसरा कोई किंचिन्मात्र भी कारण नहीं है। स्वामीजी वायु और आकाशका उदाहरण देते हैं कि जैसे वायु आकाशसे उत्पन्न होकर आकाशमें ही रहती और लीन होती है, ऐसे ही संसार भगवान्में है। कार्यकी कारणके सिवाय कोई स्वतन्त्र सत्ता नहीं होती; कारण ही कार्यरूपसे दीखता है। सूतकी मणियाँ धागेसे अलग दीखती हैं, पर उनमें सूतके सिवाय कुछ नहीं है। इसीलिये भगवान्को जाननेके बाद कुछ जानना बाकी नहीं रहता।"
+   },
+   "points": [
+    {
+     "en": "The effect has no existence apart from its cause; the cause itself appears as the effect.",
+     "hi": "कार्यकी कारणके सिवाय स्वतन्त्र सत्ता नहीं होती; कारण ही कार्यरूपसे दीखता है।"
+    },
+    {
+     "en": "The beads stand for the lower nature (apara) and the thread for the higher nature (para) — God is fully present in both.",
+     "hi": "मणिरूप अपरा और धागारूप परा—दोनोंमें भगवान् ही परिपूर्ण हैं।"
+    },
+    {
+     "en": "This verse opens the teaching that ends in 'Vasudeva is all' (7.19).",
+     "hi": "यही बात आगे 'वासुदेव: सर्वम्' (७। १९) में पूर्ण होती है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Beads of thread on a thread",
+      "hi": "सूतकी मणियाँ और धागा"
+     },
+     "text": {
+      "en": "Beads spun from thread and strung on a thread look like separate things, but there is only thread in both. Beings look different by name and form, yet the conscious reality running through all of them is one.",
+      "hi": "सूतसे बनी मणियाँ और धागा अलग-अलग दीखते हैं, पर दोनोंमें सूत ही है। ऐसे ही प्राणी नाम-रूपसे अलग दीखते हैं, पर उनमें व्याप्त तत्त्व एक ही है।"
+     },
+     "quote": {
+      "hi": "जैसे सूतसे बनी मणियोंमें और सूतमें सूतके सिवाय अन्य कुछ नहीं है; ऐसे ही संसारमें मेरे सिवाय अन्य कोई तत्त्व नहीं है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Wind within the sky",
+      "hi": "आकाश और वायु"
+     },
+     "text": {
+      "en": "Wind is born from space, lives in space and merges back into space; it has no existence apart from space. The world stands to God the same way.",
+      "hi": "वायु आकाशसे उत्पन्न होती, उसीमें रहती और उसीमें लीन होती है; उसकी आकाशसे अलग सत्ता नहीं। संसार भी भगवान्में ऐसे ही है।"
+     },
+     "quote": {
+      "hi": "जैसे वायु आकाशसे ही उत्पन्न होती है, आकाशमें ही रहती है और आकाशमें ही लीन होती है अर्थात् आकाशके सिवाय वायुकी कोई पृथक् स्वतन्त्र सत्ता नहीं है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "If nothing exists apart from God, then no person, thing or situation is outside Him, and seeing that is the key to 'nothing more to know'.",
+    "hi": "जब भगवान्के सिवाय कुछ है ही नहीं, तो कोई व्यक्ति, वस्तु या परिस्थिति उनसे बाहर नहीं; यही जाननेसे कुछ जानना बाकी नहीं रहता।"
+   },
+   "terms": [
+    {
+     "sa": "मत्त: परतरम्",
+     "meaning": {
+      "en": "other than / beyond Me",
+      "hi": "मेरे सिवाय"
+     }
+    },
+    {
+     "sa": "मणिगणा:",
+     "meaning": {
+      "en": "beads",
+      "hi": "मणियाँ"
+     }
+    },
+    {
+     "sa": "सूत्रे",
+     "meaning": {
+      "en": "on a thread",
+      "hi": "सूतके धागेमें"
+     }
+    },
+    {
+     "sa": "प्रोतम्",
+     "meaning": {
+      "en": "strung, woven through",
+      "hi": "ओतप्रोत, पिरोया हुआ"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "prakriti",
+    "jnana"
+   ],
+   "related": [
+    "7.2",
+    "7.19",
+    "9.19",
+    "13.2",
+    "11.43"
+   ]
+  },
+  {
+   "id": "7.14",
+   "headline": {
+    "en": "Those who take refuge in Me alone cross over maya",
+    "hi": "केवल मेरी शरण लेनेवाले मायाको तर जाते हैं"
+   },
+   "essence": {
+    "en": "The divine maya made of the three gunas is hard to cross, but whoever takes refuge in God alone crosses it.",
+    "hi": "तीन गुणोंवाली दैवी माया दुरत्यय है, पर जो केवल भगवान्के शरण होते हैं, वे इसे तर जाते हैं।"
+   },
+   "idea": {
+    "en": "Krishna explains why beings fail to know Him: His maya, made of sattva, rajas and tamas, is hard to cross. Swamiji says it is hard to cross because people keep identifying with passing states — happy, sad, clever, weak — and bind themselves to them through 'I', 'mine' and desire. Maya becomes insurmountable only when the gunas are given an existence and importance apart from God. The one who takes refuge in God alone, whose eyes are on Him and not on the gunas, crosses it — and relying on things, even on one's own mind and intellect, is dependence on maya.",
+    "hi": "भगवान् बताते हैं कि प्राणी उन्हें क्यों नहीं जानते—सत्त्व, रज, तम—इन तीन गुणोंवाली उनकी माया दुरत्यय है। स्वामीजी कहते हैं कि मनुष्य कभी सुखी-दु:खी, कभी समझदार-बेसमझ आदि मानकर इन आने-जानेवाले भावोंमें तादात्म्य, ममता, कामना करके बँधे रहते हैं—यही दुरत्ययपना है। भगवान्के सिवाय गुणोंकी स्वतन्त्र सत्ता और महत्ता माननेसे ही माया दुरत्यय होती है। जो केवल भगवान्के ही शरण होते हैं, जिनकी दृष्टि गुणोंकी तरफ नहीं रहती, वे इसे तर जाते हैं; वस्तुओंका, यहाँतक कि मन-बुद्धिका भी सहारा लेना परतन्त्रता है।"
+   },
+   "points": [
+    {
+     "en": "Use things, but do not make them your support: we have the right to use them, not to possess them.",
+     "hi": "वस्तुओंका उपयोग करें, पर उनको अपना आधार न मानें; उपयोगका अधिकार है, कब्जा करनेका नहीं।"
+    },
+    {
+     "en": "'Me alone' (mām eva) matters: many take God's refuge, but not His refuge alone.",
+     "hi": "'मामेव'—कई भगवान्के शरण तो होते हैं, पर केवल भगवान्के शरण नहीं होते।"
+    },
+    {
+     "en": "Taking refuge means merging one's own existence into God's existence — accepting only His existence, neither the ego's nor maya's.",
+     "hi": "शरणागतिका अर्थ है भगवान्की सत्तामें अपनी सत्ता मिला देना—न अहम्की, न मायाकी स्वतन्त्र सत्ता मानना।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Maya stays hard to cross",
+      "hi": "माया दुरत्यय रहती है"
+     },
+     "items": [
+      {
+       "en": "Giving the gunas existence and importance apart from God",
+       "hi": "गुणोंकी भगवान्से अलग सत्ता-महत्ता मानना"
+      },
+      {
+       "en": "Treating money, things, body and mind as one's support",
+       "hi": "रुपये, वस्तु, शरीर, मन-बुद्धिको आधार मानना"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Maya is crossed",
+      "hi": "माया तर जाते हैं"
+     },
+     "items": [
+      {
+       "en": "Taking refuge in God alone",
+       "hi": "केवल भगवान्के शरण होना"
+      },
+      {
+       "en": "Regarding body and senses as God's, for His service",
+       "hi": "शरीर-इन्द्रियोंको भगवान्की और भगवान्के लिये मानना"
+      }
+     ]
+    }
+   },
+   "examples": [],
+   "modern": [
+    {
+     "context": "money",
+     "text": {
+      "en": "You can use your savings, phone and skills fully — the trouble starts when your sense of safety rests on them, and losing them feels like losing yourself.",
+      "hi": "बचत, फोन, योग्यता—सबका पूरा उपयोग करें; कठिनाई तब होती है जब अपनी सुरक्षा इन्हींपर टिका दें और इनका जाना अपना जाना लगने लगे।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It gives a simple way out of bondage: not a long effort against the gunas, but turning away from them to God alone.",
+    "hi": "यह बन्धनसे छूटनेका सरल उपाय देता है—गुणोंसे लड़ना नहीं, उनसे विमुख होकर केवल भगवान्की शरण लेना।"
+   },
+   "terms": [
+    {
+     "sa": "गुणमयी",
+     "meaning": {
+      "en": "made of the three gunas",
+      "hi": "तीनों गुणोंवाली"
+     }
+    },
+    {
+     "sa": "दुरत्यया",
+     "meaning": {
+      "en": "very hard to cross",
+      "hi": "जिससे पार पाना बड़ा कठिन है"
+     }
+    },
+    {
+     "sa": "प्रपद्यन्ते",
+     "meaning": {
+      "en": "take refuge",
+      "hi": "शरण होते हैं"
+     }
+    },
+    {
+     "sa": "तरन्ति",
+     "meaning": {
+      "en": "cross over",
+      "hi": "तर जाते हैं"
+     }
+    }
+   ],
+   "concepts": [
+    "maya",
+    "guna",
+    "sharanagati"
+   ],
+   "related": [
+    "7.13",
+    "7.5",
+    "15.7",
+    "10.11"
+   ]
+  },
+  {
+   "id": "7.16",
+   "headline": {
+    "en": "Four kinds of people turn to Me",
+    "hi": "चार प्रकारके भक्त मेरा भजन करते हैं"
+   },
+   "essence": {
+    "en": "Those seeking wealth, those in distress, the seekers of truth and the lovers of God — all four who turn to God alone are virtuous.",
+    "hi": "अर्थार्थी, आर्त, जिज्ञासु और ज्ञानी (प्रेमी)—केवल भगवान्का आश्रय लेनेवाले ये चारों सुकृती हैं।"
+   },
+   "idea": {
+    "en": "After saying that evil-doers do not take His refuge, Krishna names those who do: four kinds of virtuous people. The artharthi wants some comfort or wealth but seeks it only from God; the arta, in distress, calls only on God to remove it; the jijnasu wants to know the Truth and relies only on God for it; and the jnani — the lover — wants nothing at all. What makes them devotees is that God, not the desire, is primary. Swamiji says that anyone in whom a taste for God has arisen, for whatever reason, is fortunate and truly worthy of being called human.",
+    "hi": "दुष्कृती भगवान्के शरण नहीं होते—यह कहकर अब भगवान् बताते हैं कि शरण कौन होते हैं: चार प्रकारके सुकृती मनुष्य। अर्थार्थी धन-सुविधा चाहता है पर केवल भगवान्से; आर्त दु:ख आनेपर केवल भगवान्को पुकारता है; जिज्ञासु तत्त्वको केवल भगवान्से जानना चाहता है; और ज्ञानी अर्थात् प्रेमी कुछ भी नहीं चाहता। इनमें कामना गौण और भगवान्का सम्बन्ध मुख्य है—इसीसे ये भक्त हैं। स्वामीजी कहते हैं कि किसी भी कारणसे जिसकी भगवान्में रुचि हो गयी, वही भाग्यशाली और मनुष्य कहलानेयोग्य है।"
+   },
+   "points": [
+    {
+     "en": "One who wants money but relies on worldly means and only sometimes remembers God is a devotee of money, not of God.",
+     "hi": "जो धनके लिये सांसारिक उपायोंका सहारा लेता है और कभी भगवान्को याद कर लेता है, वह अर्थका भक्त है, भगवान्का नहीं।"
+    },
+    {
+     "en": "The four differ only because some existence other than God is still accepted; when none is, one becomes the jnani (lover).",
+     "hi": "भगवान्के सिवाय अन्य सत्ता माननेसे ही ये चार भेद होते हैं; अन्य सत्ता न रहे तो वह ज्ञानी (प्रेमी) हो जाता है।"
+    },
+    {
+     "en": "Regarding the world as one's own is the greatest sin; regarding God as one's own is the greatest virtue.",
+     "hi": "संसारको अपना मानना सबसे बड़ा दुष्कृत है और भगवान्को अपना मानना सबसे बड़ा सुकृत है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Four boys and four mangoes",
+      "hi": "चार लड़के और आम"
+     },
+     "text": {
+      "en": "A father brings four mangoes to his sons. One asks, one cries, one just looks at the mangoes, and one keeps playing happily without caring. All four get a mango — they are the artharthi, the arta, the jijnasu and the jnani.",
+      "hi": "पिता चार आम लाते हैं। एक लड़का माँगता है, एक रोता है, एक केवल आमकी ओर देखता है और एक परवाह किये बिना खेलता रहता है। चारोंको आम मिलता है—ये ही अर्थार्थी, आर्त, जिज्ञासु और ज्ञानी हैं।"
+     },
+     "quote": {
+      "hi": "यहाँ आम माँगनेवाला लड़का अर्थार्थी है, रोनेवाला लड़का आर्त है, केवल आमकी तरफ देखनेवाला जिज्ञासु है और आमकी परवाह न करके खेलमें लगे रहनेवाला लड़का ज्ञानी है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Dhruva, who wanted his father's lap",
+      "hi": "ध्रुवजी"
+     },
+     "text": {
+      "en": "Young Dhruva wanted to sit in the king's lap and was refused. He sought fulfilment of his wish only through worship of God. He received the kingdom, but by then the desire itself had gone and he felt ashamed of having gone to God for it.",
+      "hi": "बालक ध्रुवको राजाकी गोदमें बैठनेकी इच्छा हुई, पर बैठने नहीं दिया गया। उन्होंने इच्छापूर्तिका उपाय केवल भगवान्का भजन माना। राज्य मिला, पर इच्छा मिट गयी और उन्हें लज्जा हुई।"
+     },
+     "quote": {
+      "hi": "भजन करनेसे उनको राज्य मिल गया और इच्छा मिट गयी। इस तरह अर्थार्थी भक्त केवल भगवान्की तरफ ही लगता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "prayer",
+     "text": {
+      "en": "Praying before an exam is not a problem in itself; the difference is whether you trust God more than shortcuts and tricks.",
+      "hi": "परीक्षासे पहले प्रार्थना करनेमें दोष नहीं; अन्तर यह है कि भरोसा भगवान्पर अधिक है या चालाकी और जुगाड़पर।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "No one is shut out: even a person who turns to God out of need or pain has taken the right step, as long as he relies on God alone.",
+    "hi": "कोई वंचित नहीं: जरूरत या दु:खसे भी जो केवल भगवान्का सहारा लेता है, वह सही मार्गपर है।"
+   },
+   "terms": [
+    {
+     "sa": "सुकृतिन:",
+     "meaning": {
+      "en": "virtuous, doers of God-related deeds",
+      "hi": "पवित्र कर्म करनेवाले"
+     }
+    },
+    {
+     "sa": "अर्थार्थी",
+     "meaning": {
+      "en": "one seeking wealth or comfort (from God alone)",
+      "hi": "अर्थार्थी"
+     }
+    },
+    {
+     "sa": "आर्त:",
+     "meaning": {
+      "en": "one in distress",
+      "hi": "आर्त, दु:खी"
+     }
+    },
+    {
+     "sa": "जिज्ञासु:",
+     "meaning": {
+      "en": "seeker of truth",
+      "hi": "जिज्ञासु"
+     }
+    },
+    {
+     "sa": "ज्ञानी",
+     "meaning": {
+      "en": "the wise one, i.e. the loving devotee",
+      "hi": "ज्ञानी अर्थात् प्रेमी"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "kama"
+   ],
+   "related": [
+    "7.15",
+    "7.18",
+    "7.20",
+    "6.41"
+   ]
+  },
+  {
+   "id": "7.19",
+   "headline": {
+    "en": "'Vasudeva is all' — such a great soul is very rare",
+    "hi": "'वासुदेव: सर्वम्'—ऐसा महात्मा अत्यन्त दुर्लभ है"
+   },
+   "essence": {
+    "en": "In this human birth, one who takes refuge in God knowing 'all is God' is a great soul, and very rare.",
+    "hi": "मनुष्यजन्ममें 'सब कुछ परमात्मा ही हैं'—ऐसा जानकर जो भगवान्के शरण होता है, वह महात्मा अत्यन्त दुर्लभ है।"
+   },
+   "idea": {
+    "en": "The human birth is the last of many births: God has given it so the soul can step out of the round of birth and death. Swamiji says this life is meant only for one's own highest good, not for enjoying sense pleasures. At the start of creation God alone became many, and at the end He alone remains — so in the middle too there is nothing but Him. The wise devotee sees this, and seeing it is his surrender. Swamiji adds that God is not rare; what is rare is a person who sincerely sets out to reach Him.",
+    "hi": "मनुष्यजन्म बहुत जन्मोंका अन्तिम जन्म है; भगवान्ने यह जन्म-मरणसे छूटकर अपनी प्राप्तिके लिये दिया है। स्वामीजी कहते हैं कि मनुष्यजन्म केवल अपने कल्याणके लिये मिला है, विषयसुख भोगनेके लिये नहीं। सृष्टिके आदिमें एक भगवान् ही अनेक रूपोंमें हुए और अन्तमें भी वे ही शेष रहते हैं, तो बीचमें भी केवल वे ही हैं। ज्ञानी भक्तका यही अनुभव उसकी शरणागति है। स्वामीजी कहते हैं कि परमात्मा दुर्लभ नहीं हैं, सच्चे हृदयसे उनकी प्राप्तिमें लगनेवाले दुर्लभ हैं।"
+   },
+   "points": [
+    {
+     "en": "The human body is the last birth from God's side: He has given full freedom here to attain Him.",
+     "hi": "भगवान्की तरफसे मनुष्यजन्म अन्तिम जन्म है; इसमें अपनी प्राप्तिकी पूरी स्वतन्त्रता दी है।"
+    },
+    {
+     "en": "'Vasudeva is all' is not a state that comes and goes; it is the actual Truth, which never changes.",
+     "hi": "'वासुदेव: सर्वम्' कोई अवस्था नहीं, वास्तविक तत्त्व है, जिसमें कभी परिवर्तन नहीं होता।"
+    },
+    {
+     "en": "Two ways to it: set the world aside and keep only God (discernment), or see the world itself as God (devotion).",
+     "hi": "दो प्रकार: संसारका अभाव करके परमात्माको रखना (विवेक), या संसारको भगवत्स्वरूप मानना (भाव)।"
+    },
+    {
+     "en": "While we still give the world its own reality and importance, even imagining God in it does not bring this experience.",
+     "hi": "जबतक संसारको सत्ता और महत्ता देते हैं, तबतक उसमें भगवान्की भावना करनेपर भी यह अनुभव नहीं होता।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Gold and the ornaments",
+      "hi": "सोना और गहने"
+     },
+     "text": {
+      "en": "Ornaments were gold before they were made and will be gold when melted; in between too, they are only gold. Clay pots and sugar toys are the same. Before creation there was God and in the end God remains — so in between, there is only God.",
+      "hi": "गहने पहले सोना थे और अन्तमें सोना रहेंगे, तो बीचमें भी सोना ही हैं। मिट्टीके बर्तन और खाँड़के खिलौने भी ऐसे ही हैं। सृष्टिके पहले और अन्तमें भगवान् हैं, तो बीचमें भी भगवान् ही हैं।"
+     },
+     "quote": {
+      "hi": "जैसे, सोनेके गहने आदिमें सोना थे और अन्तमें सोना रहेंगे, तो गहनोंमें दूसरी चीज कहाँसे आयेगी? केवल सोना-ही-सोना है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Invited to a meal",
+      "hi": "भोजनका निमन्त्रण"
+     },
+     "text": {
+      "en": "When a host has invited you, laid out the seat, the leaf-plate and the water, it makes no sense to worry whether food will come. God has given us a human body and the means of liberation, like satsang and His Name; so we should keep practising with trust, without anxiety about the outcome.",
+      "hi": "जिसने निमन्त्रण देकर आसन, पत्तल, जल सब रख दिया, वह भोजन देगा ही—इसकी चिन्ता करना गलती है। ऐसे ही भगवान्ने मनुष्यशरीर और सत्संग, भगवन्नाम आदि उद्धारकी सामग्री दी है; अत: विश्वासपूर्वक साधन करें, चिन्ता न करें।"
+     },
+     "quote": {
+      "hi": "जैसे, किसीने भोजनके लिये निमन्त्रण दे दिया, आसन बिछा दिया, आसनपर बैठा दिया, पत्तल दे दी, लोटेमें जल भरकर पासमें रख दिया। अब कोई चिन्ता करे कि यह व्यक्ति भोजन देगा कि नहीं देगा, तो यह बिलकुल गलतीकी बात है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "It names the peak of the chapter's teaching and places it within reach of every human being, since this birth was given for exactly this.",
+    "hi": "यह अध्यायकी शिक्षाका शिखर है और हर मनुष्यकी पहुँचमें है, क्योंकि यह जन्म इसीके लिये मिला है।"
+   },
+   "terms": [
+    {
+     "sa": "बहूनां जन्मनाम् अन्ते",
+     "meaning": {
+      "en": "at the end of many births, i.e. in the human birth",
+      "hi": "बहुत जन्मोंके अन्तिम जन्ममें अर्थात् मनुष्यजन्ममें"
+     }
+    },
+    {
+     "sa": "वासुदेव: सर्वम्",
+     "meaning": {
+      "en": "all is Vasudeva (God)",
+      "hi": "सब कुछ परमात्मा ही हैं"
+     }
+    },
+    {
+     "sa": "ज्ञानवान्",
+     "meaning": {
+      "en": "the one who truly knows",
+      "hi": "ज्ञानवान्"
+     }
+    },
+    {
+     "sa": "सुदुर्लभ:",
+     "meaning": {
+      "en": "extremely rare",
+      "hi": "अत्यन्त दुर्लभ"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "jnana",
+    "ishvara"
+   ],
+   "related": [
+    "7.3",
+    "7.7",
+    "7.18",
+    "6.30",
+    "9.3",
+    "16.20"
+   ]
+  },
+  {
+   "id": "8.5",
+   "headline": {
+    "en": "Remember Me at the end, and you come to Me",
+    "hi": "अन्तकालमें मेरा स्मरण करनेवाला मुझे ही प्राप्त होता है"
+   },
+   "essence": {
+    "en": "Whoever leaves the body remembering God, even at the very end, attains Him — there is no doubt.",
+    "hi": "जो अन्तकालमें भी भगवान्का स्मरण करते हुए शरीर छोड़ता है, वह भगवान्को ही प्राप्त होता है—इसमें सन्देह नहीं।"
+   },
+   "idea": {
+    "en": "This answers Arjuna's seventh question: how is God known at the time of death? Swamiji reads 'even at the end' with great tenderness: this person was given a whole life to work for his liberation and did nothing; now, unable to do any other practice, if he simply remembers God, he will reach Him. It is a special concession God has given, so that the purpose of the human birth is not wasted. But since no one knows when the end will come, every moment is really the last moment, and one should remember God at all times.",
+    "hi": "यह अर्जुनके सातवें प्रश्नका उत्तर है कि अन्तकालमें आप कैसे जाननेमें आते हैं। स्वामीजी 'अन्तकाले च' का भाव बताते हैं कि इस मनुष्यको जीवनभर उद्धारका अवसर दिया, पर इसने कुछ नहीं किया; अब अन्तमें दूसरा साधन नहीं कर सकता, तो बस मुझे याद कर ले, तो इसे मेरी प्राप्ति हो जायगी। यह भगवान्की दी हुई विशेष छूट है, जिससे मनुष्यशरीर देना और लेना सफल हो जाय। पर अन्तकालका पता नहीं, इसलिये वास्तवमें सब समय अन्तकाल ही है और सदा भगवान्का स्मरण करना चाहिये।"
+   },
+   "points": [
+    {
+     "en": "Whatever form of God one has accepted — name, form, pastime, abode — remembering that at the end is remembering God.",
+     "hi": "भगवान्का जो भी स्वरूप, नाम, लीला, धाम माना है, अन्तमें उसकी याद आना भगवान्का ही स्मरण है।"
+    },
+    {
+     "en": "We can help the dying: show the image of their chosen deity, let them hear the Name, read the Gita (especially Chapter 8) to them.",
+     "hi": "मरणासन्न व्यक्तिको इष्टका चित्र दिखाना, भगवन्नाम सुनाना, गीता (विशेषकर आठवाँ अध्याय) सुनानी चाहिये।"
+    },
+    {
+     "en": "For the one who knows 'Vasudeva is all', there is no question of end-time remembrance — his knowing of God is natural and unbroken.",
+     "hi": "जिसको 'वासुदेव: सर्वम्' का ज्ञान हो गया, उसके लिये अन्तकालके स्मरणकी बात ही नहीं; उसे भगवान्का स्वाभाविक अटल ज्ञान रहता है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Ajamila calls 'Narayana'",
+      "hi": "अजामिल"
+     },
+     "text": {
+      "en": "At death Ajamila uttered the name 'Narayana', and God's attendants came while Yama's messengers ran off. Yama then told his messengers never to go where God's Name, kirtan and katha take place.",
+      "hi": "मृत्युके समय अजामिलने 'नारायण' नाम लिया तो भगवान्के पार्षद आ गये और यमदूत भाग गये। यमराजने दूतोंसे कहा कि जहाँ भगवन्नाम, कीर्तन, कथा हों, वहाँ मत जाना।"
+     },
+     "quote": {
+      "hi": "अजामिलके द्वारा मृत्युके समय ‘नारायण’ नामका उच्चारण करनेसे वहाँ भगवान्के पार्षद आ गये और यमदूत भागकर यमराजके पासमें गये"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Death has hold of your hair",
+      "hi": "मृत्युने केश पकड़े हैं"
+     },
+     "text": {
+      "en": "The traditional counsel is to live as if death has already grabbed you by the hair and a single jerk will end it — so good conduct and remembrance of God should never be put off.",
+      "hi": "नीति कहती है कि ऐसा मानो कि मृत्युने केश पकड़ रखे हैं, झटका दिया कि खत्म; इसलिये धर्माचरण और भगवत्स्मरण कभी न टालें।"
+     },
+     "quote": {
+      "hi": "मृत्युने मेरे केश पकड़े हुए हैं; झटका दिया कि खत्म!"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "It shows how generous God's provision is — and why that generosity is a reason to remember Him now, not to wait for the end.",
+    "hi": "यह भगवान्की उदार छूट दिखाता है—और यही कारण है कि अन्तकी प्रतीक्षा न करके अभीसे स्मरण करें।"
+   },
+   "terms": [
+    {
+     "sa": "अन्तकाले",
+     "meaning": {
+      "en": "at the time of death",
+      "hi": "अन्तकालमें"
+     }
+    },
+    {
+     "sa": "स्मरन्",
+     "meaning": {
+      "en": "remembering",
+      "hi": "स्मरण करते हुए"
+     }
+    },
+    {
+     "sa": "कलेवरम्",
+     "meaning": {
+      "en": "the body",
+      "hi": "शरीर"
+     }
+    },
+    {
+     "sa": "मद्भावम्",
+     "meaning": {
+      "en": "My being, My nature",
+      "hi": "मेरे स्वरूपको"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "moksha",
+    "sharira"
+   ],
+   "related": [
+    "14.14",
+    "14.18"
+   ]
+  },
+  {
+   "id": "8.6",
+   "headline": {
+    "en": "What you remember at the end, you become",
+    "hi": "अन्तमें जिसका स्मरण, उसीकी प्राप्ति"
+   },
+   "essence": {
+    "en": "Whatever one remembers while leaving the body, one goes to that — so the price of a dog's birth can buy God.",
+    "hi": "अन्तकालमें जिस भावका स्मरण करते हुए शरीर छूटता है, उसीकी प्राप्ति होती है—जितने मूल्यमें कुत्तेकी योनि, उतनेमें भगवान्।"
+   },
+   "idea": {
+    "en": "Krishna states the general law: whatever a person thinks of at the end, absorbed in that thought, he goes to it. Swamiji points to the compassion hidden in this rule — God made no separate rule for Himself but included Himself in the common one, so the same price that earns a dog's birth can earn God. After death the last thought remains fixed until the next body, and a mental body forms from it. For animals the last thought depends on their karma, but for humans it depends on their own effort — which is why the human birth is so valuable.",
+    "hi": "भगवान् सामान्य नियम बताते हैं कि अन्तकालमें जिस भावका स्मरण करते हुए मनुष्य शरीर छोड़ता है, उसी भावसे भावित होकर वह उसीको प्राप्त होता है। स्वामीजी इसमें भगवान्की दया दिखाते हैं कि उन्होंने अपने लिये अलग नियम न बनाकर सामान्य नियममें ही अपनेको शामिल कर दिया—जितने मूल्यमें कुत्तेकी योनि मिले, उतनेमें भगवान् मिल जायँ। मृत्युके बाद अन्तिम चिन्तन स्थायी रहता है और उसीसे मानसिक शरीर बनता है। पशु आदिका अन्तिम स्मरण कर्माधीन है, पर मनुष्यका पुरुषार्थके अधीन—यही मनुष्यशरीरकी महिमा है।"
+   },
+   "points": [
+    {
+     "en": "At death we cannot think whatever we like; what we think arises from the vasanas we built by giving things importance and taking pleasure in them.",
+     "hi": "मृत्युकालमें हम मनचाहा चिन्तन नहीं कर सकते; जिसको सत्ता-महत्ता देकर सुख लिया, उसीकी वासना और वैसा ही चिन्तन होगा।"
+    },
+    {
+     "en": "The law holds both God's justice (we are free to remember anything) and His compassion (the same price buys Him).",
+     "hi": "इस नियममें भगवान्की न्यायकारिता और दयालुता—दोनों भरी हैं।"
+    },
+    {
+     "en": "Remembering God at the end breaks all artificial relations, because our relation with Him alone is real.",
+     "hi": "अन्तमें भगवान्की याद आनेसे सब कृत्रिम सम्बन्ध टूट जाते हैं, क्योंकि उनसे सम्बन्ध ही स्वत:सिद्ध है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The photograph and the fly",
+      "hi": "फोटो और मक्खी"
+     },
+     "text": {
+      "en": "A man sat for a photo and was told to keep still and smile. Just then a fly sat on his nose and he wrinkled it. The photo came out exactly like that and could not be changed later. So too, the birth one receives matches the state of mind at the moment of death.",
+      "hi": "एक आदमी फोटो खिंचवाने बैठा; ठीक उसी समय नाकपर मक्खी बैठी और उसने नाक सिकोड़ ली। फोटोमें वही आकृति आ गयी, जो बादमें बदल नहीं सकती। ऐसे ही अन्तकालके चिन्तनके अनुसार योनि मिलती है।"
+     },
+     "quote": {
+      "hi": "इसी तरह अन्तकालमें मनुष्यका जैसा चिन्तन होगा, वैसी ही योनि उसको प्राप्त होगी।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Thread follows the needle",
+      "hi": "सुईके पीछे धागा"
+     },
+     "text": {
+      "en": "Just as thread goes wherever the needle leads, a person goes to the destination set by his final state of mind.",
+      "hi": "जैसे सुईके पीछे-पीछे धागा जाता है, वैसे ही मनुष्य अन्तकालके भावके अनुसार उसी गतिमें जाता है।"
+     },
+     "quote": {
+      "hi": "जिस तरह सुईके पीछे-पीछे (उसी मार्गसे) धागा जाता है, उसी तरह मनुष्य भी अन्तकालके भावके अनुसार उसी गतिमें जाता है।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "habits",
+     "text": {
+      "en": "Your last scroll before sleep tends to shape your dreams; what fills your days is what will surface on its own in the moments you do not choose.",
+      "hi": "सोनेसे पहलेकी स्क्रॉलिंग प्राय: सपनोंमें आती है; दिनभर जो मनमें भरा रहता है, वही बिना चाहे सामने आता है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Since the last thought is shaped by a lifetime of attachments, the real preparation for death is how we live now.",
+    "hi": "अन्तिम चिन्तन जीवनभरकी आसक्तियोंसे बनता है, इसलिये मृत्युकी असली तैयारी अभीका जीवन है।"
+   },
+   "terms": [
+    {
+     "sa": "भावम्",
+     "meaning": {
+      "en": "state, object of thought",
+      "hi": "भावका"
+     }
+    },
+    {
+     "sa": "तद्भावभावित:",
+     "meaning": {
+      "en": "always absorbed in that thought",
+      "hi": "उस भावसे सदा भावित होता हुआ"
+     }
+    },
+    {
+     "sa": "त्यजति",
+     "meaning": {
+      "en": "leaves (the body)",
+      "hi": "छोड़ता है"
+     }
+    }
+   ],
+   "concepts": [
+    "karma",
+    "asakti",
+    "sharira"
+   ],
+   "related": [
+    "8.5",
+    "8.7",
+    "7.21",
+    "5.29",
+    "9.3",
+    "16.20"
+   ]
+  },
+  {
+   "id": "8.7",
+   "headline": {
+    "en": "Remember Me at all times — and fight",
+    "hi": "सब समयमें मेरा स्मरण कर और युद्ध भी कर"
+   },
+   "essence": {
+    "en": "Remember God at every moment while doing your duty; with mind and intellect offered to Him, you will surely reach Him.",
+    "hi": "सब समय भगवान्का स्मरण करते हुए कर्तव्य करो; मन-बुद्धि उनके अर्पित करनेवाला नि:सन्देह उन्हें प्राप्त होता है।"
+   },
+   "idea": {
+    "en": "Since the end can come at any moment, Krishna tells Arjuna to remember Him at all times and also to fight. Swamiji notes that 'at all times' goes with remembering, not with fighting — no action can be continuous, but remembrance can, because the aim of reaching God stays awake all the time. Remembrance is primary and the duty at hand is secondary. Offering mind and intellect to God really means regarding them as His and never as one's own; our only true relation is with God.",
+    "hi": "अन्तकाल कभी भी आ सकता है, इसलिये भगवान् कहते हैं कि सब समय मेरा स्मरण कर और युद्ध भी कर। स्वामीजी कहते हैं कि 'सर्वेषु कालेषु' का सम्बन्ध केवल स्मरणसे है, युद्धसे नहीं; कोई क्रिया निरन्तर नहीं हो सकती, पर उद्देश्यकी जागृति हरदम रहनेसे स्मरण निरन्तर हो सकता है। इसमें स्मरण मुख्य है और कर्तव्य-कर्म गौण। मन-बुद्धि अर्पित करनेका वास्तविक अर्थ है—इनको भगवान्के ही मानना, कभी अपने न मानना; मनुष्यका सम्बन्ध केवल प्रभुसे ही है।"
+   },
+   "points": [
+    {
+     "en": "Every task has its time slot; remembrance of God should have none — it runs through all of them.",
+     "hi": "हर कार्यका समय-विभाग होता है, पर भगवान्के स्मरणमें समयका विभाग नहीं होना चाहिये।"
+    },
+    {
+     "en": "Remembrance comes naturally from belonging: the firmer the sense that God is mine, the more often He is remembered.",
+     "hi": "स्मरणकी जागृतिके लिये भगवान्में अपनापन चाहिये; अपनापन जितना दृढ़, उतनी बार-बार स्मृति।"
+    },
+    {
+     "en": "Three kinds of remembrance: from realisation (never lost), from relationship (lasts while the relation is held) and from practice (not continuous).",
+     "hi": "स्मरण तीन तरहका—बोधजन्य (कभी अभाव नहीं), सम्बन्धजन्य और क्रियाजन्य (निरन्तर नहीं)।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The water pot on the head",
+      "hi": "सिरपर जलका घड़ा"
+     },
+     "text": {
+      "en": "Women carrying water pots on their heads walk with free hands and chat with friends, yet stay aware of the pot all the time. A tightrope walker sings while minding the rope; a driver talks while watching the road. That is how God can be kept in mind through all activity.",
+      "hi": "सिरपर घड़ा रखकर चलती स्त्रियाँ हाथ खुले रखकर बातें करती हैं, पर घड़ेकी सावधानी निरन्तर रहती है। नट रस्सेपर गाता है, ड्राइवर बात करता है, पर ध्यान बना रहता है। ऐसे ही सब क्रियाओंमें भगवान्को याद रखना है।"
+     },
+     "quote": {
+      "hi": "जैसे स्त्रियाँ सिरपर जलका घड़ा रखकर चलती हैं तो अपने दोनों हाथोंको खुला रखती हैं और दूसरी स्त्रियोंके साथ बातें भी करती रहती हैं; परन्तु सिरपर रखे घड़ेकी सावधानी निरन्तर रहती है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "A daughter's wedding",
+      "hi": "कन्याका विवाह"
+     },
+     "text": {
+      "en": "A father arranging his daughter's wedding buys many things, does many jobs and invites many people, but never forgets that it is all for her wedding. When all work is done as God's work, His remembrance stays in the same way.",
+      "hi": "कन्याके विवाहमें पिता तरह-तरहके काम करता है, पर 'कन्याका विवाह करना है'—यह निरन्तर याद रहता है। कार्यको भगवान्का समझनेपर उनकी स्मृति ऐसे ही बनी रहती है।"
+     },
+     "quote": {
+      "hi": "कोई सज्जन अपनी कन्याके विवाह-कार्यके समय कन्याके लिये तरह-तरहकी वस्तुएँ खरीदता है, तरह-तरहके कार्य करता है, अनेक व्यक्तियोंको निमन्त्रण देता है; परन्तु अनेक प्रकारके कार्य करते हुए भी ‘कन्याका विवाह करना है’—यह बात उसको निरन्तर याद रहती है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "career",
+     "text": {
+      "en": "Like working on many tasks during a product launch while never losing sight of why you are doing any of them.",
+      "hi": "जैसे किसी बड़े प्रोजेक्टमें अनेक काम करते हुए भी उसका असली उद्देश्य कभी मनसे नहीं उतरता।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It removes the supposed conflict between spiritual life and daily duty: remembrance is kept constant, duty is done in its time.",
+    "hi": "यह साधन और दैनिक कर्तव्यका विरोध मिटाता है—स्मरण निरन्तर, कर्तव्य अपने समयपर।"
+   },
+   "terms": [
+    {
+     "sa": "सर्वेषु कालेषु",
+     "meaning": {
+      "en": "at all times",
+      "hi": "सब समयमें"
+     }
+    },
+    {
+     "sa": "अनुस्मर",
+     "meaning": {
+      "en": "keep remembering",
+      "hi": "स्मरण कर"
+     }
+    },
+    {
+     "sa": "युध्य",
+     "meaning": {
+      "en": "fight (do your duty)",
+      "hi": "युद्ध कर"
+     }
+    },
+    {
+     "sa": "अर्पितमनोबुद्धि:",
+     "meaning": {
+      "en": "with mind and intellect offered (to Me)",
+      "hi": "मन और बुद्धि अर्पित करनेवाला"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "karma",
+    "svadharma",
+    "sharanagati"
+   ],
+   "related": [
+    "2.32",
+    "7.26",
+    "8.5",
+    "8.14",
+    "15.7",
+    "2.12"
+   ]
+  },
+  {
+   "id": "8.14",
+   "headline": {
+    "en": "To the one who always remembers Me, I am easy to reach",
+    "hi": "नित्य स्मरण करनेवालेके लिये मैं सुलभ हूँ"
+   },
+   "essence": {
+    "en": "For one whose mind goes nowhere else and who is always joined to God, God is easily attained.",
+    "hi": "जिसका चित्त अन्य कहीं नहीं जाता और जो नित्य भगवान्में लगा है, उसके लिये भगवान् सुलभ हैं।"
+   },
+   "idea": {
+    "en": "After describing the paths of yoga at death, which need mastery over the breath and are hard, Krishna speaks of the easy way to Himself. The one whose mind has no other support or importance than God, who remembers Him from waking to sleep and from the day he took this up until death, finds God easy to reach. Swamiji explains that 'ever-united' does not mean constant mental effort, but steady belonging: 'I am God's and God is mine', just as a Brahmin remains a Brahmin whether he thinks of it or not. This path needs no control of the breath at the end, because it is the awakening of a relationship that already exists.",
+    "hi": "अन्तकालमें प्राणोंपर अधिकारवाले कठिन साधनोंका वर्णन करके अब भगवान् अपनी सुगम प्राप्ति बताते हैं। जिसके अन्त:करणमें भगवान्के सिवाय अन्य किसीका आश्रय या महत्त्व नहीं है, जो जगनेसे सोनेतक और जिस दिन पकड़ा उस दिनसे मृत्युतक स्मरण करता है, उसके लिये भगवान् सुलभ हैं। स्वामीजी कहते हैं कि 'नित्ययुक्त' का अर्थ चित्तसे निरन्तर चिन्तन नहीं, बल्कि 'मैं भगवान्का हूँ, भगवान् मेरे हैं'—इस नित्य-सम्बन्धमें दृढ़ रहना है, जैसे ब्राह्मण याद करे या न करे, ब्राह्मण ही रहता है। इसमें प्राणोंको लगानेकी जरूरत नहीं, क्योंकि यह स्वत:सिद्ध सम्बन्धकी जागृति है।"
+   },
+   "points": [
+    {
+     "en": "Undivided mind: 'I belong only to God and God alone is mine; no one else is mine and I am no one else's.'",
+     "hi": "अनन्यचित्तता: 'मैं केवल भगवान्का हूँ और भगवान् ही मेरे हैं; मेरा और कोई नहीं तथा मैं और किसीका नहीं।'"
+    },
+    {
+     "en": "Remembering is not a 'doing'; it happens by itself where there is love, and love comes from feeling God as one's own.",
+     "hi": "स्मरण 'करना' नहीं, 'होना' है; जहाँ प्रेम है, वहाँ स्मरण अपने-आप होता है और प्रेम अपनेपनसे होता है।"
+    },
+    {
+     "en": "God is not rare — devotees are. God is made to seem hard only by giving reality and importance to body and world.",
+     "hi": "भगवान् दुर्लभ नहीं, भक्त दुर्लभ हैं; शरीर-संसारको सत्ता-महत्ता देनेसे ही भगवान् दुर्लभ लगते हैं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "A Brahmin stays a Brahmin",
+      "hi": "ब्राह्मणका ब्राह्मणपना"
+     },
+     "text": {
+      "en": "A Brahmin knows 'I am a Brahmin, not a Kshatriya or Vaishya'; whether or not he recalls it, it makes no difference to what he is. The one firm in 'I am God's' is ever-united in the same way.",
+      "hi": "ब्राह्मण जानता है कि 'मैं ब्राह्मण हूँ'; वह याद करे या न करे, उसके ब्राह्मणपनेमें फर्क नहीं पड़ता। ऐसे ही 'मैं भगवान्का हूँ'—इसमें दृढ़ रहनेवाला नित्ययुक्त है।"
+     },
+     "quote": {
+      "hi": "जैसे कोई ब्राह्मण अपने ब्राह्मणपनेमें स्थित रहता है कि ‘मैं ब्राह्मण हूँ; क्षत्रिय, वैश्य आदि नहीं हूँ।’ वह अपने ब्राह्मणपनेको याद करे या न करे, पर उसके ब्राह्मणपनेमें कोई फर्क नहीं पड़ता।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Like an insured possession",
+      "hi": "बीमा की हुई वस्तु"
+     },
+     "text": {
+      "en": "Once something is insured, one no longer worries about it breaking or being damaged. Likewise, having handed oneself over to God along with body, senses, mind and intellect, the seeker has no anxiety at all about his destination.",
+      "hi": "वस्तुका बीमा होनेपर उसके टूटने-बिगड़नेकी चिन्ता नहीं रहती। ऐसे ही शरीर, इन्द्रियाँ, मन, बुद्धिसहित अपनेको भगवान्के समर्पित करनेपर अपनी गतिकी चिन्ता नहीं रहती।"
+     },
+     "quote": {
+      "hi": "जैसे किसी वस्तुका बीमा होनेपर वस्तुके बिगड़ने, टूटने-फूटनेकी चिन्ता नहीं रहती, ऐसे ही शरीर-इन्द्रियाँ-मन-बुद्धिसहित अपने-आपको भगवान्के समर्पित कर देनेपर साधकको अपनी गतिके विषयमें कभी किंचिन्मात्र भी चिन्ता नहीं होती।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "It offers the simplest path of the chapter — no technique, only undivided belonging to God.",
+    "hi": "यह अध्यायका सबसे सरल मार्ग देता है—कोई विधि नहीं, केवल भगवान्में अनन्य अपनापन।"
+   },
+   "terms": [
+    {
+     "sa": "अनन्यचेता:",
+     "meaning": {
+      "en": "with undivided mind",
+      "hi": "अनन्य चित्तवाला"
+     }
+    },
+    {
+     "sa": "सततम्",
+     "meaning": {
+      "en": "constantly",
+      "hi": "निरन्तर"
+     }
+    },
+    {
+     "sa": "नित्ययुक्तस्य",
+     "meaning": {
+      "en": "of one ever united (with Me)",
+      "hi": "नित्य-निरन्तर मुझमें लगे हुए"
+     }
+    },
+    {
+     "sa": "सुलभ:",
+     "meaning": {
+      "en": "easily attainable",
+      "hi": "सुलभ"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "yoga"
+   ],
+   "related": [
+    "7.30",
+    "7.19",
+    "7.17",
+    "18.73",
+    "7.1"
+   ]
+  },
+  {
+   "id": "9.22",
+   "headline": {
+    "en": "I carry the welfare of those devoted to Me alone",
+    "hi": "अनन्य भक्तोंका योगक्षेम मैं वहन करता हूँ"
+   },
+   "essence": {
+    "en": "For those who think of God alone and stay constantly united with Him, God Himself provides what they need and protects what they have.",
+    "hi": "जो अनन्य होकर भगवान्का ही चिन्तन और उपासना करते हैं, उनके योग (अप्राप्तकी प्राप्ति) और क्षेम (प्राप्तकी रक्षा) का भार भगवान् स्वयं उठाते हैं।"
+   },
+   "idea": {
+    "en": "Those who firmly accept that everything seen is God's form and every change is His play give importance to nothing else — they are 'ananya'. Their means and their goal are God alone; they do not even desire their own maintenance, and all their eating, walking and working becomes worship. For such ever-united devotees Krishna says, 'I carry their yoga and kshema'. Swamiji explains that giving and withholding are both God's care: He gives, or removes, whatever actually helps the devotee's devotion and welfare. So the devotee stays deeply content in favourable and unfavourable situations alike.",
+    "hi": "जो दृढ़तासे मान लेते हैं कि जो कुछ दीखता है, वह सब भगवान्का स्वरूप है और जो कुछ परिवर्तन होता है, वह भगवान्की लीला है, उनकी भगवान्के सिवाय कहीं महत्त्वबुद्धि नहीं होती — वे ‘अनन्य’ हैं। उनके साधन और साध्य केवल भगवान् हैं; वे अपने जीवन-निर्वाहकी भी इच्छा नहीं रखते और उनका खाना-पीना, चलना-फिरना सब भगवान्की उपासना हो जाता है। ऐसे नित्याभियुक्त भक्तोंका योगक्षेम भगवान् वहन करते हैं। स्वामीजी बताते हैं कि वस्तु देनेमें भी और न देनेमें भी, रक्षा करनेमें भी और नष्ट करनेमें भी भगवान् भक्तका हित ही देखते हैं। इसलिये भक्त अनुकूल और प्रतिकूल दोनों परिस्थितियोंमें परम प्रसन्न रहते हैं।"
+   },
+   "points": [
+    {
+     "en": "Ananya: turned away from the world (exclusiveness), turned towards God (contemplation), and serving Him in every state (worship) — together this is 'nityabhiyukta'.",
+     "hi": "संसारसे विमुख होना ‘अनन्यता’, भगवान्के सम्मुख होना ‘चिन्तन’ और सब अवस्थाओंमें भगवत्सेवापरायण होना ‘उपासना’ है — ये तीनों जिनमें हों, वे ‘नित्याभियुक्त’ हैं।"
+    },
+    {
+     "en": "God does whatever serves the devotee's real good — sometimes that means giving, sometimes withholding or taking away.",
+     "hi": "भगवान् वही करते हैं जिसमें भक्तका हित हो — कभी देनेमें, कभी न देनेमें और कभी प्राप्त वस्तुको नष्ट करनेमें भी उसका ‘क्षेम’ है।"
+    },
+    {
+     "en": "One who is happy only when things go his way is not God's servant but the servant of his own mind.",
+     "hi": "जो अनुकूलतामें प्रसन्न और प्रतिकूलतामें खिन्न होता है, वह भगवान्का दास नहीं, अपने मनका दास है।"
+    },
+    {
+     "en": "In the deepest sense, 'yoga' is one's connection with God and 'kshema' is one's ultimate welfare — both of which God strengthens.",
+     "hi": "वास्तवमें ‘योग’ नाम भगवान्के साथ सम्बन्धका है और ‘क्षेम’ नाम जीवके कल्याणका — भगवान् दोनोंको पुष्ट करते हैं।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Worshipper of other gods",
+      "hi": "देवताओंका उपासक"
+     },
+     "items": [
+      {
+       "en": "Like a hired labourer",
+       "hi": "मजदूर (नौकर) की तरह"
+      },
+      {
+       "en": "Gets limited fruit, as per desire",
+       "hi": "कामनाके अनुसार सीमित फल"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Devotee of God",
+      "hi": "भगवान्का भक्त"
+     },
+     "items": [
+      {
+       "en": "Like a member of the household",
+       "hi": "घरके सदस्यकी तरह"
+      },
+      {
+       "en": "Everything belongs to him",
+       "hi": "सब कुछ उसीका होता है"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "The mother who fetches it herself",
+      "hi": "स्वयं वस्तु लानेवाली माँ"
+     },
+     "text": {
+      "en": "When a mother sees that her little child needs something, she gladly brings it herself. In the same way, God Himself carries whatever His ever-devoted devotees need.",
+      "hi": "छोटे बच्चेको किसी वस्तुकी आवश्यकता हो तो माँ प्रसन्नतासे स्वयं लाकर देती है। ऐसे ही भगवान् भक्तोंकी आवश्यकता स्वयं ढोकर लाते हैं।"
+     },
+     "quote": {
+      "hi": "जैसे छोटे बच्चेके लिये माँ किसी वस्तुकी आवश्यकता समझती है, तो बड़ी प्रसन्नता और उत्साहके साथ स्वयं वह वस्तु लाकर देती है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The labourer and the family member",
+      "hi": "मजदूर और घरका सदस्य"
+     },
+     "text": {
+      "en": "A labourer gets wages that match his work; a member of the household who works owns everything in the house. Worship of other gods is like the first; devotion to God is like the second.",
+      "hi": "मजदूरको मजदूरीके अनुसार सीमित पैसे मिलते हैं, पर घरका सदस्य काम करे तो सब कुछ उसीका है। देवोपासक पहले जैसा और भगवद्भक्त दूसरे जैसा है।"
+     },
+     "quote": {
+      "hi": "देवताओंका उपासक तो मजदूर (नौकर) की तरह है और भगवान्की उपासना करनेवाला घरके सदस्यकी तरह है। मजदूर काम करता है तो उसको मजदूरीके अनुसार सीमित पैसे मिलते हैं, पर घरका सदस्य काम करता है तो सब कुछ उसीका होता है।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "career",
+     "text": {
+      "en": "A rejected job offer can feel like loss. In Swamiji's framing, for one who relies on God, what was not given is also part of His care — the not-getting is itself 'kshema'.",
+      "hi": "नौकरीका प्रस्ताव न मिलना हानि लगता है। पर भगवान्पर निर्भर व्यक्तिके लिये जो नहीं मिला, वह भी भगवान्का ही हितकारी विधान है — न मिलनेमें भी ‘क्षेम’ है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It frees the devotee from anxiety about getting and keeping: his only work is to stay with God; the rest is God's responsibility.",
+    "hi": "इससे पाने और बचानेकी चिन्ता मिट जाती है — भक्तका काम केवल भगवान्में लगे रहना है, बाकी जिम्मेवारी भगवान्की है।"
+   },
+   "terms": [
+    {
+     "sa": "अनन्या:",
+     "meaning": {
+      "en": "exclusively devoted, with no other refuge",
+      "hi": "अनन्य भक्त"
+     }
+    },
+    {
+     "sa": "पर्युपासते",
+     "meaning": {
+      "en": "worship thoroughly",
+      "hi": "भलीभाँति उपासना करते हैं"
+     }
+    },
+    {
+     "sa": "नित्याभियुक्तानाम्",
+     "meaning": {
+      "en": "of those ever united with Me",
+      "hi": "मुझमें निरन्तर लगे हुए"
+     }
+    },
+    {
+     "sa": "योगक्षेमम्",
+     "meaning": {
+      "en": "gaining what is lacking and preserving what is gained",
+      "hi": "अप्राप्तकी प्राप्ति और प्राप्तकी रक्षा"
+     }
+    },
+    {
+     "sa": "वहामि",
+     "meaning": {
+      "en": "I carry",
+      "hi": "वहन करता हूँ"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "ishvara"
+   ],
+   "related": [
+    "2.45",
+    "4.11",
+    "9.21",
+    "9.23"
+   ]
+  },
+  {
+   "id": "9.26",
+   "headline": {
+    "en": "A leaf, a flower, a fruit, water — offered with love",
+    "hi": "पत्र, पुष्प, फल, जल — प्रेमसे अर्पित"
+   },
+   "essence": {
+    "en": "God does not need elaborate materials or rituals; whatever simple thing is offered with love, He accepts — indeed He eats it.",
+    "hi": "भगवान्को विशेष सामग्री या विधिकी जरूरत नहीं; प्रेमपूर्वक दी हुई साधारण वस्तुको भी वे स्वीकार कर लेते हैं, खा लेते हैं।"
+   },
+   "idea": {
+    "en": "Worship of the gods needs many materials, rules and methods; one might think God's worship is even harder. Krishna answers: whoever offers Me with love a leaf, a flower, a fruit or water — whatever is easily at hand — I eat that loving gift. Swamiji explains that God's relationship with the soul is one of natural belonging, so what matters is not method or object but the feeling of 'He is mine'. Offered with love, the thing itself becomes love, and God takes it into Himself, because He hungers for love, not for things.",
+    "hi": "देवताओंके पूजनमें बहुत-सी सामग्री, नियम और विधियोंकी आवश्यकता होती है; तो क्या भगवान्का पूजन और कठिन है? भगवान् कहते हैं — जो भक्त अनायास प्राप्त पत्र, पुष्प, फल, जल आदि प्रेमपूर्वक मेरे अर्पण करता है, उसे मैं खा लेता हूँ। स्वामीजी बताते हैं कि भगवान्का जीवके साथ स्वत:-स्वाभाविक अपनेपनका सम्बन्ध है, इसलिये उनकी प्राप्तिमें विधिकी नहीं, अपनेपनके दृढ़ भावकी आवश्यकता है। भक्तिपूर्वक देनेसे वस्तु भी प्रेमरूप हो जाती है और भगवान् उसे आत्मसात् कर लेते हैं; क्योंकि वे भावके भूखे हैं, पदार्थोंके नहीं।"
+   },
+   "points": [
+    {
+     "en": "Not the object but the devotee's feeling is what counts — God is hungry for love, not for things.",
+     "hi": "पदार्थोंकी नहीं, भक्तके भावकी मुख्यता है — भगवान् भावके भूखे हैं, पदार्थोंके नहीं।"
+    },
+    {
+     "en": "God does not merely accept the offering; He 'eats' it — even a flower meant only for smelling.",
+     "hi": "भगवान् उपहार केवल स्वीकार ही नहीं करते, खा लेते हैं — पुष्प सूँघनेकी चीज हो तो भी।"
+    },
+    {
+     "en": "Leaf, flower and fruit arise from water; together they stand for all things — so all things are to be offered to God.",
+     "hi": "पत्र, पुष्प, फल जलके कार्य हैं और जल उनका कारण — ये मात्र पदार्थोंके उपलक्षण हैं, अत: मात्र पदार्थ भगवान्के अर्पण करने चाहिये।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Draupadi's leaf",
+      "hi": "द्रौपदीका पत्ता"
+     },
+     "text": {
+      "en": "Krishna ate a single leaf from Draupadi's vessel and satisfied the three worlds. Swamiji also recalls Gajendra's flower, Shabari's fruits and Rantideva's water.",
+      "hi": "द्रौपदीसे पत्ता लेकर भगवान्ने खाया और त्रिलोकीको तृप्त कर दिया। गजेन्द्रका पुष्प, शबरीके फल और रन्तिदेवका जल भी इसीके उदाहरण हैं।"
+     },
+     "quote": {
+      "hi": "जैसे, द्रौपदीसे पत्ता लेकर भगवान्ने खा लिया और त्रिलोकीको तृप्त कर दिया।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Vidurani's banana peels",
+      "hi": "विदुरानीके छिलके"
+     },
+     "text": {
+      "en": "Lost in love, Vidurani handed Krishna the banana peels instead of the fruit, and He ate the peels as if they were the fruit. When love overflows, neither the giver nor the receiver notices what is given.",
+      "hi": "प्रेमके आवेशमें विदुरानीने केलोंकी गिरीके बदले छिलके दिये, और भगवान्ने उन्हें गिरीकी तरह खा लिया। प्रेमकी अधिकतामें न देनेवालेको खयाल रहता है, न लेनेवालेको।"
+     },
+     "quote": {
+      "hi": "जैसे, विदुरानी प्रेमके आवेशमें भगवान्को केलोंकी गिरी न देकर छिलके देती हैं, तो भगवान् उन छिलकोंको भी गिरीकी तरह ही खा लेते हैं"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The child and its mother's lap",
+      "hi": "माँकी गोदमें बालक"
+     },
+     "text": {
+      "en": "A child going to its mother's lap needs no procedure; it goes out of belonging. So too, reaching God needs no ritual or mantra — only a firm sense that He is one's own.",
+      "hi": "बालक माँकी गोदीमें जाय तो किसी विधिकी जरूरत नहीं; वह अपनेपनसे जाता है। ऐसे ही भगवान्की प्राप्तिके लिये केवल अपनेपनके दृढ़ भावकी आवश्यकता है।"
+     },
+     "quote": {
+      "hi": "जैसे, बालक माँकी गोदीमें जाय, तो उसके लिये किसी विधिकी जरूरत नहीं है। वह तो अपनेपनके सम्बन्धसे ही माँकी गोदीमें जाता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "relationships",
+     "text": {
+      "en": "A parent treasures a child's crayon drawing more than an expensive gift from a stranger — not for the paper, but for the love in it.",
+      "hi": "माता-पिताको बच्चेकी बनायी टेढ़ी-मेढ़ी तस्वीर किसी अजनबीके महँगे उपहारसे अधिक प्यारी लगती है — कागजके कारण नहीं, उसमें भरे प्रेमके कारण।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "No one is too poor or too unskilled to worship God: the only requirement is love and the sense that He is one's own.",
+    "hi": "भगवान्की पूजाके लिये कोई भी अयोग्य या निर्धन नहीं — केवल प्रेम और अपनेपनकी आवश्यकता है।"
+   },
+   "terms": [
+    {
+     "sa": "भक्त्या",
+     "meaning": {
+      "en": "with love",
+      "hi": "प्रेमपूर्वक"
+     }
+    },
+    {
+     "sa": "प्रयच्छति",
+     "meaning": {
+      "en": "offers",
+      "hi": "अर्पण करता है"
+     }
+    },
+    {
+     "sa": "भक्त्युपहृतम्",
+     "meaning": {
+      "en": "the gift offered with love",
+      "hi": "प्रेमपूर्वक दिया हुआ उपहार"
+     }
+    },
+    {
+     "sa": "प्रयतात्मन:",
+     "meaning": {
+      "en": "of one whose heart is absorbed in Me",
+      "hi": "मुझमें तल्लीन हुए अन्त:करणवाले भक्तका"
+     }
+    },
+    {
+     "sa": "अश्नामि",
+     "meaning": {
+      "en": "I eat, i.e. accept",
+      "hi": "खा लेता हूँ अर्थात् स्वीकार कर लेता हूँ"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "tyaga",
+    "ishvara"
+   ],
+   "related": [
+    "9.27",
+    "9.28",
+    "4.11",
+    "7.20"
+   ]
+  },
+  {
+   "id": "9.27",
+   "headline": {
+    "en": "Whatever you do — offer it to Me",
+    "hi": "जो कुछ करता है, वह मेरे अर्पण कर दे"
+   },
+   "essence": {
+    "en": "Offer every action — eating, sacrifice, giving, austerity — to God; better still, offer yourself, and every action is offered automatically.",
+    "hi": "जो कुछ करो, खाओ, यज्ञ, दान, तप करो — सब भगवान्के अर्पण करो; खुद अर्पित हो जाओ तो सब क्रियाएँ स्वत: अर्पित हो जायँगी।"
+   },
+   "idea": {
+    "en": "The world has two forms — things and actions — and attachment to either causes a fall. Having spoken of offering things in the previous verse, Krishna now asks that all actions be offered: whatever you do, eat, sacrifice, give or practise as austerity. Swamiji points out that no new object, action or effort is needed here; one's natural daily and spiritual actions are simply to be offered to God. The real need is to offer oneself: when one belongs to God, every action becomes a source of His pleasure. Offering everything removes the binding sense of 'I' and 'mine'.",
+    "hi": "संसारके दो रूप हैं — पदार्थ और क्रिया; इनमें आसक्ति पतन करनेवाली है। पूर्वश्लोकमें पदार्थ अर्पण करनेकी बात कहकर यहाँ भगवान् क्रिया अर्पण करनेको कहते हैं — जो कुछ करता है, खाता है, यज्ञ करता है, दान देता है, तप करता है, वह सब मेरे अर्पण कर दे। स्वामीजी कहते हैं कि यहाँ कोई नया पदार्थ, नयी क्रिया या नया उद्योग नहीं करना है; अपनी स्वाभाविक लौकिक-पारमार्थिक क्रियाएँ ही भगवान्के अर्पण करनी हैं। वास्तवमें खुदको अर्पित करनेकी जरूरत है; खुद अर्पित होनेसे सब क्रियाएँ भगवान्की प्रसन्नताका हेतु हो जाती हैं। सब कुछ अर्पण करनेसे बन्धनकारक ‘मैं’ और ‘मेरा’-पन मिट जाता है।"
+   },
+   "points": [
+    {
+     "en": "'Whatever you do' covers every kind of action — bodily, social, scriptural and spiritual.",
+     "hi": "‘यत्करोषि’ में शास्त्रीय, शारीरिक, व्यावहारिक, सामाजिक, पारमार्थिक — सभी क्रियाएँ आ जाती हैं।"
+    },
+    {
+     "en": "Offering is not to fill any lack in God; it is so that your 'I' and 'mine' — which bind you — are gone.",
+     "hi": "अर्पण भगवान्की कमी पूरी करनेके लिये नहीं, प्रत्युत तेरे बन्धनकारक ‘मैं’ और ‘मेरा’-पनको मिटानेके लिये है।"
+    },
+    {
+     "en": "Only what accords with God's will can be offered; forbidden acts cannot be 'offered' — their fruit too would return multiplied.",
+     "hi": "भगवान्के अर्पण वही होगा जो उनकी आज्ञाके अनुकूल हो; निषिद्ध क्रिया अर्पण करोगे तो उसका दण्ड भी अनन्त गुणा होकर मिलेगा।"
+    },
+    {
+     "en": "Offering is easier than renouncing, and brings no pride — one only returns what was always His.",
+     "hi": "त्यागकी अपेक्षा अर्पण सुगम है और इसमें अभिमान नहीं आता; क्योंकि जिसकी वस्तु है, उसीको दी जाती है।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "The path of knowledge",
+      "hi": "ज्ञानयोगी"
+     },
+     "items": [
+      {
+       "en": "Gives up 'I' and 'mine'",
+       "hi": "‘मैं’ और ‘मेरा’का त्याग करता है"
+      },
+      {
+       "en": "Renounces things and actions",
+       "hi": "पदार्थ और क्रियाका त्याग करता है"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "The devotee",
+      "hi": "भक्त"
+     },
+     "items": [
+      {
+       "en": "Accepts 'You' and 'Yours'",
+       "hi": "‘तू’ और ‘तेरा’को स्वीकार करता है"
+      },
+      {
+       "en": "Offers things and actions to God",
+       "hi": "पदार्थ और क्रियाको भगवान्के अर्पण करता है"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "The child playing before its mother",
+      "hi": "माँके सामने खेलता बालक"
+     },
+     "text": {
+      "en": "A child runs off, runs back to its mother's lap, climbs on her back — and every bit of it pleases her, because the child is hers. So every action of a surrendered devotee pleases God.",
+      "hi": "बालक माँके सामने खेलता है — दूर दौड़ जाता है, फिर गोदमें आ जाता है, पीठपर चढ़ जाता है — उसकी हर क्रियासे माँ प्रसन्न होती है, क्योंकि उसमें अपनापन है। ऐसे ही शरणागत भक्तकी हर क्रियासे भगवान् प्रसन्न होते हैं।"
+     },
+     "quote": {
+      "hi": "जैसे बालक अपनी माँके सामने खेलता है, कभी दौड़कर दूर चला जाता है और फिर दौड़कर गोदमें आ जाता है, कभी पीठपर चढ़ जाता है, आदि जो कुछ क्रिया बालक करता है, उस क्रियासे माँ प्रसन्न होती है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "work",
+     "text": {
+      "en": "The same spreadsheet, meal or commute can be done 'for me' or offered to God. Nothing new is added to the day — only the owner of the actions changes.",
+      "hi": "वही दफ्तरका काम, वही भोजन, वही आना-जाना — ‘अपने लिये’ भी हो सकता है और भगवान्के अर्पण भी। दिनमें कुछ नया नहीं जुड़ता, केवल क्रियाओंका मालिक बदल जाता है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It turns ordinary life itself into worship without adding any new practice — the change is in whom one belongs to.",
+    "hi": "इससे बिना कोई नया साधन जोड़े साधारण जीवन ही भगवान्की पूजा बन जाता है — बदलाव केवल अपनेपनमें होता है।"
+   },
+   "terms": [
+    {
+     "sa": "यत् करोषि",
+     "meaning": {
+      "en": "whatever you do",
+      "hi": "जो कुछ करता है"
+     }
+    },
+    {
+     "sa": "अश्नासि",
+     "meaning": {
+      "en": "you eat",
+      "hi": "भोजन करता है"
+     }
+    },
+    {
+     "sa": "जुहोषि",
+     "meaning": {
+      "en": "you offer in sacrifice",
+      "hi": "यज्ञ करता है"
+     }
+    },
+    {
+     "sa": "तपस्यसि",
+     "meaning": {
+      "en": "you practise austerity",
+      "hi": "तप करता है"
+     }
+    },
+    {
+     "sa": "मदर्पणम्",
+     "meaning": {
+      "en": "an offering to Me",
+      "hi": "मेरे अर्पण"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "karma",
+    "tyaga",
+    "ahankara"
+   ],
+   "related": [
+    "9.26",
+    "9.28",
+    "4.11",
+    "9.4",
+    "6.22",
+    "7.4"
+   ]
+  },
+  {
+   "id": "9.30",
+   "headline": {
+    "en": "Even the worst wrongdoer who turns to Me alone is to be regarded a saint",
+    "hi": "अनन्यभावसे भजनेवाला दुराचारी भी साधु ही माननेयोग्य है"
+   },
+   "essence": {
+    "en": "If even the vilest person worships God with exclusive devotion, he must be regarded a saint, because he has resolved rightly — in his very self.",
+    "hi": "दुराचारी-से-दुराचारी भी अनन्यभावसे भगवान्का भजन करे तो उसे साधु ही मानना चाहिये; क्योंकि उसने स्वयंसे पक्का निश्चय कर लिया है।"
+   },
+   "idea": {
+    "en": "To show that His door is open to all, Krishna names the wrongdoer first. Even one whose past and present conduct is thoroughly bad, if he takes refuge in none but God, is to be considered a saint — this 'mantavyah' is God's own command. Swamiji explains that 'ananyabhak' does not mean unbroken meditation but having no other support than God: changing one's identity to 'I am God's and God is mine'. Conduct follows identity, so his conduct will quickly be reformed. People judge by outer behaviour, but God looks at the inner disposition.",
+    "hi": "अपने द्वारकी उदारता दिखानेके लिये भगवान् सबसे पहले दुराचारीका नाम लेते हैं। जिसके आचरण पहले भी और अब भी सर्वथा शुद्ध नहीं हैं, वह भी अगर भगवान्के सिवाय किसीका आश्रय न रखे, तो उसे साधु ही मानना चाहिये — ‘मन्तव्य:’ भगवान्की विशेष आज्ञा है। स्वामीजी बताते हैं कि ‘अनन्यभाक्’का अर्थ तैलधारावत् चिन्तन नहीं, प्रत्युत ‘न अन्यं भजति’ — केवल भगवान्का आश्रय — है; अर्थात् ‘मैं भगवान्का हूँ और भगवान् मेरे हैं’ इस प्रकार अहंताका बदल जाना। अहंताके अनुसार ही आचरण होते हैं, इसलिये उसके आचरण सुधरते देर नहीं लगेगी। लोग बाहरी आचरण देखते हैं, पर भगवान् भाव देखते हैं।"
+   },
+   "points": [
+    {
+     "en": "Changing the sense of 'I' purifies faster than rituals, austerity or charity.",
+     "hi": "अहंता-परिवर्तनसे जितनी जल्दी शुद्धि आती है, उतनी जप, तप, यज्ञ, दान आदि क्रियाओंसे नहीं आती।"
+    },
+    {
+     "en": "Three ways with the ego: knowledge dissolves it, karma yoga purifies it, devotion changes it.",
+     "hi": "ज्ञानयोगसे अहंता मिटती है, कर्मयोगसे शुद्ध होती है और भक्तियोगसे बदल जाती है।"
+    },
+    {
+     "en": "God is 'bhavagrahi' — He sees the inner feeling, not the lapses of conduct.",
+     "hi": "भगवान् भावग्राही हैं — उनकी दृष्टि आचरणोंपर नहीं, मनुष्यके भावपर रहती है।"
+    },
+    {
+     "en": "From the standpoint of devotion, all faults rest on turning away from God; turning towards Him ends them.",
+     "hi": "भक्तियोगकी दृष्टिसे सब दुर्गुण-दुराचार भगवान्की विमुखतापर टिके हैं; सम्मुख होते ही मिट जाते हैं।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Karma and jnana yoga",
+      "hi": "कर्मयोग-ज्ञानयोग"
+     },
+     "items": [
+      {
+       "en": "The resolve is in the intellect",
+       "hi": "निश्चय बुद्धि (करण) में"
+      },
+      {
+       "en": "Can fade after the moment passes",
+       "hi": "स्थिर नहीं रहता, विस्मृति हो सकती है"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Bhakti",
+      "hi": "भक्तियोग"
+     },
+     "items": [
+      {
+       "en": "The resolve is in the self",
+       "hi": "निश्चय स्वयं (कर्ता) में"
+      },
+      {
+       "en": "Once made, never erased",
+       "hi": "एक बार होनेपर कभी मिटता नहीं"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "The billionaire's promise",
+      "hi": "करोड़पतिका वचन"
+     },
+     "text": {
+      "en": "If a billionaire promises money to anyone who comes, the promise is truly proven when even his enemy asks and receives it. That is why Krishna names the wrongdoer first.",
+      "hi": "कोई करोड़पति कहे कि जो आयेगा उसे एक लाख दूँगा, तो इस वचनकी परीक्षा तब होगी जब उसका वैरी भी माँगे और पा जाय। इसीलिये भगवान् सबसे पहले दुराचारीका नाम लेते हैं।"
+     },
+     "quote": {
+      "hi": "कोई करोड़पति या अरबपति यह बात कह दे कि मेरे पास जो कोई आयेगा, उसको मैं एक लाख रुपये दूँगा, तो उसके इस वचनकी परीक्षा तब होगी, जब उससे सर्वथा ही विरुद्ध चलनेवाला, उसके साथ वैर रखनेवाला, उसका अनिष्ट करनेवाला भी आकर उससे एक लाख रुपये माँगे और वह उसको दे दे।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The bride's new identity",
+      "hi": "विवाहित कन्याकी बदली अहंता"
+     },
+     "text": {
+      "en": "Once married, a bride's sense of 'I now belong to my husband's home' never fades and needs no reminder, because it is in her very self. Such is the resolve 'I am God's'.",
+      "hi": "विवाह होनेपर कन्याका ‘अब मैं पतिकी हो गयी’ यह निश्चय स्वयंमें होनेसे बिना याद किये हरदम याद रहता है। ऐसा ही ‘मैं भगवान्का हूँ’ यह निश्चय है।"
+     },
+     "quote": {
+      "hi": "जैसे, कन्याका विवाह होनेपर ‘अब मैं पतिकी हो गयी, अब मेरेको पतिके घरका काम ही करना है’ ऐसा निश्चय स्वयंमें हो जानेसे यह कभी मिटता नहीं, प्रत्युत बिना याद किये ही हरदम याद रहता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "failure",
+     "text": {
+      "en": "Someone ashamed of past mistakes may feel unfit to begin spiritually. This verse says the decisive thing is not the record but the turning — the new 'I am His'.",
+      "hi": "पुरानी गलतियोंपर लज्जित व्यक्ति सोच सकता है कि मैं भजनके योग्य नहीं। यह श्लोक बताता है कि निर्णायक बात पुराना हिसाब नहीं, भगवान्की ओर मुड़ना — ‘मैं उनका हूँ’ — है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "No past disqualifies anyone from God; the one decisive step is to become His from within.",
+    "hi": "कोई भी भूतकाल भगवान्से अयोग्य नहीं बनाता; निर्णायक बात भीतरसे भगवान्का हो जाना है।"
+   },
+   "terms": [
+    {
+     "sa": "सुदुराचार:",
+     "meaning": {
+      "en": "the worst of wrongdoers",
+      "hi": "दुराचारी-से-दुराचारी"
+     }
+    },
+    {
+     "sa": "अनन्यभाक्",
+     "meaning": {
+      "en": "with no other refuge, devoted to Me alone",
+      "hi": "अनन्यभक्त होकर"
+     }
+    },
+    {
+     "sa": "साधु: एव मन्तव्य:",
+     "meaning": {
+      "en": "must be regarded a saint",
+      "hi": "साधु ही मानना चाहिये"
+     }
+    },
+    {
+     "sa": "सम्यग्व्यवसित:",
+     "meaning": {
+      "en": "has rightly resolved",
+      "hi": "निश्चय बहुत अच्छी तरह कर लिया है"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "ahankara"
+   ],
+   "related": [
+    "7.15",
+    "9.31",
+    "2.41",
+    "2.44",
+    "15.7",
+    "18.73"
+   ]
+  },
+  {
+   "id": "9.34",
+   "headline": {
+    "en": "Be Mine: mind on Me, worship Me, bow to Me",
+    "hi": "मेरा भक्त हो जा, मुझमें मनवाला हो जा"
+   },
+   "essence": {
+    "en": "Become God's devotee, fix the mind on Him, make every act His worship, bow to His every dispensation — so surrendered, you will reach Him.",
+    "hi": "भगवान्का भक्त बनो, उनमें मन लगाओ, हर क्रियाको उनकी पूजा बनाओ और उनके हर विधानमें प्रसन्न रहो — इस प्रकार परायण होकर उन्हींको प्राप्त होओगे।"
+   },
+   "idea": {
+    "en": "Closing the chapter, Krishna opens His heart to Arjuna, who is free of fault-finding. 'Be My devotee' means: take up the relationship with Me that has always existed, changing the false identity of caste, stage and name into 'I am Yours and You are mine'. 'Mind on Me' follows naturally, since the mind goes where there is belonging. 'Worship Me' makes all daily actions His worship. 'Bow to Me' means to remain joyful in whatever He ordains, favourable or not. Of the four, becoming His devotee is primary; this is sharanagati.",
+    "hi": "अध्यायके अन्तमें भगवान् दोषदृष्टिरहित अर्जुनके सामने अपने हृदयकी गोपनीय बात कहते हैं। ‘मद्भक्त:’ — मेरे साथ ही अपनापन कर; वर्ण, आश्रम, नाम आदिको लेकर बनी हुई अवास्तविक अहंताको ‘मैं तुम्हारा हूँ और तुम मेरे हो’ में बदल दे। ‘मन्मना:’ — मन वहीं लगता है जहाँ अपनापन हो। ‘मद्याजी’ — खाना-पीना, काम-धन्धा आदि सब क्रियाएँ मेरी पूजा समझ। ‘मां नमस्कुरु’ — मेरे अनुकूल, प्रतिकूल या सामान्य हर विधानमें परम प्रसन्न रह। इन चारोंमें मुख्यता भगवान्का भक्त बननेकी है; इसीका नाम शरणागति है।"
+   },
+   "points": [
+    {
+     "en": "Bowing to God means welcoming His every dispensation — even one against your wishes — as His grace.",
+     "hi": "भगवान्को नमस्कार करनेका अर्थ है — उनके हर विधानको, मनके विरुद्ध हो तो भी, उनकी कृपा मानकर प्रसन्न रहना।"
+    },
+    {
+     "en": "An unwanted event carries God's pure dispensation, because your own consent is not mixed in it.",
+     "hi": "प्रतिकूल घटनामें अपनी सम्मति नहीं होती, उसमें केवल भगवान्का शुद्ध विधान होता है — उसमें विशेष कृपा माननी चाहिये।"
+    },
+    {
+     "en": "Who becomes God's own finds that mind, intellect, things, actions and body all go to Him by themselves.",
+     "hi": "जो स्वयं भगवान्का हो जाता है, उसके मन-बुद्धि, पदार्थ-क्रिया और शरीर सब स्वत: भगवान्में लग जाते हैं।"
+    },
+    {
+     "en": "'Matparayana': not even a stirring to do anything apart from His will — becoming a toy in His hands.",
+     "hi": "‘मत्परायण:’ — भगवान्की मरजीके बिना कुछ करनेकी स्फुरणा भी न रहे; उनके हाथका खिलौना बन जाय।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The one who falls at the feet",
+      "hi": "चरणोंमें पड़ा अपराधी"
+     },
+     "text": {
+      "en": "One who has wronged someone falls flat before him and says: punish, reward or rebuke — whatever you do is my joy. He does not ask for a favourable verdict. So does the surrendered devotee stand before God.",
+      "hi": "अपराधी सामने लम्बा पड़कर कहता है — दण्ड दें, पुरस्कार दें, दुत्कार दें, उसीमें मेरी प्रसन्नता है; वह अपने अनुकूल फैसला नहीं चाहता। ऐसे ही भक्त भगवान्के सर्वथा शरण होता है।"
+     },
+     "quote": {
+      "hi": "जैसे, कोई किसीका अपराध करता है, तो वह उसके सामने जाकर लम्बा पड़ जाता है और उससे कहता है कि आप चाहे दण्ड दें, चाहे पुरस्कार दें, चाहे दुत्कार दें, चाहे जो करें, उसीमें मेरी परम प्रसन्नता है।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "It gathers the whole chapter into one practical surrender: change who you take yourself to be, and everything else follows.",
+    "hi": "यह पूरे अध्यायको एक व्यावहारिक शरणागतिमें समेट देता है — अपनी अहंता बदल दो, बाकी सब स्वत: हो जायगा।"
+   },
+   "terms": [
+    {
+     "sa": "मन्मना:",
+     "meaning": {
+      "en": "with mind fixed on Me",
+      "hi": "मुझमें मनवाला"
+     }
+    },
+    {
+     "sa": "मद्भक्त:",
+     "meaning": {
+      "en": "My devotee",
+      "hi": "मेरा भक्त"
+     }
+    },
+    {
+     "sa": "मद्याजी",
+     "meaning": {
+      "en": "My worshipper",
+      "hi": "मेरा पूजन करनेवाला"
+     }
+    },
+    {
+     "sa": "नमस्कुरु",
+     "meaning": {
+      "en": "bow down",
+      "hi": "नमस्कार कर"
+     }
+    },
+    {
+     "sa": "मत्परायण:",
+     "meaning": {
+      "en": "wholly given to Me",
+      "hi": "मेरे परायण हुआ"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "ahankara"
+   ],
+   "related": [
+    "9.1",
+    "7.1",
+    "7.2"
+   ]
+  },
+  {
+   "id": "10.8",
+   "headline": {
+    "en": "I am the source of all; from Me everything moves",
+    "hi": "मैं सबका प्रभव हूँ, मुझसे ही सब प्रवृत्त होता है"
+   },
+   "essence": {
+    "en": "God is the origin of everything and the power behind every activity; the wise who accept this worship Him alone with faith and love.",
+    "hi": "सबकी उत्पत्ति और सबकी चेष्टाका मूल भगवान् ही हैं — ऐसा मानकर बुद्धिमान् भक्त श्रद्धा-प्रेमसे उन्हींका भजन करते हैं।"
+   },
+   "idea": {
+    "en": "This verse explains what it means to know God's vibhuti (glory) and yoga (power). 'I am the source of all' — everything seen, heard and understood is His vibhuti; He Himself appears as creation. 'From Me all moves' — all activity draws its existence and energy from Him; this is His yoga. Swamiji says the seeker's gaze should pass beyond people's feelings, conduct and actions to the God at their root. Those who firmly accept this give importance to God alone, and their faith and love flow only to Him — that is their wisdom.",
+    "hi": "विभूति और योगको तत्त्वसे जानना क्या है — यह इस श्लोकमें बताया गया है। ‘अहं सर्वस्य प्रभव:’ — जो कुछ देखने-सुनने-समझनेमें आता है, वह सब भगवान्की विभूति है; वे स्वयं ही सृष्टिरूपसे प्रकट हुए हैं। ‘मत्त: सर्वं प्रवर्तते’ — सब चेष्टाओंको सत्ता-स्फूर्ति भगवान्से ही मिलती है; यह उनका योग (प्रभाव) है। स्वामीजी कहते हैं कि साधककी दृष्टि प्राणियोंके भाव, आचरण, क्रिया आदिपर न जाकर उनके मूलमें स्थित भगवान्पर जानी चाहिये। ऐसा दृढ़तासे माननेवालोंकी महत्त्वबुद्धि केवल भगवान्में हो जाती है और उनका श्रद्धा-प्रेम भगवान्में ही हो जाता है — यही उनकी बुद्धिमानी है।"
+   },
+   "points": [
+    {
+     "en": "The first half sums up everything said in chapters 7, 8 and 9.",
+     "hi": "सातवें, आठवें और नवें अध्यायमें जो कहा गया, वह सब इस श्लोकके पूर्वार्धमें आ गया है।"
+    },
+    {
+     "en": "Taking refuge in God brings evenness, fearlessness and freedom from worry naturally — where God is, divine qualities come.",
+     "hi": "भगवान्का आश्रय लेनेसे समता, निर्भयता, निश्चिन्तता आदि स्वत: आ जाते हैं; जहाँ देव हैं, वहाँ दैवी सम्पत्ति आती है।"
+    },
+    {
+     "en": "Real bhajan is when the heart is drawn to God alone and forgetting Him hurts.",
+     "hi": "असली भजन वह है जिसमें हृदय भगवान्की ओर खिंच जाय और उनकी विस्मृति चुभे।"
+    },
+    {
+     "en": "The soul binds itself by becoming the enjoyer of things and the doer of actions — both of which come from God.",
+     "hi": "पदार्थ और क्रियाएँ भगवान्से होती हैं; जीव उनका भोक्ता और कर्ता बनकर बँध जाता है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Electricity behind every task",
+      "hi": "बिजलीकी शक्ति"
+     },
+     "text": {
+      "en": "Just as all work in a house runs on electricity, every activity in the world runs on God's power.",
+      "hi": "जैसे बिजलीकी शक्तिसे सब कार्य होते हैं, ऐसे ही संसारकी सब क्रियाओंका मूल कारण भगवान् हैं।"
+     },
+     "quote": {
+      "hi": "जैसे बिजलीकी शक्तिसे सब कार्य होते हैं, ऐसे ही संसारमें जितनी क्रियाएँ होती हैं, उन सबका मूल कारण मैं ही हूँ।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Money only obtains; God creates",
+      "hi": "रुपये और भगवान्"
+     },
+     "text": {
+      "en": "People prize money because it can get them things. But money only obtains things — it does not create them. From God all things both arise and are obtained.",
+      "hi": "लोग रुपयोंको महत्त्व देते हैं क्योंकि उनसे वस्तुएँ मिलती हैं; पर रुपयोंसे वस्तुएँ पैदा नहीं होतीं। भगवान्से सब वस्तुएँ पैदा भी होती हैं और मिलती भी हैं।"
+     },
+     "quote": {
+      "hi": "रुपयोंसे तो वस्तुएँ मिलती हैं, पैदा नहीं होतीं, पर भगवान्से सम्पूर्ण वस्तुएँ पैदा भी होती हैं और मिलती भी हैं!"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "Whatever path one follows, knowing that God is at the root of everything turns one's aim towards Him — Swamiji calls this essential for every seeker.",
+    "hi": "साधन कोई भी हो, सबके मूलमें परमात्मा हैं — यह ज्ञान लक्ष्यको परमात्माकी ओर कर देता है; स्वामीजी इसे सभी साधकोंके लिये आवश्यक बताते हैं।"
+   },
+   "terms": [
+    {
+     "sa": "प्रभव:",
+     "meaning": {
+      "en": "origin, root cause",
+      "hi": "मूल कारण"
+     }
+    },
+    {
+     "sa": "प्रवर्तते",
+     "meaning": {
+      "en": "moves, is active",
+      "hi": "प्रवृत्त हो रहा है, चेष्टा कर रहा है"
+     }
+    },
+    {
+     "sa": "भावसमन्विता:",
+     "meaning": {
+      "en": "full of faith and love",
+      "hi": "श्रद्धा-प्रेम रखते हुए"
+     }
+    },
+    {
+     "sa": "बुधा:",
+     "meaning": {
+      "en": "the wise",
+      "hi": "बुद्धिमान् भक्त"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "bhakti",
+    "shraddha"
+   ],
+   "related": [
+    "10.7",
+    "7.7",
+    "7.12",
+    "10.5",
+    "15.15",
+    "15.19",
+    "18.46",
+    "18.61"
+   ]
+  },
+  {
+   "id": "10.10",
+   "headline": {
+    "en": "To those who love Me constantly, I give the yoga of understanding",
+    "hi": "प्रेमसे भजनेवालोंको मैं बुद्धियोग देता हूँ"
+   },
+   "essence": {
+    "en": "Devotees who stay ever united with God and worship Him with love are given, by God Himself, the evenness of mind by which they attain Him.",
+    "hi": "नित्य-निरन्तर भगवान्में लगे रहकर प्रेमसे भजनेवाले भक्तोंको भगवान् स्वयं वह समता (बुद्धियोग) देते हैं, जिससे वे उन्हें प्राप्त हो जाते हैं।"
+   },
+   "idea": {
+    "en": "Devotees rooted in God want neither equanimity nor knowledge nor anything else; their only work is to stay with Him. So all responsibility becomes God's, and here He says He gives them 'buddhi-yoga' — evenness in gain and loss, honour and insult, praise and blame, health and illness. Because it is received as His gift, they feel no special merit in it. Swamiji explains that while attraction and aversion remain, the world is seen; when they go, one experiences 'everything is God' — which is why God gives His devotees samata.",
+    "hi": "भगवन्निष्ठ भक्त भगवान्को छोड़कर न समता चाहते हैं, न तत्त्वज्ञान, न और कुछ; उनका एक ही काम है — हरदम भगवान्में लगे रहना। इसलिये सारी जिम्मेवारी भगवान्की हो जाती है और भगवान् कहते हैं कि मैं उन्हें बुद्धियोग देता हूँ — लाभ-हानि, आदर-निरादर, स्तुति-निन्दा, स्वास्थ्य-अस्वास्थ्यमें सम रहनेकी समता। वे उसे भगवान्का दिया हुआ मानते हैं, इसलिये उसे लेकर अपनेमें विशेषता नहीं दीखती। स्वामीजी बताते हैं कि जबतक राग-द्वेष है, तबतक संसार दीखता है; समता आनेपर ‘सब कुछ भगवान् ही हैं’ — ऐसा अनुभव हो जाता है। इसलिये भगवान् भक्तोंको समता देते हैं।"
+   },
+   "points": [
+    {
+     "en": "The devotee seeks nothing — not even liberation or knowledge; God takes on the task of giving.",
+     "hi": "भक्त कुछ नहीं चाहता — ज्ञान-वैराग्य भी नहीं; देनेका सारा काम भगवान् अपने ऊपर ले लेते हैं।"
+    },
+    {
+     "en": "Buddhi-yoga is samata, which the Gita also calls karma yoga.",
+     "hi": "बुद्धियोग समता है, जिसे गीतामें कर्मयोग भी कहा गया है।"
+    },
+    {
+     "en": "Having received samata, the devotee feels others' pain as his own and tries to bring them happiness.",
+     "hi": "बुद्धियोग प्राप्त होनेपर भक्त दूसरेके दु:खसे दु:खी होकर उसे सुख पहुँचानेकी चेष्टा करता है।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Remembrance that is 'done'",
+      "hi": "किया जानेवाला चिन्तन"
+     },
+     "items": [
+      {
+       "en": "Artificial",
+       "hi": "नकली (कृत्रिम)"
+      },
+      {
+       "en": "Has gaps",
+       "hi": "निरन्तर नहीं होता"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Remembrance that 'happens'",
+      "hi": "होनेवाला चिन्तन"
+     },
+     "items": [
+      {
+       "en": "Real, born of love",
+       "hi": "असली, प्रियतासे होनेवाला"
+      },
+      {
+       "en": "Continuous like breathing",
+       "hi": "श्वासकी तरह निरन्तर"
+      }
+     ]
+    }
+   },
+   "examples": [],
+   "modern": [],
+   "whyItMatters": {
+    "en": "The devotee need not struggle to manufacture equanimity or insight; loving God, he receives them as God's gift.",
+    "hi": "भक्तको समता या ज्ञान पैदा करनेके लिये जूझना नहीं पड़ता; प्रेमसे भजन करनेपर वह उसे भगवान्के दिये हुए रूपमें मिल जाता है।"
+   },
+   "terms": [
+    {
+     "sa": "सततयुक्तानाम्",
+     "meaning": {
+      "en": "of those ever united with Me",
+      "hi": "नित्य-निरन्तर मुझमें लगे हुए"
+     }
+    },
+    {
+     "sa": "प्रीतिपूर्वकम्",
+     "meaning": {
+      "en": "with love",
+      "hi": "प्रेमपूर्वक"
+     }
+    },
+    {
+     "sa": "बुद्धियोगम्",
+     "meaning": {
+      "en": "the yoga of understanding, i.e. evenness",
+      "hi": "बुद्धियोग (समता)"
+     }
+    },
+    {
+     "sa": "ददामि",
+     "meaning": {
+      "en": "I give",
+      "hi": "देता हूँ"
+     }
+    },
+    {
+     "sa": "उपयान्ति",
+     "meaning": {
+      "en": "they reach (Me)",
+      "hi": "प्राप्त हो जाते हैं"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "samatva",
+    "yoga"
+   ],
+   "related": [
+    "10.9",
+    "10.11",
+    "2.48",
+    "2.49",
+    "18.57"
+   ]
+  },
+  {
+   "id": "10.41",
+   "headline": {
+    "en": "Whatever is glorious comes from a spark of My splendour",
+    "hi": "जो कुछ विशेष है, वह मेरे तेजका अंश है"
+   },
+   "essence": {
+    "en": "Wherever you see power, beauty, strength or any excellence, know it as springing from a fraction of God's splendour — not as belonging to that thing.",
+    "hi": "जहाँ कहीं ऐश्वर्य, शोभा, बल या कोई विशेषता दीखे, उसे उस वस्तुकी नहीं, भगवान्के तेजके अंशसे उत्पन्न समझो।"
+   },
+   "idea": {
+    "en": "After listing His vibhutis, Krishna now tells His 'yoga': in any being, object, event, quality or action, whatever splendour, beauty, strength or excellence appears has arisen from a portion of His power. Swamiji argues that this excellence cannot belong to the thing itself — if it did, it would remain always and be seen by all. It is a glimpse of God, its support. When the mind stops at the object instead of God, one gets entangled and is never satisfied. So wherever something draws you, see God there; be grateful to those who help you, but do not get caught in them.",
+    "hi": "विभूतियोंका वर्णन करके भगवान् अब अपना योग बताते हैं — किसी भी वस्तु, व्यक्ति, घटना, गुण, क्रिया आदिमें जो ऐश्वर्य, शोभा, बल या विशेषता दीखे, वह मेरे तेजके किसी अंशसे उत्पन्न है। स्वामीजी कहते हैं कि वह विशेषता वस्तुकी नहीं हो सकती — होती तो सब समय रहती और सबको दीखती। वह उसके आधार परमात्माकी झलक है। वृत्ति परमात्माकी ओर न जाकर वस्तुपर रुक जाय, तो मनुष्य संसारमें फँस जाता है और तृप्ति नहीं होती। इसलिये जहाँ आकर्षण हो, वहाँ भगवान्को देखो; जिनसे लाभ हुआ है, उनके कृतज्ञ बनो, पर उनकी व्यक्तिगत विशेषता मानकर फँसो मत।"
+   },
+   "points": [
+    {
+     "en": "If excellence belonged to the object, it would be there always and for everyone — it is not, so it is God's.",
+     "hi": "विशेषता वस्तुकी होती तो सब समय रहती और सबको दीखती; ऐसा नहीं है, इसलिये वह परमात्माकी है।"
+    },
+    {
+     "en": "Taking a gift as one's own and not looking at the Giver breeds pride — this is the great mistake.",
+     "hi": "मिली हुई विशेषताको अपनी मानकर देनेवालेकी ओर न देखना — यही बड़ी भूल है, जिससे अभिमान होता है।"
+    },
+    {
+     "en": "The vibhutis are taught to lead finally to 'Vasudevah sarvam' — seeing God everywhere.",
+     "hi": "विभूतियोंका वर्णन ‘वासुदेव: सर्वम्’ का अनुभव करानेके लिये ही है — जिससे सब जगह भगवान् दीखें।"
+    },
+    {
+     "en": "Every perishing thing silently teaches: don't look at me, look at the One who made me.",
+     "hi": "नष्ट होती हर वस्तु मानो कहती है — मेरी तरफ मत देखो, मुझे बनानेवालेकी तरफ देखो।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The radio and the electricity",
+      "hi": "रेडियो और बिजली"
+     },
+     "text": {
+      "en": "People marvel at the voice coming from a radio, but all its power is the electricity's. The unaware credit the machine; the knowing credit the current. So too, the wise see every excellence as God's.",
+      "hi": "रेडियोकी आवाज सुनकर लोग यन्त्रकी प्रशंसा करते हैं, पर उसकी शक्ति बिजलीकी है। अनजान यन्त्रको श्रेय देता है, जानकार बिजलीको। ऐसे ही जानकार हर विशेषताको भगवान्की मानता है।"
+     },
+     "quote": {
+      "hi": "जैसे बिजलीके सम्बन्धसे रेडियो बोलता है तो मनुष्य राजी होता है कि देखो, इस यन्त्रसे कैसी आवाज आ रही है! पर वास्तवमें उस रेडियोमें जो कुछ शक्ति है, वह सब बिजलीकी ही है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The saint who heard a sweet voice",
+      "hi": "मधुर कण्ठ और सन्त"
+     },
+     "text": {
+      "en": "Hearing a courtesan sing beautifully, a saint was enraptured: 'See what a voice the Lord has given!' His eye went not to the singer but to God, whose sweetness it was.",
+      "hi": "एक वेश्याका सुन्दर गाना सुनकर सन्त मस्त हो गये — ‘ठाकुरजीने कैसा कण्ठ दिया है!’ उनकी दृष्टि गानेवालीपर नहीं, भगवान्पर गयी।"
+     },
+     "quote": {
+      "hi": "एक वेश्या बड़े सुन्दर स्वरोंमें गाना गा रही थी, तो उसको सुनकर एक सन्त मस्त हो गये कि देखो! ठाकुरजीने कैसा कण्ठ दिया है!"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Gold in the ornaments",
+      "hi": "गहनोंमें सोना"
+     },
+     "text": {
+      "en": "When one sees gold in ornaments, the ornaments as such disappear; when one sees sugar in sugar toys, the toys disappear. When the sense of God becomes firm, the world disappears in the same way.",
+      "hi": "सोनेके गहनोंमें सोनाबुद्धि होनेसे गहने लुप्त हो जाते हैं, खाँड़के खिलौनोंमें खाँड़बुद्धि होनेसे खिलौने। ऐसे ही भगवद्बुद्धि दृढ़ होनेसे संसार लुप्त हो जाता है।"
+     },
+     "quote": {
+      "hi": "सोनेके गहनोंमें सोनाबुद्धि होनेसे गहने लुप्त हो जाते हैं, खाँड़के खिलौनोंमें खाँड़बुद्धि होनेसे खिलौने लुप्त हो जाते हैं।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "social media",
+     "text": {
+      "en": "Admiring a talented creator online, one can either get fixated on the person or, as Swamiji suggests, see the talent as God's — appreciation without entanglement.",
+      "hi": "सोशल मीडियापर किसी प्रतिभाशाली व्यक्तिको देखकर या तो उसी व्यक्तिमें उलझा जा सकता है, या स्वामीजीके अनुसार उस प्रतिभाको भगवान्की मानकर — प्रशंसा करते हुए भी फँसे बिना — रहा जा सकता है।"
+     }
+    },
+    {
+     "context": "comparison",
+     "text": {
+      "en": "When praised for a skill, remembering that it came from Him keeps it from turning into pride.",
+      "hi": "अपनी किसी योग्यताकी प्रशंसा होनेपर यह याद रहे कि वह भगवान्से आयी है, तो वह अभिमान नहीं बनती।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It turns every attraction into a reminder of God, and every talent of one's own into an occasion for gratitude instead of pride.",
+    "hi": "इससे हर आकर्षण भगवान्की याद बन जाता है और अपनी हर योग्यता अभिमानकी जगह कृतज्ञताका कारण।"
+   },
+   "terms": [
+    {
+     "sa": "विभूतिमत्",
+     "meaning": {
+      "en": "endowed with power, majesty",
+      "hi": "ऐश्वर्ययुक्त"
+     }
+    },
+    {
+     "sa": "श्रीमत्",
+     "meaning": {
+      "en": "endowed with beauty",
+      "hi": "शोभायुक्त"
+     }
+    },
+    {
+     "sa": "ऊर्जितम्",
+     "meaning": {
+      "en": "endowed with strength",
+      "hi": "बलयुक्त"
+     }
+    },
+    {
+     "sa": "तेजोंऽशसम्भवम्",
+     "meaning": {
+      "en": "born of a portion of My splendour (power)",
+      "hi": "मेरे तेज (सामर्थ्य) के अंशसे उत्पन्न"
+     }
+    },
+    {
+     "sa": "अवगच्छ",
+     "meaning": {
+      "en": "understand truly",
+      "hi": "समझो"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "bhakti",
+    "ahankara"
+   ],
+   "related": [
+    "10.8",
+    "10.7",
+    "10.24",
+    "10.27",
+    "7.5"
+   ]
+  },
+  {
+   "id": "10.42",
+   "headline": {
+    "en": "Why know so much? I hold the whole universe in one fraction of Myself",
+    "hi": "बहुत जाननेसे क्या? मैं एक अंशसे सम्पूर्ण जगत्को धारण किये हूँ"
+   },
+   "essence": {
+    "en": "Instead of counting glories, look at God Himself: the entire universe rests in one fraction of Him — and He sits before Arjuna as his charioteer.",
+    "hi": "विभूतियाँ गिननेकी जगह स्वयं भगवान्की ओर देखो: अनन्त ब्रह्माण्ड उनके एक अंशमें है — और वे अर्जुनके सामने सारथि बने बैठे हैं।"
+   },
+   "idea": {
+    "en": "Having answered Arjuna's question, Krishna adds something essential on His own: 'Arjuna, what need is there to know so much? I sit before you holding the reins and the whip. I look small, yet in one fraction of this body countless universes rest — and I obey your commands.' Swamiji explains that even so, no part of God is filled up by those universes; space remains. The appendix makes the point: all of it is God Himself; when the support, source and seed of all glories is sitting in front of you, why think about the glories separately?",
+    "hi": "अर्जुनके प्रश्नका उत्तर देकर भगवान् अपनी तरफसे सार बात कहते हैं — ‘भैया अर्जुन! बहुत जाननेकी क्या जरूरत है? मैं घोड़ोंकी लगाम और चाबुक पकड़े तेरे सामने बैठा हूँ। दीखनेमें छोटा हूँ, पर मेरे किसी एक अंशमें अनन्त कोटि ब्रह्माण्ड स्थित हैं, और मैं तेरी आज्ञाका पालन करता हूँ।’ स्वामीजी बताते हैं कि इन सृष्टियोंसे भगवान्का कोई अंश भरता नहीं, वहाँ जगह खाली ही रहती है। परिशिष्टमें कहा है — सब कुछ भगवान् ही हैं; जब सब विभूतियोंका आधार, प्रकाशक और बीज सामने बैठा है, तो विभूतियोंका अलगसे चिन्तन करनेकी क्या जरूरत?"
+   },
+   "points": [
+    {
+     "en": "The aim of the whole teaching on vibhutis is to turn our gaze to God Himself.",
+     "hi": "विभूतियोंके सम्पूर्ण कथनका तात्पर्य अपनी (भगवान्की) तरफ दृष्टि करानेमें है।"
+    },
+    {
+     "en": "Pervaded and pervader, subtle and vast, real and unreal — all are God.",
+     "hi": "व्याप्य-व्यापक, सूक्ष्म-महान्, सत्-असत् — दोनों भगवान् ही हैं।"
+    },
+    {
+     "en": "The Lord of countless universes serves as His devotee's charioteer — such is His grace.",
+     "hi": "अनन्त ब्रह्माण्डोंके स्वामी भक्तके सारथि बनकर उसकी आज्ञाका पालन करते हैं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The mind that never fills up",
+      "hi": "कभी न भरनेवाली बुद्धि"
+     },
+     "text": {
+      "en": "Our intellect is a tiny fraction of prakriti, yet however many languages, scripts and arts it learns, it never becomes 'full'. How then could any part of the infinite God be filled by countless universes?",
+      "hi": "हमारी बुद्धि प्रकृतिका छोटा-सा अंश है, फिर भी कितनी ही भाषाएँ, लिपियाँ, कलाएँ सीखनेपर वह भरती नहीं। तो अनन्त भगवान्का कोई अंश अनन्त सृष्टियोंसे कैसे भर सकता है?"
+     },
+     "quote": {
+      "hi": "जैसे, प्रकृतिका बहुत क्षुद्र अंश हमारी बुद्धि है। बुद्धिमें कई भाषाओंका, कई लिपियोंका, कई कलाओंका ज्ञान होनेपर भी हम ऐसा नहीं कह सकते कि हमारी बुद्धि अनेक भाषाओं आदिके ज्ञानसे भर गयी है;"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "It moves the seeker from collecting information about God to turning towards God Himself, who is close at hand.",
+    "hi": "यह साधकको भगवान्के विषयमें जानकारी इकट्ठी करनेसे हटाकर स्वयं भगवान्की ओर मोड़ता है, जो पास ही हैं।"
+   },
+   "terms": [
+    {
+     "sa": "बहुना एतेन ज्ञातेन किम्",
+     "meaning": {
+      "en": "what need of knowing all this in detail",
+      "hi": "इस प्रकार बहुत-सी बातें जाननेकी क्या आवश्यकता है"
+     }
+    },
+    {
+     "sa": "एकांशेन",
+     "meaning": {
+      "en": "with a single fraction (of Myself)",
+      "hi": "(अपने किसी) एक अंशसे"
+     }
+    },
+    {
+     "sa": "विष्टभ्य",
+     "meaning": {
+      "en": "pervading, supporting",
+      "hi": "व्याप्त करके"
+     }
+    },
+    {
+     "sa": "कृत्स्नम् जगत्",
+     "meaning": {
+      "en": "the entire universe",
+      "hi": "सम्पूर्ण जगत्"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "bhakti"
+   ],
+   "related": [
+    "10.41",
+    "10.18"
+   ]
+  },
+  {
+   "id": "11.8",
+   "headline": {
+    "en": "These eyes cannot see Me — I give you divine sight",
+    "hi": "इन आँखोंसे नहीं देख सकता, मैं दिव्यचक्षु देता हूँ"
+   },
+   "essence": {
+    "en": "Human eyes see only nature's small products; to see His cosmic form, Arjuna needs eyes the Lord Himself grants.",
+    "hi": "चर्मचक्षु केवल प्रकृतिके तुच्छ कार्यको देखते हैं; विराट्रूप देखनेके लिये भगवान् स्वयं दिव्यचक्षु देते हैं।"
+   },
+   "idea": {
+    "en": "Krishna told Arjuna four times to 'see', yet Arjuna saw nothing. Now He gives the reason: ordinary eyes are limited and can see only what belongs to nature, not a form beyond mind, intellect and senses. So He puts divine power into those same eyes, so that Arjuna can see the transcendent and also its divinity. Swamiji explains why the Lord did it in this roundabout order: to show how His grace unfolds step by step for a seeker, and that once someone takes refuge in Him, He takes on the responsibility for everything that person needs.",
+    "hi": "भगवान्ने चार बार ‘पश्य’ कहा, पर अर्जुनको कुछ नहीं दीखा। अब भगवान् कारण बताते हैं कि चर्मचक्षुकी शक्ति अल्प और सीमित है, वे मन-बुद्धि-इन्द्रियोंसे अतीत रूपको नहीं देख सकते। इसलिये भगवान् इन्हीं नेत्रोंमें दिव्य शक्ति देते हैं, जिससे अर्जुन अलौकिक रूप और उसकी दिव्यता भी देख सकें। स्वामीजी बताते हैं कि यह क्रम साधकपर भगवान्की कृपाके क्रमश: विस्तारको दिखानेके लिये है—शरण होनेपर शरणागतका सब काम करनेकी जिम्मेवारी भगवान् अपने ऊपर ले लेते हैं।"
+   },
+   "points": [
+    {
+     "en": "'Pashya' has two senses: in 9.5 it meant knowing with the intellect; here it means seeing with the eyes.",
+     "hi": "‘पश्य’ के दो अर्थ हैं—नवें अध्यायके पाँचवें श्लोकमें बुद्धिसे जानना और यहाँ नेत्रोंसे देखना।"
+    },
+    {
+     "en": "Whatever is known is God, and whatever is seen is also God — there is nothing besides Him.",
+     "hi": "जो जाननेमें आता है, वह भी भगवान् है और जो देखनेमें आता है, वह भी भगवान् है।"
+    },
+    {
+     "en": "Arjuna's longing to see, the vision and the divine eyes were all the Lord's own doing — His grace completes what the devotee lacks.",
+     "hi": "जिज्ञासा, दर्शन और दिव्यचक्षु—सब भगवान्ने ही दिये; शरणागतकी कमीकी पूर्ति भगवान् करते हैं।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The word 'Shrimad Bhagavad Gita'",
+      "hi": "‘श्रीमद्भगवद्गीता’ लिखा हुआ"
+     },
+     "text": {
+      "en": "Someone who cannot read sees only black lines; someone who knows the alphabet sees letters; a scholar of the Gita sees its chapters, verses and meaning at a glance. In the same way, with divine eyes Arjuna saw the cosmic form and its divinity.",
+      "hi": "अनपढ़को केवल काली लकीरें, वर्णमाला जाननेवालेको अक्षर और गीताके मर्मज्ञको सारे अध्याय-श्लोक-भाव दीखते हैं। ऐसे ही दिव्यचक्षुसे अर्जुनको विश्वरूप और उसकी दिव्यता दीखी।"
+     },
+     "quote": {
+      "hi": "जिनको वर्णमालाका बिलकुल ज्ञान नहीं है, उनको तो इसमें केवल काली-काली लकीरें दीखती हैं और जिनको वर्णमालाका ज्ञान है, उनको इसमें अक्षर दीखते हैं।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "What the Lord is cannot be grasped by our own instruments; it opens by His grace, and grace takes charge of those who take refuge.",
+    "hi": "भगवान्का स्वरूप अपने साधनोंसे नहीं, उनकी कृपासे प्रकट होता है; और शरणागतकी सब जिम्मेवारी कृपा ले लेती है।"
+   },
+   "terms": [
+    {
+     "sa": "स्वचक्षुषा",
+     "meaning": {
+      "en": "with your own (physical) eyes",
+      "hi": "अपनी आँख-(चर्मचक्षु-) से"
+     }
+    },
+    {
+     "sa": "दिव्यम् चक्षु:",
+     "meaning": {
+      "en": "divine eye",
+      "hi": "दिव्य चक्षु"
+     }
+    },
+    {
+     "sa": "योगम् ऐश्वरम्",
+     "meaning": {
+      "en": "My divine power",
+      "hi": "मेरी ईश्वरीय सामर्थ्य"
+     }
+    }
+   ],
+   "concepts": [
+    "ishvara",
+    "bhakti",
+    "sharanagati"
+   ],
+   "related": [
+    "9.5",
+    "11.4",
+    "18.77"
+   ]
+  },
+  {
+   "id": "11.33",
+   "headline": {
+    "en": "They are already slain — be merely the instrument",
+    "hi": "ये पहलेसे ही मारे हुए हैं, तुम निमित्तमात्र बनो"
+   },
+   "essence": {
+    "en": "Put in your full strength, but do not take yourself as the cause; what is to happen is in the Lord's hands.",
+    "hi": "अपनी पूरी शक्ति लगाओ, पर अपनेको कारण मत मानो; जो होनहार है, वह भगवान्के हाथमें है।"
+   },
+   "idea": {
+    "en": "Having shown Arjuna that the opposing warriors will not survive even without him, Krishna tells him to rise and win glory 'for free'. The glory and the kingdom are also what was bound to happen; if Arjuna takes them as won by his own effort, he gets bound to the fruit. Calling him Savyasachi, the archer who shoots with both hands, Krishna asks him to give the fight everything he has, yet to be only an instrument. Swamiji stresses that being an instrument does not mean doing less; it means doing everything carefully and fully, without the pride of 'I did it'.",
+    "hi": "भगवान् कहते हैं कि जब तुमने देख लिया कि तुम्हारे मारे बिना भी ये प्रतिपक्षी नहीं बचेंगे, तो खड़े हो जाओ और मुफ्तमें यश पा लो। यश और राज्य भी होनहार हैं; इन्हें अपने पुरुषार्थसे प्राप्त मानोगे तो फलमें बँध जाओगे। ‘सव्यसाचिन्’ सम्बोधनसे भगवान् कहते हैं कि दोनों हाथोंसे बाण चलाओ, अपनी पूरी शक्ति लगाओ, पर बनना है निमित्तमात्र। निमित्तमात्र बननेका अर्थ शक्ति कम लगाना नहीं, प्रत्युत पूरी शक्ति लगाकर भी ‘मैंने किया’—यह अभिमान न करना है।"
+   },
+   "points": [
+    {
+     "en": "Gain and loss, praise and blame are in the Lord's hands; do not tie yourself to them.",
+     "hi": "लाभ-हानि, यश-अपयश सब प्रभुके हाथमें है; इनके साथ अपना सम्बन्ध न जोड़ें।"
+    },
+    {
+     "en": "Pride in one's own strength is what delays realization; without that pride, success is immediate, because God is ever-present.",
+     "hi": "अपने बलका अभिमान ही तत्त्वप्राप्तिमें देरी कराता है; अभिमान न हो तो सिद्धि तत्काल होती है, क्योंकि परमात्मा नित्यप्राप्त हैं।"
+    },
+    {
+     "en": "Bondage is something we produce by doing; liberation and love of God are already given (svatah-siddha).",
+     "hi": "बन्धन कृतिसाध्य है और मुक्ति, भगवत्प्रेम आदि स्वत:सिद्ध हैं।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Your part",
+      "hi": "आपका काम"
+     },
+     "items": [
+      {
+       "en": "Use all your strength, skill and care",
+       "hi": "बल, बुद्धि, योग्यता पूरी लगाना"
+      },
+      {
+       "en": "Do your duty in the situation you are in",
+       "hi": "प्राप्त परिस्थितिमें कर्तव्य करना"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Not yours to claim",
+      "hi": "अपना नहीं मानना"
+     },
+     "items": [
+      {
+       "en": "The result and the credit",
+       "hi": "सिद्धि और उसका श्रेय"
+      },
+      {
+       "en": "The pride of 'I am the doer'",
+       "hi": "‘मैं करता हूँ’—यह अभिमान"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "The cowherd boys and Govardhan",
+      "hi": "ग्वालबाल और गोवर्धन"
+     },
+     "text": {
+      "en": "When Krishna lifted Govardhan, He asked the cowherd boys to prop it with their sticks, and they began to think their sticks held it up. Krishna lowered His finger a little, and even with all their strength they could not hold the mountain. The seeker should likewise give everything, but credit only the Lord's grace.",
+      "hi": "गोवर्धन उठाते समय ग्वालबाल समझने लगे कि हमारी लाठियोंसे पर्वत ठहरा है। भगवान्ने अंगुली थोड़ी नीचे की तो सब मिलकर भी पर्वत नहीं उठा सके। ऐसे ही साधक पूरी शक्ति लगाये, पर कारण केवल भगवत्कृपाको माने।"
+     },
+     "quote": {
+      "hi": "ग्वालबालोंमें जब इस तरहका अभिमान हुआ, तब भगवान्ने अपनी अंगुली थोड़ी-सी नीचे कर ली। अंगुली नीचे करते ही पर्वत नीचे आने लगा"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The cow with four teats",
+      "hi": "गायके चार थन"
+     },
+     "text": {
+      "en": "A calf drinks from only one teat, yet the Lord gave the cow four. In the same way He is showering grace on us from every side; we only have to be an instrument.",
+      "hi": "बछड़ा एक थनसे दूध पीता है, पर भगवान्ने गायको चार थन दिये। ऐसे ही भगवान् चारों तरफसे कृपा कर रहे हैं; हमें केवल निमित्तमात्र बनना है।"
+     },
+     "quote": {
+      "hi": "जैसे बछड़ा एक थनसे ही दूध पीता है, पर भगवान्ने गायको चार थन दिये हैं! ऐसे ही भगवान् चारों तरफसे हमारेपर कृपा कर रहे हैं!"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "exams",
+     "text": {
+      "en": "Prepare for the exam with complete sincerity, but don't let the rank become the story of your own greatness — or of your worth if it goes badly.",
+      "hi": "परीक्षाकी तैयारी पूरी लगनसे करें, पर रैंकको अपनी महानताकी कहानी न बनायें—और बिगड़े तो अपनी कीमत भी उससे न आँकें।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It removes both laziness and ego at once: full effort, no doership — and that is enough for one's uplift.",
+    "hi": "इससे आलस्य और अभिमान दोनों मिटते हैं—पूरा उद्योग, पर कर्तापन नहीं; इतनेसे ही उद्धार हो जाता है।"
+   },
+   "terms": [
+    {
+     "sa": "निमित्तमात्रम्",
+     "meaning": {
+      "en": "merely an instrument",
+      "hi": "निमित्तमात्र"
+     }
+    },
+    {
+     "sa": "सव्यसाचिन्",
+     "meaning": {
+      "en": "O archer who shoots with both hands",
+      "hi": "हे दोनों हाथोंसे बाण चलानेवाले अर्जुन"
+     }
+    },
+    {
+     "sa": "पूर्वम् एव निहता:",
+     "meaning": {
+      "en": "already slain beforehand",
+      "hi": "पहलेसे ही मारे हुए"
+     }
+    }
+   ],
+   "concepts": [
+    "karma",
+    "ahankara",
+    "phala",
+    "sharanagati"
+   ],
+   "related": [
+    "5.12",
+    "18.56",
+    "18.58"
+   ]
+  },
+  {
+   "id": "11.54",
+   "headline": {
+    "en": "By undivided devotion alone can I be known, seen and entered",
+    "hi": "अनन्यभक्तिसे ही मैं जाना, देखा और प्राप्त किया जा सकता हूँ"
+   },
+   "essence": {
+    "en": "Not Vedas, sacrifice, charity or austerity, but only undivided devotion lets one know God in truth, see Him and enter into Him.",
+    "hi": "वेद, यज्ञ, दान, तपसे नहीं, केवल अनन्यभक्तिसे ही भगवान् तत्त्वसे जाने, देखे और प्राप्त किये जा सकते हैं।"
+   },
+   "idea": {
+    "en": "Having said that no practice can show His form, Krishna names the one means that can: ananya bhakti. Swamiji defines it as relying on God alone — His shelter, hope and trust — with not the slightest reliance on one's own ability, strength or even one's spiritual practice. Practice is done only to dissolve the pride of practice; when that pride melts, God's pure grace works without obstruction. Through such devotion one knows God as 'Vasudeva is all', can see Him in whichever form one longs for, and enters into Him.",
+    "hi": "कोई साधन विश्वरूप नहीं दिखा सकता—यह कहकर भगवान् एकमात्र उपाय बताते हैं—अनन्यभक्ति। स्वामीजीके अनुसार अनन्यभक्तिका अर्थ है—केवल भगवान्का ही आश्रय, आशा और विश्वास हो; अपनी योग्यता, बल, बुद्धि, यहाँतक कि अपने साधनका भी सहारा न हो। साधन केवल साधनका अभिमान मिटानेके लिये है; अभिमान गलनेपर भगवान्की शुद्ध कृपा बिना आड़के काम करती है। ऐसी भक्तिसे भक्त ‘वासुदेव: सर्वम्’ रूपसे जानता है, इच्छित रूपमें दर्शन करता है और प्रवेश पाता है।"
+   },
+   "points": [
+    {
+     "en": "God is not attained by doing practices but by the melting of the pride of practice.",
+     "hi": "भगवान्की प्राप्ति साधन करनेसे नहीं, साधनका अभिमान गलनेसे होती है।"
+    },
+    {
+     "en": "Knowledge (jnana) gives knowing and entering (18.55); devotion adds seeing — this is devotion's special glory.",
+     "hi": "ज्ञानसे जानना और प्रवेश करना होता है (१८। ५५), भक्तिसे दर्शन भी होते हैं—यह भक्तिकी विशेषता है।"
+    },
+    {
+     "en": "The devotee's intense longing awakens a longing in God Himself to meet the devotee.",
+     "hi": "भक्तकी उत्कट अभिलाषा भगवान्में भी भक्तसे मिलनेकी उत्कण्ठा पैदा कर देती है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Dhruva and Vibhishana",
+      "hi": "ध्रुव और विभीषण"
+     },
+     "text": {
+      "en": "God fulfils even a devotee's earlier worldly wishes and then brings him to real completeness. Dhruva received a kingdom of thirty-six thousand years and Vibhishana one lasting a whole kalpa, according to what they had wished before meeting the Lord.",
+      "hi": "भगवान् भक्तकी पहलेकी सांसारिक इच्छा भी पूरी करके फिर उसे वास्तविक पूर्णता देते हैं। दर्शनसे पहलेकी इच्छाके अनुसार ध्रुवजीको छत्तीस हजार वर्षका और विभीषणको एक कल्पका राज्य मिला।"
+     },
+     "quote": {
+      "hi": "जैसे भगवद्दर्शनसे पूर्वकी इच्छाके अनुसार ध्रुवजीको छत्तीस हजार वर्षका राज्य मिला और विभीषणको एक कल्पका।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "It takes the pressure off being 'qualified': what God responds to is a heart that relies on Him alone.",
+    "hi": "इससे ‘योग्य बननेका’ बोझ हट जाता है; भगवान् उसी हृदयकी सुनते हैं जो केवल उन्हींपर निर्भर है।"
+   },
+   "terms": [
+    {
+     "sa": "अनन्यया भक्त्या",
+     "meaning": {
+      "en": "by undivided devotion alone",
+      "hi": "(केवल) अनन्य-भक्तिसे ही"
+     }
+    },
+    {
+     "sa": "ज्ञातुम् तत्त्वेन",
+     "meaning": {
+      "en": "to be known in truth",
+      "hi": "तत्त्वसे जाननेमें"
+     }
+    },
+    {
+     "sa": "द्रष्टुम्",
+     "meaning": {
+      "en": "to be seen (in form)",
+      "hi": "(साकाररूपसे) देखनेमें"
+     }
+    },
+    {
+     "sa": "प्रवेष्टुम्",
+     "meaning": {
+      "en": "to be entered into",
+      "hi": "प्रवेश (प्राप्त) करनेमें"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "ishvara"
+   ],
+   "related": [
+    "8.14",
+    "9.22",
+    "7.19",
+    "9.19",
+    "18.55"
+   ]
+  },
+  {
+   "id": "11.55",
+   "headline": {
+    "en": "Work for Me, depend on Me, love Me — free of attachment and enmity",
+    "hi": "मेरे लिये कर्म, मेरे परायण, मेरा भक्त—आसक्ति और वैरसे रहित"
+   },
+   "essence": {
+    "en": "Five marks lead to God: acting for Him, holding Him supreme, belonging to Him, freedom from attachment, and no enmity toward any being.",
+    "hi": "पाँच बातें भगवान्तक पहुँचाती हैं—उनके लिये कर्म, उनके परायण, उनका भक्त, आसक्तिरहित और किसीसे वैर नहीं।"
+   },
+   "idea": {
+    "en": "Swamiji calls this verse the 'five-fold practice' (sadhana-panchaka), in two parts: closeness with God (matkarmakrit, matparamah, madbhaktah) and severing ties with the world (sangavarjitah, nirvairah sarvabhuteshu). The devotee does every action, spiritual or worldly, only to please God, since body, mind and ability are all His. He holds God as the supreme goal and knows 'I am only His and He alone is mine'. From this, attachment, mineness and desire fall away, and even one who harms him evokes no hostility — he sees God's will in it. With the world's bond cut, the ever-present God is attained.",
+    "hi": "स्वामीजी इसे ‘साधनपंचक’ कहते हैं, जिसके दो विभाग हैं—भगवान्के साथ घनिष्ठता (मत्कर्मकृत्, मत्परम:, मद्भक्त:) और संसारसे सम्बन्ध-विच्छेद (संगवर्जित:, निर्वैर: सर्वभूतेषु)। भक्त पारमार्थिक और लौकिक सब कर्म केवल भगवान्की प्रसन्नताके लिये करता है, क्योंकि शरीर, मन, योग्यता सब भगवान्की ही है। भगवान्को ही परम ध्येय मानता है और ‘मैं केवल भगवान्का हूँ, भगवान् ही मेरे हैं’—यह सम्बन्ध जोड़ लेता है। इससे आसक्ति, ममता, कामना मिट जाती है और अनिष्ट करनेवालेके प्रति भी वैर नहीं होता। संसारसे सम्बन्ध-विच्छेद होते ही स्वत:सिद्ध परमात्माकी प्राप्ति हो जाती है।"
+   },
+   "points": [
+    {
+     "en": "Belonging is the key to love: what is one's own is naturally dear.",
+     "hi": "प्रेमकी जागृतिमें अपनापन ही मुख्य है; जो अपना होता है, वह स्वत: प्रिय लगता है।"
+    },
+    {
+     "en": "Chapter 10 trains our power of thinking on His glories; chapter 11 trains our power of seeing to see all as His form.",
+     "hi": "दसवाँ अध्याय चिन्तनशक्तिको विभूतियोंमें, ग्यारहवाँ देखनेकी शक्तिको सबमें परमात्मस्वरूप देखनेमें लगानेके लिये है।"
+    },
+    {
+     "en": "Per the appendix: matkarmakrit is surrender with the gross body, matparamah with subtle and causal bodies, madbhaktah with the self itself.",
+     "hi": "परिशिष्टके अनुसार—मत्कर्मकृत् स्थूलशरीरसे, मत्परम: सूक्ष्म-कारणशरीरसे और मद्भक्त: स्वयंसे भगवान्के परायण होना है।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Closeness with God",
+      "hi": "भगवान्के साथ घनिष्ठता"
+     },
+     "items": [
+      {
+       "en": "Acting only for Him",
+       "hi": "मत्कर्मकृत्"
+      },
+      {
+       "en": "Holding Him supreme",
+       "hi": "मत्परम:"
+      },
+      {
+       "en": "Being His devotee",
+       "hi": "मद्भक्त:"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Cutting ties with the world",
+      "hi": "संसारसे सम्बन्ध-विच्छेद"
+     },
+     "items": [
+      {
+       "en": "Free of attachment",
+       "hi": "संगवर्जित:"
+      },
+      {
+       "en": "No enmity toward any being",
+       "hi": "निर्वैर: सर्वभूतेषु"
+      }
+     ]
+    }
+   },
+   "examples": [],
+   "modern": [
+    {
+     "context": "relationships",
+     "text": {
+      "en": "Someone who wrongs you is still part of the whole you belong to; the verse asks that no grudge be kept alive inside, whatever you must do outwardly.",
+      "hi": "जो आपका बुरा करे, वह भी उसी समग्रका अंग है जिसके आप हैं; बाहर जो करना पड़े, भीतर वैर न रखें।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Swamiji sees this verse as the practical essence of the chapter: all of life turned toward God, nothing held against anyone.",
+    "hi": "यह श्लोक पूरे प्रसंगका व्यावहारिक सार है—सारा जीवन भगवान्की ओर और किसीसे भी वैर नहीं।"
+   },
+   "terms": [
+    {
+     "sa": "मत्कर्मकृत्",
+     "meaning": {
+      "en": "one who acts only for Me",
+      "hi": "मेरे लिये ही कर्म करनेवाला"
+     }
+    },
+    {
+     "sa": "मत्परम:",
+     "meaning": {
+      "en": "devoted to Me as supreme",
+      "hi": "मेरे ही परायण"
+     }
+    },
+    {
+     "sa": "सङ्गवर्जित:",
+     "meaning": {
+      "en": "wholly free of attachment",
+      "hi": "सर्वथा आसक्तिरहित"
+     }
+    },
+    {
+     "sa": "निर्वैर:",
+     "meaning": {
+      "en": "without enmity",
+      "hi": "वैरभावसे रहित"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "asakti",
+    "karma",
+    "sharanagati"
+   ],
+   "related": [
+    "9.34",
+    "11.54",
+    "10.17"
+   ]
+  },
+  {
+   "id": "12.2",
+   "headline": {
+    "en": "Those whose mind is set on Me are the best in yoga",
+    "hi": "मुझमें मन लगानेवाले ही सर्वश्रेष्ठ योगी हैं"
+   },
+   "essence": {
+    "en": "Devotees who fix their mind on the Lord, stay ever joined to Him and worship with supreme faith are, in His view, the finest yogis.",
+    "hi": "जो भक्त मुझमें मन लगाकर, नित्य-निरन्तर मुझमें लगे हुए, परम श्रद्धासे उपासना करते हैं, वे मेरे मतमें सर्वश्रेष्ठ योगी हैं।"
+   },
+   "idea": {
+    "en": "Arjuna asked who is better — worshippers of the personal Lord or of the formless. Krishna had already answered this in 6.47 unasked, but Arjuna did not catch it; Swamiji notes that what we hear without a question of our own rarely registers. Being 'ever-joined' means the self itself is joined to God: 'God alone is mine and I am His'. When the doer belongs to God, mind and intellect, his instruments, turn to God on their own. The mistake seekers make is to stay apart themselves and try to push the mind toward God.",
+    "hi": "अर्जुनने पूछा कि सगुण और निर्गुण उपासकोंमें कौन श्रेष्ठ है। भगवान् यही निर्णय ६। ४७ में बिना पूछे दे चुके थे, पर अपना प्रश्न न होनेसे अर्जुन उसे पकड़ न सके। ‘नित्ययुक्ता:’ का अर्थ है—स्वयं भगवान्में लग जाय कि ‘भगवान् ही मेरे हैं और मैं भगवान्का ही हूँ’। कर्ता भगवान्का हो जाय तो मन-बुद्धिरूप करण स्वत: भगवान्में लगते हैं। साधकसे भूल यह होती है कि वह स्वयं भगवान्में न लगकर मन-बुद्धिको लगानेका अभ्यास करता है।"
+   },
+   "points": [
+    {
+     "en": "The mind goes where there is love; the intellect goes where there is faith.",
+     "hi": "जहाँ प्रेम होता है, वहाँ मन लगता है और जहाँ श्रद्धा होती है, वहाँ बुद्धि लगती है।"
+    },
+    {
+     "en": "Take what you read and hear as meant for you, and bring it into your life.",
+     "hi": "जो पढ़ें और सुनें, उसे अपने लिये ही मानकर जीवनमें उतारें।"
+    },
+    {
+     "en": "Knowledge removes sorrow; love goes further — knowledge gives unbroken joy, love an ever-growing one.",
+     "hi": "ज्ञान और भक्ति दोनों दु:ख मिटाते हैं, पर ज्ञानमें अखण्डरस है और भक्तिमें प्रतिक्षण बढ़नेवाला अनन्तरस।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Knowing money vs. being drawn to it",
+      "hi": "रुपयोंका ज्ञान और लोभ"
+     },
+     "text": {
+      "en": "Knowing 'these are rupees' only removes ignorance; the pull comes from wanting more. Just so, knowledge only removes ignorance, while the power that draws one to God lies in love.",
+      "hi": "‘ये रुपये हैं’—यह ज्ञान केवल अनजानपना मिटाता है, आकर्षण लोभमें है। ऐसे ही तत्त्वज्ञान अज्ञान मिटाता है, पर भगवान्में आकर्षित करनेकी शक्ति प्रेममें है।"
+     },
+     "quote": {
+      "hi": "संसारमें जैसे रुपयोंमें आकर्षित करनेकी शक्ति लोभमें ही है, ऐसे ही भगवान्में आकर्षित करनेकी शक्ति प्रेममें ही है, ज्ञानमें नहीं।"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "learning",
+     "text": {
+      "en": "A lecture you attend out of routine fades; the same point, answering a question you were stuck on, stays for life.",
+      "hi": "आदतन सुना हुआ व्याख्यान भूल जाता है; वही बात जब आपके अटके हुए प्रश्नका उत्तर बनकर आती है, तो जीवनभर याद रहती है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It answers Arjuna's question directly and relocates devotion from mental effort to belonging: accept that you are His, and the mind follows.",
+    "hi": "यह अर्जुनके प्रश्नका सीधा उत्तर है और भक्तिको मनके प्रयाससे हटाकर अपनेपनपर टिका देता है—मैं भगवान्का हूँ, यह मान लें तो मन स्वत: लगता है।"
+   },
+   "terms": [
+    {
+     "sa": "मयि आवेश्य मन:",
+     "meaning": {
+      "en": "fixing the mind on Me",
+      "hi": "मुझमें मनको लगाकर"
+     }
+    },
+    {
+     "sa": "नित्ययुक्ता:",
+     "meaning": {
+      "en": "ever joined to Me",
+      "hi": "नित्य-निरन्तर मुझमें लगे हुए"
+     }
+    },
+    {
+     "sa": "श्रद्धया परया",
+     "meaning": {
+      "en": "with supreme faith",
+      "hi": "परम श्रद्धासे"
+     }
+    },
+    {
+     "sa": "युक्ततमा:",
+     "meaning": {
+      "en": "the best of yogis",
+      "hi": "सर्वश्रेष्ठ योगी"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "shraddha",
+    "yoga"
+   ],
+   "related": [
+    "6.47",
+    "6.32",
+    "18.73",
+    "5.2",
+    "9.19"
+   ]
+  },
+  {
+   "id": "12.5",
+   "headline": {
+    "en": "The path of the Unmanifest is harder for the body-bound",
+    "hi": "देहाभिमानीके लिये अव्यक्तकी गति कठिन है"
+   },
+   "essence": {
+    "en": "Those drawn to the formless while still identified with the body face greater hardship; body-identification is the main obstacle there.",
+    "hi": "देहाभिमान रहते हुए निर्गुणकी उपासना करनेवालोंको अधिक कष्ट होता है; वहाँ देहाभिमान ही मुख्य बाधा है।"
+   },
+   "idea": {
+    "en": "Krishna now compares the two paths' difficulty. 'Attached to the Unmanifest' describes seekers who admire formless worship but whose mind has not entered that reality, due to weak dispassion and body-identification. In formless worship the mind and senses have nothing to rest on, and the seeker leans on his own discrimination and strength. The devotee of the personal Lord has God's form, name and stories to hold, relies on God and not on his practice, and God Himself lifts him quickly. Swamiji adds that one drawn to the formless may follow it, but must not scorn or criticise the personal God.",
+    "hi": "अब भगवान् दोनों उपासनाओंकी कठिनाई-सुगमता बताते हैं। ‘अव्यक्तासक्तचेतसाम्’ वे साधक हैं जो निर्गुण-उपासनाको श्रेष्ठ तो मानते हैं, पर वैराग्यकी कमी और देहाभिमानके कारण जिनका चित्त तत्त्वमें प्रविष्ट नहीं हुआ। निर्गुण-उपासनामें मन-इन्द्रियोंको कोई आधार नहीं रहता और साधक अपने साधन-बलपर चलता है। सगुण-उपासकको भगवान्के स्वरूप, नाम, लीलाका आधार रहता है, वह भगवान्पर निर्भर रहता है और भगवान् ही उसका शीघ्र उद्धार करते हैं। स्वामीजी कहते हैं कि जिसे निर्गुण अच्छा लगे, वह निर्गुणकी उपासना करे, पर सगुणका तिरस्कार न करे।"
+   },
+   "points": [
+    {
+     "en": "In formless worship, the tie to the body blocks unity; in devotion the only obstacle is turning away from God, not body-identification.",
+     "hi": "निर्गुणोपासनामें देहाभिमान बाधक है, सगुणोपासनामें भगवान्की विमुखता बाधक है, देहाभिमान नहीं।"
+    },
+    {
+     "en": "Devotion needs love and trust more than discrimination and dispassion.",
+     "hi": "भक्तिमें विवेक-वैराग्यकी उतनी आवश्यकता नहीं, जितनी प्रेम और विश्वासकी है।"
+    },
+    {
+     "en": "If a seeker did not take himself to be the body, he could rest in the Unmanifest easily and quickly.",
+     "hi": "यदि साधक अपनेको देहवाला न माने, तो अव्यक्तमें सुगमता और शीघ्रतासे स्थिति हो सकती है।"
+    }
+   ],
+   "contrast": {
+    "left": {
+     "label": {
+      "en": "Worship of the personal Lord",
+      "hi": "सगुण-उपासना"
+     },
+     "items": [
+      {
+       "en": "Form, name and stories to hold the mind",
+       "hi": "स्वरूप, नाम, लीलाका आधार"
+      },
+      {
+       "en": "Relies on God's strength",
+       "hi": "भगवान्के बलपर निर्भर"
+      },
+      {
+       "en": "God removes his faults and uplifts him",
+       "hi": "भगवान् दोष मिटाकर उद्धार करते हैं"
+      }
+     ]
+    },
+    "right": {
+     "label": {
+      "en": "Worship of the formless",
+      "hi": "निर्गुण-उपासना"
+     },
+     "items": [
+      {
+       "en": "Nothing for mind and senses to rest on",
+       "hi": "मन-इन्द्रियोंके लिये आधार नहीं"
+      },
+      {
+       "en": "Relies on one's own practice",
+       "hi": "अपने साधन-बलका महत्त्व"
+      },
+      {
+       "en": "Faults are noticed late and removed with effort",
+       "hi": "कमीका पता देरीसे लगता है"
+      }
+     ]
+    }
+   },
+   "examples": [
+    {
+     "title": {
+      "en": "The kitten carried by its mother",
+      "hi": "बिल्लीका बच्चा"
+     },
+     "text": {
+      "en": "A baby monkey clings to its mother and trusts its own grip; a kitten simply depends on its mother, who carries it. The devotee is like the kitten — he depends on God, and God looks after him.",
+      "hi": "बँदरीका बच्चा अपनी पकड़से रक्षा मानता है, पर बिल्लीका बच्चा माँपर निर्भर रहता है। भक्त बिल्लीके बच्चेकी तरह भगवान्पर निर्भर रहता है और भगवान् ही उसकी सँभाल करते हैं।"
+     },
+     "quote": {
+      "hi": "बिल्लीका बच्चा जैसे माँपर निर्भर रहता है, ऐसे ही यह साधक भी भगवान्पर निर्भर रहता है। भगवान् ही उसकी सँभाल करते हैं"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Draupadi's call",
+      "hi": "द्रौपदीकी पुकार"
+     },
+     "text": {
+      "en": "Though Draupadi still held ill-will toward the Kauravas, the Lord appeared at her mere call, because she took Him as her own. God looks at love and trust, not at the devotee's faults.",
+      "hi": "कौरवोंके प्रति द्वेष रहते हुए भी द्रौपदीके पुकारनेमात्रसे भगवान् प्रकट हो जाते थे, क्योंकि वह भगवान्को अपना मानती थी।"
+     },
+     "quote": {
+      "hi": "जैसे, कौरवोंके प्रति द्वेष-वृत्ति रहते हुए भी द्रौपदीके पुकारनेमात्रसे भगवान् प्रकट हो जाते थे;"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "It is an honest map of difficulty: the problem is not the goal but our identification with the body — and devotion offers a gentler way past it.",
+    "hi": "यह कठिनाईका ईमानदार नक्शा है—बाधा लक्ष्यमें नहीं, देहाभिमानमें है; और भक्ति उसे पार करनेका सुगम मार्ग देती है।"
+   },
+   "terms": [
+    {
+     "sa": "अव्यक्तासक्तचेतसाम्",
+     "meaning": {
+      "en": "of those whose minds are attached to the Unmanifest",
+      "hi": "अव्यक्तमें आसक्त चित्तवाले"
+     }
+    },
+    {
+     "sa": "क्लेश: अधिकतर:",
+     "meaning": {
+      "en": "greater hardship",
+      "hi": "कष्ट अधिक"
+     }
+    },
+    {
+     "sa": "देहवद्भि:",
+     "meaning": {
+      "en": "by the body-identified",
+      "hi": "देहाभिमानियोंके द्वारा"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "jnana",
+    "ahankara",
+    "sharanagati"
+   ],
+   "related": [
+    "6.27",
+    "12.7",
+    "10.11",
+    "9.22",
+    "12.4",
+    "18.55"
+   ]
+  },
+  {
+   "id": "12.8",
+   "headline": {
+    "en": "Place your mind and intellect in Me — you will dwell in Me",
+    "hi": "मन-बुद्धि मुझमें लगा, तू मुझमें ही निवास करेगा"
+   },
+   "essence": {
+    "en": "Set the mind and intellect on God and you will know that you already dwell in Him — there is no doubt about it.",
+    "hi": "मन-बुद्धि भगवान्में लगानेसे भगवान्में अपनी स्वत:सिद्ध स्थितिका अनुभव हो जाता है—इसमें संशय नहीं।"
+   },
+   "idea": {
+    "en": "This is the first of four means (surrender, practice, action for God, giving up desire for fruits). Our place in God is already given, but because mind and intellect are turned to the world we do not experience it. Turning the mind from worldly thinking to God, and firmly deciding with the intellect 'I am only God's and He alone is mine', ends the world's hold. Of the two, the intellect's resolve comes first. Swamiji clarifies in the appendix that it is really the self that joins God; mind and intellect then dissolve in Him. 'No doubt' removes the belief that God is reached only after perfect conduct and long meditation.",
+    "hi": "यह चार साधनों (समर्पणयोग, अभ्यासयोग, भगवदर्थ कर्म, कर्मफलत्याग) में पहला है। भगवान्में हमारी स्थिति स्वत:सिद्ध है, पर मन-बुद्धि संसारमें लगे रहनेसे उसका अनुभव नहीं होता। मनको संसारसे हटाकर भगवान्में लगाना और बुद्धिसे दृढ़ निश्चय करना कि ‘मैं केवल भगवान्का ही हूँ और भगवान् ही मेरे हैं’—यही मन-बुद्धि लगाना है; इसमें बुद्धिका निश्चय मुख्य है। परिशिष्टमें स्वामीजी स्पष्ट करते हैं कि वास्तवमें स्वयं ही भगवान्में लगता है, मन-बुद्धि उनमें लीन हो जाते हैं। ‘न संशय:’ से भगवान् यह भ्रम मिटाते हैं कि अच्छे आचरण और एकान्त ध्यानके बिना परमात्मप्राप्ति असम्भव है।"
+   },
+   "points": [
+    {
+     "en": "The moment mind and intellect are wholly in God, realization follows — there is no time gap.",
+     "hi": "जिस क्षण मन-बुद्धि पूरी तरह भगवान्में लग जायँ, उसी क्षण भगवत्प्राप्ति हो जाती है।"
+    },
+    {
+     "en": "The body, senses and mind all changed since childhood, but 'I' remained the same — the unchanging self and God are of one kind.",
+     "hi": "बचपनसे अबतक शरीर, मन, बुद्धि बदल गये, पर मैं वही हूँ; न बदलनेवाले ‘स्वयम्’ और ‘भगवान्’ एक जातिके हैं।"
+    },
+    {
+     "en": "God is not bought with inert means; He is realized when the assumed tie with the inert is broken.",
+     "hi": "जड साधनोंसे चिन्मय भगवान् खरीदे नहीं जा सकते; जडसे माने हुए सम्बन्धका त्याग होनेपर उनकी अनुभूति होती है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Needle and thread",
+      "hi": "सुई और धागा"
+     },
+     "text": {
+      "en": "Wherever the needle goes, the thread follows. So wherever mind and intellect go, the self follows — which is why the Lord asks us to put them in Him.",
+      "hi": "सुई जहाँ जाती है, धागा वहीं जाता है। ऐसे ही मन-बुद्धि जहाँ जाते हैं, स्वयं वहीं जाता है।"
+     },
+     "quote": {
+      "hi": "जैसे सुई जहाँ जाती है, धागा वहीं जाता है, ऐसे ही मन-बुद्धि जहाँ जाते हैं, स्वयं वहीं जाता है।"
+     },
+     "from": "appendix"
+    },
+    {
+     "title": {
+      "en": "The goldsmith's fire",
+      "hi": "सुनारकी अग्नि"
+     },
+     "text": {
+      "en": "A goldsmith heats gold in fire so the foreign alloy separates and pure gold remains. Placing mind and intellect in God, they fall away and the self merges in Him.",
+      "hi": "सुनार सोनेको तपाता है तो खोट अलग हो जाती है और शुद्ध सोना रह जाता है; ऐसे ही भगवान्में लगानेसे मन-बुद्धि अलग हो जाते हैं और स्वयं भगवान्में मिल जाता है।"
+     },
+     "quote": {
+      "hi": "जैसे सुनार सोनेको शुद्ध करनेके लिये उसको अग्निमें तपाता है तो सोनेमें मिला हुआ विजातीय पदार्थ (खोट) अलग हो जाता है और शुद्ध सोना रह जाता है"
+     },
+     "from": "appendix"
+    },
+    {
+     "title": {
+      "en": "The millionaire's foolish son",
+      "hi": "करोड़पतिका मूर्ख पुत्र"
+     },
+     "text": {
+      "en": "A rich man's son separates from him and claims one or two rooms of the mansion as progress; once he sees his mistake, inheriting everything is easy. The self likewise claims a small mind and intellect as its own, forgetting it is part of God.",
+      "hi": "करोड़पतिका मूर्ख पुत्र कोठीके एक-दो कमरोंपर अधिकार जमाकर अपनी उन्नति समझता है; भूल समझनेपर उत्तराधिकारी होनेमें कठिनाई नहीं होती। ऐसे ही जीव छोटे-से मन-बुद्धिको अपना मानता है।"
+     },
+     "quote": {
+      "hi": "जैसे, एक करोड़पतिका मूर्ख पुत्र उससे अलग होकर अपनी विशाल कोठीके एक-दो कमरोंपर अपना अधिकार जमाकर अपनी उन्नति समझ लेता है, पर जब उसे अपनी भूल समझमें आ जाती है, तब उसे करोड़पतिका उत्तराधिकारी होनेमें कठिनाई नहीं होती।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [],
+   "whyItMatters": {
+    "en": "It shifts the burden from controlling a restless mind to settling who you belong to — and promises the result without doubt.",
+    "hi": "यह चंचल मनको बाँधनेकी जगह ‘मैं किसका हूँ’ यह तय करनेपर जोर देता है—और फलका नि:संशय आश्वासन देता है।"
+   },
+   "terms": [
+    {
+     "sa": "मन: आधत्स्व",
+     "meaning": {
+      "en": "place the mind",
+      "hi": "मनको स्थापन कर"
+     }
+    },
+    {
+     "sa": "बुद्धिम् निवेशय",
+     "meaning": {
+      "en": "let the intellect enter",
+      "hi": "बुद्धिको प्रविष्ट कर"
+     }
+    },
+    {
+     "sa": "निवसिष्यसि",
+     "meaning": {
+      "en": "you will dwell",
+      "hi": "निवास करेगा"
+     }
+    },
+    {
+     "sa": "अत: ऊर्ध्वम्",
+     "meaning": {
+      "en": "thereafter",
+      "hi": "इसके बाद"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "sharanagati",
+    "atma"
+   ],
+   "related": [
+    "8.7",
+    "9.30",
+    "9.31",
+    "7.4",
+    "7.5",
+    "15.7",
+    "14.2"
+   ]
+  },
+  {
+   "id": "12.12",
+   "headline": {
+    "en": "Better than meditation is giving up the fruit — peace follows at once",
+    "hi": "ध्यानसे कर्मफलत्याग श्रेष्ठ है—त्यागसे तत्काल शान्ति"
+   },
+   "essence": {
+    "en": "Giving up desire for the fruits of all actions is not the lowest means; it brings supreme peace immediately.",
+    "hi": "सब कर्मोंके फलकी इच्छाका त्याग निम्न साधन नहीं है; उससे तत्काल परमशान्ति मिलती है।"
+   },
+   "idea": {
+    "en": "Because renouncing the fruit of action came last in the list and no result was named, one might think it inferior. This verse removes that doubt. Practice without knowledge is below scriptural knowledge; knowledge without practice is below mental concentration; and concentration is below karma-phala-tyaga — not giving up actions or their outcomes, but giving up mineness, attachment and desire toward them. In meditation one still leans on the mind, so the tie with the inert lingers; in giving up desire, that tie goes at once. Swamiji's summary of karmayoga: nothing is mine, I need nothing for myself, and I have nothing to do for myself.",
+    "hi": "कर्मफलत्याग सबसे अन्तमें कहा गया और उसका फल भी नहीं बताया गया, इसलिये उसे निम्न माना जा सकता था—इस शंकाको दूर करनेके लिये यह श्लोक है। ज्ञान-ध्यानसे रहित अभ्याससे शास्त्रज्ञान, शास्त्रज्ञानसे ध्यान और ध्यानसे कर्मफलत्याग श्रेष्ठ है। कर्मफलत्यागका अर्थ कर्मों या फलोंका स्वरूपसे त्याग नहीं, उनमें ममता, आसक्ति और कामनाका त्याग है। ध्यानमें चित्तका आश्रय रहनेसे जडताका सम्बन्ध दूरतक बना रहता है, पर कामनाके त्यागसे वह तत्काल छूट जाता है। कर्मयोगका मूल मन्त्र है—अपना कुछ नहीं, अपने लिये कुछ नहीं चाहिये, अपने लिये कुछ नहीं करना है।"
+   },
+   "points": [
+    {
+     "en": "All four means lead to God independently; they differ only to suit seekers' taste, faith and ability.",
+     "hi": "चारों साधन स्वतन्त्रतासे भगवत्प्राप्ति करानेवाले हैं; रुचि, विश्वास और योग्यताके भेदसे अलग कहे गये हैं।"
+    },
+    {
+     "en": "One can renounce only what is not truly one's own but was taken as one's own by mistake.",
+     "hi": "त्याग उसीका होता है जो अपना नहीं है, पर भूलसे अपना मान लिया गया है।"
+    },
+    {
+     "en": "Liberation comes from giving up the desire, not from giving up the object.",
+     "hi": "मुक्ति वस्तुके त्यागसे नहीं, इच्छाके त्यागसे होती है।"
+    },
+    {
+     "en": "Whatever means you follow, never think it lowly or lose hope; the aim is what matters most.",
+     "hi": "अपने साधनको कभी हीन न मानें और निराश न हों; मुख्यता उद्देश्यकी है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "The sun, its light and darkness",
+      "hi": "सूर्य, प्रकाश और अन्धकार"
+     },
+     "text": {
+      "en": "The sun can never give up its light and heat, since they are its nature; nor does it need to give up darkness, which was never its own. So true renunciation is only of what was mistakenly taken as one's own.",
+      "hi": "सूर्य प्रकाश और उष्णताका त्याग नहीं कर सकता, क्योंकि वे उसका स्वरूप हैं; अन्धकार उसका है ही नहीं। अत: त्याग उसीका होता है जो भूलसे अपना माना गया है।"
+     },
+     "quote": {
+      "hi": "जैसे, अपना स्वरूप होनेके कारण प्रकाश और उष्णतासे सूर्यका वियोग नहीं हो सकता, और जिससे वियोग नहीं हो सकता, उसका त्याग करना असम्भव है।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "One hunger, many dishes",
+      "hi": "भूख एक, भोजन अनेक"
+     },
+     "text": {
+      "en": "Everyone's hunger and satisfaction are the same, though tastes in food differ. Likewise seekers' means differ, but the longing for God and the fulfilment of attaining Him are the same for all.",
+      "hi": "भूख और तृप्ति सबकी एक होती है, रुचि भिन्न होनेसे भोजन भिन्न होते हैं। ऐसे ही साधन भिन्न हैं, पर भगवत्प्राप्तिकी भूख और तृप्ति सबकी एक-जैसी है।"
+     },
+     "quote": {
+      "hi": "जैसे, भूख सबकी एक ही होती है और भोजन करनेपर तृप्तिका अनुभव भी सबको एक ही होता है, पर भोजनकी रुचि सबकी भिन्न-भिन्न होनेके कारण भोज्य-पदार्थ भी भिन्न-भिन्न होते हैं।"
+     },
+     "from": "commentary"
+    }
+   ],
+   "modern": [
+    {
+     "context": "career",
+     "text": {
+      "en": "You can meditate for an hour and still spend the day chasing a promotion; dropping the craving itself, while doing the work well, is what actually brings calm.",
+      "hi": "कोई घंटाभर ध्यान करके भी दिनभर प्रमोशनके पीछे भाग सकता है; काम अच्छा करते हुए उस लालसाको ही छोड़ देना वास्तवमें शान्ति देता है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "It opens liberation to everyone in every circumstance — no change of place, role or activity, only a change in wanting.",
+    "hi": "इससे हर परिस्थितिमें हर मनुष्यके लिये कल्याणका मार्ग खुलता है—न स्थान बदलना, न कर्म; केवल चाह छोड़नी है।"
+   },
+   "terms": [
+    {
+     "sa": "अभ्यासात्",
+     "meaning": {
+      "en": "than (mere) practice",
+      "hi": "अभ्याससे"
+     }
+    },
+    {
+     "sa": "ज्ञानम्",
+     "meaning": {
+      "en": "scriptural knowledge",
+      "hi": "शास्त्रज्ञान"
+     }
+    },
+    {
+     "sa": "कर्मफलत्याग:",
+     "meaning": {
+      "en": "giving up desire for the fruit of all actions",
+      "hi": "सब कर्मोंके फलकी इच्छाका त्याग"
+     }
+    },
+    {
+     "sa": "अनन्तरम्",
+     "meaning": {
+      "en": "immediately",
+      "hi": "तत्काल ही"
+     }
+    }
+   ],
+   "concepts": [
+    "tyaga",
+    "phala",
+    "nishkama-karma",
+    "dhyana"
+   ],
+   "related": [
+    "5.2",
+    "5.12",
+    "2.55",
+    "6.1",
+    "18.11",
+    "4.2"
+   ]
+  },
+  {
+   "id": "12.13",
+   "headline": {
+    "en": "No ill-will toward any being, friendly and compassionate — such a devotee is dear to Me",
+    "hi": "किसीसे द्वेष नहीं, सबका मित्र और दयालु—ऐसा भक्त मुझे प्रिय है"
+   },
+   "essence": {
+    "en": "The realized devotee bears no hatred, is friendly and kind to all, free of mineness and ego, and even in pleasure and pain.",
+    "hi": "सिद्ध भक्त किसीसे द्वेष नहीं करता, सबका मित्र और दयालु, ममता-अहंकाररहित तथा सुख-दु:खमें सम होता है।"
+   },
+   "idea": {
+    "en": "Verses 13–19 describe, in five groups, the devotee who has reached perfection through the four means; this first group (13–14) gives twelve marks. Whatever anyone does to him, the devotee feels no hatred, since he sees his Lord pervading every being and takes even harm as God's auspicious plan. More than that, he is actively friendly and compassionate — friendliness to the happy and virtuous, compassion to the suffering and sinful. He claims nothing as his own, not even body, mind and intellect, and does not count his good qualities as his own. He knows favourable and unfavourable situations, but they raise no disturbance within him.",
+    "hi": "तेरहवेंसे उन्नीसवें श्लोकतक पाँच प्रकरणोंमें सिद्ध भक्तके लक्षण हैं; यह पहला प्रकरण (१३-१४) बारह लक्षणोंका है। कोई कैसा भी व्यवहार करे, भक्तके हृदयमें द्वेष नहीं होता, क्योंकि वह प्राणिमात्रमें अपने प्रभुको देखता है और अनिष्टको भी भगवान्का मंगलमय विधान मानता है। इतना ही नहीं, वह सबसे मैत्री और दयाका व्यवहार करता है—सुखियों और पुण्यात्माओंके प्रति मैत्री, दु:खियों और पापात्माओंके प्रति करुणा। वह शरीर, मन, बुद्धिमें भी ममता नहीं रखता और अपने सद्गुणोंको भी अपना नहीं मानता। अनुकूलता-प्रतिकूलताका ज्ञान होता है, पर विकार नहीं होता।"
+   },
+   "points": [
+    {
+     "en": "Every being is a part of God, so any ill-will toward a being is ill-will toward God.",
+     "hi": "प्राणिमात्र भगवान्का अंश है, अत: किसी प्राणीसे द्वेष भगवान्से ही द्वेष है।"
+    },
+    {
+     "en": "The one who causes pain deserves more compassion than the one who suffers it — he is committing a new wrong.",
+     "hi": "दु:ख पानेवालेकी अपेक्षा दु:ख देनेवाला दयाका विशेष पात्र है, क्योंकि वह नया पाप कर रहा है।"
+    },
+    {
+     "en": "Friendliness and compassion appear only among the devotee's marks, not the karmayogi's or jnani's.",
+     "hi": "मित्रता और करुणा केवल भक्तके लक्षणोंमें आयी है, कर्मयोगी और ज्ञानयोगीके लक्षणोंमें नहीं।"
+    },
+    {
+     "en": "Knowing pain is not a flaw; being disturbed by it is.",
+     "hi": "परिस्थितिका ज्ञान होना दोष नहीं, उससे अन्त:करणमें विकार होना दोष है।"
+    }
+   ],
+   "examples": [
+    {
+     "title": {
+      "en": "Pain without disturbance",
+      "hi": "पीड़ा, पर विकार नहीं"
+     },
+     "text": {
+      "en": "If, by past karma, the devotee's body falls ill, he will feel the physical pain, but no inner disturbance arises in him.",
+      "hi": "प्रारब्धवश भक्तके शरीरमें रोग होनेपर उसे पीड़ाका ज्ञान तो होगा, पर अन्त:करणमें विकार नहीं होगा।"
+     },
+     "quote": {
+      "hi": "जैसे, प्रारब्धानुसार भक्तके शरीरमें कोई रोग होनेपर उसे शारीरिक पीड़ाका ज्ञान (अनुभव) तो होगा; किन्तु उसके अन्त:करणमें किसी प्रकारका विकार नहीं होगा।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "Shoes on a stony path",
+      "hi": "जूते पहनकर चलना"
+     },
+     "text": {
+      "en": "One who walks in shoes fears no pebbles or thorns; likewise for a contented mind there is happiness everywhere. Swamiji cites this from the Bhagavata for the mark 'ever content'.",
+      "hi": "जूते पहनकर चलनेवालेको कंकड़-काँटोंका भय नहीं होता; ऐसे ही संतोषी मनके लिये सर्वत्र सुख है।"
+     },
+     "quote": {
+      "hi": "जैसे पैरोंमें जूते पहनकर चलनेवालेको कंकड़ और काँटोंसे कोई भय नहीं होता, ऐसे ही जिसके मनमें संतोष है, उसके लिये सर्वदा सब जगह सुख-ही-सुख है, दु:ख है ही नहीं।"
+     },
+     "from": "commentary"
+    },
+    {
+     "title": {
+      "en": "The king's son begging",
+      "hi": "राजाका बेटा भीख माँगे"
+     },
+     "text": {
+      "en": "A king does not like his son begging from others. So God does not like it when the soul, His part, hopes for something from the perishable world; dear to Him is one who looks to no one else.",
+      "hi": "राजाको बेटेका भीख माँगना नहीं सुहाता; ऐसे ही भगवान्का अंश जीव संसारसे आशा रखे तो भगवान्को नहीं सुहाता।"
+     },
+     "quote": {
+      "hi": "जैसे किसी राजाका बेटा दूसरोंसे भीख माँगने लगे तो वह राजाको नहीं सुहाता, ऐसे ही सत्-चित्-आनन्दरूप भगवान्का अंश जीव जब असत्-जड़-दु:खरूप संसारसे कुछ आशा रखता है, तब वह भगवान्को नहीं सुहाता"
+     },
+     "from": "appendix"
+    }
+   ],
+   "modern": [
+    {
+     "context": "social media",
+     "text": {
+      "en": "When someone mocks you online, the verse asks not just for no counter-attack, but for goodwill toward them — they are the one adding harm to their own account.",
+      "hi": "कोई ऑनलाइन आपका मजाक उड़ाये, तो केवल पलटवार न करना ही नहीं, उसके प्रति सद्भाव रखना—क्योंकि वह अपना ही अहित कर रहा है।"
+     }
+    }
+   ],
+   "whyItMatters": {
+    "en": "Even an ordinary seeker should hold that one who harms him is purifying him of past wrongs; in the realized devotee this becomes friendliness toward all beings.",
+    "hi": "साधकमात्रके मनमें यह भाव रहना चाहिये कि अनिष्ट करनेवाला उसे शुद्ध कर रहा है; सिद्ध भक्तमें तो प्राणिमात्रके प्रति मैत्री और दयाका विलक्षण भाव रहता है।"
+   },
+   "terms": [
+    {
+     "sa": "अद्वेष्टा सर्वभूतानाम्",
+     "meaning": {
+      "en": "without ill-will toward any being",
+      "hi": "सब प्राणियोंमें द्वेषभावसे रहित"
+     }
+    },
+    {
+     "sa": "मैत्र: करुण:",
+     "meaning": {
+      "en": "friendly and compassionate",
+      "hi": "मित्रभाववाला और दयालु"
+     }
+    },
+    {
+     "sa": "निर्मम: निरहङ्कार:",
+     "meaning": {
+      "en": "free of mineness and ego",
+      "hi": "ममतारहित, अहंकाररहित"
+     }
+    },
+    {
+     "sa": "समदु:खसुख:",
+     "meaning": {
+      "en": "even in pain and pleasure",
+      "hi": "सुख-दु:खकी प्राप्तिमें सम"
+     }
+    },
+    {
+     "sa": "क्षमी",
+     "meaning": {
+      "en": "forgiving",
+      "hi": "क्षमाशील"
+     }
+    }
+   ],
+   "concepts": [
+    "bhakti",
+    "samatva",
+    "ahankara"
+   ],
+   "related": [
+    "5.29",
+    "2.71",
+    "18.53",
+    "12.14"
+   ]
+  }
+ ]
+}

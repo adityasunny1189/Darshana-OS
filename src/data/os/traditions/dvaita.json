@@ -1,0 +1,79 @@
+{
+  "id": "dvaita",
+  "name": {
+    "en": "Dvaita Vedanta",
+    "sa": "द्वैत वेदान्त",
+    "iast": "Dvaita Vedānta"
+  },
+  "family": "vedanta-school",
+  "parent": "vedanta",
+  "tagline": "Dualist Vedanta: God, souls and matter are eternally, really distinct.",
+  "period": "Founded by Madhva, traditionally dated 1238–1317 CE (some accounts give 1199–1278); developed by later thinkers such as Jayatirtha and Vyasatirtha.",
+  "overview": "Dvaita Vedanta, founded by Madhva, holds that reality consists of independent reality — God, identified with Vishnu — and dependent realities: souls and matter. It affirms five real differences: between God and souls, God and matter, soul and soul, soul and matter, and matter and matter. The world is real, and so are its distinctions. Souls are eternally distinct from God and from one another, and, in a distinctive and much-discussed doctrine, differ in their inherent natures and destinies. Bondage arises from ignorance of God's supremacy and of the soul's dependence; liberation is granted by God's grace to those with right knowledge and devotion, and the liberated soul enjoys its own innate bliss in God's presence.",
+  "beginner": "Madhva taught that God, souls and the world are truly different and always will be. We depend completely on God, and liberation comes through knowing and loving God, by God's grace.",
+  "coreQuestions": [
+    "Are God and the soul ever one?",
+    "What makes differences real?",
+    "Why do souls differ?",
+    "How does grace relate to knowledge and devotion?"
+  ],
+  "coreConcepts": [
+    "ishvara",
+    "jiva",
+    "bhakti",
+    "anugraha",
+    "moksha",
+    "brahman"
+  ],
+  "texts": [
+    "madhva-brahma-sutra-bhashya",
+    "gita-tatparya",
+    "anuvyakhyana",
+    "brahma-sutras",
+    "bhagavad-gita"
+  ],
+  "thinkers": [
+    "madhva"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "vedanta",
+      "note": "One of the principal Vedanta schools"
+    },
+    {
+      "id": "advaita",
+      "note": "Dvaita writers produced an extensive polemical literature against Advaita"
+    },
+    {
+      "id": "vishishtadvaita",
+      "note": "Shares theism and realism about the world"
+    },
+    {
+      "id": "bhakti",
+      "note": "The tradition is closely linked to devotional movements in Karnataka, including the Haridasa poets"
+    }
+  ],
+  "darshana": {
+    "problem": "How should the Vedas be read so that God's supremacy and the reality of the world and souls are upheld, and how does the soul attain God?",
+    "real": "God (Vishnu) is the one independent reality; souls and matter are real, eternal and dependent. The five differences are real.",
+    "pramanas": "Perception, inference and testimony (shabda). Madhva stresses the witness-consciousness (sakshi) of the soul as the final guarantor of valid knowledge.",
+    "self": "The soul is an eternal, conscious reflection (pratibimba) of God, wholly dependent on him and distinct from him and from every other soul.",
+    "bondage": "Ignorance of God's supremacy and of the soul's dependence, together with karma, which conceal the soul's innate nature.",
+    "liberation": "Release from rebirth by God's grace; the soul experiences its innate bliss in God's presence, retaining its distinct identity. Degrees of bliss differ among liberated souls.",
+    "path": "Study of scripture under a qualified teacher, right knowledge of God's supremacy, and devotion (bhakti), culminating in God's grace, which is decisive."
+  },
+  "disagreements": [
+    {
+      "with": "advaita",
+      "topic": "identity of self and Brahman",
+      "note": "Madhva reads the key identity statements as expressing similarity or dependence, not identity, and argues the Advaita notion of indeterminable maya is incoherent."
+    },
+    {
+      "with": "vishishtadvaita",
+      "topic": "the soul as God's body",
+      "note": "Dvaita holds that the body-soul model does not sufficiently safeguard difference."
+    }
+  ],
+  "scholar": "Madhva's doctrine of svarupa-bheda among souls includes a threefold classification by innate nature; this is among the most debated features of Dvaita. Vyasatirtha's Nyayamrita provoked Madhusudana Sarasvati's Advaitasiddhi, a famous exchange. The school is also called Tattvavada.",
+  "difficulty": "intermediate"
+}

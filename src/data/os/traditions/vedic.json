@@ -1,0 +1,69 @@
+{
+  "id": "vedic",
+  "name": {
+    "en": "Vedic & Upanishadic foundations",
+    "sa": "वैदिक",
+    "iast": "Vaidika"
+  },
+  "family": "vedic",
+  "parent": null,
+  "tagline": "The hymns, rituals and early speculative dialogues from which much later Indian thought draws.",
+  "period": "The Vedic hymns are generally dated by scholars to roughly 1500–500 BCE; the principal Upanishads to roughly 800–200 BCE, with considerable debate about individual texts.",
+  "overview": "The Vedas are a large body of orally transmitted Sanskrit literature: hymns (Samhitas), ritual manuals (Brahmanas), forest texts (Aranyakas) and philosophical dialogues (Upanishads). The early hymns centre on sacrifice (yajna) and on a cosmic order, rta, that ritual helps sustain. The Upanishads turn inward, asking what underlies the world and the person, and developing the ideas of Brahman (the ultimate reality) and atman (the Self), along with early forms of the teachings on karma, rebirth and liberation. Later schools — Mimamsa on ritual, Vedanta on the Upanishads — are in large part systematic readings of this literature, and they read it very differently. Presenting the Vedic corpus as a single doctrine would therefore be misleading; it is better seen as a shared foundation and a field of interpretation.",
+  "beginner": "The Vedas are some of the oldest religious texts in the world, chanted and memorised for centuries. Their early parts are hymns and rituals; their later parts, the Upanishads, ask big questions like \"What is the Self?\" and \"What is behind everything?\"",
+  "coreQuestions": [
+    "What sustains the order of the cosmos?",
+    "What is the one reality behind the many things we see?",
+    "What is the Self, and how does it relate to that reality?",
+    "What happens to a person after death?"
+  ],
+  "coreConcepts": [
+    "rta",
+    "yajna",
+    "brahman",
+    "atma",
+    "karma",
+    "samsara",
+    "moksha",
+    "neti-neti"
+  ],
+  "texts": [
+    "isha-upanishad",
+    "kena-upanishad",
+    "katha-upanishad",
+    "prashna-upanishad",
+    "mundaka-upanishad",
+    "mandukya-upanishad",
+    "taittiriya-upanishad",
+    "aitareya-upanishad",
+    "chandogya-upanishad",
+    "brihadaranyaka-upanishad",
+    "shvetashvatara-upanishad"
+  ],
+  "thinkers": [
+    "vyasa"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "mimamsa",
+      "note": "Purva Mimamsa systematises the ritual and injunctive portion of the Veda"
+    },
+    {
+      "id": "vedanta",
+      "note": "Vedanta takes the Upanishads as its primary source and interprets them systematically"
+    },
+    {
+      "id": "buddhism",
+      "note": "Early Buddhism arose in dialogue with, and often in critique of, Vedic ritual and Upanishadic ideas of the Self"
+    }
+  ],
+  "disagreements": [
+    {
+      "with": "charvaka",
+      "topic": "authority of the Veda",
+      "note": "Charvaka rejects the Veda as a source of knowledge and criticises ritual as without result."
+    }
+  ],
+  "scholar": "The division into karma-kanda (ritual portion) and jnana-kanda (knowledge portion) is itself an interpretive scheme associated with later Mimamsa and Vedanta. The Upanishads contain diverse and sometimes divergent views; later commentators harmonise them in different ways.",
+  "difficulty": "beginner"
+}

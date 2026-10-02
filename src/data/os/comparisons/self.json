@@ -1,0 +1,160 @@
+{
+  "id": "self",
+  "topic": "What is the Self?",
+  "concept": "atma",
+  "intro": "Indian traditions give sharply different answers to what, if anything, the word \"I\" ultimately refers to. The rows below summarise each tradition's own account.",
+  "rows": [
+    {
+      "tradition": "advaita",
+      "claim": "The Self is pure consciousness, identical with Brahman.",
+      "detail": "The Self (atman) is the non-dual witness of all experience, never an object. The individual (jiva) is that same consciousness apparently limited by body and mind through ignorance.",
+      "sources": [
+        {
+          "text": "mandukya-upanishad"
+        },
+        {
+          "text": "upadesha-sahasri"
+        }
+      ],
+      "concepts": [
+        "atma",
+        "brahman",
+        "sakshi",
+        "non-duality"
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "claim": "The self is an eternal knower, a real mode of Brahman.",
+      "detail": "Each self (jiva) is eternal, atomic and conscious, and forms part of Brahman's \"body\". It is wholly dependent on God yet never becomes identical with him.",
+      "sources": [
+        {
+          "text": "sri-bhashya"
+        }
+      ],
+      "concepts": [
+        "jiva",
+        "brahman",
+        "ishvara"
+      ]
+    },
+    {
+      "tradition": "dvaita",
+      "claim": "The self is eternally distinct from God and every other self.",
+      "detail": "Madhva holds each soul is a conscious, dependent reflection of God with its own inherent nature. Difference between God and souls persists even in liberation.",
+      "sources": [
+        {
+          "text": "madhva-brahma-sutra-bhashya"
+        }
+      ],
+      "concepts": [
+        "jiva",
+        "ishvara"
+      ]
+    },
+    {
+      "tradition": "sankhya",
+      "claim": "The Self is one of many pure, inactive witnesses (purusha).",
+      "detail": "Purusha is consciousness itself, distinct from intellect, ego and mind, which belong to non-conscious prakriti. There are many purushas.",
+      "sources": [
+        {
+          "text": "sankhya-karika"
+        }
+      ],
+      "concepts": [
+        "purusha",
+        "prakriti",
+        "buddhi",
+        "ahankara"
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "claim": "The Self is the seer, apparently coloured by the mind's fluctuations.",
+      "detail": "Following Sankhya, Yoga holds the seer is pure consciousness. When the fluctuations of the mind-field are stilled, the seer abides in its own nature.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ],
+      "concepts": [
+        "purusha",
+        "chitta"
+      ]
+    },
+    {
+      "tradition": "nyaya",
+      "claim": "The self is an eternal substance that becomes conscious through a mind.",
+      "detail": "Consciousness, desire and effort are qualities the self has only when linked with a mind and body. Selves are many and all-pervading.",
+      "sources": [
+        {
+          "text": "nyaya-sutras"
+        }
+      ],
+      "concepts": [
+        "atma",
+        "manas"
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "claim": "There is no permanent self; a person is a changing stream of aggregates.",
+      "detail": "Most schools analyse the person into five aggregates arising dependently. Schools differ: Abhidharma lists momentary elements, Madhyamaka holds even these empty, Yogacara analyses the mind-stream; the Pudgalavadins affirmed an ineffable \"person\".",
+      "sources": [
+        {
+          "text": "dhammapada"
+        },
+        {
+          "text": "mulamadhyamakakarika"
+        }
+      ],
+      "concepts": [
+        "anatta",
+        "pratityasamutpada",
+        "shunyata"
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "claim": "The soul is eternal, conscious and naturally omniscient, veiled by karmic matter.",
+      "detail": "Each jiva is a real, body-sized, conscious agent and knower. Its innate knowledge, perception, bliss and energy are obscured by karma.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ],
+      "concepts": [
+        "jiva",
+        "karma"
+      ]
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "claim": "The Self is Shiva: free, self-aware consciousness that appears as the individual.",
+      "detail": "Consciousness is both luminous and self-reflective. The limited self is Shiva freely contracted, and recognising this identity is liberation.",
+      "sources": [
+        {
+          "text": "pratyabhijna-hridayam"
+        },
+        {
+          "text": "shiva-sutras"
+        }
+      ],
+      "concepts": [
+        "shiva",
+        "pratyabhijna",
+        "spanda"
+      ]
+    },
+    {
+      "tradition": "charvaka",
+      "claim": "There is no self beyond the living body.",
+      "detail": "As reported by its critics, Charvaka holds that consciousness emerges from the combination of material elements in the body and ends at death.",
+      "sources": [],
+      "concepts": [
+        "sharira"
+      ]
+    }
+  ],
+  "note": "The disagreement turns on whether consciousness is essential to the self or a quality it acquires, whether there is one self or many, and whether anything enduring underlies experience at all."
+}

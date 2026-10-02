@@ -1,0 +1,113 @@
+{
+  "id": "suffering",
+  "q": "Why do humans suffer?",
+  "motif": "flame",
+  "quickAnswer": "Indian traditions tend to locate the root of suffering not only in outer events but in how we relate to them. Buddhism places craving at the centre, Yoga lists ignorance and its offshoots as afflictions, Vedanta traces suffering to mistaking the Self for body and mind, and Jainism to passions that bind karmic matter. Theistic traditions add that turning away from God deepens suffering and grace can end it. The traditions disagree on metaphysics but share the practical claim that suffering can be understood and reduced.",
+  "concepts": [
+    "dukkha",
+    "kama",
+    "avidya",
+    "karma",
+    "asakti",
+    "krodha",
+    "anitya"
+  ],
+  "traditions": [
+    "buddhism",
+    "yoga",
+    "vedanta",
+    "jainism",
+    "sankhya",
+    "bhakti"
+  ],
+  "perspectives": [
+    {
+      "tradition": "buddhism",
+      "view": "The Buddha's first teaching names suffering (dukkha), its origin in craving, its cessation and the path; suffering is also tied to impermanence and to clinging to a self.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "view": "Patanjali names five afflictions (kleshas) — ignorance, I-am-ness, attachment, aversion and clinging to life — with ignorance the field of the rest; future suffering is to be avoided.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ]
+    },
+    {
+      "tradition": "sankhya",
+      "view": "Sankhya begins from three kinds of suffering — bodily and mental, from other beings, and from natural forces — and seeks lasting relief through discriminating knowledge.",
+      "sources": [
+        {
+          "text": "sankhya-karika"
+        }
+      ]
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Vedanta traces suffering to identifying the Self with body, mind and their changing states; knowledge of the Self removes this confusion.",
+      "sources": [
+        {
+          "text": "vivekachudamani"
+        }
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism holds that passions such as anger, pride, deceit and greed attract karmic matter to the soul, and this bondage is the source of suffering.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "2.14",
+    "note": "Contacts of the senses bring heat and cold, pleasure and pain; they come and go, so endure them."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "2.62",
+      "note": "The chain from dwelling on objects to attachment, desire and anger."
+    },
+    {
+      "kind": "gita",
+      "id": "2.63",
+      "note": "From anger to delusion and loss of discernment."
+    },
+    {
+      "kind": "concept",
+      "id": "dukkha",
+      "note": "The Buddhist analysis of suffering."
+    },
+    {
+      "kind": "concept",
+      "id": "avidya",
+      "note": "Ignorance as the root in several schools."
+    },
+    {
+      "kind": "concept",
+      "id": "kama",
+      "note": "Desire as a cause of bondage."
+    }
+  ],
+  "gitaQuestions": [
+    "bad-things",
+    "desire",
+    "anger",
+    "real-peace"
+  ],
+  "related": [
+    "freedom",
+    "mind",
+    "karma"
+  ]
+}

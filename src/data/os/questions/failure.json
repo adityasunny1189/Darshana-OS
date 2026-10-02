@@ -1,0 +1,113 @@
+{
+  "id": "failure",
+  "q": "How do I deal with failure?",
+  "motif": "bow",
+  "quickAnswer": "Indian traditions rarely treat failure as a verdict on the person. The Gita separates the effort, which is ours, from the outcome, which depends on many factors, and asks for equanimity in success and failure alike. Buddhist teaching reframes setbacks through impermanence and non-attachment, the Tamil ethical classic Tirukkural stresses perseverance, and devotional traditions offer the outcome to God. What they share is a shift in where one's peace is anchored.",
+  "concepts": [
+    "nishkama-karma",
+    "phala",
+    "samatva",
+    "asakti",
+    "karma",
+    "sthitaprajna"
+  ],
+  "traditions": [
+    "vedanta",
+    "buddhism",
+    "bhakti",
+    "tamil-ethics",
+    "yoga"
+  ],
+  "perspectives": [
+    {
+      "tradition": "vedanta",
+      "view": "Following the Gita, Vedantic teachers counsel acting fully while relinquishing claim to the result; equanimity toward success and failure is itself called yoga.",
+      "sources": [
+        {
+          "text": "bhagavad-gita"
+        },
+        {
+          "text": "sadhak-sanjivani"
+        }
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Buddhist teaching sees gain and loss, praise and blame as changing conditions; suffering grows when we cling to how things should turn out.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ]
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Devotional traditions encourage offering both effort and result to God, so that failure becomes part of a relationship rather than a private defeat.",
+      "sources": [
+        {
+          "text": "bhagavata-purana"
+        }
+      ]
+    },
+    {
+      "tradition": "tamil-ethics",
+      "view": "The Tirukkural devotes chapters to effort and perseverance, praising persistent exertion over fate and refusal to be discouraged.",
+      "sources": [
+        {
+          "text": "tirukkural"
+        }
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "view": "Yoga's emphasis on steady practice over a long time without interruption treats setbacks as part of the path rather than its end.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "2.47",
+    "note": "You have a right to your action, never to its fruits. Begin by seeing what was actually yours to control."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "2.48",
+      "note": "Act established in yoga, abandoning attachment, even-minded in success and failure — equanimity is yoga."
+    },
+    {
+      "kind": "gita",
+      "id": "2.38",
+      "note": "Treat pleasure and pain, gain and loss, victory and defeat alike."
+    },
+    {
+      "kind": "gita",
+      "id": "2.40",
+      "note": "In this path no effort is lost."
+    },
+    {
+      "kind": "concept",
+      "id": "nishkama-karma",
+      "note": "Karma yoga: action without craving for results."
+    },
+    {
+      "kind": "concept",
+      "id": "samatva",
+      "note": "Equanimity as a trained capacity."
+    }
+  ],
+  "gitaQuestions": [
+    "failure",
+    "control-result",
+    "worry-future"
+  ],
+  "related": [
+    "karma",
+    "live",
+    "suffering"
+  ]
+}

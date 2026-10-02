@@ -1,0 +1,45 @@
+{
+  "id": "ramana-maharshi",
+  "name": {
+    "en": "Ramana Maharshi",
+    "sa": "रमण महर्षि"
+  },
+  "traditions": [
+    "advaita",
+    "modern"
+  ],
+  "period": "1879–1950 CE (modern).",
+  "context": "Ramana Maharshi, born Venkataraman in Tamil Nadu, underwent at about sixteen an intense experience of facing death that he later described as awakening to the Self. Soon afterwards he left home for the sacred hill of Arunachala at Tiruvannamalai, where he remained for the rest of his life, and an ashram grew around him. He wrote little; most of his teaching survives in brief works and in records of conversations made by devotees. Though his teaching aligns with Advaita, he was not part of a formal monastic lineage and taught mainly from his own experience.",
+  "coreIdeas": [
+    "Self-inquiry (atma-vichara): tracing the 'I'-thought to its source by asking 'Who am I?'",
+    "The ego or 'I'-thought is the root of all other thoughts; when it subsides, the Self remains",
+    "The Self is ever-present awareness, not something to be newly attained",
+    "Surrender to God or the guru is presented as an alternative path with the same result",
+    "Silence as a mode of teaching"
+  ],
+  "works": [
+    "who-am-i",
+    "upadesa-saram"
+  ],
+  "otherWorks": [
+    "Ulladu Narpadu (Forty Verses on Reality)",
+    "Five Hymns to Arunachala",
+    "Recorded conversations compiled by devotees"
+  ],
+  "attributionNote": "Who Am I? derives from answers he gave to a devotee's questions, later edited into prose; many published dialogues are records by others.",
+  "influences": [
+    "shankara"
+  ],
+  "relatedThinkers": [
+    "shankara",
+    "vivekananda"
+  ],
+  "concepts": [
+    "atma-vichara",
+    "atma",
+    "ahankara",
+    "non-duality",
+    "sharanagati",
+    "sakshi"
+  ]
+}

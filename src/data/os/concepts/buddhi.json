@@ -1,0 +1,83 @@
+{
+  "id": "buddhi",
+  "name": {
+    "en": "Buddhi — intellect",
+    "sa": "बुद्धि",
+    "iast": "buddhi"
+  },
+  "short": "The discerning, deciding faculty — the highest of the inner instruments.",
+  "beginner": "Buddhi is the part of us that decides and understands — the faculty that can say 'this is right'. A clear, steady buddhi is what lets us act well instead of being pushed around by impulses.",
+  "what": "In Sankhya, buddhi (also mahat, 'the great') is the first evolute of prakriti, the seat of ascertainment, and closest in clarity to purusha. The Gita repeatedly speaks of a resolute, single-pointed intellect (vyavasayatmika buddhi) versus a scattered one, and of buddhi yoga — the discipline of an even intellect. It also classifies intellect by the gunas.",
+  "scholar": "Sankhya Karika 23 lists the sattvic and tamasic forms of buddhi (dharma, knowledge, dispassion, power and their opposites). In Nyaya, buddhi simply means cognition, a quality of the self — a different sense. Vedanta places buddhi in the subtle body, often as vijnanamaya kosha, the sheath of intellect in the Taittiriya scheme.",
+  "perspectives": [
+    {
+      "tradition": "sankhya",
+      "view": "Buddhi is the first product of prakriti, the faculty of determination; in it purusha's light is reflected, producing apparent consciousness."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Buddhi is the subtle instrument where the Self is most easily mistaken for the individual; purified, it reflects Self-knowledge."
+    },
+    {
+      "tradition": "nyaya",
+      "view": "Buddhi means cognition itself — a quality that arises in the self, not a separate faculty."
+    }
+  ],
+  "texts": [
+    "sankhya-karika",
+    "bhagavad-gita",
+    "katha-upanishad",
+    "taittiriya-upanishad"
+  ],
+  "traditions": [
+    "sankhya",
+    "advaita",
+    "nyaya",
+    "yoga"
+  ],
+  "relatedConcepts": [
+    "manas",
+    "viveka",
+    "ahankara",
+    "chitta",
+    "sthitaprajna"
+  ],
+  "questions": [
+    "mind",
+    "knowledge"
+  ],
+  "follow": [
+    {
+      "kind": "text",
+      "id": "katha-upanishad",
+      "note": "The intellect as the charioteer."
+    },
+    {
+      "kind": "gita",
+      "id": "2.41",
+      "note": "A resolute intellect is one-pointed; the irresolute is many-branched."
+    },
+    {
+      "kind": "gita",
+      "id": "3.42",
+      "note": "Senses, mind, intellect and what lies beyond the intellect."
+    },
+    {
+      "kind": "gita",
+      "id": "18.30",
+      "note": "The sattvic intellect knows what to do and what not to do."
+    },
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "note": "Buddhi as the first evolute of nature."
+    }
+  ],
+  "gitaVerses": [
+    "2.41",
+    "2.44",
+    "2.50",
+    "3.42",
+    "18.30"
+  ]
+}

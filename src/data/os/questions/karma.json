@@ -1,0 +1,123 @@
+{
+  "id": "karma",
+  "q": "What is Karma?",
+  "motif": "wheel",
+  "quickAnswer": "Karma literally means action, and by extension the consequences that actions carry, often across lifetimes. Traditions agree that actions shape future experience but differ on how: through the unseen force (apurva) of ritual in Mimamsa, through intention (cetana) in Buddhism, through subtle karmic matter clinging to the soul in Jainism, and under the governance of God in theistic Vedanta. The Gita adds that the binding force lies less in action itself than in attachment to its fruit.",
+  "concepts": [
+    "karma",
+    "phala",
+    "nishkama-karma",
+    "samsara",
+    "yajna",
+    "asakti"
+  ],
+  "traditions": [
+    "mimamsa",
+    "vedanta",
+    "jainism",
+    "buddhism",
+    "yoga",
+    "sikhism"
+  ],
+  "perspectives": [
+    {
+      "tradition": "mimamsa",
+      "view": "Mimamsa focuses on ritual action enjoined by the Veda; a properly performed rite produces an unseen potency (apurva) that later yields its result.",
+      "sources": [
+        {
+          "text": "mimamsa-sutras"
+        }
+      ]
+    },
+    {
+      "tradition": "vedanta",
+      "view": "Vedantic schools accept karma as the law of moral consequence; Advaita holds it operates only within the realm of ignorance and ends with knowledge, while theistic schools see God as the dispenser of its fruits.",
+      "sources": [
+        {
+          "text": "brahma-sutras"
+        },
+        {
+          "text": "shankara-brahma-sutra-bhashya"
+        }
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "view": "Jainism treats karma as a subtle material substance that adheres to the soul through passions and activity; liberation requires stopping its inflow and burning off what has accumulated.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "view": "The Buddha identified karma with intention (cetana): it is the volition behind body, speech and mind that shapes future experience, without any permanent self that carries it.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "view": "Patanjali describes karmic residues (samskaras, karmashaya) rooted in the afflictions (kleshas); yoga weakens the afflictions so new binding karma is not produced.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "view": "Sikh thought accepts karma and rebirth but places them under divine will and grace; remembrance of the Name and grace can free one from the cycle.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ]
+    }
+  ],
+  "startHere": {
+    "kind": "gita",
+    "id": "2.47",
+    "note": "The most famous line on action: you have a right to your work, not to its fruits."
+  },
+  "goDeeper": [
+    {
+      "kind": "gita",
+      "id": "3.5",
+      "note": "No one can remain without acting even for a moment."
+    },
+    {
+      "kind": "gita",
+      "id": "4.18",
+      "note": "Seeing inaction in action and action in inaction."
+    },
+    {
+      "kind": "concept",
+      "id": "nishkama-karma",
+      "note": "Action without craving for results — the Gita's key move."
+    },
+    {
+      "kind": "tradition",
+      "id": "jainism",
+      "note": "A strikingly material account of karma."
+    },
+    {
+      "kind": "concept",
+      "id": "pratityasamutpada",
+      "note": "How Buddhism explains consequence without a self."
+    }
+  ],
+  "gitaQuestions": [
+    "karma-meaning",
+    "control-result",
+    "bad-things"
+  ],
+  "related": [
+    "death",
+    "freedom",
+    "live"
+  ]
+}

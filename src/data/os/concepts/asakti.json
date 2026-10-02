@@ -1,0 +1,91 @@
+{
+  "id": "asakti",
+  "name": {
+    "en": "Asakti",
+    "sa": "आसक्ति",
+    "iast": "āsakti"
+  },
+  "short": "Attachment: clinging to objects, people or outcomes.",
+  "beginner": "Asakti is attachment: a clinging that makes us depend on things staying a certain way. The Gita says attachment, not action itself, is what binds.",
+  "what": "Attachment (asakti, sanga) arises from dwelling on objects and grows into desire, frustration and anger. The Gita's remedy is not to abandon the world but to act without attachment (anasakti), which frees action from bondage. Sadhak Sanjivani describes attachment as a relationship we ourselves assume with the changing, and says it can be dropped by recognising that. Buddhist thought analyses the same phenomenon as clinging (upadana), fed by craving.",
+  "scholar": "Gita 2.62–63 gives a causal chain from contemplation of objects to attachment, desire, anger, delusion and ruin. Yoga Sutra 2.7 defines raga (attachment) as following pleasure, one of five kleshas. In Buddhist dependent origination, craving (tanha) conditions clinging (upadana). Gandhi titled his Gita translation Anasakti Yoga.",
+  "perspectives": [
+    {
+      "tradition": "vedanta",
+      "view": "Attachment to the non-Self is born of ignorance and binds; action without attachment purifies and frees."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Attachment (raga), which follows pleasure, is one of the five afflictions that disturb the mind."
+    },
+    {
+      "tradition": "buddhism",
+      "view": "Craving leads to clinging, a link in dependent origination; ending clinging ends suffering."
+    },
+    {
+      "tradition": "jainism",
+      "view": "Attachment and aversion are the passions that cause karmic matter to bind to the soul."
+    }
+  ],
+  "texts": [
+    "bhagavad-gita",
+    "sadhak-sanjivani",
+    "yoga-sutras",
+    "dhammapada",
+    "tattvartha-sutra"
+  ],
+  "traditions": [
+    "vedanta",
+    "yoga",
+    "buddhism",
+    "jainism"
+  ],
+  "relatedConcepts": [
+    "kama",
+    "vairagya",
+    "nishkama-karma",
+    "phala",
+    "krodha"
+  ],
+  "questions": [
+    "suffering",
+    "freedom",
+    "mind"
+  ],
+  "follow": [
+    {
+      "kind": "gita",
+      "id": "2.62",
+      "note": "The chain from dwelling on objects to attachment and desire."
+    },
+    {
+      "kind": "gita",
+      "id": "3.19",
+      "note": "Acting without attachment."
+    },
+    {
+      "kind": "gita",
+      "id": "13.21",
+      "note": "Attachment to the gunas as the cause of rebirth."
+    },
+    {
+      "kind": "concept",
+      "id": "vairagya",
+      "note": "The remedy: dispassion."
+    },
+    {
+      "kind": "concept",
+      "id": "dukkha",
+      "note": "Compare the Buddhist link between clinging and suffering."
+    }
+  ],
+  "gitaVerses": [
+    "2.47",
+    "2.48",
+    "2.62",
+    "3.19",
+    "4.20",
+    "13.21",
+    "18.9"
+  ]
+}

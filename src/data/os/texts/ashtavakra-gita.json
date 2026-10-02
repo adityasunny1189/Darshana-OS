@@ -1,0 +1,82 @@
+{
+  "id": "ashtavakra-gita",
+  "title": {
+    "en": "Ashtavakra Gita",
+    "sa": "अष्टावक्रगीता",
+    "iast": "Aṣṭāvakra Gītā"
+  },
+  "category": "prakarana",
+  "sourceType": "primary-text",
+  "traditions": [
+    "advaita"
+  ],
+  "attribution": "Author unknown; framed as a dialogue between the sage Ashtavakra and King Janaka",
+  "author": null,
+  "period": "Date uncertain; scholars propose dates ranging widely across the first and early second millennia CE",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Self",
+    "Witness",
+    "Freedom",
+    "Non-duality",
+    "Effortlessness"
+  ],
+  "summary": "A radical non-dual dialogue in which the sage Ashtavakra tells King Janaka that he is already free, and Janaka responds with verses of realisation.",
+  "whyRead": "The Ashtavakra Gita drops almost all preliminaries: no ritual, gradual practice or theology, just the repeated claim that one is the witness, already free. Its uncompromising tone appeals to many, but it presupposes a strong grounding in Vedanta and is easily misread without it.",
+  "story": "King Janaka asks the sage Ashtavakra how knowledge, detachment and liberation are attained. Ashtavakra answers that Janaka is already the pure witness and only needs to recognise it. Janaka then describes his own realisation, and the two continue in alternating passages.",
+  "questions": [
+    "Am I already free?",
+    "What role does effort play in liberation?",
+    "What is it to be the witness?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "You are the witness",
+      "text": "The Self is presented as the witness of all experience, never bound by it; bondage consists only in thinking oneself bound."
+    },
+    {
+      "title": "Freedom is recognition",
+      "text": "Liberation is not a new state to be gained but a recognition of what already is, which makes practice itself a subtle target of critique."
+    },
+    {
+      "title": "Equanimity of the knower",
+      "text": "The realised person is described as indifferent to praise and blame, gain and loss, acting or not acting."
+    }
+  ],
+  "structure": [
+    {
+      "label": "20 chapters, about 298 verses"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "atma",
+    "sakshi",
+    "non-duality",
+    "moksha",
+    "vairagya",
+    "samatva"
+  ],
+  "relatedTexts": [
+    {
+      "id": "avadhuta-gita",
+      "note": "A similarly radical non-dual song"
+    },
+    {
+      "id": "yoga-vasistha",
+      "note": "Another advanced Advaita-leaning dialogue with a royal student"
+    },
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "King Janaka also appears as a student there"
+    },
+    {
+      "id": "mahabharata",
+      "note": "Ashtavakra's story appears in the epic"
+    }
+  ],
+  "thinkers": [],
+  "advanced": true,
+  "ingested": false
+}

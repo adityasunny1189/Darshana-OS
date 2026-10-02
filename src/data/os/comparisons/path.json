@@ -1,0 +1,174 @@
+{
+  "id": "path",
+  "topic": "What is the path?",
+  "concept": "yoga",
+  "intro": "Traditions prescribe different means to their goals, and often combine knowledge, action, devotion, meditation and grace in different proportions.",
+  "rows": [
+    {
+      "tradition": "advaita",
+      "claim": "Knowledge: hearing, reflecting on and contemplating the teaching.",
+      "detail": "Discernment, dispassion and inner discipline prepare the mind; the Upanishadic teaching, received from a teacher, then removes ignorance directly.",
+      "sources": [
+        {
+          "text": "vivekachudamani"
+        },
+        {
+          "text": "tattva-bodha"
+        }
+      ],
+      "concepts": [
+        "jnana",
+        "viveka",
+        "vairagya",
+        "atma-vichara"
+      ]
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "claim": "Devotion as loving meditation, or complete surrender to God.",
+      "detail": "Knowledge and action support bhakti; prapatti, surrender with trust in God's grace, is also a direct means.",
+      "sources": [
+        {
+          "text": "vedartha-sangraha"
+        },
+        {
+          "text": "ramanuja-gita-bhashya"
+        }
+      ],
+      "concepts": [
+        "bhakti",
+        "prapatti",
+        "sharanagati"
+      ]
+    },
+    {
+      "tradition": "dvaita",
+      "claim": "Right knowledge of God's supremacy and devotion, culminating in grace.",
+      "detail": "Study under a qualified teacher leads to devotion, and God's grace grants liberation to those fit for it.",
+      "sources": [
+        {
+          "text": "gita-tatparya"
+        }
+      ],
+      "concepts": [
+        "bhakti",
+        "anugraha"
+      ]
+    },
+    {
+      "tradition": "yoga",
+      "claim": "Practice and dispassion, through the eight limbs to samadhi.",
+      "detail": "Ethical restraints and observances, posture, breath regulation, sense withdrawal, concentration, meditation and absorption; devotion to Ishvara is also a means.",
+      "sources": [
+        {
+          "text": "yoga-sutras"
+        }
+      ],
+      "concepts": [
+        "yoga",
+        "samadhi",
+        "dhyana",
+        "pranayama",
+        "vairagya"
+      ]
+    },
+    {
+      "tradition": "mimamsa",
+      "claim": "Performing the duties enjoined by the Veda.",
+      "detail": "Obligatory and occasional rites are to be performed and prohibited acts avoided; later Mimamsakas add abstention from desire-motivated acts for liberation.",
+      "sources": [
+        {
+          "text": "mimamsa-sutras"
+        }
+      ],
+      "concepts": [
+        "dharma",
+        "yajna",
+        "svadharma"
+      ]
+    },
+    {
+      "tradition": "buddhism",
+      "claim": "The Eightfold Path: ethics, meditation and wisdom.",
+      "detail": "Theravada emphasises calm and insight meditation toward arahantship; Mahayana adds the bodhisattva path of the perfections for the sake of all beings.",
+      "sources": [
+        {
+          "text": "dhammapada"
+        }
+      ],
+      "concepts": [
+        "dhyana",
+        "samadhi",
+        "nirvana"
+      ]
+    },
+    {
+      "tradition": "jainism",
+      "claim": "The three jewels: right faith, right knowledge, right conduct.",
+      "detail": "Vows of non-violence, truthfulness, non-stealing, chastity and non-possession, with austerity, stop and shed karmic matter.",
+      "sources": [
+        {
+          "text": "tattvartha-sutra"
+        }
+      ],
+      "concepts": [
+        "ahimsa",
+        "tyaga",
+        "sannyasa"
+      ]
+    },
+    {
+      "tradition": "kashmir-shaivism",
+      "claim": "Grace-led recognition, through graded means from effortless insight to ritual.",
+      "detail": "The four upayas range from pure grace, through sudden insight and purified thought, to meditation, breath and ritual.",
+      "sources": [
+        {
+          "text": "vijnana-bhairava"
+        },
+        {
+          "text": "shiva-sutras"
+        }
+      ],
+      "concepts": [
+        "anugraha",
+        "pratyabhijna",
+        "dhyana"
+      ]
+    },
+    {
+      "tradition": "bhakti",
+      "claim": "Loving devotion: remembrance, praise, service and surrender.",
+      "detail": "Paths vary across traditions — chanting the Name, worship, the company of devotees, surrender — but share trust in divine grace.",
+      "sources": [
+        {
+          "text": "bhagavata-purana"
+        },
+        {
+          "text": "narada-bhakti-sutra"
+        }
+      ],
+      "concepts": [
+        "bhakti",
+        "prema",
+        "sharanagati",
+        "naam"
+      ]
+    },
+    {
+      "tradition": "sikhism",
+      "claim": "Remembrance of the Name, honest work, sharing and selfless service.",
+      "detail": "The Sikh path is lived as a householder, following the Guru's teaching and relying on grace rather than renunciation or ritual.",
+      "sources": [
+        {
+          "text": "guru-granth-sahib"
+        }
+      ],
+      "concepts": [
+        "naam",
+        "seva",
+        "hukam"
+      ]
+    }
+  ],
+  "note": "The disagreement is about what actually removes bondage — knowledge, disciplined practice, devotion, ritual duty or grace — and so whether the path is primarily cognitive, ethical, meditative or relational."
+}

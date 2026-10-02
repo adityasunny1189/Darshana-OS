@@ -1,0 +1,72 @@
+{
+  "id": "naam",
+  "name": {
+    "en": "Naam",
+    "sa": "नाम",
+    "iast": "nāma"
+  },
+  "short": "The divine Name: in Sikh thought, the presence of the Divine to be remembered and lived.",
+  "beginner": "Naam literally means 'name'. In Sikh teaching it means much more than a word: it is the Divine's presence running through everything, and remembering it (simran) is the heart of spiritual life.",
+  "what": "In Gurmat, Naam signifies the revealed presence and reality of the one Divine (Ik Onkar), not simply a label. Practising Naam (naam japna, simran) means constant remembrance, which transforms ego-centred living into God-centred living. It is paired with honest work and sharing. Other bhakti traditions also teach repetition of divine names (nama-japa) as a powerful practice, and in the Gita Krishna identifies himself with japa among the forms of offering.",
+  "scholar": "Scholars note that in the Guru Granth Sahib Naam, Shabad (Word), Hukam (order) and Guru are closely interlinked terms. The Sant tradition, of which Guru Nanak's contemporaries such as Kabir are part, emphasised the inner Name of a formless God. Vaishnava bhakti, especially Chaitanya's lineage, holds the Name to be non-different from the Named.",
+  "perspectives": [
+    {
+      "tradition": "sikhism",
+      "view": "Naam is the Divine's presence in creation; meditative remembrance of it, in the company of the sangat, frees one from ego and the cycle of rebirth."
+    },
+    {
+      "tradition": "bhakti",
+      "view": "Chanting or repeating God's names is widely taught as an accessible path available to all, sometimes held to be the chief practice of the present age."
+    }
+  ],
+  "texts": [
+    "guru-granth-sahib",
+    "ramcharitmanas",
+    "bhagavata-purana"
+  ],
+  "traditions": [
+    "sikhism",
+    "bhakti"
+  ],
+  "relatedConcepts": [
+    "hukam",
+    "seva",
+    "bhakti",
+    "prema",
+    "dhyana"
+  ],
+  "questions": [
+    "god",
+    "bhakti"
+  ],
+  "follow": [
+    {
+      "kind": "thinker",
+      "id": "guru-nanak",
+      "note": "The founder of the Sikh tradition, whose hymns centre on the Name."
+    },
+    {
+      "kind": "text",
+      "id": "guru-granth-sahib",
+      "note": "Where Naam is taught."
+    },
+    {
+      "kind": "concept",
+      "id": "hukam",
+      "note": "The divine order to which remembrance attunes one."
+    },
+    {
+      "kind": "gita",
+      "id": "10.25",
+      "note": "Compare: among offerings, Krishna identifies himself with japa, repetition of the Name."
+    },
+    {
+      "kind": "text",
+      "id": "ramcharitmanas",
+      "note": "Tulsidas's celebration of the Name of Rama."
+    }
+  ],
+  "gitaVerses": [
+    "10.25"
+  ]
+}

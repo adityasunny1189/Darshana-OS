@@ -1,0 +1,101 @@
+{
+  "id": "sri-bhashya",
+  "title": {
+    "en": "Sri Bhashya (Ramanuja)",
+    "sa": "श्रीभाष्य",
+    "iast": "Śrībhāṣya"
+  },
+  "category": "bhashya",
+  "sourceType": "traditional-commentary",
+  "traditions": [
+    "vishishtadvaita",
+    "vedanta",
+    "bhakti"
+  ],
+  "attribution": "Ramanujacharya",
+  "author": "ramanuja",
+  "period": "Traditionally 11th–12th century CE (Ramanuja's traditional dates are 1017–1137)",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Brahman as personal God",
+    "Body-soul relation",
+    "Critique of Advaita",
+    "Devotion"
+  ],
+  "summary": "Ramanuja's commentary on the Brahma Sutras, the foundational text of Vishishtadvaita, 'qualified non-dualism'.",
+  "whyRead": "The Sri Bhashya presents a full alternative to Shankara: Brahman is a personal God with real qualities, and souls and the world are real, related to God as body to soul. Its critique of Advaita's doctrine of ignorance is one of the major debates in Indian philosophy.",
+  "questions": [
+    "Is Brahman with or without qualities?",
+    "Is the world real?",
+    "How can God be one if souls and matter are real?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Brahman has qualities",
+      "text": "Brahman is identified with Vishnu-Narayana, possessed of infinite auspicious qualities and free of all defects."
+    },
+    {
+      "title": "The world as God's body",
+      "text": "Souls and matter are real and form the body of God, who is their inner self; their relation is one of inseparable dependence (sharira-shariri bhava)."
+    },
+    {
+      "title": "Critique of ignorance",
+      "text": "Ramanuja argues that Advaita's notion of avidya cannot be coherently located or defined, and that scripture does not teach an unqualified Brahman."
+    },
+    {
+      "title": "Devotion as knowledge",
+      "text": "Liberation comes through devotion understood as a continuous loving meditation on God, together with God's grace."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Commentary on all four chapters of the Brahma Sutras",
+      "note": "The discussion at 1.1.1 contains the extended critique of Advaita"
+    }
+  ],
+  "passages": [
+    {
+      "ref": "On 1.1.1",
+      "about": "The extended critique of the Advaita doctrine of ignorance"
+    }
+  ],
+  "concepts": [
+    "brahman",
+    "ishvara",
+    "jiva",
+    "bhakti",
+    "prapatti",
+    "anugraha",
+    "maya",
+    "avidya",
+    "moksha"
+  ],
+  "relatedTexts": [
+    {
+      "id": "brahma-sutras",
+      "note": "The root text"
+    },
+    {
+      "id": "shankara-brahma-sutra-bhashya",
+      "note": "The Advaita commentary it critiques"
+    },
+    {
+      "id": "vedartha-sangraha",
+      "note": "Ramanuja's independent work presenting his reading of the Upanishads"
+    },
+    {
+      "id": "ramanuja-gita-bhashya",
+      "note": "Applies the same theology to the Gita"
+    },
+    {
+      "id": "brihadaranyaka-upanishad",
+      "note": "The antaryamin passage is central to his theology"
+    }
+  ],
+  "thinkers": [
+    "ramanuja"
+  ],
+  "advanced": false,
+  "ingested": false
+}

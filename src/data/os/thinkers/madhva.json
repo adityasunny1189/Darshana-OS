@@ -1,0 +1,58 @@
+{
+  "id": "madhva",
+  "name": {
+    "en": "Madhvacharya",
+    "sa": "मध्वाचार्य"
+  },
+  "traditions": [
+    "dvaita",
+    "vedanta",
+    "bhakti"
+  ],
+  "period": "Traditionally 1238–1317 CE; some scholars prefer 1199–1278 CE.",
+  "context": "Madhva, also called Anandatirtha and Purnaprajna, founded the Dvaita ('dualist') school of Vedanta in the Tulu-speaking region of coastal Karnataka, where he is associated with Udupi. His tradition regards him as an incarnation of Vayu, the wind deity. He wrote commentaries on the Brahma Sutras, the Upanishads, the Gita, and summaries of the Mahabharata and Bhagavata Purana, together with polemical treatises against Advaita. His school strongly shaped later Vaishnava devotion, including the Haridasa poets of Karnataka.",
+  "coreIdeas": [
+    "Five real and eternal differences (pancha-bheda): between God and souls, God and matter, soul and soul, soul and matter, and matter and matter",
+    "Vishnu is the independent reality (svatantra); everything else is dependent (paratantra)",
+    "Souls are innately different in nature and capacity, a doctrine of gradation (taratamya)",
+    "The world is real; knowledge and perception are, in principle, reliable",
+    "Liberation comes through devotion grounded in right knowledge and divine grace, and the soul remains distinct from God"
+  ],
+  "works": [
+    "madhva-brahma-sutra-bhashya",
+    "gita-tatparya",
+    "anuvyakhyana"
+  ],
+  "otherWorks": [
+    "Gita Bhashya",
+    "Commentaries on the principal Upanishads",
+    "Mahabharata Tatparya Nirnaya",
+    "Bhagavata Tatparya Nirnaya",
+    "Dasha Prakaranas (ten short treatises, including polemics against Advaita)"
+  ],
+  "influences": [
+    "vyasa"
+  ],
+  "disagreements": [
+    {
+      "with": "shankara",
+      "note": "Madhva's works are sharply critical of Advaita: he rejects the unreality of the world, the doctrine of maya and the identity of jiva and Brahman, reading key Upanishadic statements so as to affirm difference."
+    },
+    {
+      "with": "ramanuja",
+      "note": "Madhva shares Ramanuja's realism and theism but rejects the idea that souls and the world are God's body in a qualified unity; for him difference is fundamental, not subordinate to unity."
+    }
+  ],
+  "relatedThinkers": [
+    "shankara",
+    "ramanuja"
+  ],
+  "concepts": [
+    "ishvara",
+    "jiva",
+    "brahman",
+    "bhakti",
+    "anugraha",
+    "prakriti"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "madhyamaka",
+  "name": {
+    "en": "Madhyamaka",
+    "sa": "मध्यमक",
+    "iast": "Madhyamaka"
+  },
+  "family": "buddhist-school",
+  "parent": "buddhism",
+  "tagline": "The Middle Way school: all things are empty of intrinsic nature.",
+  "period": "Founded by Nagarjuna, whom scholars generally place around the 2nd century CE; developed by Aryadeva, Buddhapalita, Bhavaviveka, Chandrakirti and Shantideva, among others.",
+  "overview": "Madhyamaka (\"the middle\") is a Mahayana Buddhist school that holds all phenomena are empty (shunya) of intrinsic nature (svabhava): nothing exists independently, by its own power. Emptiness is presented as another way of stating dependent origination, and as a middle way between the extremes of eternalism (things truly exist) and nihilism (nothing exists at all). Nagarjuna's method is largely critical: he shows that positions asserting intrinsic nature — about causation, motion, the self, even nirvana — lead to contradiction. Madhyamaka distinguishes conventional truth, where things function and ethics apply, from ultimate truth, their emptiness. Emptiness itself is said to be empty, not a hidden absolute.",
+  "beginner": "Madhyamaka says that nothing exists all by itself — everything depends on other things. Seeing this \"emptiness\" clearly frees us from clinging, without falling into believing that nothing exists at all.",
+  "coreQuestions": [
+    "Does anything exist by its own nature?",
+    "How can emptiness be the same as dependent origination?",
+    "What are the two truths?",
+    "Is emptiness itself a kind of ultimate reality?"
+  ],
+  "coreConcepts": [
+    "shunyata",
+    "pratityasamutpada",
+    "anatta",
+    "nirvana",
+    "non-duality",
+    "avidya"
+  ],
+  "texts": [
+    "mulamadhyamakakarika"
+  ],
+  "thinkers": [
+    "nagarjuna"
+  ],
+  "relatedTraditions": [
+    {
+      "id": "buddhism",
+      "note": "A major school of Mahayana Buddhist philosophy"
+    },
+    {
+      "id": "yogacara",
+      "note": "The other great Indian Mahayana school; the two debated the status of consciousness"
+    },
+    {
+      "id": "advaita",
+      "note": "Scholars have compared Madhyamaka dialectic with Gaudapada's thought; the relation is debated"
+    },
+    {
+      "id": "nyaya",
+      "note": "Nagarjuna critiqued the Nyaya theory of pramanas"
+    }
+  ],
+  "disagreements": [
+    {
+      "with": "yogacara",
+      "topic": "status of consciousness",
+      "note": "Madhyamaka holds that consciousness too is empty; some Yogacara thinkers accused Madhyamaka of nihilism."
+    },
+    {
+      "with": "advaita",
+      "topic": "ultimate reality",
+      "note": "Advaita holds Brahman is a real, self-luminous absolute; Madhyamaka denies any intrinsically existing ultimate."
+    },
+    {
+      "with": "nyaya",
+      "topic": "pramanas",
+      "note": "Nagarjuna argues that the pramanas cannot establish themselves or their objects without circularity."
+    }
+  ],
+  "scholar": "Later Madhyamaka divides (in Tibetan classification) into Svatantrika (e.g. Bhavaviveka), which uses autonomous inferences, and Prasangika (Buddhapalita, Chandrakirti), which uses only reductio arguments. Shantarakshita combined Madhyamaka and Yogacara. Madhyamaka became central in Tibetan Buddhism.",
+  "difficulty": "advanced"
+}

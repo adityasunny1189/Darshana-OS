@@ -1,0 +1,102 @@
+{
+  "id": "prakriti",
+  "name": {
+    "en": "Prakriti — nature",
+    "sa": "प्रकृति",
+    "iast": "prakṛti"
+  },
+  "short": "Primal nature or matter — everything that changes, including the mind.",
+  "beginner": "Prakriti is nature in the broadest sense: not only rocks and bodies but also thoughts, feelings and the sense of 'I'. In Sankhya, everything you can observe belongs to prakriti; only the observer does not.",
+  "what": "In Sankhya, prakriti is the single, unconscious, ever-changing source of the world, made of three strands (gunas). From it evolve intellect, ego, mind, senses and elements. The Gita adopts this vocabulary, calling prakriti the Lord's lower (insentient) nature and distinguishing it from His higher nature, the living soul. Later Vedanta and Tantra reinterpret prakriti as maya or as the power (shakti) of the divine.",
+  "scholar": "Sankhya's satkaryavada (the effect pre-exists in the cause) underpins the doctrine of prakriti as the material cause. The Gita's eightfold prakriti (7.4) and the parā/aparā distinction (7.5) are central for theistic readings. In Advaita, prakriti is often equated with maya as Ishvara's power; in Shakta thought, Prakriti is the Goddess herself.",
+  "perspectives": [
+    {
+      "tradition": "sankhya",
+      "view": "Prakriti is real, eternal and unconscious, the root of all evolution; it exists for the sake of purusha's experience and liberation."
+    },
+    {
+      "tradition": "yoga",
+      "view": "Yoga accepts Sankhya's prakriti; the practice aims at discriminating the seer (purusha) from the seen (prakriti)."
+    },
+    {
+      "tradition": "advaita",
+      "view": "Prakriti is essentially maya: the power of appearance associated with Ishvara, neither real nor unreal, sublated by knowledge of Brahman."
+    },
+    {
+      "tradition": "vishishtadvaita",
+      "view": "Prakriti is real insentient matter, one of the modes that make up God's body along with souls."
+    },
+    {
+      "tradition": "shaktism",
+      "view": "Prakriti is identified with the Goddess as the dynamic, creative power of the absolute, not an inert stuff opposed to spirit."
+    }
+  ],
+  "texts": [
+    "sankhya-karika",
+    "bhagavad-gita",
+    "yoga-sutras",
+    "shvetashvatara-upanishad",
+    "devi-bhagavata-purana"
+  ],
+  "traditions": [
+    "sankhya",
+    "yoga",
+    "advaita",
+    "vishishtadvaita",
+    "shaktism"
+  ],
+  "relatedConcepts": [
+    "purusha",
+    "guna",
+    "tattva",
+    "maya",
+    "shakti",
+    "ahankara"
+  ],
+  "questions": [
+    "reality",
+    "mind"
+  ],
+  "follow": [
+    {
+      "kind": "tradition",
+      "id": "sankhya",
+      "note": "The home of the concept: prakriti and purusha as the two ultimate principles."
+    },
+    {
+      "kind": "text",
+      "id": "sankhya-karika",
+      "note": "The classical summary of how prakriti evolves into the world."
+    },
+    {
+      "kind": "gita",
+      "id": "7.4",
+      "note": "The Gita's eightfold prakriti — elements, mind, intellect and ego."
+    },
+    {
+      "kind": "gita",
+      "id": "13.29",
+      "note": "Seeing that all actions are done by prakriti, and the Self is not the doer."
+    },
+    {
+      "kind": "concept",
+      "id": "guna",
+      "note": "The three strands that make up prakriti."
+    },
+    {
+      "kind": "concept",
+      "id": "shakti",
+      "note": "How Tantric and Shakta traditions reimagine nature as divine power."
+    }
+  ],
+  "gitaVerses": [
+    "3.5",
+    "3.27",
+    "7.4",
+    "7.5",
+    "13.19",
+    "13.21",
+    "14.5",
+    "15.7"
+  ]
+}

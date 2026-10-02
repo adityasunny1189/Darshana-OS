@@ -1,0 +1,77 @@
+{
+  "id": "anuvyakhyana",
+  "title": {
+    "en": "Anuvyakhyana",
+    "sa": "अनुव्याख्यान",
+    "iast": "Anuvyākhyāna"
+  },
+  "category": "prakarana",
+  "sourceType": "traditional-commentary",
+  "traditions": [
+    "dvaita",
+    "vedanta"
+  ],
+  "attribution": "Madhvacharya",
+  "author": "madhva",
+  "period": "13th century CE",
+  "language": "Sanskrit",
+  "difficulty": "advanced",
+  "themes": [
+    "Difference",
+    "Debate",
+    "Scriptural interpretation",
+    "Epistemology"
+  ],
+  "summary": "Madhva's verse work supplementing his Brahma Sutra commentary, developing its arguments and responding to rival schools at length.",
+  "whyRead": "The Anuvyakhyana is where Madhva's arguments against Advaita and other schools are worked out in detail. It is a text for advanced study, often read with Jayatirtha's later commentary on it.",
+  "questions": [
+    "How does Dvaita defend the reality of difference?",
+    "How does Madhva answer Advaita's arguments?"
+  ],
+  "keyTeachings": [
+    {
+      "title": "Expanding the commentary",
+      "text": "It elaborates the interpretation of the Brahma Sutras presented briefly in Madhva's Bhashya."
+    },
+    {
+      "title": "Defence of difference",
+      "text": "It argues that difference is given in valid perception and cannot be dismissed as illusion."
+    },
+    {
+      "title": "Engagement with rivals",
+      "text": "It engages Advaita and other schools in extended argument."
+    }
+  ],
+  "structure": [
+    {
+      "label": "Verse work in four chapters, following the Brahma Sutras"
+    }
+  ],
+  "passages": [],
+  "concepts": [
+    "brahman",
+    "jiva",
+    "ishvara",
+    "pramana",
+    "maya"
+  ],
+  "relatedTexts": [
+    {
+      "id": "madhva-brahma-sutra-bhashya",
+      "note": "The commentary it expands"
+    },
+    {
+      "id": "brahma-sutras",
+      "note": "The root text"
+    },
+    {
+      "id": "shankara-brahma-sutra-bhashya",
+      "note": "A principal target of its arguments"
+    }
+  ],
+  "thinkers": [
+    "madhva"
+  ],
+  "advanced": false,
+  "ingested": false
+}
